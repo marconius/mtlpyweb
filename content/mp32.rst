@@ -1,0 +1,238 @@
+Montréal-Python 32: Prehistoric Panorama
+########################################
+:date: 2012-10-11 21:53
+:category: Montréal Python
+
+Join us on the 22th of October for Montréal-Python 32, Prehistoric
+Panorama, our second event for the 2012-2013 season. Our champions will
+give you an exclusive preview of the talks they will present at the
+first ever PyCon Canada in November.
+
+The show starts at 6pm at **Studio XX**, a bilingual feminist artist-run
+centre for technological exploration, creation and critique. Studio XX’s
+mandate focuses on enabling the creative actions and perspectives of
+women at the forefront of contemporary technological landscapes and the
+development of a digital democracy that values autonomy and
+collaboration.
+
+Our main speaker:
+
+Alexandre Bourget will present a talk entitled "Gevent-socketio,
+cross-framework real-time web live demo". gevent-socketio is a
+cross-framework Python implementation of the Socket.IO protocol, based
+on gevent's cooperative concurrency model. Alexandre is the maintainer
+of the project. In this talk, we're going to have a live demo of its
+capabilities by building Google Analytics in 45 minutes.
+
+The lineup:
+
+-  Guillaume Pratte, "Génération de courriels avec Genshi"
+-  Rory Geoghegan, "Module of the Month"
+-  Jean-Tiare Le Bigot, "ddbmock: tests avec DynamoDB rapides et
+   efficaces"
+-  Thibault Cohen, "Shinken : quand un Python rencontre Nagios"
+-  Yannick Brosseau, "Réseau libre"
+-  Éric Araujo, "How you can contribute to Python"
+-  Max Noël, "DynamoDB and DynamoDB-Mapper -- Building scalable Python
+   applications with Amazon's NoSQL database"
+
+Where is it: Studio XX 4001, Berri street (corner Duluth) room
+201(`http://goo.gl/maps/b3cEz`_)
+
+The schedule:
+
+-  6:00pm – Doors open
+-  6:30pm – Presentations start
+-  7:30pm – Break
+-  7:45pm – Second round of presentations
+-  8:30pm – Beer
+
+We would also like to thank our brave sponsors:
+
+-  `Studio XX`_
+-  `Outbox`_
+-  `Ludia`_
+-  `Savoir-Faire Linux`_
+-  `iWeb`_
+
+Le 22 octobre c'est Montréal-Python 32 Panorama Préhistorique, notre
+deuxième événement de la saison 2012-2013. Nos champions vous offrent en
+avant-première les prestations qu'ils livreront lors de la première
+PyCon Canada, en novembre 2012.
+
+L'événement aura lieu à 18h00 au **Studio XX**, un centre d’artistes
+féministe bilingue engagé dans l’exploration, la création, la diffusion
+et la réflexion critique en art technologique. Le Studio XX vise à
+mettre de l'avant la multiplicité des territoires, des voix et des
+actions créatives des femmes dans les paysages technologiques
+contemporains à travers le monde.
+
+Notre invité principal:
+
+Alexandre Bourget, qui nous présentera "Gevent-socketio, cross-framework
+real-time web live demo". gevent-socketio est une implémentation Python
+du protocole Socket.IO baseée sur le modèle de concurrence coopérative
+de gevent. Alexandre maintient ce projet. Dans cette présentation, nous
+assisterons à une démonstration en direct de ses possibilités en
+développant Google Analytics en 45 minutes, à l'aide d'AngularJS pour le
+client, et d'autres fonctionnalités sympathiques.
+
+Au programme:
+
+.. raw:: html
+
+   </ul>
+
+.. raw:: html
+
+   <li>
+
+Guillaume Pratte, "Génération de courriels avec Genshi"
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+Rory Geoghegan, "Module of the Month"
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+Jean-Tiare Le Bigot, "ddbmock: tests avec DynamoDB rapides et efficaces"
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+Thibault Cohen, "Shinken : quand un Python rencontre Nagios"
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+Yannick Brosseau, "Réseau libre"
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+Éric Araujo, "How you can contribute to Python"
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+Max Noël, "DynamoDB and DynamoDB-Mapper -- Building scalable Python
+applications with Amazon's NoSQL database"
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   </ul>
+
+Studio XX 4001, Berri street (coin Duluth) local
+201(`http://goo.gl/maps/b3cEz`_)
+
+Horaires:
+
+.. raw:: html
+
+   <li>
+
+6:00pm – Ouverture des portes
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+6:30pm – Début des présentations
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+7:30pm – Pause
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+7:45pm – Suite des présentations
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+8:30pm – Bière
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   </ul>
+
+Nous souhaitons remercier ici nos braves commanditaires:
+
+-  `Studio XX`_
+-  `Outbox`_
+-  `Ludia`_
+-  `Savoir-Faire Linux`_
+-  `iWeb`_
+
+.. raw:: html
+
+   </p>
+
+.. _`http://goo.gl/maps/b3cEz`: http://goo.gl/maps/b3cEz
+.. _Studio XX: http://www.studioxx.org/
+.. _Outbox: http://www.outboxtechnology.com/
+.. _Ludia: http://www.jobs.ludia.com/jobs.html
+.. _Savoir-Faire
+Linux: http://www.savoirfairelinux.com/?utm_source=montrealpython&utm_medium=banner&utm_campaign=banner
+.. _iWeb: http://iweb.com/
