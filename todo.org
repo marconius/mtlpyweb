@@ -1,9 +1,0 @@
-* Fix the blog file structure, to match the url strucutre
-* Set a nginx configuration. beta.montrealpython.org
-* HTML template.
-
-* update the redmine
-
-* create git repo of the site
-* send ssh to Mathieu
-
