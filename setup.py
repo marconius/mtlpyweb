@@ -13,17 +13,23 @@ setup(name = "mtlpyweb",
       author = "Montreal Python user group",
       url = "http://www.montrealpython.org/",
       license = "MIT",
-      keywords = '',
+      keywords = "",
       install_requires = [
-        'pelican',
-        'Jinja2',
-        'BeautifulSoup',
+        "pelican",
+        "Jinja2",
+        "BeautifulSoup",
+        "markdown"
         ],
-      packages = find_packages(exclude=['examples', 'tests', 'tests.*', 'docs', 'scripts']),
+      packages = find_packages(exclude=["examples", "tests", "tests.*", "docs", "scripts"]),
       include_package_data = True,
       package_data = {
-        '': ['README.textile', 'LICENSE'],
-        'docs': ['Makefile', 'source/*']
+        "": ["README.textile", "LICENSE"],
+        "docs": ["Makefile", "source/*"]
         },
       zip_safe = True,
+      entry_points={
+        "console_scripts": [
+            "mtlpyweb-wordpress = mtlpyweb.tools.wordpress:main"
+            ]
+        }
       )

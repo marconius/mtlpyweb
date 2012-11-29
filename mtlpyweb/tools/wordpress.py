@@ -10,6 +10,7 @@ from codecs import open
 
 from pelican.tools.pelican_import import build_markdown_header
 
+
 def build_filename(filename, date):
     return os.path.join(str(date.tm_year), str(date.tm_mon), filename)
 
