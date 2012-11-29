@@ -39,7 +39,8 @@ def wp2fields(xml):
 
             content = item.fetch('content:encoded')[0].contents[0]
             filename = item.fetch('wp:post_name')[0].contents[0]
-
+            link = item.fetch('wp:link')[0].contents[0]
+            name = link.strip("/").split("/")[-1]
             raw_date = item.fetch('wp:post_date')[0].contents[0]
             date_object = time.strptime(raw_date, "%Y-%m-%d %H:%M:%S")
             date = time.strftime("%Y-%m-%d %H:%M", date_object)
@@ -47,11 +48,10 @@ def wp2fields(xml):
             author = item.fetch('dc:creator')[0].contents[0].title()
 
             categories = [cat.contents[0] for cat in item.fetch(domain='category')]
-            # caturl = [cat['nicename'] for cat in item.fetch(domain='category')]
 
             tags = [tag.contents[0] for tag in item.fetch(domain='post_tag')]
 
-            yield (title, content, filename, date, date_object, author, categories, tags, "html")
+            yield (title, content, name, date, date_object, author, categories, tags, "html")
 
 
 def fields2pelican(fields, out_markup, output_path, dircat=False, strip_raw=False):
