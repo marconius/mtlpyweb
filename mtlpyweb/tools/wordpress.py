@@ -39,7 +39,7 @@ def wp2fields(xml):
 
             content = item.fetch('content:encoded')[0].contents[0]
             filename = item.fetch('wp:post_name')[0].contents[0]
-            link = item.fetch('wp:link')[0].contents[0]
+            link = item.fetch('link')[0].contents[0]
             name = link.strip("/").split("/")[-1]
             raw_date = item.fetch('wp:post_date')[0].contents[0]
             date_object = time.strptime(raw_date, "%Y-%m-%d %H:%M:%S")
