@@ -1,0 +1,156 @@
+#!/usr/bin/env python
+
+""" Transform Wordpress files to rst files. """
+import argparse
+import os
+import time
+import subprocess
+
+from codecs import open
+
+from pelican.tools.pelican_import import build_markdown_header
+
+def build_filename(filename, date):
+    return os.path.join(str(date.tm_year), str(date.tm_mon), filename)
+
+
+def wp2fields(xml):
+    """Opens a wordpress XML file, and yield pelican fields"""
+    try:
+        from BeautifulSoup import BeautifulStoneSoup
+    except ImportError:
+        error = ('Missing dependency '
+                 '"BeautifulSoup" required to import Wordpress XML files.')
+        sys.exit(error)
+
+    xmlfile = open(xml, encoding='utf-8').read()
+    soup = BeautifulStoneSoup(xmlfile)
+    items = soup.rss.channel.findAll('item')
+
+    for item in items:
+
+        if item.fetch('wp:status')[0].contents[0] == "publish":
+
+            try:
+                title = item.title.contents[0]
+            except IndexError:
+                continue
+
+            content = item.fetch('content:encoded')[0].contents[0]
+            filename = item.fetch('wp:post_name')[0].contents[0]
+
+            raw_date = item.fetch('wp:post_date')[0].contents[0]
+            date_object = time.strptime(raw_date, "%Y-%m-%d %H:%M:%S")
+            date = time.strftime("%Y-%m-%d %H:%M", date_object)
+
+            author = item.fetch('dc:creator')[0].contents[0].title()
+
+            categories = [cat.contents[0] for cat in item.fetch(domain='category')]
+            # caturl = [cat['nicename'] for cat in item.fetch(domain='category')]
+
+            tags = [tag.contents[0] for tag in item.fetch(domain='post_tag')]
+
+            yield (title, content, filename, date, date_object, author, categories, tags, "html")
+
+
+def fields2pelican(fields, out_markup, output_path, dircat=False, strip_raw=False):
+    for title, content, filename, date, date_object, author, categories, tags, in_markup in fields:
+        if (in_markup == "markdown") or (out_markup == "markdown") :
+            ext = '.md'
+            header = build_markdown_header(title, date, author, categories, tags)
+        else:
+            out_markup = "rst"
+            ext = '.rst'
+            header = build_header(title, date, author, categories, tags)
+
+        filename = build_filename(filename, date_object)
+
+        try:
+            os.makedirs(os.path.join(output_path, os.path.dirname(filename)))
+        except OSError:
+            pass
+
+        out_filename = os.path.join(output_path, filename+ext)
+
+        print(out_filename)
+
+        if in_markup == "html":
+            html_filename = os.path.join(output_path, filename+'.html')
+
+            with open(html_filename, 'w', encoding='utf-8') as fp:
+                # Replace newlines with paragraphs wrapped with <p> so
+                # HTML is valid before conversion
+                paragraphs = content.split('\n\n')
+                paragraphs = [u'<p>{0}</p>'.format(p) for p in paragraphs]
+                new_content = ''.join(paragraphs)
+
+                fp.write(new_content)
+
+
+            parse_raw = '--parse-raw' if not strip_raw else ''
+            cmd = ('pandoc --normalize --reference-links {0} --from=html'
+                   ' --to={1} -o "{2}" "{3}"').format(
+                    parse_raw, out_markup, out_filename, html_filename)
+
+            try:
+                rc = subprocess.call(cmd, shell=True)
+                if rc < 0:
+                    error = "Child was terminated by signal %d" % -rc
+                    exit(error)
+
+                elif rc > 0:
+                    error = "Please, check your Pandoc installation."
+                    exit(error)
+            except OSError, e:
+                error = "Pandoc execution failed: %s" % e
+                exit(error)
+
+            os.remove(html_filename)
+
+            with open(out_filename, 'r', encoding='utf-8') as fs:
+                content = fs.read()
+                if out_markup == "markdown":
+                    # In markdown, to insert a <br />, end a line with two or more spaces & then a end-of-line
+                    content = content.replace("\\\n ", "  \n")
+                    content = content.replace("\\\n", "  \n")
+
+        with open(out_filename, 'w', encoding='utf-8') as fs:
+            fs.write(header + content)
+
+
+def parse_args():
+    parser = argparse.ArgumentParser(description=__doc__)
+
+    parser.add_argument(dest='input', help='The input file to read')
+    parser.add_argument('--wpfile', action='store_true', dest='wpfile',
+        help='Wordpress XML export')
+    parser.add_argument('-o', '--output', dest='output', default='output',
+        help='Output path')
+    parser.add_argument('-m', '--markup', dest='markup', default='rst',
+        help='Output markup format (supports rst & markdown)')
+    parser.add_argument('--dir-cat', action='store_true', dest='dircat',
+        help='Put files in directories with categories name')
+    parser.add_argument('--strip-raw', action='store_true', dest='strip_raw',
+        help="Strip raw HTML code that can't be converted to "
+             "markup such as flash embeds or iframes (wordpress import only)")
+    return parser.parse_args()
+
+
+def main():
+    args = parse_args()
+
+    if not os.path.exists(args.output):
+        try:
+            os.mkdir(args.output)
+        except OSError:
+            error = "Unable to create the output folder: " + args.output
+            exit(error)
+
+    fields = wp2fields(args.input)
+
+    fields2pelican(fields, args.markup, args.output,
+                   dircat=args.dircat or False,
+                   strip_raw=args.strip_raw or False)
+
+if __name__ == "__main__":
+    main()
