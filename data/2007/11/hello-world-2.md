@@ -1,7 +1,10 @@
 Title: Montreal&#8217;s Python Community
 Date: 2007-11-10 09:32
+Author: Arach
 Category: Montréal Python
 Tags: montreal, montreal on rails, Montreal Python, programmers, python
+Slug: hello-world-2
+Lang: en
 
 MontrealPython.org aims to be a rallying point for Montreal's [python][]
 community. If you are a [python][] programmer or are interested in

@@ -1,7 +1,10 @@
 Title: MontrealPython3 - choosing the next presentation(s)
 Date: 2008-05-14 00:42
+Author: Arach
 Category: Presentations
 Tags: montrealpython3, Presentations
+Slug: montrealpython3-choosing-the-next-presentations
+Lang: en
 
 I really like the use of the mailing list as a way to pitch presentation
 ideas, it's efficient and open. The downside is that a mailing list is

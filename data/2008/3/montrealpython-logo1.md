@@ -1,7 +1,10 @@
 Title: MontrealPython-logo1
 Date: 2008-03-11 21:53
+Author: Arach
 Category: Montréal Python
 Tags: Hamish, logo, Montreal Python
+Slug: montrealpython-logo1
+Lang: en
 
 Here is our first attempt at a logo. We have [Hamish Macpherson][] to
 thank for this original design. Over time, we'll come up with an

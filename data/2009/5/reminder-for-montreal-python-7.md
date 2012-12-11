@@ -1,6 +1,9 @@
 Title: Reminder for Montreal Python 7
 Date: 2009-05-25 07:44
+Author: Ygingras
 Category: Presentations
+Slug: reminder-for-montreal-python-7
+Lang: en
 
 This is a reminder that Montreal Python 7 will be on Wednesday
 2009-05-27 at [La Banque][], [175 Roy E][]. Based on your feedback,

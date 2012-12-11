@@ -1,6 +1,9 @@
 Title: Montreal Python 7: 2009-05-27 at La Banque
 Date: 2009-04-24 12:15
+Author: Ygingras
 Category: Presentations
+Slug: montreal-python-7-2009-05-27-at-la-banque
+Lang: en
 
 We are pleased to announce that Montreal Python 7 will be on Wednesday
 2009-05-27 at [La Banque][], [175 Roy E][]. Based on your feedback,

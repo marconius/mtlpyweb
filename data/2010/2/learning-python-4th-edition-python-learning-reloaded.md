@@ -1,7 +1,10 @@
 Title: Learning Python, 4th Edition: Python Learning Reloaded!
 Date: 2010-02-18 08:29
+Author: Aalsaadi
 Category: Montréal Python
 Tags: Book Review, python
+Slug: learning-python-4th-edition-python-learning-reloaded
+Lang: en
 
 <!--:en-->*Learning Python* is a well-written book by an experienced
 Python trainer that has served the Python community well since the first

@@ -1,7 +1,10 @@
 Title: MontrealPython1 - facebook event
 Date: 2008-02-04 21:56
+Author: Arach
 Category: Montréal Python
 Tags: Facebook, meetup, MontrealPython1
+Slug: montrealpython1-facebook-event
+Lang: en
 
 We have a made a Facebook event to make it easier for friends and
 friends of friends to know about this Thursday's event.  Please join us:

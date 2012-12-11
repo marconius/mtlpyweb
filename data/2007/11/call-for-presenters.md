@@ -1,7 +1,10 @@
 Title: Call for presenters - first meetup coming soon!
 Date: 2007-11-14 23:24
+Author: Arach
 Category: Presentations
 Tags: meetup, montreal, presentation, presenter, python, rencontre
+Slug: call-for-presenters
+Lang: en
 
 Montreal Python is alive and snaking (ref: [A Frog In The Valley][] ).
 

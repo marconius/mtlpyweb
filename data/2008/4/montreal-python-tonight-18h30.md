@@ -1,7 +1,10 @@
 Title: Montreal Python - tonight @ 18h30
 Date: 2008-04-10 09:49
+Author: Arach
 Category: Presentations
 Tags: meetup, Montreal Python
+Slug: montreal-python-tonight-18h30
+Lang: en
 
 **Location: StandoutJobs, 3981 boul. St. Laurent, Suite 615, Montreal**
 

@@ -1,7 +1,10 @@
 Title: MontrealPython4 - Picture of the new location
 Date: 2008-09-19 09:50
+Author: Arach
 Category: Montréal Python
 Tags: meetup, Montreal Python
+Slug: montrealpython4-picture-of-the-new-location
+Lang: en
 
 A little preview of inside la banque.
 

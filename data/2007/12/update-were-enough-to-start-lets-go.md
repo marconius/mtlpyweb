@@ -1,7 +1,10 @@
 Title: Update : We&#8217;re enough to start! Let&#8217;s go&#8230;
 Date: 2007-12-04 19:43
+Author: Arach
 Category: Montréal Python
 Tags: invite, Montreal Python, spread the word
+Slug: update-were-enough-to-start-lets-go
+Lang: en
 
 I would like to thank all the people who showed their interest in MP so
 far, it's encouraging. I think the first meetup is going to be very

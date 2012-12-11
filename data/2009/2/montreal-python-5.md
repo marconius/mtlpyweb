@@ -1,6 +1,9 @@
 Title: Montreal Python 5
 Date: 2009-02-12 08:01
+Author: Ygingras
 Category: Presentations
+Slug: montreal-python-5
+Lang: en
 
 We have the pleasure to announce that Montreal Python 5 will be on
 2009-02-26 at [La Banque][].

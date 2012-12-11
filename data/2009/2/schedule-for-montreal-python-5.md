@@ -1,6 +1,9 @@
 Title: Schedule for Montreal Python 5
 Date: 2009-02-24 07:59
+Author: Ygingras
 Category: Presentations
+Slug: schedule-for-montreal-python-5
+Lang: en
 
 Greetings Pythonistas of Montreal,   
 as you hopefully know by now, Montreal Python 5 is this Thursday at la

@@ -1,7 +1,10 @@
 Title: Montreal Python - new logo concept.
 Date: 2008-03-24 15:13
+Author: Arach
 Category: Montréal Python
 Tags: logo, Montreal Python
+Slug: montreal-python-new-logo-concept
+Lang: en
 
 Here is another concept for MontrealPython contributed by [Hamish.][]
 

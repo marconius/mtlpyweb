@@ -1,7 +1,10 @@
 Title: MontrealPython1 : great turnout, a lot of fun…
 Date: 2008-02-09 15:40
+Author: Arach
 Category: Montréal Python
 Tags: Akoha, meetup, Montreal Python, Standout Jobs
+Slug: montrealpython1-great-turnout-a-lot-of-fun
+Lang: en
 
 MontrealPython1 was a lot of fun and the turnout was great, reaching 38
 at one point! Many thanks to [StandoutJobs][]for welcoming us in their

@@ -1,7 +1,10 @@
 Title: MontrealPython1 - some details
 Date: 2008-01-21 23:44
+Author: Arach
 Category: Montréal Python
 Tags: meetup, MontrealPython1
+Slug: montrealpython1-some-details
+Lang: en
 
 About the format :
 

@@ -1,7 +1,10 @@
 Title: PyCon 2008 - Chicago
 Date: 2008-03-08 19:31
+Author: Arach
 Category: Conferences
 Tags: Conferences, PyCon, python
+Slug: pycon-2008-chicago
+Lang: en
 
 <p>
 PyCon 2008 is coming up next week, and it's shaping up to be a great

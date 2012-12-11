@@ -1,6 +1,9 @@
 Title: Write-up of Montreal Python 5
 Date: 2009-04-06 06:35
+Author: Ygingras
 Category: Presentations
+Slug: write-up-of-montreal-python-5
+Lang: en
 
 Alexadre Vassalotti just published a [write-up][] of the presentation
 that he gave at Montreal Python 5. Hopefully that will help the ones who

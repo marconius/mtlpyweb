@@ -1,6 +1,9 @@
 Title: Presentation on VLAM Compyle
 Date: 2009-03-04 04:59
+Author: Ygingras
 Category: Presentations
+Slug: presentation-on-vlam-compyle
+Lang: en
 
 Marc-Antoine Desroches will be giving a presentation on VLAM Compyle, a
 just-in-time compiler for Python at the [Montreal Scheme/Lisp User

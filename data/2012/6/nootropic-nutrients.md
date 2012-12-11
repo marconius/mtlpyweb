@@ -1,6 +1,9 @@
 Title: Lineup for Montréal-Python 30 Nootropic Nutrients
 Date: 2012-06-06 08:30
+Author: Ygingras
 Category: Montréal Python
+Slug: nootropic-nutrients
+Lang: en
 
 <!--:en-->
 
@@ -9,12 +12,18 @@ was it because you used the best ingredients around? Montréal-Python 30,
 Nootropic Nutriments, is the place to be to share all the tips, tricks
 and secrets to get the best out of our beloved Python.
 
+</p>
+
 Join us on the 12th of June for our epic return to l'UQÀM starting at
 6pm for a stack of short presentations and an animated debate with our
 guests who will come from as far away as Europe and the West Coast for
 the evening.
 
+</p>
+
 Here's the lineup:
+
+</p>
 
 -   Mystery presenter on PyCon
 -   Nicolas Cadou and Yannick Gingras, "Virtualenvwrapper"
@@ -24,9 +33,15 @@ Here's the lineup:
     totally wrong"
 -   Alexandre Vassalotti, "Software architectures in Python"
 
+</p>
+
 Where it is: UQÀM SH-3420 (amphithéâtre)
 
+</p>
+
 The schedule: 12 of June 2012
+
+</p>
 
 -   6:00pm - Doors open
 -   6:30pm - Presentations start
@@ -34,52 +49,19 @@ The schedule: 12 of June 2012
 -   7:45pm - Second round of presentations
 -   8:30pm - We all meet at the Bénélux for a nice refreshing beer
 
+</p>
+
 We would also like to thank our brave sponsors:
+
+</p>
 
 -   [Savoir-Faire Linux][]
 -   [UQÀM][]
 -   [The Bénélux][]
 
+</p>
+
 Hope to see your there!
-
-<!--:--><!--:fr-->
-
-Avez-vous déjà livré du code qui bûche à temps? Est-ce que c'était par
-chance ou parce que vous aviez les meilleurs outils de l'industrie?
-Montréal-Python 30, Nutriments Nootropiques, est notre rendez-vous pour
-partager les astuces et secrets permettant de tirer le maximum de nos
-outils et établir des stratégies qui gagnent à tous les coups.
-
-Joignez-vous à nous le 12 juin lors de notre grand retour à l'UQÀM à
-partir de 18h pour une salve de présentations courtes et un échange
-animé avec différents invités qui viendront de l'Europe, de la côte
-ouest ou encore de notre Montréal favori pour cette soirée.
-
-Voici les invités:
-
--   Invité mystère sur PyCon
--   Nicolas Cadou et Yannick Gingras, "Virtualenvwrapper"
--   David Goodger, "The Zen of Python Revisited"
--   Georges Peristerakis, "Lessons learned from API writing"
--   Alexandre Vassalotti, "Architectures logicielles en Python"
-
-Lieu: UQÀM SH-3420 (amphithéâtre)
-
-Horaire: mardi 12 juin 2012
-
--   18h00 - Ouverture des portes
--   18h30 - Début des présentations
--   19h30 - Pause
--   19h45 - Deuxième bloc de présentations
--   20h30 - On s'en vas au Bénélux pour une bonne bière
-
-On aimerait aussi remercier nos braves sponsors:
-
--   [Savoir-Faire Linux][]
--   [L'UQÀM][UQÀM]
--   [Le Bénélux][The Bénélux]
-
-On espère vous y voir!
 
 <!--:-->
 

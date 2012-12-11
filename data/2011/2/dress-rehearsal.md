@@ -1,6 +1,9 @@
 Title: PyCon / ConFoo dress rehearsal
 Date: 2011-02-07 23:59
+Author: Giotta
 Category: Montréal Python
+Slug: dress-rehearsal
+Lang: en
 
 <!--:en-->
 
@@ -15,23 +18,6 @@ In front of this small public, our star presenters are going to preview
 their talk and receive some critical feedback that should give the
 official public performance this extra umph that makes you spill your
 pint. If you want to be part of the crowd, [RSVP on the wiki][].
-
-<!--:--><!--:fr-->
-
-La [Maison Notman][Notman House], un tout nouvel incubateur du monde
-local des startup, débute à peine et même si son air conditionné n'est
-pas encore parfaitement fonctionnel, ce n'est pas ce qui va nous
-arrêter. Les [experts pythoneux][expert pythonistas] [de Montréal][from
-Montréal] qui feront une [présentation à ConFoo][talk at ConFoo] [et à
-PyCon][and at PyCon] vont y faire la répétition générale de leurs
-présentations mercredi prochain à 18h30 et si vous êtes rapide, vous
-pourriez faire partie de leur public test.
-
-Devant ce public restreint, nos présentateurs étoiles livreront leur
-communication et recevront un feedback critique pour donner à leur
-prestation publique officielle ce petit je-ne-sais-quoi de plus qui vous
-fera renverser votre pinte. Si vous voulez être de l'assistance,
-[inscrivez-vous sur le wiki][RSVP on the wiki].
 
 <!--:-->
 

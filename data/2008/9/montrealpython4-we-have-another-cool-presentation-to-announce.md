@@ -1,7 +1,10 @@
 Title: MontrealPython4 - We have another cool presentation to announce.
 Date: 2008-09-21 19:54
+Author: Arach
 Category: Montréal Python
 Tags: meetup, Montreal Python, Presentations
+Slug: montrealpython4-we-have-another-cool-presentation-to-announce
+Lang: en
 
 <p>
 We are happy to propose another great presentation for our upcoming

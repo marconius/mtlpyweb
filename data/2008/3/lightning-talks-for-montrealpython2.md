@@ -1,7 +1,10 @@
 Title: Lightning talks for MontrealPython2
 Date: 2008-03-18 21:22
+Author: Arach
 Category: Montréal Python
 Tags: lightning talks, Montreal Python
+Slug: lightning-talks-for-montrealpython2
+Lang: en
 
 As a result of brainstorming with fellow Montrealers Martin, Eric and
 Vadim at PyCon, we are going to introduce lightning talks in our next

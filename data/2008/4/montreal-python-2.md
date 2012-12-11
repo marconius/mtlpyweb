@@ -1,6 +1,9 @@
 Title: Montréal Python 2
 Date: 2008-04-18 11:17
+Author: Simon
 Category: Montréal Python
+Slug: montreal-python-2
+Lang: en
 
 What a great turn-out! I counted at least fifty people showing up to our
 [second event][]. And I think we’re going to get many more.
