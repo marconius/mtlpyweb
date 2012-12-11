@@ -16,7 +16,8 @@ FEED_DOMAIN = 'http://montrealpython.org'
 LINKS =  (('Python.org', 'http://python.org'), )
 
 # Social widget
-SOCIAL = (('twitter', 'http://twitter.com/mtlpy'), )
+SOCIAL = (('twitter', 'https://twitter.com/mtlpy'),
+          ('github', 'https://github.com/mtlpy'))
 
 DEFAULT_PAGINATION = False
 
