@@ -9,6 +9,9 @@ TIMEZONE = 'America/Montreal'
 
 DEFAULT_LANG = 'en'
 
+SITEURL = 'http://montrealpython.org'
+FEED_DOMAIN = 'http://montrealpython.org'
+
 # Blogroll
 LINKS =  (('Python.org', 'http://python.org'), )
 
