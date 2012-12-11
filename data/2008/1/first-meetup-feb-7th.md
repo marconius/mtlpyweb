@@ -1,7 +1,10 @@
 Title: First meetup Feb. 7th !
 Date: 2008-01-20 13:22
+Author: Arach
 Category: Montréal Python
 Tags: Akoha, meetup, Montreal Python, Standout Jobs
+Slug: first-meetup-feb-7th
+Lang: en
 
 I am very happy to announce the date for Montreal Python's first meetup:
 February 7th 2008. Thanks to [Akoha][] and [Standout Jobs][], who have

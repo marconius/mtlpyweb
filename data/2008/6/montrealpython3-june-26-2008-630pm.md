@@ -1,7 +1,10 @@
 Title: MontrealPython3 - June 26 2008 @ 6:30PM
 Date: 2008-06-16 08:33
+Author: Arach
 Category: Presentations
 Tags: meetup, Montreal Python, montrealpython3
+Slug: montrealpython3-june-26-2008-630pm
+Lang: en
 
 <small class="date"><span class="date_year"></span></small>
 MontrealPython3 will be held June 26 2008 @ 6:30PM. We’ll be meeting at

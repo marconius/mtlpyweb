@@ -8,10 +8,27 @@ import subprocess
 
 from codecs import open
 
-from pelican.tools.pelican_import import build_markdown_header
+
+def build_markdown_header(title, date, author, categories, slug, lang, tags):
+    """Build a header from a list of fields"""
+    header = 'Title: %s\n' % title
+    if date:
+        header += 'Date: %s\n' % date
+    if author:
+        header += 'Author: %s\n' % author
+    if categories:
+        header += 'Category: %s\n' % ', '.join(categories)
+    if tags:
+        header += 'Tags: %s\n' % ', '.join(tags)
+    if slug:
+        header += 'Slug: %s\n' % slug
+    if lang:
+        header += 'Lang: %s\n' % lang
+    header += '\n'
+    return header
 
 
-def build_filename(filename, date):
+def build_dirname(filename, date):
     return os.path.join(str(date.tm_year), str(date.tm_mon), filename)
 
 
@@ -55,68 +72,68 @@ def wp2fields(xml):
 
 
 def fields2pelican(fields, out_markup, output_path, dircat=False, strip_raw=False):
+    lang = ['en', 'fr']
     for title, content, filename, date, date_object, author, categories, tags, in_markup in fields:
-        if (in_markup == "markdown") or (out_markup == "markdown") :
+        for i, post in enumerate(content.split("<!--:fr-->")):
             ext = '.md'
-            header = build_markdown_header(title, date, author, categories, tags)
-        else:
-            out_markup = "rst"
-            ext = '.rst'
-            header = build_header(title, date, author, categories, tags)
-
-        filename = build_filename(filename, date_object)
-
-        try:
-            os.makedirs(os.path.join(output_path, os.path.dirname(filename)))
-        except OSError:
-            pass
-
-        out_filename = os.path.join(output_path, filename+ext)
-
-        print(out_filename)
-
-        if in_markup == "html":
-            html_filename = os.path.join(output_path, filename+'.html')
-
-            with open(html_filename, 'w', encoding='utf-8') as fp:
-                # Replace newlines with paragraphs wrapped with <p> so
-                # HTML is valid before conversion
-                paragraphs = content.split('\n\n')
-                paragraphs = [u'<p>{0}</p>'.format(p) for p in paragraphs]
-                new_content = ''.join(paragraphs)
-
-                fp.write(new_content)
-
-
-            parse_raw = '--parse-raw' if not strip_raw else ''
-            cmd = ('pandoc --normalize --reference-links {0} --from=html'
-                   ' --to={1} -o "{2}" "{3}"').format(
-                    parse_raw, out_markup, out_filename, html_filename)
+            current_lang = lang[i]
+            header = build_markdown_header(title, date, author, categories, filename, current_lang, tags)
+            fullname = build_dirname(filename, date_object)
 
             try:
-                rc = subprocess.call(cmd, shell=True)
-                if rc < 0:
-                    error = "Child was terminated by signal %d" % -rc
+                os.makedirs(os.path.join(output_path, os.path.dirname(fullname)))
+            except OSError:
+                pass
+
+            if current_lang != 'en':
+                out_filename = os.path.join(output_path, fullname+"-"+current_lang+ext)
+            else:
+                out_filename = os.path.join(output_path, fullname+ext)
+
+            print(out_filename)
+
+            if in_markup == "html":
+                html_filename = os.path.join(output_path, fullname+'.html')
+
+                with open(html_filename, 'w', encoding='utf-8') as fp:
+                    # Replace newlines with paragraphs wrapped with <p> so
+                    # HTML is valid before conversion
+                    paragraphs = post.split('\n\n')
+                    paragraphs = [u'<p>{0}</p>'.format(p) for p in paragraphs]
+                    new_content = ''.join(paragraphs)
+
+                    fp.write(new_content)
+
+
+                parse_raw = '--parse-raw' if not strip_raw else ''
+                cmd = ('pandoc --normalize --reference-links {0} --from=html'
+                       ' --to={1} -o "{2}" "{3}"').format(
+                        parse_raw, out_markup, out_filename, html_filename)
+
+                try:
+                    rc = subprocess.call(cmd, shell=True)
+                    if rc < 0:
+                        error = "Child was terminated by signal %d" % -rc
+                        exit(error)
+
+                    elif rc > 0:
+                        error = "Please, check your Pandoc installation."
+                        exit(error)
+                except OSError, e:
+                    error = "Pandoc execution failed: %s" % e
                     exit(error)
 
-                elif rc > 0:
-                    error = "Please, check your Pandoc installation."
-                    exit(error)
-            except OSError, e:
-                error = "Pandoc execution failed: %s" % e
-                exit(error)
+                os.remove(html_filename)
 
-            os.remove(html_filename)
+                with open(out_filename, 'r', encoding='utf-8') as fs:
+                    content = fs.read()
+                    if out_markup == "markdown":
+                        # In markdown, to insert a <br />, end a line with two or more spaces & then a end-of-line
+                        content = content.replace("\\\n ", "  \n")
+                        content = content.replace("\\\n", "  \n")
 
-            with open(out_filename, 'r', encoding='utf-8') as fs:
-                content = fs.read()
-                if out_markup == "markdown":
-                    # In markdown, to insert a <br />, end a line with two or more spaces & then a end-of-line
-                    content = content.replace("\\\n ", "  \n")
-                    content = content.replace("\\\n", "  \n")
-
-        with open(out_filename, 'w', encoding='utf-8') as fs:
-            fs.write(header + content)
+            with open(out_filename, 'w', encoding='utf-8') as fs:
+                fs.write(header + content)
 
 
 def parse_args():

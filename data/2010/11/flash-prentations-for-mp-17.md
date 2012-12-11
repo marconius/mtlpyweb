@@ -1,6 +1,9 @@
 Title: Flash Prentations for MP-17
 Date: 2010-11-24 21:17
+Author: Ygingras
 Category: Montréal Python
+Slug: flash-prentations-for-mp-17
+Lang: en
 
 <!--:en-->[Montréal-Python 17][] (code name Apotropaic Archeologist) is
 next Monday and we have the pleasure to announce the list of flash
@@ -13,31 +16,11 @@ presentations:
 -   Simon Law on Loops
 
 Don't miss this event that will feature our new sandwich provider (but
-no baked sweet potatoes yet). Thanks to our sponsors for making
-Montréal-Python Apotropaic Archeologist possible:
+no baked sweet potatoes yet).
 
--   [UQAM][]
--   [Benelux][]
--   [Shwowp][]
--   [Savoir-faire Linux][]
--   [Le Site][]
--   [Ecometrica][]
--   [Apress][]
-
-<!--:--><!--:fr-->[Montréal-Python 17][1] (nom de code Archéologue
-Apotropaïque) se déroulera lundi prochain, nous avons le plaisir
-d'annoncer la liste des présentations éclaires:
-
--   Maxime Dupuis sur un générateur de listes de lecture en Python
--   Alok Mohindra sur les stratégies de déboggage pour Django
--   Jean Schurger sur XMPP et Mercurial
--   Janina Szkut sur les APIs REST avec Django
--   Simon Law sur les boucles
-
-Ne manquez pas cet événement qui mettra en scène notre nouveau
-fournisseur de sandwiches (mais malheureusement pas de patates douces
-fourées pour l'instant). Merci à nos commanditaires de rendre
-Montréal-Python Archéologue Apotropaïque possible:
+</p>
+Thanks to our sponsors for making Montréal-Python Apotropaic
+Archeologist possible:
 
 -   [UQAM][]
 -   [Benelux][]
@@ -59,4 +42,3 @@ Montréal-Python Archéologue Apotropaïque possible:
   [Le Site]: http://lesite.ca
   [Ecometrica]: http://ecometrica.ca/
   [Apress]: http://apress.com
-  [1]: http://montrealpython.org/fr/2010/11/mp-17/

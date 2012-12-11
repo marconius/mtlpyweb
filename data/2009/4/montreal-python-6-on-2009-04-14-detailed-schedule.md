@@ -1,6 +1,9 @@
 Title: Montreal Python 6 on 2009-04-14: detailed schedule
 Date: 2009-04-11 18:19
+Author: Ygingras
 Category: Presentations
+Slug: montreal-python-6-on-2009-04-14-detailed-schedule
+Lang: en
 
 As you hopefully know by now, Montreal Python 6 is this Tuesday at [la
 Banque][]. Here is our schedule for the evening:

@@ -1,10 +1,15 @@
 Title: New Room For The Django Workshop
 Date: 2012-05-14 19:48
+Author: Admin
 Category: Montréal Python
+Slug: new-room-for-the-django-workshop
+Lang: en
 
 <!--:en-->
 
 Pythonistas
+
+</p>
 
 The last workshop in French for the winter 2012 season is this
 Wednesday. We wish to remind you that there is still plenty of places
@@ -12,8 +17,11 @@ left, and, especially, that the room we have for the workshop is not
 SH-R810 as announced, but **SH-2420**, also in the Sherbrooke Pavillion
 of UQÀM.
 
+</p>
+
 Here are all the details:
 
+</p>
 **Django : monter une application web en Python**
 
 -   Date: Wednesday 16th of May, from 6:00 PM to 9:00 PM (please come at
@@ -23,27 +31,6 @@ Here are all the details:
 -   Sign up: [on Eventbrite][]
 -   [Workshop’s wiki page][]
 -   [Workshop’s original post][]
-
-<!--:--><!--:fr-->
-
-Pythoneux,
-
-Le dernier atelier en français de la saison d'hiver 2012 arrive ce
-mercredi. On voudrais vous rappeler qu'il reste toujours de la place et,
-surtoût, que la salle que nous avons n'est pas le SH-R810 comme nous
-l'avons annoncé, mais bien le **SH-2420**, toujours dans le Pavillon
-Sherbrooke de l'UQÀM.
-
-Donc, pour résumer, voici tous les détails:
-
-**Django: monter une application web en Python**
-
--   Date: mercredi 16 mai 2012, de 18h00 à 21h00 (17h30 pour ceux qui
-    veulent de l'aide avec leur installation)
--   Lieu: UQÀM, Pavillon Sherbrooke, 200 Sherbrooke ouest, local SH-2420
--   Inscription: [sur Eventbrite][on Eventbrite]
--   [Page wiki de l’atelier][Workshop’s wiki page]
--   [Post original annonçant l’atelier][Workshop’s original post]
 
 <!--:-->
 

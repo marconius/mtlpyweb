@@ -1,6 +1,9 @@
 Title: List of presenters for Montréal-Python 9
 Date: 2009-09-28 14:53
+Author: Ygingras
 Category: Presentations
+Slug: list-of-presenters-for-montreal-python-9
+Lang: en
 
 <!--:en-->Montréal-Python 9 is this Wednesday at room PK-5115 of UQAM at
 6 PM.

@@ -1,6 +1,9 @@
 Title: Videos from PyCon 2008
 Date: 2008-10-26 14:16
+Author: Arach
 Category: Montréal Python
+Slug: videos-from-pycon-2008
+Lang: en
 
 There have been many videos recently posted on the [YouTube channel of
 PyCon2008][].  I invite you to take a look...

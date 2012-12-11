@@ -1,6 +1,9 @@
 Title: MontrealPython looking good!
 Date: 2008-03-25 21:24
+Author: Arach
 Category: Montréal Python
+Slug: montrealpython-looking-good
+Lang: en
 
 Welcome to our new identity.
 

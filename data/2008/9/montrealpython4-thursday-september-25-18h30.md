@@ -1,7 +1,10 @@
 Title: MontrealPython4 - Thursday September 25 @18h30
 Date: 2008-09-14 21:53
+Author: Arach
 Category: Presentations
 Tags: meetup, Montreal Python
+Slug: montrealpython4-thursday-september-25-18h30
+Lang: en
 
 <p>
 We are back, with a new location and a cool presentation in store for

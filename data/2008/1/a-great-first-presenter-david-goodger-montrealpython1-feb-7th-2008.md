@@ -1,7 +1,10 @@
 Title: A great first presenter, David Goodger - MontrealPython1 - Feb 7th 2008
 Date: 2008-01-31 22:39
+Author: Arach
 Category: Presentations
 Tags: meetup, MontrealPython1, presentation, PSF, python, StandoutJobs
+Slug: a-great-first-presenter-david-goodger-montrealpython1-feb-7th-2008
+Lang: en
 
 We have the pleasure of hosting a talk by David Goodger at
 MontrealPython1. This is a talk that will be presented at PyCon later

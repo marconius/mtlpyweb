@@ -1,6 +1,9 @@
 Title: TurboGears sprint on 2009-11-27 at UQAM
 Date: 2009-11-17 09:24
+Author: Ygingras
 Category: Sprints, Turbo Gears
+Slug: turbogears-sprint-on-2009-11-27-at-uqam
+Lang: en
 
 <!--:en-->[TurboGears][] is organizing a [sprint on Black Friday][] to
 give the final polish for the 2.1 release. Montréal-Python invites you
@@ -9,16 +12,6 @@ of the [Sherbrooke building][] from 4pm to 11pm. We plan to have at
 least two persons somewhat familiar with the TurboGears 2.1 code base on
 site. They will be able to help you setup your development environment,
 coach you with the tools, and introduce you to TurboGears in general.
-
-<!--:--><!--:fr-->[TurboGears][] organise un [sprint le
-2009-11-27][sprint on Black Friday] pour mettre la dernière touche à
-leur version 2.1. Montréal-Python vous invite à joindre les rangs des
-sprinteurs au [Café Fractal][] de l'UQAM, situé au local SH-R380 du
-[pavillon Sherbrooke][Sherbrooke building], entre 16h et 23h. Nous
-comptons avoir sur place au moins deux personnes assez familière avec le
-code de TurboGears 2.1 pour vous aider à mettre en place votre
-environnement de développement, pour vous guider avec les outils, et
-pour vous introduire à TurboGears en général.
 
 <!--:-->
 

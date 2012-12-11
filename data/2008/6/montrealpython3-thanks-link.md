@@ -1,7 +1,10 @@
 Title: MontrealPython3 - thanks, link
 Date: 2008-06-27 14:21
+Author: Arach
 Category: Presentations
 Tags: meetup, Montreal Python, Presentations, python
+Slug: montrealpython3-thanks-link
+Lang: en
 
 MontrealPython3 was a lot of fun. Martin Blais gave us 2 very
 interesting presentations. In case you missed it or want to follow up,

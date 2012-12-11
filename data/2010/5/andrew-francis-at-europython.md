@@ -1,6 +1,9 @@
 Title: Andrew Francis at EuroPython
 Date: 2010-05-24 21:22
+Author: Ygingras
 Category: Conferences
+Slug: andrew-francis-at-europython
+Lang: en
 
 <!--:en-->
 
@@ -9,15 +12,6 @@ will be presenting at [EuroPython][]. His talk on [Implementing Go's
 Select][] will be a slightly shorter version of the one that he did at
 Montréal-Python. It's good to see fellow Montréalers presenting at large
 international conferences.
-
-<!--:--><!--:fr-->
-
-Andrew Francis, notre présentateur principal à [Montréal-Python 13][], a
-été accepté à [EuroPython][]. Sa présentation sur [l'implémentation du
-select de Go][Implementing Go's Select] sera une version légèrement
-raccourcie de la présentation qu'il a fait à Montréal-Python. C'est bon
-de voir des Montréalais qui présentent dans des conférences
-internationales.
 
 <!--:-->
 

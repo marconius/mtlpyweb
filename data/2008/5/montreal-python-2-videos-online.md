@@ -1,7 +1,10 @@
 Title: Montreal Python #2 - videos online
 Date: 2008-05-12 22:23
+Author: Ygingras
 Category: Presentations
 Tags: montreal, Montreal Python, python, videos
+Slug: montreal-python-2-videos-online
+Lang: en
 
 We are pleased to announce the immediate availability of the videos of
 Montreal Python \#2.
