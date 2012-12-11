@@ -14,6 +14,7 @@ setup(name = "mtlpyweb",
       url = "http://www.montrealpython.org/",
       license = "MIT",
       keywords = "",
+      dependency_links = [ 'https://github.com/mtlpy/pelican/tarball/master#egg=Pelican' ],
       install_requires = [
         "pelican",
         "Jinja2",
