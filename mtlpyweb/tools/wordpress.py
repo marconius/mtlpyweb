@@ -105,6 +105,9 @@ def fields2pelican(fields, out_markup, output_path, dircat=False, strip_raw=Fals
                     # paragraphs = [u'<p>{0}</p>'.format(p) for p in paragraphs]
                     # new_content = ''.join(paragraphs)
 
+                    # TWEAK: Remove lang separator : <!--:-->
+                    post = post.replace("<!--:-->", "")
+
                     fp.write(post)
 
 
@@ -130,10 +133,15 @@ def fields2pelican(fields, out_markup, output_path, dircat=False, strip_raw=Fals
 
                 with open(out_filename, 'r', encoding='utf-8') as fs:
                     content = fs.read()
+
                     if out_markup == "markdown":
                         # In markdown, to insert a <br />, end a line with two or more spaces & then a end-of-line
                         content = content.replace("\\\n ", "  \n")
                         content = content.replace("\\\n", "  \n")
+
+                        # TWEAK: replace \$ to $ because pelican doesn't support this syntax
+                        content = content.replace("\$", "$")
+
 
             with open(out_filename, 'w', encoding='utf-8') as fs:
                 fs.write(header + content)
