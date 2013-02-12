@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Montréal-Python</title><link href="http://montrealpython.org/" rel="alternate"></link><link href="http://montrealpython.org/feeds/7.atom.xml" rel="self"></link><id>http://montrealpython.org/</id><updated>2010-07-30T08:32:00-04:00</updated><entry><title>MP-11</title><link href="http://montrealpython.org/mp-11.html" rel="alternate"></link><updated>2010-07-30T08:32:00-04:00</updated><author><name>Pior</name></author><id>tag:montrealpython.org,2010-07-30:mp-11.html</id><summary type="html">&lt;p&gt;
+&lt;!--:en--&gt;
+
+&lt;style&gt;#sidebar { display:none;} #content { width: 740px !important; } &lt;/style&gt;
+&lt;/p&gt;
+
+&lt;h1&gt;Main Presentation&lt;/h1&gt;
+&lt;h2&gt;Alexandre Bourget: Pylons&lt;/h2&gt;
+&lt;p&gt;More on this presentation: &lt;a href="http://wiki.montrealpython.org/index.php/Montréal-Python_11"&gt;Montréal-Python 11&lt;/a&gt;   &lt;/p&gt;
+&lt;video controls poster="http://montrealpython.org/videos/Montreal-Python-11-Alexandre-Bourget-Pylons.jpg"&gt;
+&lt;source src="http://montrealpython.org/videos/Montreal-Python-11-Alexandre-Bourget-Pylons.mp4" type="video/mp4"&gt;&lt;/source&gt;
+&lt;source src="http://montrealpython.org/videos/Montreal-Python-11-Alexandre-Bourget-Pylons.ogg" type="video/ogg"&gt;&lt;/source&gt;
+Your browser doesn't support HTML5. Please use the download link. If you
+use Safari and want to use a libre format, install the Xiph QuickTime
+Component at http://www.xiph.org/quicktime &lt;/video&gt;
+
+&lt;p&gt;Download link: &lt;a href="http://montrealpython.org/videos/Montreal-Python-11-Alexandre-Bourget-Pylons.ogg"&gt;Theora&lt;/a&gt; &lt;a href="http://montrealpython.org/videos/Montreal-Python-11-Alexandre-Bourget-Pylons.mp4"&gt;MP4&lt;/a&gt; &lt;!--:--&gt;&lt;/p&gt;
+&lt;/p&gt;</summary></entry></feed>

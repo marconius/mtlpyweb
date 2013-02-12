@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Montréal-Python</title><link href="http://montrealpython.org/" rel="alternate"></link><link href="http://montrealpython.org/feeds/11.atom.xml" rel="self"></link><id>http://montrealpython.org/</id><updated>2010-11-20T18:18:00-05:00</updated><entry><title>MP-12</title><link href="http://montrealpython.org/mp-12.html" rel="alternate"></link><updated>2010-11-20T18:18:00-05:00</updated><author><name>Pior</name></author><id>tag:montrealpython.org,2010-11-20:mp-12.html</id><summary type="html">&lt;p&gt;
+&lt;!--:en--&gt;
+
+&lt;style&gt;#sidebar { display:none;} #content { width: 740px !important; } &lt;/style&gt;
+&lt;/p&gt;
+
+&lt;h1&gt;Main Presentation&lt;/h1&gt;
+&lt;h2&gt;Marcin Swiatek: Numpy&lt;/h2&gt;
+&lt;p&gt;More on this presentation: &lt;a href="http://wiki.montrealpython.org/index.php/Montréal-Python_12"&gt;Montréal-Python 12&lt;/a&gt;   &lt;/p&gt;
+&lt;video controls poster="http://montrealpython.org/videos/Montreal-Python-12-Marcin-Swiatek-Numpy.jpg"&gt;
+&lt;source src="http://montrealpython.org/videos/Montreal-Python-12-Marcin-Swiatek-Numpy.mp4" type="video/mp4"&gt;&lt;/source&gt;
+&lt;source src="http://montrealpython.org/videos/Montreal-Python-12-Marcin-Swiatek-Numpy.ogg" type="video/ogg"&gt;&lt;/source&gt;
+Your browser doesn't support HTML5. Please use the download link. If you
+use Safari and want to use a libre format, install the Xiph QuickTime
+Component at http://www.xiph.org/quicktime &lt;/video&gt;
+
+&lt;p&gt;Download link: &lt;a href="http://montrealpython.org/videos/Montreal-Python-12-Marcin-Swiatek-Numpy.ogg"&gt;Theora&lt;/a&gt; &lt;a href="http://montrealpython.org/videos/Montreal-Python-12-Marcin-Swiatek-Numpy.mp4"&gt;MP4&lt;/a&gt; &lt;!--:--&gt;&lt;/p&gt;
+&lt;/p&gt;</summary></entry><entry><title>About</title><link href="http://montrealpython.org/about.html" rel="alternate"></link><updated>2007-11-10T09:32:00-05:00</updated><author><name>Admin</name></author><id>tag:montrealpython.org,2007-11-10:about.html</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;h3&gt;Mission&lt;/h3&gt;
+&lt;p&gt;Montréal-Python's mission is to promote the growth of a lively and
+dynamic community of users of the Python programming language and to
+promote the use of the latter.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+Montréal-Python also aims to disseminate the local Python knowledge to
+build a stronger developer community.&lt;/p&gt;
+&lt;p&gt;Montréal-Python promotes Free and Open Source Software, favors its
+adoption within the community, and collaborates with community players
+to achieve this goal.&lt;/p&gt;
+&lt;h3&gt;Activities&lt;/h3&gt;
+&lt;p&gt;We have regular meetings consisting of several short presentations
+followed by a longer main presentation. Everyone if free to attend and
+we often have snacks and drinks to foster a climate where discussions
+are welcome and appreciated. No particular skill level is required to
+enjoy the meetings since there is often a presentation for everyone,
+from new comers to experts.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+Beside the regular meetings, we often organize code sprints and informal
+gatherings. We are also part of the core organization team of the
+&lt;a href="http://confoo.ca/en/"&gt;ConFoo conference&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Contact&lt;/h3&gt;
+&lt;p&gt;We have a &lt;a href="http://groups.google.com/group/montrealpython" title="MontrealPython google group"&gt;mailing list&lt;/a&gt; which is relatively low volume, but has an
+extremely high signal to noise ratio.  We also meet on irc, in
+[#montrealpython][] on freenode.net.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+We announce our meetings and other activities on the mailing list and on
+this blog.&lt;/p&gt;
+&lt;h3&gt;Organizers&lt;/h3&gt;
+&lt;p&gt;Montréal Python is organized by:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dimitry Zolotaryov&lt;/li&gt;
+&lt;li&gt;Janina Szkut&lt;/li&gt;
+&lt;li&gt;Davin Baragiotta&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ygingras.net"&gt;Yannick Gingras&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Alexis Laferrière&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://studioimaginaire.com"&gt;Nathanaël Lécaudé&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://silkseed.com"&gt;Derek Mounce&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://mlhamel.org"&gt;Mathieu Leduc-Hamel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://savetheions.com/"&gt;Cyril Robert&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wwd.ca/"&gt;Éric St-Jean&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://tchoupani.com/"&gt;Arach Tchoupani&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.linkedin.com/in/piorbastida"&gt;Pior Bastida&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 478px; width: 1px; height: 1px;"&gt;
+&lt;/p&gt;
+Mission
+
+Montréal-Python's mission is to promote the growth of a lively and
+dynamic community of users of the Python programming language and to
+promote the use of the latter.
+
+Montréal-Python also aims to disseminate the local Python knowledge to
+build a stronger developer community.
+
+Montréal-Python promotes Free and Open Source Software, favors its
+adoption within the community, and collaborates with community players
+to achieve this goal. Activities
+
+We have regular meetings consisting of several short presentations
+followed by a longer main presentation. Everyone if free to attend and
+we often have snacks and drinks to foster a climate where discussions
+are welcome and appreciated. No particular skill level is required to
+enjoy the meetings since there is often a presentation for everyone,
+from new comers to experts.
+
+Beside the regular meetings, we often organize code sprints and informal
+gatherings. We are also part of the core organization team of the ConFoo
+conference. Contact
+
+We have a mailing list which is relatively low volume, but has an
+extremely high signal to noise ratio.
+
+We announce our meetings and other activities on the mailing list and on
+this blog. Organizers
+
+Montréal Python is organized by:
+
+\* Davin Baragiotta \* Yannick Gingras \* Alexis Laferrière \* Nathanaël
+Lécaudé \* Mathieu Leduc-Hamel \* Cyril Robert \* Éric St-Jean \* Arach
+Tchoupani \* Pior Bastida
+
+&lt;p&gt;
+&lt;/div&gt;
+
+&lt;!--:--&gt;
+
+&lt;/p&gt;</summary></entry></feed>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Montréal-Python</title><link href="http://montrealpython.org/" rel="alternate"></link><link href="http://montrealpython.org/feeds/Montr%C3%A9al%20Python,%20Packaging,%20Sprints.atom.xml" rel="self"></link><id>http://montrealpython.org/</id><updated>2012-05-14T20:48:00-04:00</updated><entry><title>Second Distutils2 Sprint Wrap-up</title><link href="http://montrealpython.org/second-distutils2-sprint-wrap-up.html" rel="alternate"></link><updated>2012-05-14T20:48:00-04:00</updated><author><name>Merwok</name></author><id>tag:montrealpython.org,2012-05-14:second-distutils2-sprint-wrap-up.html</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;&lt;img alt="TP1 logo" src="http://www.tp1.ca/sites/all/themes/tp1/images/logo.png" /&gt; The second event in our series of Distutils2 sprints was
+again a success. We've managed to fix some interesting issues and we've
+gained some experience points at dealing with the black magic of the
+packaging arcane.&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;p&gt;We would like to thank &lt;a href="http://www.tp1.ca/"&gt;TP1&lt;/a&gt; for hosting the sprint at their nice
+Downtown Montreal offices and also for the pizza. Pierre Paul, our host,
+wrote &lt;a href="http://www.tp1.ca/en/node/559" title="Distutils2 coding sprint wrap-up"&gt;a longer post&lt;/a&gt; relating the event.&lt;/p&gt;
+&lt;p&gt;Stay tuned for upcoming announcements on Distutils2 sprints.&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Special thanks to the sprinters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Julien Courteau&lt;/li&gt;
+&lt;li&gt;Jonathan Fernandes&lt;/li&gt;
+&lt;li&gt;Patrice Gauthier&lt;/li&gt;
+&lt;li&gt;Mathieu Leduc-Hamel&lt;/li&gt;
+&lt;li&gt;Pierre Paul Lefebvre&lt;/li&gt;
+&lt;li&gt;Alex Parij&lt;/li&gt;
+&lt;li&gt;Kim Pettersen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+Stay tuned this week for the announcement of the next sprint.&lt;/p&gt;
+&lt;p&gt;Here's a glimpse of patches being born:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="May 12 Distutils2 sprinters" src="https://s3.amazonaws.com/distilleryimage7/d1a11f029c6e11e1a8761231381b4856_7.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;Divine inspiration:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Light falling on a computer" src="https://s3.amazonaws.com/distilleryimage1/20022dc29c7311e180c9123138016265_7.jpg" /&gt;&lt;/p&gt;
+&lt;!--:--&gt;
+
+&lt;/p&gt;</summary></entry><entry><title>Next Distutils2 Sprint</title><link href="http://montrealpython.org/distutils2-sprint-2.html" rel="alternate"></link><updated>2012-05-03T11:19:00-04:00</updated><author><name>Merwok</name></author><id>tag:montrealpython.org,2012-05-03:distutils2-sprint-2.html</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;The first &lt;a href="http://montrealpython.org/2012/03/distutils2-sprint/"&gt;Distutils2 sprint&lt;/a&gt;, held on the 21st of April at
+&lt;a href="http://www.radialpoint.com/"&gt;RadialPoint's&lt;/a&gt; office, was a real success.&lt;/p&gt;
+&lt;p&gt;That afternoon marked the renewal of Montréal-Python's contributions to
+this vital project of the Python ecosystem. Indeed, two years ago,
+sprints were organized here at the very beginning of Distutils2, which
+aims to replace Distutils with a more powerful tool that implements the
+new specs (PEPs) that all packaging tools will comply with in the long
+term.&lt;/p&gt;
+&lt;p&gt;We're pleased that a dozen of volunteers were part of this first sprint!&lt;/p&gt;
+&lt;p&gt;I spent some time with every participant and I think everyone learnt
+something from the sprint, be it knowledge on packaging, a first
+experience in free software development or the writing test suites. I'd
+like to thank everyone who came and opened Pandora's Box in order to fix
+bugs for the benefit of the whole community.&lt;/p&gt;
+&lt;p&gt;The complexity of the code explains the fact that only two patches were
+done at the end of the sprint, but the other patches started by the
+other participants could certainly be completed during the next one.&lt;/p&gt;
+&lt;p&gt;In order to keep the pace, a second sprint will be held &lt;em&gt;Saturday the
+12th of May&lt;/em&gt;. &lt;a href="http://www.tp1.ca/"&gt;TP1&lt;/a&gt; will host this sprint and provide us with some
+pizza. Keep in mind that our deadline is the release of the first beta
+version on the 24th of June. We have until that point to close bugs and
+implement some useful features still missing.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Contributing to Distutils2 will help the whole Python community. Be
+part of it!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Second Distutils2 Sprint:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Date: Saturday, 12th of May 2012, from 12:00 to 19:00&lt;/li&gt;
+&lt;li&gt;Place: TP1, 1410 Stanley street, office 500 (&lt;a href="http://g.co/maps/c662j"&gt;map&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://next-distutils2-sprint.eventbrite.ca/"&gt;Registration&lt;/a&gt; is optional but recommended&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wiki.python.org/moin/Distutils2/Sprints"&gt;Setup instructions&lt;/a&gt; (can also be done on site)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--:--&gt;
+
+&lt;/p&gt;</summary></entry><entry><title>Distutils2 sprint</title><link href="http://montrealpython.org/distutils2-sprint.html" rel="alternate"></link><updated>2012-03-29T20:10:00-04:00</updated><author><name>Admin</name></author><id>tag:montrealpython.org,2012-03-29:distutils2-sprint.html</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;Pythonistas,&lt;/p&gt;
+&lt;p&gt;Distutils2 is looking for love, and you are the group who are going to
+give it! The Montreal-Python user group is hosting, on the 21st of
+April, a sprint in Montreal to work on Distutils2 with Éric Araujo,
+Python core developer and distutils2 maintainer. Bring your laptop and
+your magic fingers, and we will provide the food and the good times. No
+previous knowledge of Distutils2 required, just general Python skills.&lt;/p&gt;
+&lt;p&gt;Distutils2 is the official successor of distutils. It aims to be a
+better, more flexible and more featureful packaging tool for Python
+authors, as well as a reusable library for packaging tools developers.
+Distutils2 is included in the Python 3.3 standard library under the name
+“packaging”, the module named “distutils2” is the standalone backport
+for Python versions 2.5 to 2.7, and 3.x. The first beta versions of
+Python 3.3 and Distutils2 are coming in June, and we are planning a
+series of sprints to make it ready for the release.&lt;/p&gt;
+&lt;p&gt;A sprint is simply programmers meeting together face-to-face to work on
+the same project. Previous sprints held in Montreal have improved
+Distutils2, why don’t you come along for the next one and put your mark
+on a Python release?&lt;/p&gt;
+&lt;p&gt;The good folks at Radialpoint have graciously provided us with space and
+free pizza. Come join us on Saturday, the 21st of April,
+from 12pm to 7pm.&lt;/p&gt;
+&lt;p&gt;The address is: &lt;a href="http://g.co/maps/cuaxc"&gt;2050 Bleury Street Suite 300&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Registration &lt;a href="http://www.eventbrite.ca/event/3261945567"&gt;here&lt;/a&gt; is preferable but not required.&lt;/p&gt;
+&lt;p&gt;For hacks and glory!&lt;!--:--&gt;&lt;/p&gt;</summary></entry></feed>

@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Montréal-Python</title><link href="http://montrealpython.org/" rel="alternate"></link><link href="http://montrealpython.org/feeds/Montr%C3%A9al%20Python,%20Tutorials/Workshops.atom.xml" rel="self"></link><id>http://montrealpython.org/</id><updated>2012-05-01T19:55:00-04:00</updated><entry><title>Reminder : Django Workshop tomorrow [English]</title><link href="http://montrealpython.org/reminder-django-workshop-tomorrow-english.html" rel="alternate"></link><updated>2012-05-01T19:55:00-04:00</updated><author><name>Giotta</name></author><id>tag:montrealpython.org,2012-05-01:reminder-django-workshop-tomorrow-english.html</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;Just a quick reminder : tomorrow is the Django Workshop in
+&lt;strong&gt;English&lt;/strong&gt; at McGill. There's about 35 places left, so don't be shy and
+let's have a nice hands on Django together.&lt;/p&gt;
+&lt;p&gt;Our subscription service (Eventbrite) was automatically close yesterday
+because the auto-limit of 40 places were all reserved, but in fact
+there's nearly 85 places (so near 35 left now)!&lt;/p&gt;
+&lt;p&gt;So, sorry for the inconvenience and subscribe now if it's not already
+done and/or show up tomorrow!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Date : 2012-05-02 from 6:00 PM to 9:00 PM&lt;/li&gt;
+&lt;li&gt;Place : McGill, Rutherford Building, room 118, 3600 University
+    Street&lt;/li&gt;
+&lt;li&gt;Subscription :
+    &lt;a href="http://montrealpython-workshop-20120502.eventbrite.ca/"&gt;http://montrealpython-workshop-20120502.eventbrite.ca/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+See you!&lt;/p&gt;
+&lt;p&gt;N.B.: exact place for the same workshop in &lt;strong&gt;French&lt;/strong&gt; next week will be
+soon announce here.&lt;!--:--&gt;&lt;/p&gt;</summary></entry><entry><title>Winter 2012 Last Workshop : Django : building a Python web app</title><link href="http://montrealpython.org/winter-2012-last-workshop-django-building-a-python-web-app.html" rel="alternate"></link><updated>2012-04-24T12:54:00-04:00</updated><author><name>Giotta</name></author><id>tag:montrealpython.org,2012-04-24:winter-2012-last-workshop-django-building-a-python-web-app.html</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;Pythonistas, let's continue our magnificent journey on the
+Pythonic Way. It's now time to dive head first in web development using
+Django, a Python web framework. Our last workshop [1] of the Winter 2012
+series will show you that "Beautiful is better than ugly" and that
+"Simple is better than complex". -- &lt;a href="http://www.python.org/dev/peps/pep-0020/"&gt;Zen of Python&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The Montréal-Python Rugby League (MPRL) [DoesNotExist] cruelly needs a
+web app to manage its teams and its season. In only 3 hours, we'll make
+this happen.&lt;/p&gt;
+&lt;p&gt;Let's code this together Wednesday on May 2nd at McGill University.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Date : 2012-05-02 from 6:00 PM to 9:00 PM&lt;/li&gt;
+&lt;li&gt;Place : McGill, Rutherford Building, room 118 3600 University Street
+    [2]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+The workshop will be in English but all nations are welcome. No need to
+know rugby nor having attended previous workshop. Our workshops are free
+and open to all.&lt;/p&gt;
+&lt;p&gt;The prerequisites, the technical setup and the content of this workshop
+can be found on the workshop's wiki page :&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://montrealpython.org/r/projects/workshops/wiki/2012-05-02"&gt;Django : building a Python web app&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Please take time to install the softwares (Python, Django [, South,
+IPython]) &lt;strong&gt;before&lt;/strong&gt; the workshop. If you bump into any issue during the
+installation, don't panic, Montréal-Python team will there at 5:30 PM to
+help you setup your laptop for the workshop, whatever OS you are
+running. The installation procedures are on the wiki page.&lt;/p&gt;
+&lt;p&gt;To be part of the scrum, please confirm your presence: Subscription :
+&lt;a href="http://montrealpython-workshop-20120502.eventbrite.ca/"&gt;http://montrealpython-workshop-20120502.eventbrite.ca/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;N.B. : This workshop will be held in French the following week. Date and
+place to be confirmed here in a separate post.&lt;/p&gt;
+&lt;p&gt;Ready? So... Crouch! Touch! Pause! Engage!&lt;/p&gt;
+&lt;p&gt;[1] We originally planned 4 workshops for this Winter 2012 series, but
+supporting the student strike movement made us reorganize things. Lucky
+you, you might see yourself following the 4th workshop in the very first
+Montréal-Python Summer Workshop series!&lt;/p&gt;
+&lt;p&gt;[2] The room of this workshop is sponsored by : the Network Dynamics
+lab.&lt;!--:--&gt;&lt;/p&gt;</summary></entry><entry><title>Second French Workshop on April 4th: More advanced Python notions and use of the Twitter API</title><link href="http://montrealpython.org/second-french-workshop-on-march-4th-more-advanced-python-notions-and-use-of-the-twitter-api.html" rel="alternate"></link><updated>2012-03-29T15:22:00-04:00</updated><author><name>Mlhamel</name></author><id>tag:montrealpython.org,2012-03-29:second-french-workshop-on-march-4th-more-advanced-python-notions-and-use-of-the-twitter-api.html</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;Montréal-Python is proposing you to finally discover, in French this
+time, your obsessions on Twitter (or those of others) by reading and
+analysing Twitter feeds with Python. Yes finally, after more than 1
+month of waiting in order to support the strike movement at the science
+faculty of UQAM, the workshop will be held next week.&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Since we would not force you to cross the picket line, we've asked for
+help from our friends at Google Montréal: they are inviting us to their
+offices next Wednesday, April 4th, to continue our Python introduction
+workshop series.&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Our workshops are open to all of you and are absolutely free. No need to
+have attended the previous ones to come. Only a minimal knowledge of
+Python is required (example: basic types).&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Bring your laptop and try to install Python and ipython before the
+workshop. If you have any issues, the Montréal-Python team will be there
+to help you before the event (arrive early)&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The installation procedure and all the needed informations about the
+workshop is in the wiki page of the workshop at : [Atelier 2012-04-04 :
+Python : notions plus avancées et exploitation de l'API Twitter][]&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Atelier 2012-04-04 : Python : advanced topics and using the Twitter
+API&lt;/strong&gt;&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Date : 2012-04-04 6:30pm to 9:00pm&lt;/li&gt;
+&lt;li&gt;Place : Google Montréal, 1253 McGill College, Montreal, QC H3B 2Y5&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The schedule for the evening :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;6:00pm Doors opening and technical support&lt;/li&gt;
+&lt;li&gt;6:30pm Begining of the workshop&lt;/li&gt;
+&lt;li&gt;9:00pm End of the evening at Bénélux&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;strong&gt;Warning, only 30 places are available for this event, don't wait too
+long before subscribing!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Subscription : &lt;a href="http://montrealpython-atelier-20120404.eventbrite.ca"&gt;http://montrealpython-atelier-20120404.eventbrite.ca&lt;/a&gt;&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;p&gt;À la r'voyure!&lt;/p&gt;
+&lt;!--:--&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;[Atelier 2012-04-04 : Python : notions plus avancées et exploitation
+  de l'API Twitter]: http://montrealpython.org/r/projects/workshops/wiki/2012-04-04&lt;/p&gt;</summary></entry><entry><title>AESSUQAM on strike : Python Workshop in French postponed</title><link href="http://montrealpython.org/aessuqam-on-strike-python-workshop-in-french-postponed.html" rel="alternate"></link><updated>2012-02-23T17:14:00-05:00</updated><author><name>Giotta</name></author><id>tag:montrealpython.org,2012-02-23:aessuqam-on-strike-python-workshop-in-french-postponed.html</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;&lt;strong&gt;Atelier 2012-02-27 : Python : notions plus avancées et
+exploitation de l’API Twitter&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This workshop in French, planned to be held at UQAM next Monday, is
+postponed due to the strike voted yesterday by the Association étudiante
+du secteur des sciences de l'UQAM (AESSUQAM). To show support,
+Montréal-Python will respect this strike.&lt;/p&gt;
+&lt;p&gt;The workshop should be postponed in March, the exact date will be soon
+announced.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;However, the workshop in English, tonight at McGill, is maintained.&lt;/strong&gt;
+See : [Workshop 2012-02-23 : Python : more advanced notions and use of
+Twitter API.][]&lt;/p&gt;
+&lt;p&gt;Montréal-Python apologies for this situation and thanks you for your
+comprehension.&lt;/p&gt;
+&lt;p&gt;See you soon.&lt;/p&gt;
+&lt;p&gt;Montréal-Python's team&lt;!--:--&gt;&lt;/p&gt;
+&lt;p&gt;[Workshop 2012-02-23 : Python : more advanced notions and use of
+  Twitter API.]: http://montrealpython.org/r/projects/workshops/wiki/2012-02-23&lt;/p&gt;</summary></entry><entry><title>Second Workshop on Feb. 23rd: More advanced Python notions and use of the Twitter API</title><link href="http://montrealpython.org/workshop-2012-02-23-python-more-advanced-notions-and-use-of-twitter-api.html" rel="alternate"></link><updated>2012-02-16T07:23:00-05:00</updated><author><name>Giotta</name></author><id>tag:montrealpython.org,2012-02-16:workshop-2012-02-23-python-more-advanced-notions-and-use-of-twitter-api.html</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;This month, Montréal-Python (in conjunction with McGill's
+&lt;a href="http://networkdynamics.org/"&gt;Network Dynamics&lt;/a&gt; lab) will let you discover your obsessions on
+Twitter (or others' obsessions) by reading and analysing Twitter feeds
+with Python. This second workshop of our Winter 2012 session will be the
+occasion to discover new Python goodies while playing with data from
+Twitter.&lt;/p&gt;
+&lt;p&gt;Our workshops are open to all and absolutely &lt;strong&gt;free&lt;/strong&gt;. No need to have
+attended the previous one to attend this workshop. Only minimal
+knowledge of Python is required (e.g: basic types).&lt;/p&gt;
+&lt;p&gt;Bring your laptop and try to have Python installed before the workshop.
+If you have trouble with the installation, the Montréal-Python team will
+be able to help at the very beginning of the workshop.&lt;/p&gt;
+&lt;p&gt;Installation procedures and all the information on this workshop are on
+the workshop's wiki page : [Workshop 2012-02-23 : Python : more advanced
+notions and use of Twitter API.][]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Workshop 2012-02-23 : Python : more advanced notions and use of
+Twitter API.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Date : 2012-02-23 from 6:00 PM to 9:00 PM&lt;/li&gt;
+&lt;li&gt;Place : 3630 University (Trottier Building) room TR1100&lt;/li&gt;
+&lt;li&gt;Instructors: Mathieu Perreault and Prof. Derek Ruths, from the
+    &lt;a href="http://www.networkdynamics.org/"&gt;Network Dynamics&lt;/a&gt; lab.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Here's the program for the evening:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;6:00 PM Workshop&lt;/li&gt;
+&lt;li&gt;9:00 PM End of evening at Bénélux&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Places could be limited, register now! Registration :
+&lt;a href="http://guestlistapp.com/events/90219"&gt;http://guestlistapp.com/events/90219&lt;/a&gt;&lt;/p&gt;
+&lt;dl&gt;
+&lt;dt&gt;&lt;/p&gt;&lt;/dt&gt;
+&lt;dt&gt;A workshop in French with a similar content will be help at UQAM the&lt;/dt&gt;
+&lt;dt&gt;following Monday. All the information on the workshop in French at UQAM&lt;/dt&gt;
+&lt;dd&gt;[Atelier 2012-02-27 : Python : notions plus avancées et exploitation
+de l'API Twitter][]&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;Be there!&lt;!--:--&gt;&lt;/p&gt;
+&lt;p&gt;[Workshop 2012-02-23 : Python : more advanced notions and use of
+  Twitter API.]: http://montrealpython.org/r/projects/workshops/wiki/2012-02-23
+  [Atelier 2012-02-27 : Python : notions plus avancées et exploitation
+  de l'API Twitter]: http://montrealpython.org/r/projects/workshops/wiki/2012-02-27&lt;/p&gt;</summary></entry><entry><title>Reminder : Introduction to Python Workshop</title><link href="http://montrealpython.org/reminder-introduction-to-python-workshop.html" rel="alternate"></link><updated>2012-01-18T16:24:00-05:00</updated><author><name>Giotta</name></author><id>tag:montrealpython.org,2012-01-18:reminder-introduction-to-python-workshop.html</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;Check it out! The Introduction to Python Workshop is next
+Wednesday!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Date : Wednesday, 2012 January 25th at 6:00 PM&lt;/li&gt;
+&lt;li&gt;Place : McGill, Arts building, room 260&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+Bring your laptop and try to have Python and iPython installed before
+the workshop. Installation procedures and all the information on this
+workshop are on the workshop's wiki page : &lt;a href="http://montrealpython.org/r/projects/workshops/wiki/2012-01-25"&gt;Workshop 2012-01-25 :
+Introduction to Python&lt;/a&gt;. If you have problems with the installation,
+Montréal-Python team will be able to help you at the very beginning of
+the workshop.&lt;/p&gt;
+&lt;p&gt;A workshop in French with similar content will be held at UQAM the
+previous Monday. All the information on the workshop in French at UQAM:
+&lt;a href="http://montrealpython.org/r/projects/workshops/wiki/2012-01-23"&gt;Atelier 2012-01-23 : Introduction à Python&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Be there or be square!&lt;!--:--&gt;&lt;/p&gt;</summary></entry><entry><title>Python Workshops : Winter 2012 series</title><link href="http://montrealpython.org/python-workshops-winter-session-2012.html" rel="alternate"></link><updated>2012-01-13T00:14:00-05:00</updated><author><name>Giotta</name></author><id>tag:montrealpython.org,2012-01-13:python-workshops-winter-session-2012.html</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;You're dreaming to feel Python leather on your keyboard? You
+already know its legendary softness and now want to feel the gentle
+power of its grasp?&lt;/p&gt;
+&lt;p&gt;Pythonista in the egg, moulting or already moving : the Winter 2012
+series of Python workshops has arrived!&lt;/p&gt;
+&lt;p&gt;This semester, Montréal-Python is offering one workshop a month :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;January : Introduction Workshop to Python&lt;/li&gt;
+&lt;li&gt;February : Python Workshop : more advanced notions and use of
+    Twitter API&lt;/li&gt;
+&lt;li&gt;March : Django Workshop : building a Python web app&lt;/li&gt;
+&lt;li&gt;April : Advanced Workshop : integration of libraries and a guest
+    star!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The content of these workshops has been forged collaboratively by
+professional trainers, practionners and academics from the community.
+Animated by our champions, they are offered in French at UQAM and
+English at McGill. &lt;strong&gt;They're open to all&lt;/strong&gt; : only minimal knowledge of
+programming is required (e.g.: to know what a variable is). You also
+need to bring a laptop to follow the exercises.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+These workshops are independent : to attend one, no need to attend the
+formers. But to progress on the Pythonic Way, to follow them all is
+better than following one. When to start? "Now is better than never." --
+&lt;a href="http://www.python.org/dev/peps/pep-0020/"&gt;Zen of Python&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;INTRODUCTION WORKSHOP TO PYTHON&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;language : English&lt;/li&gt;
+&lt;li&gt;when : Wednesday, January 25th, 6:00 PM&lt;/li&gt;
+&lt;li&gt;where : McGill, Arts building, room 260&lt;/li&gt;
+&lt;li&gt;trainer : Mathieu Perreault&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The programme :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Running Python&lt;/li&gt;
+&lt;li&gt;Variables and Arithmetic Expressions&lt;/li&gt;
+&lt;li&gt;Conditionals&lt;/li&gt;
+&lt;li&gt;File Input and Output&lt;/li&gt;
+&lt;li&gt;Strings&lt;/li&gt;
+&lt;li&gt;Lists&lt;/li&gt;
+&lt;li&gt;Tuples&lt;/li&gt;
+&lt;li&gt;Sets&lt;/li&gt;
+&lt;li&gt;Dictionaries&lt;/li&gt;
+&lt;li&gt;Iteration and Looping&lt;/li&gt;
+&lt;li&gt;Functions&lt;/li&gt;
+&lt;li&gt;Objects and Classes&lt;/li&gt;
+&lt;li&gt;Modules&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The room of this workshop is sponsored by : the &lt;a href="http://www.networkdynamics.org/"&gt;Network Dynamics&lt;/a&gt;
+lab.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+To follow this workshop in French, read the French version of this post
+in order to know the exact place and date: &lt;a href="http://montrealpython.org/fr/2012/01/python-workshops-winter-session-2012/"&gt;Lire cette annonce en
+français&lt;/a&gt;&lt;!--:--&gt;&lt;/p&gt;</summary></entry><entry><title>Django Workshop at UQAM on 2011-12-01</title><link href="http://montrealpython.org/django-workshop-at-uqam-on-2011-12-01.html" rel="alternate"></link><updated>2011-11-25T11:27:00-05:00</updated><author><name>Giotta</name></author><id>tag:montrealpython.org,2011-11-25:django-workshop-at-uqam-on-2011-12-01.html</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;Montreal-Python and the UQAM Computer Science Student
+Association (AGEEI) are proud to present their very first French open
+attendance Django Workshop.&lt;/p&gt;
+&lt;p&gt;Last week, we introduced Python through a dynamic workshop and we will
+now dive head first in web development using the Django Python
+framework.&lt;/p&gt;
+&lt;p&gt;You only need to have a basic knowledge of the Python language in order
+to participate (if you have assisted to our first workshop, you're good
+to go).&lt;/p&gt;
+&lt;p&gt;The evening will be animated by Davin Baragiotta of Agence Universitaire
+de la Francophonie (AUF) and will be split up in two parts: * Web
+development with Python and Django: an overview of a typical project
+architecture * Street Hockey League: we will be working on a little
+sample Django project&lt;/p&gt;
+&lt;p&gt;The workshop will be next Thursday, on December 1st at the Sherbrooke
+building of UQAM, room SH-R810 from 6h30pm to 9pm.&lt;/p&gt;
+&lt;p&gt;More info can be found about the event at:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://montrealpython.org/r/projects/workshop-uqam-2011-12-01/wiki"&gt;http://montrealpython.org/r/projects/workshop-uqam-2011-12-01/wiki&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pizza, coffee and soft drinks will be provided.&lt;/p&gt;
+&lt;p&gt;We would like to thank our sponsors: &lt;a href="http://ludia.com"&gt;Ludia&lt;/a&gt; and &lt;a href="http://savoirfairelinux.com"&gt;Savoir-faire
+Linux&lt;/a&gt; for helping us organize this event.&lt;/p&gt;
+&lt;p&gt;Please bring yourself, a laptop and your sense of humor!&lt;/p&gt;
+&lt;p&gt;Please have Python 2.7 (or &gt;= 2.5) and Django 1.3.1 installed. For
+installation instructions :
+&lt;a href="http://montrealpython.org/r/projects/workshop-uqam-2011-12-01/wiki"&gt;http://montrealpython.org/r/projects/workshop-uqam-2011-12-01/wiki&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you bump into any issue during the installation, don't panic, we will
+be in room SH-R810 starting at 5:30pm to help you setup your laptop for
+the workshop, whatever OS you are running.&lt;/p&gt;
+&lt;p&gt;To register, please confirm your presence on our guest list:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://guestli.st/79653"&gt;http://guestli.st/79653&lt;/a&gt;&lt;!--:--&gt;&lt;/p&gt;</summary></entry><entry><title>Second McGill Python workshop was a success</title><link href="http://montrealpython.org/second-mcgill-python-workshop-was-a-success.html" rel="alternate"></link><updated>2011-10-30T12:07:00-04:00</updated><author><name>Ygingras</name></author><id>tag:montrealpython.org,2011-10-30:second-mcgill-python-workshop-was-a-success.html</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;Last week, Mathieu Perreault and Derek Ruths gave the &lt;a href="http://montrealpython.org/2011/10/mcgill-python-workshop-2-on-october-20th-2011/"&gt;second
+McGill Python Workshop&lt;/a&gt;. With around 40 attendees, the event was
+definitely a success and you should expect another workshop soon.&lt;/p&gt;
+&lt;p&gt;
+Derek [lets us know][]:
+
+&gt; We showcased a number of libraries that ship with Python including
+&gt; support for working with SQLite databases, pickling objects, reading
+&gt; and writing CSV files, building well-formed command-line tools, and
+&gt; constructing applications with a full graphical user interface!
+
+That's a nice series of events to keep an eye on.&lt;!--:--&gt;
+
+&lt;/p&gt;</summary></entry><entry><title>McGill Python Workshop 2 on October 20th, 2011</title><link href="http://montrealpython.org/mcgill-python-workshop-2-on-october-20th-2011.html" rel="alternate"></link><updated>2011-10-18T10:22:00-04:00</updated><author><name>Mperrault</name></author><id>tag:montrealpython.org,2011-10-18:mcgill-python-workshop-2-on-october-20th-2011.html</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;div&gt;
+&lt;/p&gt;
+The second instalment of the McGill Python Workshop will be taking place
+on October 20th, 2011 at McGill University. The first, highly successful
+workshop focused on teaching the basics of the Python language. This
+time, instructors Prof. Derek Ruths and myself (Mathieu Perreault) will
+focus on teaching attendees how to write simple yet very powerful
+programs while **only** using the standard Python libraries.
+
+Where: Room 0060, Trottier Building (3630 University) When: 6PM How:
+People are invited to register at http://www.networkdynamics.org/mpw2
+
+&lt;p&gt;
+&lt;/div&gt;
+
+&lt;!--:--&gt;
+
+&lt;/p&gt;</summary></entry><entry><title>A success! Introduction to Python for Women</title><link href="http://montrealpython.org/a-success-introduction-to-python-for-women.html" rel="alternate"></link><updated>2011-05-04T20:33:00-04:00</updated><author><name>Dmounce</name></author><id>tag:montrealpython.org,2011-05-04:a-success-introduction-to-python-for-women.html</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;Yesterday evening concluded the first ever, tremendously
+successful Montréal Python event exclusively for women, giving all
+involved an intense 3 hour introduction to the world of programming.&lt;/p&gt;
+&lt;p&gt;[&lt;img alt="" src="http://montrealpython.org/wp-content/uploads/2011/05/P5030182_small-300x225.jpg" title="P5030182_small" /&gt;][]&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+The turnout was excellent, with over 70 people -- both men and women-
+attending. The "rules" were simple: you had to be a woman, and if not,
+you had to be invited. The range of students covered a wide spectrum,
+from people who had never written a single line of code to people well
+familiar with programming, coming however from different backgrounds and
+languages.&lt;/p&gt;
+&lt;p&gt;[&lt;img alt="" src="http://montrealpython.org/wp-content/uploads/2011/05/P5030177_small-300x225.jpg" title="P5030177_small" /&gt;][]&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+The class was taught by Janina Szkut while a number of TAs from
+throughout the Montréal programming community helped the attendees
+install Python on their laptops and work through any problems with
+exercises.&lt;/p&gt;
+&lt;p&gt;[&lt;img alt="" src="http://montrealpython.org/wp-content/uploads/2011/05/P5030134_small-225x300.jpg" title="P5030134_small" /&gt;][]&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+Things started off gently with an overview of what's actually involved
+in programming -- what a programmer does on a day-to-day basis- then
+progressed quickly to Python itself, covering syntax, control
+structures, types, and other fundamental language constructs.&lt;/p&gt;
+&lt;p&gt;[&lt;img alt="" src="http://montrealpython.org/wp-content/uploads/2011/05/P5030121_small-300x225.jpg" title="P5030121_small" /&gt;][]&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+The grand finale threw students into the midst of drawing using turtle
+graphics with Swampy, writing programs to draw a myriad of shapes on
+screen. The air was thick, exciting; the theoretical knowledge everyone
+had spent the last two hours learning was now manifesting itself as
+something tangible. The caves of Lascaux, the historical first
+expression of visual art, could barely hold a candle. (actually, caves
+can't hold candles, so...)&lt;/p&gt;
+&lt;p&gt;[&lt;img alt="" src="http://montrealpython.org/wp-content/uploads/2011/05/P5030139_small-300x225.jpg" title="P5030139_small" /&gt;][]&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+On conclusion, the enthusiasm of everyone involved was overwhelming;
+those already programming were inspired by the elegance and simplicity
+of Python, while those who took their first steps were intrigued by a
+new world of possibilities. And of course, in the tradition of Montréal
+Python, we all ended the evening with drinks at the local distillery,
+networking, talking and inspiring each other to continue exploring the
+intricate world that is programming.&lt;/p&gt;
+&lt;p&gt;[&lt;img alt="" src="http://montrealpython.org/wp-content/uploads/2011/05/P5030188_small-300x225.jpg" title="P5030188_small" /&gt;][]&lt;/p&gt;
+&lt;!--:--&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;[&lt;img alt="" src="http://montrealpython.org/wp-content/uploads/2011/05/P5030182_small-300x225.jpg" title="P5030182_small" /&gt;]: http://montrealpython.org/wp-content/uploads/2011/05/P5030182_small.jpg
+  [&lt;img alt="" src="http://montrealpython.org/wp-content/uploads/2011/05/P5030177_small-300x225.jpg" title="P5030177_small" /&gt;]: http://montrealpython.org/wp-content/uploads/2011/05/P5030177_small.jpg
+  [&lt;img alt="" src="http://montrealpython.org/wp-content/uploads/2011/05/P5030134_small-225x300.jpg" title="P5030134_small" /&gt;]: http://montrealpython.org/wp-content/uploads/2011/05/P5030134_small.jpg
+  [&lt;img alt="" src="http://montrealpython.org/wp-content/uploads/2011/05/P5030121_small-300x225.jpg" title="P5030121_small" /&gt;]: http://montrealpython.org/wp-content/uploads/2011/05/P5030121_small.jpg
+  [&lt;img alt="" src="http://montrealpython.org/wp-content/uploads/2011/05/P5030139_small-300x225.jpg" title="P5030139_small" /&gt;]: http://montrealpython.org/wp-content/uploads/2011/05/P5030139_small.jpg
+  [&lt;img alt="" src="http://montrealpython.org/wp-content/uploads/2011/05/P5030188_small-300x225.jpg" title="P5030188_small" /&gt;]: http://montrealpython.org/wp-content/uploads/2011/05/P5030188_small.jpg&lt;/p&gt;</summary></entry><entry><title>Class for Women: Introduction to Programming with Python</title><link href="http://montrealpython.org/intro-class.html" rel="alternate"></link><updated>2011-03-31T11:16:00-04:00</updated><author><name>Jszkut</name></author><id>tag:montrealpython.org,2011-03-31:intro-class.html</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;We are excited to announce the first ever &lt;em&gt;Introduction to
+Programming with Python&lt;/em&gt; class held in Montréal on May 3rd, 2011. This
+class is intended for women, and is open to all, not just programmers.
+The class is, as the title suggests, of an introductory nature, and will
+consist of two parts. The first part introduces the fundamentals of
+programming, as implemented in Python, and the second part will be a
+hands-on session where you will get to take Python for a spin and bend
+it to your will. See the wiki for &lt;a href="http://wiki.montrealpython.org/index.php/PythonIntroduction-2011-05-03"&gt;the outline and other information&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The event is free to attend, but since there are space limitations,
+please sign up using &lt;a href="http://guestlistapp.com/events/51924"&gt;the guest list&lt;/a&gt;. Also, please bring a laptop if
+you can or make a pairing agreement beforehand. If you would like to
+bring a male friend as a guest, by all means feel free.&lt;/p&gt;
+&lt;p&gt;Looking forward to seeing you there!&lt;!--:--&gt;&lt;/p&gt;</summary></entry></feed>

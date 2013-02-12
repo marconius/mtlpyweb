@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Montréal-Python</title><link href="http://montrealpython.org/" rel="alternate"></link><link href="http://montrealpython.org/feeds/Montr%C3%A9al%20Python,%20Sprints.atom.xml" rel="self"></link><id>http://montrealpython.org/</id><updated>2012-10-29T15:25:00-04:00</updated><entry><title>Python Bug Day this Saturday in Montreal and on IRC</title><link href="http://montrealpython.org/python-bug-day.html" rel="alternate"></link><updated>2012-10-29T15:25:00-04:00</updated><author><name>Merwok</name></author><id>tag:montrealpython.org,2012-10-29:python-bug-day.html</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;This Saturday, you have the opportunity of participating in the Python
+Bug Day. How would you like to be one of the contributors of Python? If
+you have ideas for improving parts of the official documentation, the
+standard library, the language itself, or if you have a patch waiting
+for a review that you would like to see committed, or if you just want
+to come and fix an existing bug, it's your day!&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Join us for an effort at closing some Python bugs and feature requests.
+Get quick feedback on your patches and bugfixes, learn how to submit and
+examine patches, and have fun chatting with the Python developers and
+other contributors. You don’t need to know the CPython codebase or
+process to join, just Python programming knowledge.&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;p&gt;If you live in Montreal, come at Caravan to meet fellow hackers and take
+part in a physical sprint! The address is 5334 de Gaspé; we'll be there
+from 10:00 to 18:00.&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Please register at &lt;a href="http://mpbugday.eventbrite.ca/"&gt;http://mpbugday.eventbrite.ca/&lt;/a&gt;&lt;/strong&gt; to let us know
+how many people to expect. People from around the world are welcome to
+join the #python-dev IRC channel to participate in the bug day.&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;p&gt;This page contains all the information you need to get set up, see the
+list of bugs or learn about IRC:
+&lt;a href="http://wiki.python.org/moin/PythonBugDay"&gt;http://wiki.python.org/moin/PythonBugDay&lt;/a&gt; If you need any help
+beforehand, feel free to ask on &lt;a href="http://mail.python.org/mailman/listinfo/core-mentorship"&gt;core-mentorship mailing-list&lt;/a&gt;&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Thanks to &lt;a href="http://caravan.coop/"&gt;Caravan&lt;/a&gt; for sponsoring us!&lt;/strong&gt;&lt;/p&gt;
+&lt;!--:--&gt;
+
+&lt;/p&gt;</summary></entry><entry><title>Volunteering through technology</title><link href="http://montrealpython.org/volunteering-through-technology.html" rel="alternate"></link><updated>2011-11-13T21:06:00-05:00</updated><author><name>Dimitry</name></author><id>tag:montrealpython.org,2011-11-13:volunteering-through-technology.html</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;How does a developer change the world? One function at a time.
+This December the Notman House gives you a chance to join likeminded
+others and hack for a greater good.&lt;/p&gt;
+&lt;p&gt;The event is Random Hacks of Kindness and it will be hosted this
+December 3rd and 4th.&lt;/p&gt;
+&lt;p&gt;On the first day, Montreal participants will be presented real-life
+problems by representatives of Médecins Sans Frontières and the
+LIRNEasia think tank. Once a problem chosen, your team will then have
+two days to create a solution.&lt;/p&gt;
+&lt;p&gt;In this feat you will not be alone. Thousands of people world wide will
+be participating in &lt;a href="http://www.rhok.org/events"&gt;30 sister events&lt;/a&gt; along with you. Participants in
+other cities will work on solutions to the problems of their community
+or their organization.&lt;/p&gt;
+&lt;p&gt;Here in Montreal, I (Dimitry Zolotaryov) am looking for team-mates to
+represent Montreal-Python. Developers, designers, engineers and social
+media people are all welcome. Send me a message if you're interested in
+being part of an enthusiastic team: dimitry@webit.ca.&lt;/p&gt;
+&lt;p&gt;This is your chance to hack for good. Won't you accept the challenge?&lt;/p&gt;
+&lt;p&gt;Register Here: &lt;a href="http://mtlrhok.eventbrite.com/?srnk=1"&gt;http://mtlrhok.eventbrite.com/?srnk=1&lt;/a&gt; Event Page:
+&lt;a href="http://www.rhok.org/event/montr%C3%A9al-canada"&gt;http://www.rhok.org/event/montr%C3%A9al-canada&lt;/a&gt; Past Problems:
+&lt;a href="http://www.rhok.org/problems"&gt;http://www.rhok.org/problems&lt;/a&gt;&lt;!--:--&gt;&lt;/p&gt;</summary></entry><entry><title>Packaging sprint #3</title><link href="http://montrealpython.org/packaging-sprint-3.html" rel="alternate"></link><updated>2010-05-17T18:50:00-04:00</updated><author><name>Mlhamel</name></author><id>tag:montrealpython.org,2010-05-17:packaging-sprint-3.html</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;During the last packaging sprint, we were kind of clueless.
+&lt;a href="http://tarekziade.wordpress.com/"&gt;Tarek Ziade&lt;/a&gt; is coming to the rescue, and will be coaching us live
+from Dijon, France.&lt;/p&gt;
+&lt;p&gt;Thanks to his support and the many questions you will be able to ask
+him, we hope we can bring some real improvements to Python packaging
+(distutils2, distribute, and PyPi). That way we'll be able to make a
+real contribution to the community, and bring the future of Python
+packaging closer.&lt;/p&gt;
+&lt;p&gt;We recommend everyone to read carefully &lt;a href="http://guide.python-distribute.org/"&gt;The Hitchhiker’s Guide to
+Packaging&lt;/a&gt; and to ask any questions you may have on the mailing list
+before Saturday.&lt;/p&gt;
+&lt;p&gt;Next saturday (2010-05-22), from 2pm to 1am, we will be holding the next
+packaging sprint, at Brasseurs Numeriques (1124 Marie-Anne, bur. 11).
+Every Python programmer looking to help is welcome, whether it is to
+help on code or documentation.&lt;/p&gt;
+&lt;p&gt;Bring your laptop or make a pairing arrangement on the mailing list
+beforehand. We have a capacity of 12 seats, please RSVP on the &lt;a href="http://wiki.montrealpython.org/index.php/Packaging_no.3"&gt;wiki&lt;/a&gt;.
+We don't have any sponsors for this sprint, but this won't stop us.
+Bring your refreshments, and we will place a group order for supper
+around 7pm.&lt;!--:--&gt;&lt;/p&gt;</summary></entry></feed>
