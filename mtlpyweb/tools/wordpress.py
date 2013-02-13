@@ -30,7 +30,7 @@ def build_markdown_header(title, date, author, categories, slug, lang, tags):
 
 
 def build_dirname(filename, date):
-    return os.path.join(str(date.tm_year), str(date.tm_mon), filename)
+    return os.path.join(str(date.tm_year), "%02d" % date.tm_mon, filename)
 
 
 def wp2fields(xml):
