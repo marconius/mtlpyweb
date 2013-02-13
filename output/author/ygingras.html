@@ -1,1318 +1,389 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="stylesheet" type="text/css" href="../theme/css/style.css">
-	<!--<link rel="stylesheet/less" type="text/css" href="/theme/css/style.less">-->
-	<!--<script src="/theme/js/less.js" type="text/javascript"></script>-->
-	<link rel="stylesheet" type="text/css" href="../theme/css/pygments.css">
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans:800,400,300|Inconsolata' rel='stylesheet' type='text/css'>
+        <title>Montréal-Python - Ygingras</title>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="../theme/css/main.css" type="text/css" />
+                
+        <!--[if IE]>
+                <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
-	<link href="http://montrealpython.org/" type="application/atom+xml" rel="alternate" title="Montréal-Python ATOM Feed" />
-	
-			<title>Montréal-Python - Articles by Ygingras</title>
-		<meta charset="utf-8" />
-	</head>
-<body>
-	<section id="sidebar">
-		<figure id="user_logo">
-            <a href=".."><div class="logo">&nbsp;</div></a>
-		</figure>
+        <!--[if lte IE 7]>
+                <link rel="stylesheet" type="text/css" media="all" href="../css/ie.css"/>
+                <script src="../js/IE8.js" type="text/javascript"></script><![endif]-->
 
-		<div class="user_meta">
-            <h1 id="user"><a href=".." class="">Montréal-Python</a></h1>
-			<h2></h2>
-			<ul>
-																										<li><a href="http://python.org">Python.org</a></li>
-							</ul>
-		</div>
-		<footer>
-			<address>
-				Powered by <a href="http://pelican.notmyidea.org/">Pelican</a>,
-		                theme by <a href="https://github.com/wting/pelican-svbtle">wting</a>.
-			</address>
-		</footer>
-	</section>
+        <!--[if lt IE 7]>
+                <link rel="stylesheet" type="text/css" media="all" href="../css/ie6.css"/><![endif]-->
 
-	<section id="posts">
-			<header>
-		<h1>Montréal-Python's blog</h1>
-		<h3>
-			<script type="text/javascript">
-				var currentDate = new Date();
-				var day = currentDate.getDate();
-				var monthNames = [ "Jan", "Feb", "Mar", "Apr", "May", "June", "July", "Aug", "Sep", "Oct", "Nov", "Dec" ];
-				var month = monthNames[currentDate.getMonth()].toUpperCase();
-				var year = currentDate.getFullYear();
-				document.write(month + " " + day + ", " + year);
-			</script>
-		</h3>
-	</header>
+</head>
 
-	<dl>
-		<ol>
-							<li>
-					<h1 class="title">
-						<a href="../5-a-7.html" rel="bookmark" title="Permalink to Montréal-Python January 5-à-7">Montréal-Python January 5-à-7</a>
-					</h1>
-					<abbr class="published" title="2011-01-12T23:56:00">Wed 12 January 2011</abbr>
-				<div class="entry-content"> <!--:en-->
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="..">Montréal-Python </a></h1>
+                <nav><ul>
+                                                                                                    <li ><a href="../category/11.html">11</a></li>
+                                    <li ><a href="../category/2013-conferences-montreal-python-pycon.html">2013, Conferences, Montréal Python, PyCon</a></li>
+                                    <li ><a href="../category/4.html">4</a></li>
+                                    <li ><a href="../category/5.html">5</a></li>
+                                    <li ><a href="../category/7.html">7</a></li>
+                                    <li ><a href="../category/conferences.html">Conferences</a></li>
+                                    <li ><a href="../category/conferences-montreal-python.html">Conferences, Montréal Python</a></li>
+                                    <li ><a href="../category/conferences-turbo-gears.html">Conferences, Turbo Gears</a></li>
+                                    <li ><a href="../category/django.html">Django</a></li>
+                                    <li ><a href="../category/django-montreal-python-packaging-sprints.html">Django, Montréal Python, Packaging, Sprints</a></li>
+                                    <li ><a href="../category/django-montreal-python-sprints.html">Django, Montréal Python, Sprints</a></li>
+                                    <li ><a href="../category/django-sprints.html">Django, Sprints</a></li>
+                                    <li ><a href="../category/montreal-python.html">Montréal Python</a></li>
+                                    <li ><a href="../category/montreal-python-packaging-sprints.html">Montréal Python, Packaging, Sprints</a></li>
+                                    <li ><a href="../category/montreal-python-presentations.html">Montréal Python, Presentations</a></li>
+                                    <li ><a href="../category/montreal-python-sprints.html">Montréal Python, Sprints</a></li>
+                                    <li ><a href="../category/montreal-python-tutorialsworkshops.html">Montréal Python, Tutorials/Workshops</a></li>
+                                    <li ><a href="../category/montreal-python-videos.html">Montréal Python, videos</a></li>
+                                    <li ><a href="../category/packaging-sprints.html">Packaging, Sprints</a></li>
+                                    <li ><a href="../category/presentations.html">Presentations</a></li>
+                                    <li ><a href="../category/sprints.html">Sprints</a></li>
+                                    <li ><a href="../category/sprints-turbo-gears.html">Sprints, Turbo Gears</a></li>
+                                    <li ><a href="../category/tutorialsworkshops.html">Tutorials/Workshops</a></li>
+                                    <li ><a href="../category/book-review.html">book review</a></li>
+                                </ul></nav>
+        </header><!-- /#banner -->
+                
+            
+
+                            <aside id="featured" class="body">
+                <article>
+                    <h1 class="entry-title"><a href="../5-a-7.html">Montréal-Python January 5-à-7</a></h1> 
+                    <footer class="post-info">
+        <abbr class="published" title="2011-01-12T23:56:00">
+                Wed 12 January 2011
+        </abbr>
+
+                <address class="vcard author">
+                By <a class="url fn" href="../author/ygingras.html">Ygingras</a>
+        </address>
+        <p>In <a href="../category/montreal-python.html">Montréal Python</a>. </p>
+Translations: 
+            <a href="../5-a-7-fr.html">fr</a>
+    </footer><!-- /.post-info --><!--:en-->
 
 <p>Our original plans for January were to have the meeting on the
 17th but booking a room in a university at the beginning of the semester
 is a non-trivial task, not quite unlike renewing an expired passport at
-Complex Guy-Favreau.</p>
-<p>Facing the grim prospect of not drinking beer with Pythonistas ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../andrew-francis-at-europython.html" rel="bookmark" title="Permalink to Andrew Francis at EuroPython">Andrew Francis at EuroPython</a>
-					</h1>
-					<abbr class="published" title="2010-05-24T21:22:00">Mon 24 May 2010</abbr>
-				<div class="entry-content"> <!--:en-->
+Complex Guy-Favreau. Facing the grim prospect of not drinking beer with
+Pythonistas, we decided to invite you all for a very informal 5-à-7 on
+2011-01-24 at Cheval Blanc. See you there.</p>                </article>
+                            </aside><!-- /#featured -->
+                            <section id="content" class="body">
+                    <h1>Other articles</h1>
+                    <hr />
+                    <ol id="posts-list" class="hfeed">
+                                                
+
+                 
+                        <li><article class="hentry">    
+                <header>
+                    <h1><a href="../andrew-francis-at-europython.html" rel="bookmark"
+                           title="Permalink to Andrew Francis at EuroPython">Andrew Francis at EuroPython</a></h1>
+                </header>
+                
+                <div class="entry-content">
+                <footer class="post-info">
+        <abbr class="published" title="2010-05-24T21:22:00">
+                Mon 24 May 2010
+        </abbr>
+
+                <address class="vcard author">
+                By <a class="url fn" href="../author/ygingras.html">Ygingras</a>
+        </address>
+        <p>In <a href="../category/conferences.html">Conferences</a>. </p>
+Translations: 
+            <a href="../andrew-francis-at-europython-fr.html">fr</a>
+    </footer><!-- /.post-info -->                <!--:en-->
 
 <p>Andrew Francis, who did the main presentation at <a href="http://www.montrealpython.org/2010/03/montreal-python-13-on-2010-04-26/">Montréal-Python 13</a>,
 will be presenting at <a href="http://www.europython.eu/">EuroPython</a>. His talk on <a href="http://www.europython.eu/talks/talk_abstracts/#talk102">Implementing Go's
 Select</a> will be a slightly shorter version of the one that he did at
 Montréal-Python. It's good to see fellow Montréalers presenting at large
 international conferences.</p>
-<!--:-->
+                <a class="readmore" href="../andrew-francis-at-europython.html">read more</a>
+                                </div><!-- /.entry-content -->
+            </article></li>
+                            
 
-</p> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../call-for-speakers-at-confoo-ca-ends-this-friday.html" rel="bookmark" title="Permalink to Call for speakers at ConFoo.ca ends this Friday">Call for speakers at ConFoo.ca ends this Friday</a>
-					</h1>
-					<abbr class="published" title="2009-11-09T23:24:00">Mon 09 November 2009</abbr>
-				<div class="entry-content"> <!--:en-->
+                 
+                        <li><article class="hentry">    
+                <header>
+                    <h1><a href="../call-for-speakers-at-confoo-ca-ends-this-friday.html" rel="bookmark"
+                           title="Permalink to Call for speakers at ConFoo.ca ends this Friday">Call for speakers at ConFoo.ca ends this Friday</a></h1>
+                </header>
+                
+                <div class="entry-content">
+                <footer class="post-info">
+        <abbr class="published" title="2009-11-09T23:24:00">
+                Mon 09 November 2009
+        </abbr>
+
+                <address class="vcard author">
+                By <a class="url fn" href="../author/ygingras.html">Ygingras</a>
+        </address>
+        <p>In <a href="../category/conferences.html">Conferences</a>. </p>
+Translations: 
+            <a href="../call-for-speakers-at-confoo-ca-ends-this-friday-fr.html">fr</a>
+    </footer><!-- /.post-info -->                <!--:en-->
 
 <p>There is only a few days left in the <a href="http://confoo.ca/en/cfp">call for speakers</a> at
 <a href="http://confoo.ca">ConFoo.ca</a>. We would love to hear from local Pythonistas so don't
-hesitate to submit a talk proposal.<!--:--></p> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../call-for-volunteers.html" rel="bookmark" title="Permalink to Call for volunteers">Call for volunteers</a>
-					</h1>
-					<abbr class="published" title="2010-01-13T06:15:00">Wed 13 January 2010</abbr>
-				<div class="entry-content"> <!--:en-->
+hesitate to submit a talk proposal.</p>
+                <a class="readmore" href="../call-for-speakers-at-confoo-ca-ends-this-friday.html">read more</a>
+                                </div><!-- /.entry-content -->
+            </article></li>
+                            
+
+                 
+                        <li><article class="hentry">    
+                <header>
+                    <h1><a href="../call-for-volunteers.html" rel="bookmark"
+                           title="Permalink to Call for volunteers">Call for volunteers</a></h1>
+                </header>
+                
+                <div class="entry-content">
+                <footer class="post-info">
+        <abbr class="published" title="2010-01-13T06:15:00">
+                Wed 13 January 2010
+        </abbr>
+
+                <address class="vcard author">
+                By <a class="url fn" href="../author/ygingras.html">Ygingras</a>
+        </address>
+        <p>In <a href="../category/montreal-python.html">Montréal Python</a>. </p>
+Translations: 
+            <a href="../call-for-volunteers-fr.html">fr</a>
+    </footer><!-- /.post-info -->                <!--:en-->
 
 <p>Montréal-Python is involved in many activity to promote the
 growth of a strong community of Pythonistas in Montréal. Among other
 things, we have the regular meetings, the editing and publishing of
 videos, the ConFoo conference, and recently, the organization of
-sprints. In order to better manager these activities and to ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../confoo-and-pycon-end-of-early-bird-is-near.html" rel="bookmark" title="Permalink to ConFoo and PyCon: end of early bird is near">ConFoo and PyCon: end of early bird is near</a>
-					</h1>
-					<abbr class="published" title="2011-01-20T17:36:00">Thu 20 January 2011</abbr>
-				<div class="entry-content"> <!--:en-->
+sprints. In order to better manager these activities and to ...</p></!--:en-->
+                <a class="readmore" href="../call-for-volunteers.html">read more</a>
+                                </div><!-- /.entry-content -->
+            </article></li>
+                            
+
+                 
+                        <li><article class="hentry">    
+                <header>
+                    <h1><a href="../confoo-and-pycon-end-of-early-bird-is-near.html" rel="bookmark"
+                           title="Permalink to ConFoo and PyCon: end of early bird is near">ConFoo and PyCon: end of early bird is near</a></h1>
+                </header>
+                
+                <div class="entry-content">
+                <footer class="post-info">
+        <abbr class="published" title="2011-01-20T17:36:00">
+                Thu 20 January 2011
+        </abbr>
+
+                <address class="vcard author">
+                By <a class="url fn" href="../author/ygingras.html">Ygingras</a>
+        </address>
+        <p>In <a href="../category/montreal-python.html">Montréal Python</a>. </p>
+Translations: 
+            <a href="../confoo-and-pycon-end-of-early-bird-is-near-fr.html">fr</a>
+    </footer><!-- /.post-info -->                <!--:en-->
 
 <p>PyCon and ConFoo published their schedule recently and now is
 probably the time to decide where you're going to go because you have
 until next week to benefit from the early bird rate at both conferences.
-If you don't want to miss Raymond Hettinger showing us how to ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../confoo-buy-online-before-monday-for-the-best-rate.html" rel="bookmark" title="Permalink to ConFoo: buy online before Monday for the best rate">ConFoo: buy online before Monday for the best rate</a>
-					</h1>
-					<abbr class="published" title="2010-02-18T09:17:00">Thu 18 February 2010</abbr>
-				<div class="entry-content"> <!--:en-->
+If you don't want to miss Raymond Hettinger showing us how to ...</p></!--:en-->
+                <a class="readmore" href="../confoo-and-pycon-end-of-early-bird-is-near.html">read more</a>
+                                </div><!-- /.entry-content -->
+            </article></li>
+                            
+
+                 
+                        <li><article class="hentry">    
+                <header>
+                    <h1><a href="../confoo-buy-online-before-monday-for-the-best-rate.html" rel="bookmark"
+                           title="Permalink to ConFoo: buy online before Monday for the best rate">ConFoo: buy online before Monday for the best rate</a></h1>
+                </header>
+                
+                <div class="entry-content">
+                <footer class="post-info">
+        <abbr class="published" title="2010-02-18T09:17:00">
+                Thu 18 February 2010
+        </abbr>
+
+                <address class="vcard author">
+                By <a class="url fn" href="../author/ygingras.html">Ygingras</a>
+        </address>
+        <p>In <a href="../category/conferences.html">Conferences</a>. </p>
+Translations: 
+            <a href="../confoo-buy-online-before-monday-for-the-best-rate-fr.html">fr</a>
+    </footer><!-- /.post-info -->                <!--:en-->
 
 <p>Sunday is officially the last day to register for ConFoo at
-the current price.</p>
-<p>Actually, that not quite exact because as a way to thank you for reading
-this blog, we offer you \$100 of rebate. Simply follow this link to
-register at the community rate: <a href="http://confoo.ca/pymontreal">http://confoo.ca/pymontreal ...</a></p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../confoo-ca-call-for-speakers.html" rel="bookmark" title="Permalink to ConFoo.ca call for speakers">ConFoo.ca call for speakers</a>
-					</h1>
-					<abbr class="published" title="2009-09-22T07:37:00">Tue 22 September 2009</abbr>
-				<div class="entry-content"> <!--:en-->
+the current price. Actually, that not quite exact because as a way to
+thank you for reading this blog, we offer you $100 of rebate. Simply
+follow this link to register at the community rate:
+<a href="http://confoo.ca/pymontreal">http://confoo.ca/pymontreal ...</a></p></!--:en-->
+                <a class="readmore" href="../confoo-buy-online-before-monday-for-the-best-rate.html">read more</a>
+                                </div><!-- /.entry-content -->
+            </article></li>
+                            
+
+                 
+                        <li><article class="hentry">    
+                <header>
+                    <h1><a href="../confoo-ca-call-for-speakers.html" rel="bookmark"
+                           title="Permalink to ConFoo.ca call for speakers">ConFoo.ca call for speakers</a></h1>
+                </header>
+                
+                <div class="entry-content">
+                <footer class="post-info">
+        <abbr class="published" title="2009-09-22T07:37:00">
+                Tue 22 September 2009
+        </abbr>
+
+                <address class="vcard author">
+                By <a class="url fn" href="../author/ygingras.html">Ygingras</a>
+        </address>
+        <p>In <a href="../category/conferences.html">Conferences</a>. </p>
+Translations: 
+            <a href="../confoo-ca-call-for-speakers-fr.html">fr</a>
+    </footer><!-- /.post-info -->                <!--:en-->
 
 <p>PHP-Québec, Montréal-Python, Ruby Montréal, W3Qc, and OWASP
 Montréal are organizing the first edition of the <a href="http://confoo.ca">ConFoo.ca
 conference</a>, which will be held in Montréal on March 10th through 12th
 at the Hilton Bonaventure Hotel. With over 500 expected attendees,
 <a href="http://confoo.ca">ConFoo.ca</a> is one of the the largest Web
-development conference ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../confoo-early-bird-rate-ends-soon.html" rel="bookmark" title="Permalink to ConFoo early bird rate ends soon">ConFoo early bird rate ends soon</a>
-					</h1>
-					<abbr class="published" title="2010-01-20T17:47:00">Wed 20 January 2010</abbr>
-				<div class="entry-content"> <!--:en-->
+development conference ...</p></!--:en-->
+                <a class="readmore" href="../confoo-ca-call-for-speakers.html">read more</a>
+                                </div><!-- /.entry-content -->
+            </article></li>
+                            
+
+                 
+                        <li><article class="hentry">    
+                <header>
+                    <h1><a href="../confoo-early-bird-rate-ends-soon.html" rel="bookmark"
+                           title="Permalink to ConFoo early bird rate ends soon">ConFoo early bird rate ends soon</a></h1>
+                </header>
+                
+                <div class="entry-content">
+                <footer class="post-info">
+        <abbr class="published" title="2010-01-20T17:47:00">
+                Wed 20 January 2010
+        </abbr>
+
+                <address class="vcard author">
+                By <a class="url fn" href="../author/ygingras.html">Ygingras</a>
+        </address>
+        <p>In <a href="../category/conferences.html">Conferences</a>. </p>
+Translations: 
+            <a href="../confoo-early-bird-rate-ends-soon-fr.html">fr</a>
+    </footer><!-- /.post-info -->                <!--:en-->
 
 <p>There's only a few days left to benefit from the early bird
 rate at ConFoo. Don't wait and <a href="http://confoo.ca/en/register">reserve now</a> the opportunity to meet
 international experts on Web development. At ConFoo, you will get to
 discuss with famous Pythonistas such as Tarek Ziadé (distribute),
-Antoine Pitrou (core Python ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../confoo-is-tomorrow.html" rel="bookmark" title="Permalink to ConFoo is Tomorrow">ConFoo is Tomorrow</a>
-					</h1>
-					<abbr class="published" title="2010-03-09T11:30:00">Tue 09 March 2010</abbr>
-				<div class="entry-content"> <!--:en-->
+Antoine Pitrou (core Python ...</p></!--:en-->
+                <a class="readmore" href="../confoo-early-bird-rate-ends-soon.html">read more</a>
+                                </div><!-- /.entry-content -->
+            </article></li>
+                            
+
+                 
+                        <li><article class="hentry">    
+                <header>
+                    <h1><a href="../confoo-is-tomorrow.html" rel="bookmark"
+                           title="Permalink to ConFoo is Tomorrow">ConFoo is Tomorrow</a></h1>
+                </header>
+                
+                <div class="entry-content">
+                <footer class="post-info">
+        <abbr class="published" title="2010-03-09T11:30:00">
+                Tue 09 March 2010
+        </abbr>
+
+                <address class="vcard author">
+                By <a class="url fn" href="../author/ygingras.html">Ygingras</a>
+        </address>
+        <p>In <a href="../category/conferences.html">Conferences</a>. </p>
+Translations: 
+            <a href="../confoo-is-tomorrow-fr.html">fr</a>
+    </footer><!-- /.post-info -->                <!--:en-->
 
 <p>ConFoo starts tomorrow but that it's not too late to register. Don't
 miss that unique opportunity to meet famous Pythonistas such as <a href="http://confoo.ca/en/2010/session/html5-where-are-we-now">Mark
 Pilgrim</a> (Dive into Python), <a href="http://confoo.ca/en/2010/session/python-tips-tricks-and-idioms">Raymond Hettinger</a> (core Python),
 <a href="http://confoo.ca/en/2010/session/le-packaging-avec-python">Tarek Ziadé</a> (Distribute), and <a href="http://confoo.ca/en/2010/session/web-et-python-optimiser-vos-applications">Antoine Pitrou</a> (new GIL).</p>
-<!--:-->
+                <a class="readmore" href="../confoo-is-tomorrow.html">read more</a>
+                                </div><!-- /.entry-content -->
+            </article></li>
+                            
 
-</p> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../confoo-release-of-the-presentation-list-and-flash-sale.html" rel="bookmark" title="Permalink to ConFoo: release of the presentation list and flash sale">ConFoo: release of the presentation list and flash sale</a>
-					</h1>
-					<abbr class="published" title="2009-12-03T15:31:00">Thu 03 December 2009</abbr>
-				<div class="entry-content"> <!--:en-->
+                 
+                        <li><article class="hentry">    
+                <header>
+                    <h1><a href="../confoo-release-of-the-presentation-list-and-flash-sale.html" rel="bookmark"
+                           title="Permalink to ConFoo: release of the presentation list and flash sale">ConFoo: release of the presentation list and flash sale</a></h1>
+                </header>
+                
+                <div class="entry-content">
+                <footer class="post-info">
+        <abbr class="published" title="2009-12-03T15:31:00">
+                Thu 03 December 2009
+        </abbr>
+
+                <address class="vcard author">
+                By <a class="url fn" href="../author/ygingras.html">Ygingras</a>
+        </address>
+        <p>In <a href="../category/conferences.html">Conferences</a>. </p>
+Translations: 
+            <a href="../confoo-release-of-the-presentation-list-and-flash-sale-fr.html">fr</a>
+    </footer><!-- /.post-info -->                <!--:en-->
 
 <p>The ConFoo.ca team is pleased to announce the release of the
-<a href="http://confoo.ca/en/session">presentations list</a>.</p>
-<p>From over 450 proposals, the ConFoo.ca team has selected the very best
-in order to offer you a conference that covers everything Web
-development, from front-end to back-end, including programming in
-various languages and project ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../confoo-the-list-of-selected-talks-is-online.html" rel="bookmark" title="Permalink to ConFoo: the list of selected talks is online">ConFoo: the list of selected talks is online</a>
-					</h1>
-					<abbr class="published" title="2011-01-06T14:32:00">Thu 06 January 2011</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>ConFoo just published the <a href="http://confoo.ca/en/2011/session">list of selected talks</a> and we're really
-proud of the Python track. Stay tuned for the unveiling of the complete
-schedule.</p>
-<!--:-->
-
-</p> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../confoo-the-schedule-is-online.html" rel="bookmark" title="Permalink to ConFoo: the schedule is online">ConFoo: the schedule is online</a>
-					</h1>
-					<abbr class="published" title="2010-01-12T13:23:00">Tue 12 January 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>The ConFoo team is pleased to unveil the <a href="http://confoo.ca/en/schedule">conference
-schedule</a>. With over 130 presentations in 8 rooms, ConFoo brings you
-the best of web development.</p>
-<p>Over 100 specialists will be present at the conference to share their
-knowledge during talks and training. Among them will be:</p>
-<ul>
-<li><a href="http://confoo.ca/en/2010/speaker/raymond-hettinger">Raymond Hettinger</a></li>
-<li><a href="http://confoo.ca/en/2010/speaker/antoine-pitrou">Antoine Pitrou ...</a></li></ul></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../confoobar.html" rel="bookmark" title="Permalink to ConFooBar">ConFooBar</a>
-					</h1>
-					<abbr class="published" title="2011-01-25T23:24:00">Tue 25 January 2011</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>According to the success of our last 5-à-7 at Cheval Blanc,
-we're forced to admit that Pythonistas are beer fans. Of course we like
-to hang around together, we Pythonistas, but we shouldn't be afraid to
-drop a pint whilst enjoying the company of coders from other horizons ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../confoobbq.html" rel="bookmark" title="Permalink to ConFooBBQ">ConFooBBQ</a>
-					</h1>
-					<abbr class="published" title="2010-08-31T21:46:00">Tue 31 August 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>This year again, <a href="http://confoo.ca/en">ConFoo</a> is going to be a major conference
-on Web development bringing together many of the local communities. To
-celebrate this synergy, everyone is invited to ConFooBBQ, the BBQ for
-developers and other actors of the Web.</p>
-<p>The BBQ will take place on 2010-09-11 starting at 1h00 ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../confoobbq-for-developers.html" rel="bookmark" title="Permalink to ConFooBBQ: BBQ for Developers">ConFooBBQ: BBQ for Developers</a>
-					</h1>
-					<abbr class="published" title="2009-08-31T21:07:00">Mon 31 August 2009</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p><strong>update:</strong> Thanks to our generous sponsors Iweb and Microsost
-Canada, the event is now free of charge.</p>
-<p>PHP-Québec, Montréal-Python, Ruby Montréal, W3Qc, and OWASP Montréal are
-glad to invite you to <a href="http://www.facebook.com/event.php?eid=154314716205&amp;ref=nf">ConFooBBQ</a>, the BBQ for developers.</p>
-<p>Inspired by PHP-Québec's legendary PHP-BBQ, ConFooBBQ offers a unique
-opportunity to relax and ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../democamp-at-mont-royal-center-on-2009-12-02.html" rel="bookmark" title="Permalink to DemoCamp at Mont-Royal Center on 2009-12-02">DemoCamp at Mont-Royal Center on 2009-12-02</a>
-					</h1>
-					<abbr class="published" title="2009-11-24T16:07:00">Tue 24 November 2009</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>There is a <a href="http://careerdemocamp.eventbrite.com/">DemoCamp</a> at Mont-Royal Center on 2009-12-02.
-With a schedule jam packed with live demos and presentations, this is a
-good occasion to meet other developers and see who is working on what in
-the area.</p>
-<!--:--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../django-sprint-follow-up.html" rel="bookmark" title="Permalink to Django sprint follow-up">Django sprint follow-up</a>
-					</h1>
-					<abbr class="published" title="2010-01-19T09:42:00">Tue 19 January 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>The django translation sprint was a clear success. A team of
-eight sprinters worked on the Django documentation and after an intense
-training session on the toolchain, we were able complete a sizable part
-of the API documentation. Our coach, Mathieu Leduc-Hamel, did a great
-job pinpointing the relevent documents ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../django-translation-sprint-2-on-2010-02-15.html" rel="bookmark" title="Permalink to Django translation sprint #2 on 2010-02-15">Django translation sprint #2 on 2010-02-15</a>
-					</h1>
-					<abbr class="published" title="2010-01-23T13:46:00">Sat 23 January 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Given the popularity of the <a href="http://montrealpython.org/2010/01/15/django-translation-sprint-on-2010-01-18/">first Django translation
-sprint</a>, we decided to do it again. The next sprint will be on
-2010-02-15 at Brasseurs Numériques' office:</p>
-<p>1124 Marie-Anne, suite 11,  Montréal, Qc H2J 2B7</p>
-<p>We warmly thank <a href="http://www.auf.org/">Agence Universitaire de la Francophonie</a> for
-supporting the event with food and drinks ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../django-translation-sprint-on-2010-01-18.html" rel="bookmark" title="Permalink to Django translation sprint on 2010-01-18">Django translation sprint on 2010-01-18</a>
-					</h1>
-					<abbr class="published" title="2010-01-15T14:20:00">Fri 15 January 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Montréal-Python helps with the French translation of the
-Django documentation Monday 2010-01-18.  Brasseurs Numériques, a  young
-Montréal startup, will host us in their office:</p>
-<p>Brasseurs Numériques 1124 Marie-Anne, bureau 11 Montréal, Qc H2J 2B7</p>
-<p>The sprint begins at 18h and ends once everyone is too tired to type.
-Bring your ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../end-of-confoo-cfp.html" rel="bookmark" title="Permalink to ConFoo call for speakers: 10 days left!">ConFoo call for speakers: 10 days left!</a>
-					</h1>
-					<abbr class="published" title="2010-11-17T22:57:00">Wed 17 November 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>ConFoo, a leading conference on all aspect of the Web,
-including Python, PHP, Ruby, databases, and scaling, is still running
-its call for speakers.</p>
-<p>You think that you can teach us where the Web is heading to? <strong>Don't
-wait</strong> and <a href="http://confoo.ca/en/call-for-papers">submit a talk now</a> because you only have <strong>10 ...</strong></p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../flash-prentations-for-mp-17.html" rel="bookmark" title="Permalink to Flash Prentations for MP-17">Flash Prentations for MP-17</a>
-					</h1>
-					<abbr class="published" title="2010-11-24T21:17:00">Wed 24 November 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p><a href="http://montrealpython.org/2010/11/mp-17/">Montréal-Python 17</a> (code name Apotropaic Archeologist) is
-next Monday and we have the pleasure to announce the list of flash
-presentations:</p>
-<ul>
-<li>Maxime Dupuis on a playlist generator in Python</li>
-<li>Alok Mohindra on Django debuging strategies</li>
-<li>Jean Schurger on XMPP and Mercurial</li>
-<li>Janina Szkut on RESTful API with Django</li>
-<li>Simon Law ...</li></ul></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../flash-presentations-for-montreal-python-12.html" rel="bookmark" title="Permalink to Flash presentations for Montréal-Python 12">Flash presentations for Montréal-Python 12</a>
-					</h1>
-					<abbr class="published" title="2010-03-18T10:11:00">Thu 18 March 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>We are happy to annouce the list of flash presentations for
-<a href="http://www.montrealpython.org/2010/03/montreal-python-12-on-2010-03-22/">Montréal-Python 12</a> next Monday:</p>
-</p>
-
-<ul>
-<li>Antoine Reversat -- Python for Sysadmins</li>
-<li>Francis Piéraut -- Jython and Tomcat</li>
-<li>Sébastien Pierre -- Rugg: crash-testing for your hard drives</li>
-<li>Hadrien David -- Déploiement sur AppEngine</li>
-<li>Gary Haran -- Montreal, from Ghetto to Hub</li>
-</ul>
-<!--:-->
-
-</p> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../flash-presentations-for-montreal-python-13.html" rel="bookmark" title="Permalink to Flash presentations for Montréal-Python 13">Flash presentations for Montréal-Python 13</a>
-					</h1>
-					<abbr class="published" title="2010-04-19T23:01:00">Mon 19 April 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>We are happy to annouce the list of flash presentations for
-<a href="http://www.montrealpython.org/2010/03/montreal-python-13-on-2010-04-26/">Montréal-Python 13</a> next Monday:</p>
-<ul>
-<li>Hao Deng on Pointfree Functional Programming in Python</li>
-<li>Pierre Thibault on ipython</li>
-<li>Alexandre Bourget on WebUndo</li>
-<li>Sébastien Pierre on a surprise topic</li>
-<li>Yannick Gingras on the Montréal-Python wiki</li>
-</ul>
-<!--:-->
-
-</p> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../follow-up-on-montreal-python-8.html" rel="bookmark" title="Permalink to Follow-up on Montréal Python 8">Follow-up on Montréal Python 8</a>
-					</h1>
-					<abbr class="published" title="2009-07-27T07:43:00">Mon 27 July 2009</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Here is a follow-up on Montréal Python 8. By popular demand,
-we will try and do our best to post the slides and example files online
-after the event.</p>
-<p>Flash presenters at MP8 were:</p>
-<ul>
-<li>Jennifer Bell: <a href="http://visiblegovernment.ca">visiblegovernment.ca</a> and <a href="http://fixmystreet.ca">fixmystreet.ca</a> --
-    Google Maps API and Geodjango (<a href="http://montrealpython.com/wp-content/uploads/2009/07/mp8-visiblegovermento.pdf">slides</a>, <a href="http://github.com/visiblegovernment">code</a>)</li>
-<li>Sébastien Pierre ...</li></ul></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../follow-up-on-montreal-python-9.html" rel="bookmark" title="Permalink to Follow-up on Montréal-Python 9">Follow-up on Montréal-Python 9</a>
-					</h1>
-					<abbr class="published" title="2009-10-19T09:00:00">Mon 19 October 2009</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Here is a follow-up on Montréal Python 9.</p>
-<p>First, the video was uploaded to our <a href="http://montrealpython.blip.tv/">blip.tv channel</a>. It's currently
-queued for transcoding and should show up in the coming days.</p>
-<p>Based on your feedback, we continue posting the slides and examples used
-during the presentations. Our flash presenters ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../follow-up-on-the-4th-django-sprint.html" rel="bookmark" title="Permalink to Follow-up on the 4th Django Sprint">Follow-up on the 4th Django Sprint</a>
-					</h1>
-					<abbr class="published" title="2010-05-04T19:30:00">Tue 04 May 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>The <a href="http://montrealpython.org/2010/04/django-translation-sprint-4/">fourth Django translation sprint</a> was very productive.
-The group is now experienced and we can at last spend more time
-strugling with the language than with the tools. Anyone knows a good
-translation for "file handler"?</p>
-<p>We hope to launch a new sprint a few weeks from now; watch ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../follow-up-on-the-second-django-sprint.html" rel="bookmark" title="Permalink to Follow-up on the second Django sprint">Follow-up on the second Django sprint</a>
-					</h1>
-					<abbr class="published" title="2010-02-18T10:28:00">Thu 18 February 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>The <a href="http://montrealpython.org/2010/01/23/django-translation-sprint-2-on-2010-02-15/">second Django sprint</a> was another clear success. It was
-a pleasant surprise to have so many volunteer and we filled the
-Brasseurs Numériques' office at capacity with 12 sprinters.</p>
-<p>Thanks to <a href="http://www.auf.org/">Agence Universitaire de la Francophonie</a> for sponsoring the
-event and a very special thank to all the sprinters ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../founderfuel-second-round.html" rel="bookmark" title="Permalink to FounderFuel: second round">FounderFuel: second round</a>
-					</h1>
-					<abbr class="published" title="2011-11-12T20:39:00">Sat 12 November 2011</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Let me tell you a story… Two years ago, I embarked on this great
-adventure starting <a href="http://ajah.ca">a company</a>, raising high my Python sword and
-slashing all the challenges that I would face during my journey.</p>
-</p>
-
-<p>This feeling that warms you up when someone finds your code so useful
-that they ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../google-appengine-hackathon-in-january.html" rel="bookmark" title="Permalink to Google AppEngine Hackathon in January">Google AppEngine Hackathon in January</a>
-					</h1>
-					<abbr class="published" title="2010-12-20T22:39:00">Mon 20 December 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Year One Labs will be hosting a hackathon on Google App Engine
-on 2011-01-22. With Sean Lynch, an App Engine project manager on-site,
-it should be a fun time. More infos on the <a href="http://www.yearonelabs.com/google-hackathon/">Year One Labs
-website</a>.<!--:--></p> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../libre-graphics-meeting-2011.html" rel="bookmark" title="Permalink to Libre Graphics Meeting 2011">Libre Graphics Meeting 2011</a>
-					</h1>
-					<abbr class="published" title="2011-01-12T22:32:00">Wed 12 January 2011</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>João Bueno wrote to let us know the <a href="http://www.libregraphicsmeeting.org/2011/index.php">Libre Graphics Meeting</a>
-will be back in Montréal in 2011. In the past, Libre Graphics Meeting
-always featured a healthy dose of Python. Indeed, essentially all the
-modern graphic tools on a GNU/Linux desktop are scriptable in Python, if
-not written ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../list-of-flash-presentations-at-montreal-python-11.html" rel="bookmark" title="Permalink to List of flash presentations at Montréal-Python 11">List of flash presentations at Montréal-Python 11</a>
-					</h1>
-					<abbr class="published" title="2010-01-22T17:39:00">Fri 22 January 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>The list of flash presentation at <a href="/2010/01/16/montreal-python-11-2010-01-25-at-uqam/">Montréal-Python 11</a> is
-out:</p>
-<ul>
-<li>David Goodger: BIG &amp; BOLD Slides With reST &amp; S5</li>
-<li>Hadrien David: Deploiement sur AppEngine</li>
-<li>Mathieu Leduc-Hamel: Sprints de programmation et de traduction</li>
-<li>Mathieu Viau: ConFoo Jobfair</li>
-<li>Jean Schurger: Emacs pour les Pythoneux</li>
-<li>Mathieu Trudel-Lapierre: Packaging de projets Python pour Debian et ...</li></ul></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../list-of-presenters-for-montreal-python-9.html" rel="bookmark" title="Permalink to List of presenters for Montréal-Python 9">List of presenters for Montréal-Python 9</a>
-					</h1>
-					<abbr class="published" title="2009-09-28T14:53:00">Mon 28 September 2009</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Montréal-Python 9 is this Wednesday at room PK-5115 of UQAM at
-6 PM.</p>
-<p>We have a lot of very interesting flash presentations scheduled for the
-event:</p>
-<ul>
-<li>Simon Law: Cygwinreg and ctypes -- Using the Windows registry from
-    Cygwin</li>
-<li>Mathieu Chartier: ConFoo.ca -- One of the largest Web development
-    conference in North-America ...</li></ul></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../meetup-on-2009-11-04-at-pub-ste-elizabeth.html" rel="bookmark" title="Permalink to Meetup on 2009-11-04 at Pub Ste-Elizabeth">Meetup on 2009-11-04 at Pub Ste-Elizabeth</a>
-					</h1>
-					<abbr class="published" title="2009-10-29T03:13:00">Thu 29 October 2009</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>For the November meetup, we will gather in a pub for informal
-Python discussions instead of doing the regular meetings with
-presentations. We'll meet at <a href="http://beeradvocate.com/beer/profile/10019">Pub Ste-Elizabeth</a> next Wednesday
-(2009-11-04) at 6 PM.</p>
-<p>Don't forget about the AppEngine presentation at Station-C tonight and
-we still have the TurboGears ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../mission.html" rel="bookmark" title="Permalink to Mission">Mission</a>
-					</h1>
-					<abbr class="published" title="2010-01-13T06:07:00">Wed 13 January 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>A few weeks ago, the Montréal-Python organizers decided to
-agree on a mission statement. After considerable work on getting the
-wording right, we are happy to release our <a href="http://montrealpython.org/about/">official mission</a>.</p>
-<ul>
-<li>Yannick Gingras</li>
-<li>Alexis Laferrière</li>
-<li>Nathanaël Lécaudé</li>
-<li>Éric St-Jean</li>
-<li>Arach Tchoupani</li>
-</ul>
-<!--:-->
-
-</p> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../montreal-open-data-hackathon.html" rel="bookmark" title="Permalink to Montréal Open Data Hackathon">Montréal Open Data Hackathon</a>
-					</h1>
-					<abbr class="published" title="2011-11-02T19:42:00">Wed 02 November 2011</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>We live in Montréal and we hack Python code; this is who we
-are. Right now, it just got event more exciting to be a hacker in this
-city. We hack code, but when our code interacts with cool data, the
-dance is a lot spicier. On Wednesday, the city ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../montreal-python-10-2009-12-09-at-uqam.html" rel="bookmark" title="Permalink to Montréal-Python 10: 2009-12-09 at UQAM">Montréal-Python 10: 2009-12-09 at UQAM</a>
-					</h1>
-					<abbr class="published" title="2009-11-22T10:36:00">Sun 22 November 2009</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Montréal-Python 10 will take place at UQAM, on Wednesday
-2009-12-09 in room <strong>PK-5115</strong> of the President-Kenedy building. The PK
-building is located at <a href="http://www.uqam.ca/campus/pavillons/pk.htm">201 Président-Kenedy</a>, it also has a direct
-entrance to the Place-des-Arts metro station.</p>
-<p>Here is our schedule for the evening:</p>
-<ul>
-<li>18h00: Opening</li>
-<li>18h20: Announcements</li>
-<li>18h30: Flash presentations ...</li></ul></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../montreal-python-11-2010-01-25-at-uqam.html" rel="bookmark" title="Permalink to Montréal-Python 11: 2010-01-25 at UQAM">Montréal-Python 11: 2010-01-25 at UQAM</a>
-					</h1>
-					<abbr class="published" title="2010-01-16T22:23:00">Sat 16 January 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Montréal-Python 11 will take place at UQAM, on Monday
-2010-01-25 in room SH-3340 of the Sherbrooke building. The SH building
-is located at <a href="http://www.uqam.ca/campus/pavillons/sh.htm">200 Sherbrooke west</a>, Place-des-Arts metro station.</p>
-<p>Here is our schedule for the evening:</p>
-<ul>
-<li>18h00: Opening</li>
-<li>18h20: Announcements</li>
-<li>18h30: Flash presentations</li>
-<li>19h00: Break</li>
-<li>19h20: Main presentation</li>
-<li>20h30: Discussions ...</li></ul></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../montreal-python-12-on-2010-03-22.html" rel="bookmark" title="Permalink to Montréal-Python 12 on 2010-03-22">Montréal-Python 12 on 2010-03-22</a>
-					</h1>
-					<abbr class="published" title="2010-03-09T11:00:00">Tue 09 March 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Montréal-Python 12 will take place at UQAM, on Monday
-2010-03-22 in room SH-3420 of the Sherbrooke building. The SH building
-is located at <a href="http://www.uqam.ca/campus/pavillons/sh.htm">200 Sherbrooke west</a>, Place-des-Arts metro station.</p>
-<p>Here is our schedule for the evening:</p>
-<ul>
-<li>18h00: Opening</li>
-<li>18h20: Announcements</li>
-<li>18h30: Flash presentations</li>
-<li>19h00: Break</li>
-<li>19h20: Main presentation</li>
-<li>20h30: Discussions ...</li></ul></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../montreal-python-13-on-2010-04-26.html" rel="bookmark" title="Permalink to Montréal-Python 13 on 2010-04-26">Montréal-Python 13 on 2010-04-26</a>
-					</h1>
-					<abbr class="published" title="2010-03-30T11:02:00">Tue 30 March 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Montréal-Python 13 will take place at UQAM, on Monday
-2010-04-26 in room SH-3420 of the Sherbrooke building. The SH building
-is located at <a href="http://www.uqam.ca/campus/pavillons/sh.htm">200 Sherbrooke west</a>, Place-des-Arts metro station.</p>
-<p>Here is our schedule for the evening:</p>
-<ul>
-<li>18h00: Opening</li>
-<li>18h20: Announcements</li>
-<li>18h30: Flash presentations</li>
-<li>19h00: Break</li>
-<li>19h20: Main presentation</li>
-<li>20h30: Discussions ...</li></ul></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../montreal-python-2-videos-online.html" rel="bookmark" title="Permalink to Montreal Python #2 - videos online">Montreal Python #2 - videos online</a>
-					</h1>
-					<abbr class="published" title="2008-05-12T22:23:00">Mon 12 May 2008</abbr>
-				<div class="entry-content"> <p>We are pleased to announce the immediate availability of the videos of
-Montreal Python #2.</p>
-<ul>
-<li><a href="http://video.google.com/videoplay?docid=-2134430227299882771">Cyril Robert: Asterisk and Python</a></li>
-<li><a href="http://video.google.com/videoplay?docid=1831337244910918313">Yannick Gingras: Practical intro to PyQt and PyOpenGL</a></li>
-</ul>
-<p>Thanks to Pior Bastida for his hard work behind the camera and for the
-edition.</p>
-<p>-- <a href="http://ygingras.net">Yannick Gingras</a></p>
-</p> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../montreal-python-5.html" rel="bookmark" title="Permalink to Montreal Python 5">Montreal Python 5</a>
-					</h1>
-					<abbr class="published" title="2009-02-12T08:01:00">Thu 12 February 2009</abbr>
-				<div class="entry-content"> <p>We have the pleasure to announce that Montreal Python 5 will be on
-2009-02-26 at <a href="http://labanque.ca">La Banque</a>.</p>
-</p>
-
-<p>The main presentation will be Alexandre Vassalotti on Porting your Code
-to Python 3:</p>
-<p><em>Python 3, also colloquially known as Python 3000, is now out for
-general use. Unfortunately, its usage is limited ...</em></p> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../montreal-python-6-2009-04-14.html" rel="bookmark" title="Permalink to Montreal Python 6: 2009-04-14">Montreal Python 6: 2009-04-14</a>
-					</h1>
-					<abbr class="published" title="2009-03-04T13:08:00">Wed 04 March 2009</abbr>
-				<div class="entry-content"> <p>We are pleased to announce that Montreal Python 6 will be on 2009-04-14
-at <a href="http://labanque.ca">La Banque</a>.</p>
-</p>
-
-<p>Our main presenter will be <a href="http://fraka6.blogspot.com">Francis Piéraut</a> on Machine Learning
-empowered by Python:</p>
-<p></p>
-<p></p>
-<blockquote>
-</p>
-
-<p>Machine Learning is a subfield of AI that considers learning patterns
-from existing data. Related applications are increasing in many fields ...</p></blockquote> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../montreal-python-6-on-2009-04-14-detailed-schedule.html" rel="bookmark" title="Permalink to Montreal Python 6 on 2009-04-14: detailed schedule">Montreal Python 6 on 2009-04-14: detailed schedule</a>
-					</h1>
-					<abbr class="published" title="2009-04-11T18:19:00">Sat 11 April 2009</abbr>
-				<div class="entry-content"> <p>As you hopefully know by now, Montreal Python 6 is this Tuesday at <a href="http://labanque.ca/">la
-Banque</a>. Here is our schedule for the evening:</p>
-<ul>
-<li>18h00: Opening</li>
-<li>18h45: Announcements and flash presentations</li>
-<li>19h15: Break</li>
-<li>19h45: Main presentation: Francis Piéraut on Machine Learning
-    empowered by Python</li>
-</ul>
-<p>Flash presenters will be:</p>
-<ul>
-<li>Nathanaël Lécaudé: PyMT: module ...</li></ul> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../montreal-python-7-2009-05-27-at-la-banque.html" rel="bookmark" title="Permalink to Montreal Python 7: 2009-05-27 at La Banque">Montreal Python 7: 2009-05-27 at La Banque</a>
-					</h1>
-					<abbr class="published" title="2009-04-24T12:15:00">Fri 24 April 2009</abbr>
-				<div class="entry-content"> <p>We are pleased to announce that Montreal Python 7 will be on Wednesday
-2009-05-27 at <a href="http://labanque.ca/">La Banque</a>, <a href="http://maps.google.ca/maps?f=q&amp;hl=fr&amp;geocode=&amp;q=175+rue+Roy+e,+Montr%C3%A9al&amp;sll=49.891235,-97.15369&amp;sspn=32.875467,90.615234&amp;ie=UTF8&amp;ll=45.517068,-73.57456&amp;spn=0.00869,0.022123&amp;z=16&amp;iwloc=addr">175 Roy E</a>. Based on your feedback,
-we'll start earlier and we'll have a tighter schedule.</p>
-<p>Here is our schedule for the evening:</p>
-<ul>
-<li>18h00: Opening</li>
-<li>18h20: Announcements</li>
-<li>18h30: Flash presentations</li>
-<li>19h00 ...</li></ul> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../montreal-python-8-2009-07-08-at-uqam.html" rel="bookmark" title="Permalink to Montreal Python 8: 2009-07-08 at UQAM">Montreal Python 8: 2009-07-08 at UQAM</a>
-					</h1>
-					<abbr class="published" title="2009-06-10T09:42:00">Wed 10 June 2009</abbr>
-				<div class="entry-content"> <p>Greetings Pythonistas of Montréal, we have the pleasure to announce that
-Montréal Python 8 will take place at UQAM on Wednesday 2009-07-08. The
-event will be in room SH-2420 of the <a href="http://www.uqam.ca/campus/pavillons/sh.htm">Sherbrooke building</a>, located at
-200 Sherbrooke west</p>
-<p>Here is our schedule for the evening:</p>
-<ul>
-<li>18h00: Opening</li>
-<li>18h20: Announcements</li>
-<li>18h30 ...</li></ul> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../montreal-python-9-2009-09-30-at-uqam.html" rel="bookmark" title="Permalink to Montréal-Python 9: 2009-09-30 at UQAM">Montréal-Python 9: 2009-09-30 at UQAM</a>
-					</h1>
-					<abbr class="published" title="2009-09-02T16:11:00">Wed 02 September 2009</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p><strong>update:</strong>the event was moved from the 23rd to the 30th.</p>
-<p>Montréal-Python 9 will take place at UQAM, on Wednesday 2009-09-30 in
-room PK-5115 of the President-Kenedy building. The PK building is
-located at <a href="http://www.uqam.ca/campus/pavillons/pk.htm">201 Président-Kenedy</a>, the street that is also called
-Ontario on the east side of St-Laurent. The ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../mp-15.html" rel="bookmark" title="Permalink to Montréal-Python 15 on 2010-07-26">Montréal-Python 15 on 2010-07-26</a>
-					</h1>
-					<abbr class="published" title="2010-06-16T19:20:00">Wed 16 June 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p><strong>update</strong>: the event is delayed by one week. The new date is
-2010-07-26.</p>
-<p>Montréal-Python 15 will take place in room SH-3420 of UQAM on
-2010-07-26. This is in the <a href="http://www.uqam.ca/campus/pavillons/sh.htm">Sherbrooke building</a>. It will be a scaling
-and deployment themed edition.</p>
-<p>Here is our schedule for the evening:</p>
-<ul>
-<li>18h00: Opening</li>
-<li>18h20 ...</li></ul></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../mp-15-room-and-flash-presentations.html" rel="bookmark" title="Permalink to MP-15: room and flash presentations">MP-15: room and flash presentations</a>
-					</h1>
-					<abbr class="published" title="2010-07-23T18:34:00">Fri 23 July 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>As most of you certainly know by now, <a href="http://montrealpython.org/2010/06/mp-15/">Montréal-Python 15</a> is next
-Monday. We now have the room number and the list of flash presentations.
-It will be in room SH-3420 of the Sherbrooke building and flash
-presenters are going to be:</p>
-<ul>
-<li>Pierre Thibault on ipython</li>
-<li>Dimitry Zolotaryov on dealing ...</li></ul></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../mp-16.html" rel="bookmark" title="Permalink to Montréal-Python 16 on 2010-10-18">Montréal-Python 16 on 2010-10-18</a>
-					</h1>
-					<abbr class="published" title="2010-10-10T00:37:00">Sun 10 October 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Montréal-Python 16 will take place in room PK-1620 of UQAM on
-2010-10-18. This is in the <a href="http://www.uqam.ca/campus/pavillons/pk.htm">President-Kennedy building</a>. It will be a
-Python in the cloud themed edition.</p>
-<p>Here is our schedule for the evening:</p>
-<ul>
-<li>18h00: Opening</li>
-<li>18h20: Announcements</li>
-<li>18h30: Flash presentations</li>
-<li>19h00: Break</li>
-<li>19h20: Main presentations</li>
-<li>20h30: Discussions and ...</li></ul></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../mp-16-flash.html" rel="bookmark" title="Permalink to Flash Prentations for MP-16">Flash Prentations for MP-16</a>
-					</h1>
-					<abbr class="published" title="2010-10-15T19:00:00">Fri 15 October 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p><a href="http://montrealpython.org/2010/10/mp-16/">Montréal-Python 16</a> is next Monday and we are pleased to announce who
-our flash presenters are going to be:</p>
-</p>
-
-<ul>
-<li>Cyril Robert on CalDAV for Python</li>
-<li>George Peristerakis on an introduction to lib2to3</li>
-<li>Ben Yoskovitz on Year One Labs</li>
-<li>Amos Latteier on sending SMS with a GSM modem from Python</li>
-<li>Jean ...</li></ul></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../mp-17.html" rel="bookmark" title="Permalink to Montréal-Python 17 on 2010-11-29">Montréal-Python 17 on 2010-11-29</a>
-					</h1>
-					<abbr class="published" title="2010-11-03T14:50:00">Wed 03 November 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Montréal-Python 17 (code name Apotropaic Archeologist) will
-take place in room PK-1620 of UQAM on Monday 2010-11-29. This is in the
-<a href="http://www.uqam.ca/campus/pavillons/pk.htm">President-Kennedy building</a>.</p>
-<p>Here is our schedule for the evening:</p>
-<ul>
-<li>18h00: Doors open</li>
-<li>18h20: Announcements</li>
-<li>18h30: Flash presentations</li>
-<li>19h00: Break</li>
-<li>19h20: Main presentations</li>
-<li>20h30: Discussions and refreshments at Benelux</li>
-</ul>
-<p>The ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../mp-22.html" rel="bookmark" title="Permalink to Montréal-Python 22 on 2011-06-27">Montréal-Python 22 on 2011-06-27</a>
-					</h1>
-					<abbr class="published" title="2011-05-30T10:34:00">Mon 30 May 2011</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Summer in Montréal, when it's not raining, is an immersing
-world of tempting pleasures. Falling Foulard, the 22th Montréal-Python
-meeting, will feature presentations on security and reverse engineering,
-the novel art of the electron-flirt. Join us on June 27th in room
-SH-R810 of the UQAM <a href="http://www.uqam.ca/campus/pavillons/sh.htm">Sherbrook building</a> for a ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../mp23.html" rel="bookmark" title="Permalink to Montréal-Python 23 – Geosynchronous Glory – 2011-09-26">Montréal-Python 23 – Geosynchronous Glory – 2011-09-26</a>
-					</h1>
-					<abbr class="published" title="2011-09-19T20:38:00">Mon 19 September 2011</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Open data, geolocation, and politics are going to bring us
-together on Monday the 26th for Montréal-Python 23 – Geosynchronous
-Glory.</p>
-<p>A snacks will be provided but do not expect a complete meal.</p>
-<p>The meeting will be held in room SH-3260 of the UQAM <a href="http://www.uqam.ca/campus/pavillons/sh.htm">Sherbrooke
-building</a>. According to our new formula ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../new-date-for-montreal-python-15.html" rel="bookmark" title="Permalink to New date for Montréal-Python 15">New date for Montréal-Python 15</a>
-					</h1>
-					<abbr class="published" title="2010-07-08T17:41:00">Thu 08 July 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p><a href="http://montrealpython.org/2010/06/mp-15/">Montréal-Python 15</a> is delayed by a week. The new date is
-2010-07-26.<!--:--></p> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../new-location-for-the-5th-django-translation-sprint.html" rel="bookmark" title="Permalink to New location for the 5th Django translation sprint">New location for the 5th Django translation sprint</a>
-					</h1>
-					<abbr class="published" title="2010-06-26T00:14:00">Sat 26 June 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>The <a href="http://montrealpython.org/2010/06/django-translation-sprint-5-on-2010-06-28/">5th translation</a> sprint is changing location. Google kindly
-offered to host the sprint in it's Montréal office and we gladly move to
-the new location, which only one block away from the McGill metro
-station: 1253 McGill College, suite 250.</p>
-<!--:-->
-
-</p> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../next-montreal.html" rel="bookmark" title="Permalink to Next Montréal">Next Montréal</a>
-					</h1>
-					<abbr class="published" title="2010-09-01T09:21:00">Wed 01 September 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>The technology scene of Montréal is a very vibrant one. With
-groups such as our selves, OWASP, JS-Montreal, Montreal.rb, and
-PHP-Québec; with events such as WordCamp, PodCamp, Startup Drinks, and
-Startup Camp; you end up with weeks during which all your evenings are
-booked before lunch time on Monday ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../nootropic-nutrients.html" rel="bookmark" title="Permalink to Lineup for Montréal-Python 30 Nootropic Nutrients">Lineup for Montréal-Python 30 Nootropic Nutrients</a>
-					</h1>
-					<abbr class="published" title="2012-06-06T08:30:00">Wed 06 June 2012</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Have you ever delivered kick-ass code on time? Was it by dumb luck or
-was it because you used the best ingredients around? Montréal-Python 30,
-Nootropic Nutriments, is the place to be to share all the tips, tricks
-and secrets to get the best out of our beloved Python.</p>
-</p>
-
-<p>Join ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../open-data-hackathon.html" rel="bookmark" title="Permalink to Open Data Hackathon on 2011-01-29">Open Data Hackathon on 2011-01-29</a>
-					</h1>
-					<abbr class="published" title="2011-01-06T14:46:00">Thu 06 January 2011</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Montréal-Ouvert is organizing a <a href="http://montrealouvert.net/2011/01/06/hackathon-donnees-ouvertes-open-data-montreal/">hackathon on open data</a> on Saturday
-2011-01-29. This is a great opportunity to showcase how Python can be
-use for rapid application development.</p>
-<!--:-->
-
-</p> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../packaging-sprint-11.html" rel="bookmark" title="Permalink to Packaging Sprint #11">Packaging Sprint #11</a>
-					</h1>
-					<abbr class="published" title="2011-01-12T23:26:00">Wed 12 January 2011</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>The core Python packaging team is going to be <a href="http://tarekziade.wordpress.com/2011/01/11/distutils2-sprint/">sprinting on
-distutils2</a> from Thursday 2011-01-27 to Sunday 2011-01-30. We don't
-want to be left behind so we plan to join them with a gathering on
-Saturday 2011-01-29.</p>
-<p>We expect to be hacking between 11h AM and 8h PM. The ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../packaging-sprint-11-remote-only.html" rel="bookmark" title="Permalink to Packaging Sprint #11: remote only">Packaging Sprint #11: remote only</a>
-					</h1>
-					<abbr class="published" title="2011-01-28T17:02:00">Fri 28 January 2011</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Due to the very low rate of registration, we won't hold the <a href="http://montrealpython.org/2011/01/packaging-sprint-11/">sprint
-tomorrow</a> at Le Site. The sprint will be remote only; you can still
-meet us on irc.freenode.net, in #montrealpython and in #distutils.</p>
-<p>We take note that sprinting during the weekend is not a good ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../packaging-sprint-2.html" rel="bookmark" title="Permalink to Packaging Sprint #2">Packaging Sprint #2</a>
-					</h1>
-					<abbr class="published" title="2010-05-04T21:30:00">Tue 04 May 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Thanks to <a href="http://tarekziade.wordpress.com/">Tarek</a>'s coaching during the last packaging sprint, many of
-us were able to undertake a journey deep into the Python packaging
-internal and to hack some code that is now widely deployed, such as the
-<a href="http://pypi.python.org/pypi">PyPI site</a> itself. This is great and we don't want to ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../packaging-sprint-4.html" rel="bookmark" title="Permalink to Packaging Sprint #4">Packaging Sprint #4</a>
-					</h1>
-					<abbr class="published" title="2010-05-24T20:40:00">Mon 24 May 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>We learned a lot from <a href="http://wiki.montrealpython.org/index.php/Sprints">past sprints</a> and we want to keep our
-momentum so without waiting, we launch a 4th sprint on the Python
-packaging system. The sprint will be on 2010-06-02 starting at 18h. It's
-likely to be at Brasseurs Numériques' but we also have an altenate ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../packaging-sprint-5.html" rel="bookmark" title="Permalink to Packaging Sprint #5">Packaging Sprint #5</a>
-					</h1>
-					<abbr class="published" title="2010-07-01T21:35:00">Thu 01 July 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Summer is going strong with lots of good opportunities for
-terraces but we know that beer always feel better after accomplishing
-something great. This is why we will have a fifth sprint on the Python
-packaging system next Monday, 2010-07-05.</p>
-<p>The sprint will be at Brasseurs Numériques, 1124 Marie-Anne, suite ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../packaging-sprint-5-wrap-up.html" rel="bookmark" title="Permalink to Packaging Sprint #5 wrap-up">Packaging Sprint #5 wrap-up</a>
-					</h1>
-					<abbr class="published" title="2010-07-09T22:42:00">Fri 09 July 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Last Monday was a hot and sticky day here in Montréal, one of
-these days when air feels as dense as molasses, when grocery stores run
-out of ice cream. Yet, a handful of brave Pythonistas decided to brave
-the heat and to head out to <a href="http://ajah.ca/blog">Brasseurs Numériques</a> for the ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../packaging-sprint-6.html" rel="bookmark" title="Permalink to Packaging Sprint #6">Packaging Sprint #6</a>
-					</h1>
-					<abbr class="published" title="2010-07-12T23:44:00">Mon 12 July 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>The last sprint was <a href="http://montrealpython.org/2010/07/packaging-sprint-5-wrap-up/">a productive one</a>, yet we left with a few
-outstanding issues. In order to correct those while everything is still
-fresh in our mind, we don't waste anytime and go for another sprint on
-the Python packaging system this Thursday, 2010-07-15.</p>
-<p>The sprint will be ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../packaging-sprint-6-wrap-up.html" rel="bookmark" title="Permalink to Packaging Sprint #6 wrap-up">Packaging Sprint #6 wrap-up</a>
-					</h1>
-					<abbr class="published" title="2010-07-23T17:13:00">Fri 23 July 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Last Thursday, we ran our 6th sprint on the Python packaging system.
-Most people worked on distutils2 and its test suite although a few were
-undertaking the implementation of new features in the 2to3 automated
-migration tool.</p>
-<p>This sprint was a turning point in our sprint series because we managed ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../packaging-sprint-wrap-up.html" rel="bookmark" title="Permalink to Packaging Sprint Wrap-up">Packaging Sprint Wrap-up</a>
-					</h1>
-					<abbr class="published" title="2010-10-03T23:39:00">Sun 03 October 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Last Wednesday, we met at the Montréal office of Google to
-sprint on the Python packaging system. This is our second sprint since
-we came back from vacation and it went really well with a total of 12
-sprinters:</p>
-<ul>
-<li>Rajiv Abraham</li>
-<li>Éric Araujo (remotely from Paris)</li>
-<li>Pior Bastida</li>
-<li>Nicolas Cadou ...</li></ul></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../pictures-of-montreal-python-5.html" rel="bookmark" title="Permalink to Pictures of Montreal Python 5">Pictures of Montreal Python 5</a>
-					</h1>
-					<abbr class="published" title="2009-03-08T16:16:00">Sun 08 March 2009</abbr>
-				<div class="entry-content"> <p>Pictures of Montreal Python 5 are now <a href="http://www.flickr.com/search/?q=montrealpython5&amp;s=int">showing up</a> on Flickr. Thanks
-to <a href="http://sfllaw.livejournal.com/">Simon Law</a>, our master portraitist.</p> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../presentation-on-vlam-compyle.html" rel="bookmark" title="Permalink to Presentation on VLAM Compyle">Presentation on VLAM Compyle</a>
-					</h1>
-					<abbr class="published" title="2009-03-04T04:59:00">Wed 04 March 2009</abbr>
-				<div class="entry-content"> <p>Marc-Antoine Desroches will be giving a presentation on VLAM Compyle, a
-just-in-time compiler for Python at the <a href="http://schemeway.dyndns.org/mslug/mslug-home">Montreal Scheme/Lisp User
-Group</a> meeting next Thursday (2009-03-12) . Marc-Antoine was one of
-our flash presenters at Montreal Python 5. The MSLUG meeting is at 7pm
-in Room 3195, André-Aisenstadt Building, Université de ...</p> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../pycon-2014-and-2015-in-montreal.html" rel="bookmark" title="Permalink to PyCon 2014 and 2015: in Montréal">PyCon 2014 and 2015: in Montréal</a>
-					</h1>
-					<abbr class="published" title="2011-03-13T16:20:00">Sun 13 March 2011</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>As most of you know, we have been working pretty hard during
-the last few months to get PyCon in Montréal.</p>
-<p>The Python Software Foundation held, today the 13th of March 2011 at
-PyCon 2011, a Site Selection Meeting to choose the host city for PyCon
-2014 and 2015...</p>
-<p>It ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../pycon-list-of-selected-talks.html" rel="bookmark" title="Permalink to PyCon: the list of selected talks is online">PyCon: the list of selected talks is online</a>
-					</h1>
-					<abbr class="published" title="2011-01-08T02:53:00">Sat 08 January 2011</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>A day or so after <a href="http://confoo.ca/en">ConFoo</a>, PyCon finally unveiled its <a href="http://us.pycon.org/2011/schedule/lists/talks/">list of
-selected talks</a>. With talks such as <a href="http://us.pycon.org/2011/schedule/sessions/263/">API Design: Lessons Learned</a> by
-Raymond Hettinger and <a href="http://us.pycon.org/2011/schedule/sessions/98/">Advanced Network Architectures With ZeroMQ</a> by
-Zed Shaw, PyCon 2011 is going to be a very inspiring event. And on the
-topic of building ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../reminder-for-montreal-python-7.html" rel="bookmark" title="Permalink to Reminder for Montreal Python 7">Reminder for Montreal Python 7</a>
-					</h1>
-					<abbr class="published" title="2009-05-25T07:44:00">Mon 25 May 2009</abbr>
-				<div class="entry-content"> <p>This is a reminder that Montreal Python 7 will be on Wednesday
-2009-05-27 at <a href="http://labanque.ca/">La Banque</a>, <a href="http://maps.google.ca/maps?f=q&amp;hl=fr&amp;geocode=&amp;q=175+rue+Roy+e,+Montr%C3%A9al&amp;sll=49.891235,-97.15369&amp;sspn=32.875467,90.615234&amp;ie=UTF8&amp;ll=45.517068,-73.57456&amp;spn=0.00869,0.022123&amp;z=16&amp;iwloc=addr">175 Roy E</a>. Based on your feedback,
-we'll start earlier and we'll have a tighter schedule.</p>
-<p>Here is our schedule for the evening:</p>
-<ul>
-<li>18h00: Opening</li>
-<li>18h20: Announcements</li>
-<li>18h30: Flash presentations</li>
-<li>19h00: Break ...</li></ul> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../salary-survey.html" rel="bookmark" title="Permalink to How much do Python hackers earn?">How much do Python hackers earn?</a>
-					</h1>
-					<abbr class="published" title="2011-01-25T22:06:00">Tue 25 January 2011</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Part of our mission here at Montréal-Python is to allow more hackers
-work full time with Python. We're really happy with the state of the
-Python job market in Montréal compared to how it was a few years ago but
-too often, we hear about employers and job seekers ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../schedule-for-montreal-python-5.html" rel="bookmark" title="Permalink to Schedule for Montreal Python 5">Schedule for Montreal Python 5</a>
-					</h1>
-					<abbr class="published" title="2009-02-24T07:59:00">Tue 24 February 2009</abbr>
-				<div class="entry-content"> <p>Greetings Pythonistas of Montreal, <br />
-as you hopefully know by now, Montreal Python 5 is this Thursday at la
-<a href="http://labanque.ca">Banque</a>. Here is our schedule for the evening:</p>
-<ul>
-<li>18h00: Opening</li>
-<li>18h45: Announcements and flash presentations</li>
-<li>19h15: Break</li>
-<li>19h45: Main presentation: Alexandre Vassalotti on Porting your Code
-    to Python 3</li>
-</ul>
-</p>
-
-</p>
-
-<p>Flash presenters will ...</p> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../second-mcgill-python-workshop-was-a-success.html" rel="bookmark" title="Permalink to Second McGill Python workshop was a success">Second McGill Python workshop was a success</a>
-					</h1>
-					<abbr class="published" title="2011-10-30T12:07:00">Sun 30 October 2011</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Last week, Mathieu Perreault and Derek Ruths gave the <a href="http://montrealpython.org/2011/10/mcgill-python-workshop-2-on-october-20th-2011/">second
-McGill Python Workshop</a>. With around 40 attendees, the event was
-definitely a success and you should expect another workshop soon.</p>
-<p>
-Derek [lets us know][]:
-
-> We showcased a number of libraries that ship with Python including
-> support for working with SQLite ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../second-packaging-sprint-wrap-up.html" rel="bookmark" title="Permalink to Second packaging sprint wrap-up">Second packaging sprint wrap-up</a>
-					</h1>
-					<abbr class="published" title="2010-05-14T14:22:00">Fri 14 May 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Attendance at the <a href="http://montrealpython.org/2010/05/packaging-sprint-2/">second packaging sprint</a> was very good with a total
-of eight showing up:</p>
-<ul>
-<li>Pior Bastida</li>
-<li>Alexandre Bourget</li>
-<li>Nicolas Cadou</li>
-<li>Yannick Gingras</li>
-<li>Mathieu Leduc-Hamel</li>
-<li>George Peristerakis</li>
-<li>Cyril Robert</li>
-<li>Jean Schurger</li>
-</ul>
-<p><a href="http://tarekziade.wordpress.com/">Tarek</a> was kind enough to coach the beginning of the sprint remotely
-and to produce a list of ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../sprints-wrap-up.html" rel="bookmark" title="Permalink to Sprints Wrap-up">Sprints Wrap-up</a>
-					</h1>
-					<abbr class="published" title="2010-03-17T21:33:00">Wed 17 March 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>We recently held both a Distribute and a TurboGears sprint and both were
-really successful.</p>
-<p>The TurboGears sprint, mentored by <a href="http://percious.com/blog/">Chris Perkins</a>, was the most
-informal and probably the hardest to contribute to but we still got a
-very good participation. Sprinters were:</p>
-<ul>
-<li>Alice Bevan-McGregor</li>
-<li>Nicolas Cadou</li>
-<li>Yannick Gingras</li>
-<li>Mathieu ...</li></ul></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../sprints-wrap-up-2.html" rel="bookmark" title="Permalink to Sprints wrap-up">Sprints wrap-up</a>
-					</h1>
-					<abbr class="published" title="2010-08-18T14:31:00">Wed 18 August 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>The past month was busy with two programming sprints. The seventh in our
-packaging series took place on 2010-07-29 and the and eighth was on
-2010-08-05. We were planing on having a translation sprint on 2010-08-03
-but we faced extreme competition from the excellent weather so it got
-cancelled for ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../startup-camp-7.html" rel="bookmark" title="Permalink to Startup Camp 7">Startup Camp 7</a>
-					</h1>
-					<abbr class="published" title="2011-01-12T22:57:00">Wed 12 January 2011</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p><a href="http://scmtl7.wikidot.com/">Startup Camp 7</a> is going to take place on January 20th at
-Théâtre Telus. Startup Camp is always a good place to learn about what
-it is to start an Internet business and to meet the high profile
-entrepreneurs.</p>
-<p>Maybe you will find someone to join you in this great ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../turbogears-sprint-on-2009-11-27-at-uqam.html" rel="bookmark" title="Permalink to TurboGears sprint on 2009-11-27 at UQAM">TurboGears sprint on 2009-11-27 at UQAM</a>
-					</h1>
-					<abbr class="published" title="2009-11-17T09:24:00">Tue 17 November 2009</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p><a href="http://turbogears.org/">TurboGears</a> is organizing a <a href="http://percious.com/blog/archives/134">sprint on Black Friday</a> to
-give the final polish for the 2.1 release. Montréal-Python invites you
-join to the sprinting effort at <a href="http://www.vie-etudiante.uqam.ca/projetsetudiants/outils/associations/Pages/cafeetudiants.aspx">Café Fractal</a> located in room SH-R380
-of the <a href="http://www.uqam.ca/campus/pavillons/sh.htm">Sherbrooke building</a> from 4pm to 11pm. We plan to have at
-least two persons somewhat ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../turbogears-training-on-2010-03-09.html" rel="bookmark" title="Permalink to TurboGears training on 2010-03-09">TurboGears training on 2010-03-09</a>
-					</h1>
-					<abbr class="published" title="2010-02-01T10:57:00">Mon 01 February 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>As we mentioned during the last Montréal-Python meeting, Chris
-Perkins, core developer of TurboGears2, will be giving a one-day <a href="http://confoo.ca/en/2010/session/relational-database-apps-with-turbogears">hands
-on training on TurboGears2</a> on March 9th. His tutorial covers several
-parts of TurboGears2 that are common to Pylons so those who were
-interested by the presentation by Alexandre Bourget ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../upcoming-sprints.html" rel="bookmark" title="Permalink to Upcoming Sprints">Upcoming Sprints</a>
-					</h1>
-					<abbr class="published" title="2010-02-27T12:56:00">Sat 27 February 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p><a href="http://confoo.ca/en">ConFoo</a> brings several experts in town and we take this
-opportunity to launch two sprints: one on TurboGears with Chris Perkins
-on 2010-03-13 starting at 10h30 am and one on Distribute with Tarek
-Ziadé on 2010-03-15 starting at 6 pm. Both sprints will be at Brasseurs
-Numériques' office, 1124 Marie-Anne ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../upcoming-sprints-2.html" rel="bookmark" title="Permalink to Upcoming Sprints">Upcoming Sprints</a>
-					</h1>
-					<abbr class="published" title="2010-07-23T19:04:00">Fri 23 July 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>We plan to sprint a few time in the coming weeks. Here's our
-schedule:</p>
-<ul>
-<li>Thursday 2010-07-29 (packaging)</li>
-<li>Tuesday 2010-08-03 (Django translation, cancelled)</li>
-<li>Thursday 2010-08-05 (packaging, at Google Montréal)</li>
-</ul>
-<p>The first two sprints will be at <a href="http://ajah.ca">Brasseurs Numériques</a>, at 1124
-Marie-Anne, suite 11, the last packaging sprint will be at ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../user-groups-gathering-on-2010-02-05.html" rel="bookmark" title="Permalink to User Groups Gathering on 2010-02-05">User Groups Gathering on 2010-02-05</a>
-					</h1>
-					<abbr class="published" title="2010-01-29T11:14:00">Fri 29 January 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Next Friday, why not celebrate the end of the week with
-members of other user groups? Montréal-Python, W3Québec, PHP-Québec,
-AMUG, Montréal Girl Geek Dinners, and many others invite you for a drink
-or two at Pub Ste-Elizabeth starting at 6pm.<!--:--></p> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../vacation-is-over.html" rel="bookmark" title="Permalink to Vacation is over">Vacation is over</a>
-					</h1>
-					<abbr class="published" title="2010-08-27T08:17:00">Fri 27 August 2010</abbr>
-				<div class="entry-content"> <!--:en-->
-
-<p>Montréal in September is an enthralling an time and place to
-be part of. With so many universities, you can hardly walk three blocks
-without bumping into a group of young persons dressed with their grand
-parents' cloths and proudly holding signs announcing their initiation.
-People moving in, shopping for ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../write-up-of-montreal-python-5.html" rel="bookmark" title="Permalink to Write-up of Montreal Python 5">Write-up of Montreal Python 5</a>
-					</h1>
-					<abbr class="published" title="2009-04-06T06:35:00">Mon 06 April 2009</abbr>
-				<div class="entry-content"> <p>Alexadre Vassalotti just published a <a href="http://peadrop.com/mp5.html">write-up</a> of the presentation
-that he gave at Montreal Python 5. Hopefully that will help the ones who
-were not fast enough at note taking and the ones who didn't have the joy
-of attending.</p>
-<p>-- <a href="http://ygingrasnet">Yannick Gingras</a></p>
-</p> </div>
-				</li>
-					</ol>
-	</dl>
-
-		</section>
-
-	</body>
+<a href="http://confoo.ca/en/session">presentations list</a>. From over 450 proposals, the ConFoo.ca team has
+selected the very best in order to offer you a conference that covers
+everything Web development, from front-end to back-end, including
+programming in various languages and project ...</p></!--:en-->
+                <a class="readmore" href="../confoo-release-of-the-presentation-list-and-flash-sale.html">read more</a>
+                                </div><!-- /.entry-content -->
+            </article></li>
+                            </ol><!-- /#posts-list -->
+                            <p class="paginator">
+        Page 1 / 9
+            <a href="../author/ygingras2.html">&raquo;</a>
+    </p>
+                        </section><!-- /#content -->
+                    <section id="extras" class="body">
+                        <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                                                    <li><a href="http://python.org">Python.org</a></li>
+                                                </ul>
+                </div><!-- /.blogroll -->
+                                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+                            <li><a href="http://montrealpython.org/" type="application/atom+xml" rel="alternate">atom feed</a></li>
+                            
+                                                    <li><a href="https://twitter.com/mtlpy">twitter</a></li>
+                                                    <li><a href="https://github.com/mtlpy">github</a></li>
+                                                </ul>
+                </div><!-- /.social -->
+                </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
 </html>

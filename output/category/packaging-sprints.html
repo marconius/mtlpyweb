@@ -1,150 +1,288 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="stylesheet" type="text/css" href="../theme/css/style.css">
-	<!--<link rel="stylesheet/less" type="text/css" href="/theme/css/style.less">-->
-	<!--<script src="/theme/js/less.js" type="text/javascript"></script>-->
-	<link rel="stylesheet" type="text/css" href="../theme/css/pygments.css">
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans:800,400,300|Inconsolata' rel='stylesheet' type='text/css'>
+        <title>Montréal-Python - Packaging, Sprints</title>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="../theme/css/main.css" type="text/css" />
+                
+        <!--[if IE]>
+                <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
-	<link href="http://montrealpython.org/" type="application/atom+xml" rel="alternate" title="Montréal-Python ATOM Feed" />
-	
-			<title>Montréal-Python</title>
-		<meta charset="utf-8" />
-	</head>
-<body>
-	<section id="sidebar">
-		<figure id="user_logo">
-            <a href=".."><div class="logo">&nbsp;</div></a>
-		</figure>
+        <!--[if lte IE 7]>
+                <link rel="stylesheet" type="text/css" media="all" href="../css/ie.css"/>
+                <script src="../js/IE8.js" type="text/javascript"></script><![endif]-->
 
-		<div class="user_meta">
-            <h1 id="user"><a href=".." class="">Montréal-Python</a></h1>
-			<h2></h2>
-			<ul>
-																										<li><a href="http://python.org">Python.org</a></li>
-							</ul>
-		</div>
-		<footer>
-			<address>
-				Powered by <a href="http://pelican.notmyidea.org/">Pelican</a>,
-		                theme by <a href="https://github.com/wting/pelican-svbtle">wting</a>.
-			</address>
-		</footer>
-	</section>
+        <!--[if lt IE 7]>
+                <link rel="stylesheet" type="text/css" media="all" href="../css/ie6.css"/><![endif]-->
 
-	<section id="posts">
-			<header>
-		<h1>Montréal-Python's blog</h1>
-		<h3>
-			<script type="text/javascript">
-				var currentDate = new Date();
-				var day = currentDate.getDate();
-				var monthNames = [ "Jan", "Feb", "Mar", "Apr", "May", "June", "July", "Aug", "Sep", "Oct", "Nov", "Dec" ];
-				var month = monthNames[currentDate.getMonth()].toUpperCase();
-				var year = currentDate.getFullYear();
-				document.write(month + " " + day + ", " + year);
-			</script>
-		</h3>
-	</header>
+</head>
 
-	<dl>
-		<ol>
-							<li>
-					<h1 class="title">
-						<a href="../packaging-sprint-11-2.html" rel="bookmark" title="Permalink to Packaging Sprint #11">Packaging Sprint #11</a>
-					</h1>
-					<abbr class="published" title="2011-01-25T19:41:00">Tue 25 January 2011</abbr>
-				<div class="entry-content"> <!--:en-->
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="..">Montréal-Python </a></h1>
+                <nav><ul>
+                                                                                                    <li ><a href="../category/11.html">11</a></li>
+                                    <li ><a href="../category/2013-conferences-montreal-python-pycon.html">2013, Conferences, Montréal Python, PyCon</a></li>
+                                    <li ><a href="../category/4.html">4</a></li>
+                                    <li ><a href="../category/5.html">5</a></li>
+                                    <li ><a href="../category/7.html">7</a></li>
+                                    <li ><a href="../category/conferences.html">Conferences</a></li>
+                                    <li ><a href="../category/conferences-montreal-python.html">Conferences, Montréal Python</a></li>
+                                    <li ><a href="../category/conferences-turbo-gears.html">Conferences, Turbo Gears</a></li>
+                                    <li ><a href="../category/django.html">Django</a></li>
+                                    <li ><a href="../category/django-montreal-python-packaging-sprints.html">Django, Montréal Python, Packaging, Sprints</a></li>
+                                    <li ><a href="../category/django-montreal-python-sprints.html">Django, Montréal Python, Sprints</a></li>
+                                    <li ><a href="../category/django-sprints.html">Django, Sprints</a></li>
+                                    <li ><a href="../category/montreal-python.html">Montréal Python</a></li>
+                                    <li ><a href="../category/montreal-python-packaging-sprints.html">Montréal Python, Packaging, Sprints</a></li>
+                                    <li ><a href="../category/montreal-python-presentations.html">Montréal Python, Presentations</a></li>
+                                    <li ><a href="../category/montreal-python-sprints.html">Montréal Python, Sprints</a></li>
+                                    <li ><a href="../category/montreal-python-tutorialsworkshops.html">Montréal Python, Tutorials/Workshops</a></li>
+                                    <li ><a href="../category/montreal-python-videos.html">Montréal Python, videos</a></li>
+                                    <li class="active"><a href="../category/packaging-sprints.html">Packaging, Sprints</a></li>
+                                    <li ><a href="../category/presentations.html">Presentations</a></li>
+                                    <li ><a href="../category/sprints.html">Sprints</a></li>
+                                    <li ><a href="../category/sprints-turbo-gears.html">Sprints, Turbo Gears</a></li>
+                                    <li ><a href="../category/tutorialsworkshops.html">Tutorials/Workshops</a></li>
+                                    <li ><a href="../category/book-review.html">book review</a></li>
+                                </ul></nav>
+        </header><!-- /#banner -->
+                
+            
+
+                            <aside id="featured" class="body">
+                <article>
+                    <h1 class="entry-title"><a href="../packaging-sprint-11-2.html">Packaging Sprint #11</a></h1> 
+                    <footer class="post-info">
+        <abbr class="published" title="2011-01-25T19:41:00">
+                Tue 25 January 2011
+        </abbr>
+
+                <address class="vcard author">
+                By <a class="url fn" href="../author/cyrilrbt.html">Cyrilrbt</a>
+        </address>
+        <p>In <a href="../category/packaging-sprints.html">Packaging, Sprints</a>. </p>
+Translations: 
+            <a href="../packaging-sprint-11-2-fr.html">fr</a>
+    </footer><!-- /.post-info --><!--:en-->
 
 <p>We have found a location for our next packaging sprint
 (2011/01/29), it will be at LeSite's office! Here are the coordinates:
 Le Site 381, Notre-Dame west, suite 200 Corner of McGill or St-Pierre
-Metro Square Victoria</p>
-<p>There will be beer -of course- and also coffee, food, beanbags ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../packaging-sprint-11.html" rel="bookmark" title="Permalink to Packaging Sprint #11">Packaging Sprint #11</a>
-					</h1>
-					<abbr class="published" title="2011-01-12T23:26:00">Wed 12 January 2011</abbr>
-				<div class="entry-content"> <!--:en-->
+Metro Square Victoria There will be beer -of course- and also coffee,
+food, beanbags, and even a giant TV with a PS3 if you want to take a
+small fifa break :)</p>                </article>
+                            </aside><!-- /#featured -->
+                            <section id="content" class="body">
+                    <h1>Other articles</h1>
+                    <hr />
+                    <ol id="posts-list" class="hfeed">
+                                                
+
+                 
+                        <li><article class="hentry">    
+                <header>
+                    <h1><a href="../packaging-sprint-11.html" rel="bookmark"
+                           title="Permalink to Packaging Sprint #11">Packaging Sprint #11</a></h1>
+                </header>
+                
+                <div class="entry-content">
+                <footer class="post-info">
+        <abbr class="published" title="2011-01-12T23:26:00">
+                Wed 12 January 2011
+        </abbr>
+
+                <address class="vcard author">
+                By <a class="url fn" href="../author/ygingras.html">Ygingras</a>
+        </address>
+        <p>In <a href="../category/packaging-sprints.html">Packaging, Sprints</a>. </p>
+Translations: 
+            <a href="../packaging-sprint-11-fr.html">fr</a>
+    </footer><!-- /.post-info -->                <!--:en-->
 
 <p>The core Python packaging team is going to be <a href="http://tarekziade.wordpress.com/2011/01/11/distutils2-sprint/">sprinting on
 distutils2</a> from Thursday 2011-01-27 to Sunday 2011-01-30. We don't
 want to be left behind so we plan to join them with a gathering on
-Saturday 2011-01-29.</p>
-<p>We expect to be hacking between 11h AM and 8h PM. The ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../packaging-sprint-6-wrap-up.html" rel="bookmark" title="Permalink to Packaging Sprint #6 wrap-up">Packaging Sprint #6 wrap-up</a>
-					</h1>
-					<abbr class="published" title="2010-07-23T17:13:00">Fri 23 July 2010</abbr>
-				<div class="entry-content"> <!--:en-->
+Saturday 2011-01-29. We expect to be hacking between 11h AM and 8h PM.
+The ...</p></!--:en-->
+                <a class="readmore" href="../packaging-sprint-11.html">read more</a>
+                                </div><!-- /.entry-content -->
+            </article></li>
+                            
+
+                 
+                        <li><article class="hentry">    
+                <header>
+                    <h1><a href="../packaging-sprint-6-wrap-up.html" rel="bookmark"
+                           title="Permalink to Packaging Sprint #6 wrap-up">Packaging Sprint #6 wrap-up</a></h1>
+                </header>
+                
+                <div class="entry-content">
+                <footer class="post-info">
+        <abbr class="published" title="2010-07-23T17:13:00">
+                Fri 23 July 2010
+        </abbr>
+
+                <address class="vcard author">
+                By <a class="url fn" href="../author/ygingras.html">Ygingras</a>
+        </address>
+        <p>In <a href="../category/packaging-sprints.html">Packaging, Sprints</a>. </p>
+Translations: 
+            <a href="../packaging-sprint-6-wrap-up-fr.html">fr</a>
+    </footer><!-- /.post-info -->                <!--:en-->
 
 <p>Last Thursday, we ran our 6th sprint on the Python packaging system.
 Most people worked on distutils2 and its test suite although a few were
 undertaking the implementation of new features in the 2to3 automated
 migration tool.</p>
-<p>This sprint was a turning point in our sprint series because we managed ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../packaging-sprint-6.html" rel="bookmark" title="Permalink to Packaging Sprint #6">Packaging Sprint #6</a>
-					</h1>
-					<abbr class="published" title="2010-07-12T23:44:00">Mon 12 July 2010</abbr>
-				<div class="entry-content"> <!--:en-->
+<p>This sprint was a turning point in our sprint series because we managed ...</p></!--:en-->
+                <a class="readmore" href="../packaging-sprint-6-wrap-up.html">read more</a>
+                                </div><!-- /.entry-content -->
+            </article></li>
+                            
+
+                 
+                        <li><article class="hentry">    
+                <header>
+                    <h1><a href="../packaging-sprint-6.html" rel="bookmark"
+                           title="Permalink to Packaging Sprint #6">Packaging Sprint #6</a></h1>
+                </header>
+                
+                <div class="entry-content">
+                <footer class="post-info">
+        <abbr class="published" title="2010-07-12T23:44:00">
+                Mon 12 July 2010
+        </abbr>
+
+                <address class="vcard author">
+                By <a class="url fn" href="../author/ygingras.html">Ygingras</a>
+        </address>
+        <p>In <a href="../category/packaging-sprints.html">Packaging, Sprints</a>. </p>
+Translations: 
+            <a href="../packaging-sprint-6-fr.html">fr</a>
+    </footer><!-- /.post-info -->                <!--:en-->
 
 <p>The last sprint was <a href="http://montrealpython.org/2010/07/packaging-sprint-5-wrap-up/">a productive one</a>, yet we left with a few
 outstanding issues. In order to correct those while everything is still
 fresh in our mind, we don't waste anytime and go for another sprint on
 the Python packaging system this Thursday, 2010-07-15.</p>
-<p>The sprint will be ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../packaging-sprint-5-wrap-up.html" rel="bookmark" title="Permalink to Packaging Sprint #5 wrap-up">Packaging Sprint #5 wrap-up</a>
-					</h1>
-					<abbr class="published" title="2010-07-09T22:42:00">Fri 09 July 2010</abbr>
-				<div class="entry-content"> <!--:en-->
+<p>The sprint will be ...</p></!--:en-->
+                <a class="readmore" href="../packaging-sprint-6.html">read more</a>
+                                </div><!-- /.entry-content -->
+            </article></li>
+                            
+
+                 
+                        <li><article class="hentry">    
+                <header>
+                    <h1><a href="../packaging-sprint-5-wrap-up.html" rel="bookmark"
+                           title="Permalink to Packaging Sprint #5 wrap-up">Packaging Sprint #5 wrap-up</a></h1>
+                </header>
+                
+                <div class="entry-content">
+                <footer class="post-info">
+        <abbr class="published" title="2010-07-09T22:42:00">
+                Fri 09 July 2010
+        </abbr>
+
+                <address class="vcard author">
+                By <a class="url fn" href="../author/ygingras.html">Ygingras</a>
+        </address>
+        <p>In <a href="../category/packaging-sprints.html">Packaging, Sprints</a>. </p>
+Translations: 
+            <a href="../packaging-sprint-5-wrap-up-fr.html">fr</a>
+    </footer><!-- /.post-info -->                <!--:en-->
 
 <p>Last Monday was a hot and sticky day here in Montréal, one of
 these days when air feels as dense as molasses, when grocery stores run
 out of ice cream. Yet, a handful of brave Pythonistas decided to brave
-the heat and to head out to <a href="http://ajah.ca/blog">Brasseurs Numériques</a> for the ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../packaging-sprint-5.html" rel="bookmark" title="Permalink to Packaging Sprint #5">Packaging Sprint #5</a>
-					</h1>
-					<abbr class="published" title="2010-07-01T21:35:00">Thu 01 July 2010</abbr>
-				<div class="entry-content"> <!--:en-->
+the heat and to head out to <a href="http://ajah.ca/blog">Brasseurs Numériques</a> for the ...</p></!--:en-->
+                <a class="readmore" href="../packaging-sprint-5-wrap-up.html">read more</a>
+                                </div><!-- /.entry-content -->
+            </article></li>
+                            
+
+                 
+                        <li><article class="hentry">    
+                <header>
+                    <h1><a href="../packaging-sprint-5.html" rel="bookmark"
+                           title="Permalink to Packaging Sprint #5">Packaging Sprint #5</a></h1>
+                </header>
+                
+                <div class="entry-content">
+                <footer class="post-info">
+        <abbr class="published" title="2010-07-01T21:35:00">
+                Thu 01 July 2010
+        </abbr>
+
+                <address class="vcard author">
+                By <a class="url fn" href="../author/ygingras.html">Ygingras</a>
+        </address>
+        <p>In <a href="../category/packaging-sprints.html">Packaging, Sprints</a>. </p>
+Translations: 
+            <a href="../packaging-sprint-5-fr.html">fr</a>
+    </footer><!-- /.post-info -->                <!--:en-->
 
 <p>Summer is going strong with lots of good opportunities for
 terraces but we know that beer always feel better after accomplishing
 something great. This is why we will have a fifth sprint on the Python
-packaging system next Monday, 2010-07-05.</p>
-<p>The sprint will be at Brasseurs Numériques, 1124 Marie-Anne, suite ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../packaging-sprint-4.html" rel="bookmark" title="Permalink to Packaging Sprint #4">Packaging Sprint #4</a>
-					</h1>
-					<abbr class="published" title="2010-05-24T20:40:00">Mon 24 May 2010</abbr>
-				<div class="entry-content"> <!--:en-->
+packaging system next Monday, 2010-07-05. The sprint will be at
+Brasseurs Numériques, 1124 Marie-Anne, suite ...</p></!--:en-->
+                <a class="readmore" href="../packaging-sprint-5.html">read more</a>
+                                </div><!-- /.entry-content -->
+            </article></li>
+                            
+
+                 
+                        <li><article class="hentry">    
+                <header>
+                    <h1><a href="../packaging-sprint-4.html" rel="bookmark"
+                           title="Permalink to Packaging Sprint #4">Packaging Sprint #4</a></h1>
+                </header>
+                
+                <div class="entry-content">
+                <footer class="post-info">
+        <abbr class="published" title="2010-05-24T20:40:00">
+                Mon 24 May 2010
+        </abbr>
+
+                <address class="vcard author">
+                By <a class="url fn" href="../author/ygingras.html">Ygingras</a>
+        </address>
+        <p>In <a href="../category/packaging-sprints.html">Packaging, Sprints</a>. </p>
+Translations: 
+            <a href="../packaging-sprint-4-fr.html">fr</a>
+    </footer><!-- /.post-info -->                <!--:en-->
 
 <p>We learned a lot from <a href="http://wiki.montrealpython.org/index.php/Sprints">past sprints</a> and we want to keep our
 momentum so without waiting, we launch a 4th sprint on the Python
 packaging system. The sprint will be on 2010-06-02 starting at 18h. It's
-likely to be at Brasseurs Numériques' but we also have an altenate ...</p></!--:en--> </div>
-				</li>
-							<li>
-					<h1 class="title">
-						<a href="../third-packaging-sprint-wrap-up.html" rel="bookmark" title="Permalink to Third packaging sprint wrap-up">Third packaging sprint wrap-up</a>
-					</h1>
-					<abbr class="published" title="2010-05-24T19:21:00">Mon 24 May 2010</abbr>
-				<div class="entry-content"> <!--:en-->
+likely to be at Brasseurs Numériques' but we also have an altenate ...</p></!--:en-->
+                <a class="readmore" href="../packaging-sprint-4.html">read more</a>
+                                </div><!-- /.entry-content -->
+            </article></li>
+                            
+
+                 
+                        <li><article class="hentry">    
+                <header>
+                    <h1><a href="../third-packaging-sprint-wrap-up.html" rel="bookmark"
+                           title="Permalink to Third packaging sprint wrap-up">Third packaging sprint wrap-up</a></h1>
+                </header>
+                
+                <div class="entry-content">
+                <footer class="post-info">
+        <abbr class="published" title="2010-05-24T19:21:00">
+                Mon 24 May 2010
+        </abbr>
+
+                <address class="vcard author">
+                By <a class="url fn" href="../author/mlhamel.html">Mlhamel</a>
+        </address>
+        <p>In <a href="../category/packaging-sprints.html">Packaging, Sprints</a>. </p>
+Translations: 
+            <a href="../third-packaging-sprint-wrap-up-fr.html">fr</a>
+    </footer><!-- /.post-info -->                <!--:en-->
 
 <p>The third packaging sprint was a clear success: we closed
 tickets, seven sprinters showed up, and everyone got to commit
@@ -158,13 +296,40 @@ something. Congratulation to all the sprinters:</p>
 <li>Cyril Robert</li>
 <li>Tarek Ziadé (remote)</li>
 </ul>
-<p></p>
-We were also lucky to have Tarek Ziadé in ...</!--:en--> </div>
-				</li>
-					</ol>
-	</dl>
+<p>We were also lucky to have Tarek Ziadé in ...</p></!--:en-->
+                <a class="readmore" href="../third-packaging-sprint-wrap-up.html">read more</a>
+                                </div><!-- /.entry-content -->
+            </article></li>
+                            </ol><!-- /#posts-list -->
+                            <p class="paginator">
+        Page 1 / 1
+    </p>
+                        </section><!-- /#content -->
+                    <section id="extras" class="body">
+                        <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                                                    <li><a href="http://python.org">Python.org</a></li>
+                                                </ul>
+                </div><!-- /.blogroll -->
+                                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+                            <li><a href="http://montrealpython.org/" type="application/atom+xml" rel="alternate">atom feed</a></li>
+                            
+                                                    <li><a href="https://twitter.com/mtlpy">twitter</a></li>
+                                                    <li><a href="https://github.com/mtlpy">github</a></li>
+                                                </ul>
+                </div><!-- /.social -->
+                </section><!-- /#extras -->
 
-		</section>
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
 
-	</body>
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
 </html>

@@ -13,71 +13,61 @@ translated by our 6 sprinters:&lt;/p&gt;
 &lt;li&gt;George Peristerakis&lt;/li&gt;
 &lt;li&gt;Pierre Phaneuf (from Google)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-This new effort of translation brings the French translation coverage of
+&lt;p&gt;This new effort of translation brings the French translation coverage of
 the Django 1.2 documentation up to 18%. We estimate that 77% of the
 French translation has been made by pythonistas of Montréal.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;11314 lines translated (18%)&lt;/li&gt;
 &lt;li&gt;52731 lines waiting for translation&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-Of the translated lines,&lt;/p&gt;
+&lt;p&gt;Of the translated lines,&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;8759 are by Montreal-Python&lt;/li&gt;
 &lt;li&gt;2624 are by the Django-fr team&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-Their is still a long road ahead but the Montreal-Python team is more
-and more efficient and we hope to see you at the next sprint.&lt;/p&gt;
-&lt;p&gt;Thanks a lot to &lt;a href="http://auf.org"&gt;AUF&lt;/a&gt; for the food and to Google and especially to
-Pierre Phaneuf (&lt;a href="http://twitter.com/pphaneuf"&gt;@pphaneuf&lt;/a&gt;) for hosting us during those crazy six
-hours.&lt;/p&gt;
-&lt;p&gt;[gallery columns="3"]&lt;!--:--&gt;&lt;/p&gt;</summary></entry><entry><title>New location for the 5th Django translation sprint</title><link href="http://montrealpython.org/new-location-for-the-5th-django-translation-sprint.html" rel="alternate"></link><updated>2010-06-26T00:14:00-04:00</updated><author><name>Ygingras</name></author><id>tag:montrealpython.org,2010-06-26:new-location-for-the-5th-django-translation-sprint.html</id><summary type="html">&lt;!--:en--&gt;
+&lt;p&gt;Their is still a long road ahead but the Montreal-Python team is more
+and more efficient and we hope to see you at the next sprint. Thanks a
+lot to &lt;a href="http://auf.org"&gt;AUF&lt;/a&gt; for the food and to Google and especially to Pierre
+Phaneuf (&lt;a href="http://twitter.com/pphaneuf"&gt;@pphaneuf&lt;/a&gt;) for hosting us during those crazy six hours.
+[gallery columns="3"]&lt;/p&gt;</summary></entry><entry><title>New location for the 5th Django translation sprint</title><link href="http://montrealpython.org/new-location-for-the-5th-django-translation-sprint.html" rel="alternate"></link><updated>2010-06-26T00:14:00-04:00</updated><author><name>Ygingras</name></author><id>tag:montrealpython.org,2010-06-26:new-location-for-the-5th-django-translation-sprint.html</id><summary type="html">&lt;!--:en--&gt;
 
 &lt;p&gt;The &lt;a href="http://montrealpython.org/2010/06/django-translation-sprint-5-on-2010-06-28/"&gt;5th translation&lt;/a&gt; sprint is changing location. Google kindly
 offered to host the sprint in it's Montréal office and we gladly move to
 the new location, which only one block away from the McGill metro
-station: 1253 McGill College, suite 250.&lt;/p&gt;
-&lt;!--:--&gt;
-
-&lt;/p&gt;</summary></entry><entry><title>Django translation sprint #3 on 2010-03-31</title><link href="http://montrealpython.org/django-translation-sprint-3-on-2010-03-31.html" rel="alternate"></link><updated>2010-03-24T19:04:00-04:00</updated><author><name>Cyrilrbt</name></author><id>tag:montrealpython.org,2010-03-24:django-translation-sprint-3-on-2010-03-31.html</id><summary type="html">&lt;!--:en--&gt;
+station: 1253 McGill College, suite 250.&lt;/p&gt;</summary></entry><entry><title>Django translation sprint #3 on 2010-03-31</title><link href="http://montrealpython.org/django-translation-sprint-3-on-2010-03-31.html" rel="alternate"></link><updated>2010-03-24T19:04:00-04:00</updated><author><name>Cyrilrbt</name></author><id>tag:montrealpython.org,2010-03-24:django-translation-sprint-3-on-2010-03-31.html</id><summary type="html">&lt;!--:en--&gt;
 
 &lt;p&gt;Given the popularity of the &lt;a href="http://montrealpython.org/2010/01/15/django-translation-sprint-on-2010-01-18/"&gt;first&lt;/a&gt; and &lt;a href="http://www.montrealpython.org/2010/01/django-translation-sprint-2-on-2010-02-15/"&gt;second Django
 translation sprints&lt;/a&gt;, we decided to keep going. The next sprint will
-be on 2010-03-31 at Brasseurs Numériques' office:&lt;/p&gt;
-&lt;p&gt;1124 Marie-Anne, suite 11,  Montréal, QC H2J 2B7&lt;/p&gt;
-&lt;p&gt;We warmly thank &lt;a href="http://www.auf.org/"&gt;Agence Universitaire de la Francophonie&lt;/a&gt; for
-supporting the event with food and drinks for every participant.&lt;/p&gt;
-&lt;p&gt;The sprint begins at 18h and ends once everyone is too tired to type.
-Bring your own laptop or make an arrangement for pairing on the mailing
-list beforehand. We only have 12 seats; use the mailing list to RSVP. If
-you can't join us physically, you can still participate on IRC, on
-[#montreal-python][] on irc.freenode.net.&lt;!--:--&gt;&lt;/p&gt;</summary></entry><entry><title>Django translation sprint #2 on 2010-02-15</title><link href="http://montrealpython.org/django-translation-sprint-2-on-2010-02-15.html" rel="alternate"></link><updated>2010-01-23T13:46:00-05:00</updated><author><name>Ygingras</name></author><id>tag:montrealpython.org,2010-01-23:django-translation-sprint-2-on-2010-02-15.html</id><summary type="html">&lt;!--:en--&gt;
+be on 2010-03-31 at Brasseurs Numériques' office: 1124 Marie-Anne, suite
+11,  Montréal, QC H2J 2B7 We warmly thank &lt;a href="http://www.auf.org/"&gt;Agence Universitaire de la
+Francophonie&lt;/a&gt; for supporting the event with food and drinks for every
+participant. The sprint begins at 18h and ends once everyone is too
+tired to type. Bring your own laptop or make an arrangement for pairing
+on the mailing list beforehand. We only have 12 seats; use the mailing
+list to RSVP. If you can't join us physically, you can still participate
+on IRC, on [#montreal-python][] on irc.freenode.net.&lt;/p&gt;</summary></entry><entry><title>Django translation sprint #2 on 2010-02-15</title><link href="http://montrealpython.org/django-translation-sprint-2-on-2010-02-15.html" rel="alternate"></link><updated>2010-01-23T13:46:00-05:00</updated><author><name>Ygingras</name></author><id>tag:montrealpython.org,2010-01-23:django-translation-sprint-2-on-2010-02-15.html</id><summary type="html">&lt;!--:en--&gt;
 
 &lt;p&gt;Given the popularity of the &lt;a href="http://montrealpython.org/2010/01/15/django-translation-sprint-on-2010-01-18/"&gt;first Django translation
 sprint&lt;/a&gt;, we decided to do it again. The next sprint will be on
-2010-02-15 at Brasseurs Numériques' office:&lt;/p&gt;
-&lt;p&gt;1124 Marie-Anne, suite 11,  Montréal, Qc H2J 2B7&lt;/p&gt;
-&lt;p&gt;We warmly thank &lt;a href="http://www.auf.org/"&gt;Agence Universitaire de la Francophonie&lt;/a&gt; for
-supporting the event with food and drinks for every participants.&lt;/p&gt;
-&lt;p&gt;The sprint begins at 18h and ends once everyone is too tired to type.
-Bring your own laptop or make an arrangement for pairing on the mailing
-list beforehand. We only have 12 places; use the mailing list to RSVP.
-If you can't join us physically, you can still participate on IRC, on
-#montreal-python on irc.freenode.net.&lt;!--:--&gt;&lt;/p&gt;</summary></entry><entry><title>Django sprint follow-up</title><link href="http://montrealpython.org/django-sprint-follow-up.html" rel="alternate"></link><updated>2010-01-19T09:42:00-05:00</updated><author><name>Ygingras</name></author><id>tag:montrealpython.org,2010-01-19:django-sprint-follow-up.html</id><summary type="html">&lt;!--:en--&gt;
+2010-02-15 at Brasseurs Numériques' office: 1124 Marie-Anne, suite 11, 
+Montréal, Qc H2J 2B7 We warmly thank &lt;a href="http://www.auf.org/"&gt;Agence Universitaire de la
+Francophonie&lt;/a&gt; for supporting the event with food and drinks for every
+participants. The sprint begins at 18h and ends once everyone is too
+tired to type. Bring your own laptop or make an arrangement for pairing
+on the mailing list beforehand. We only have 12 places; use the mailing
+list to RSVP. If you can't join us physically, you can still participate
+on IRC, on #montreal-python on irc.freenode.net.&lt;/p&gt;</summary></entry><entry><title>Django sprint follow-up</title><link href="http://montrealpython.org/django-sprint-follow-up.html" rel="alternate"></link><updated>2010-01-19T09:42:00-05:00</updated><author><name>Ygingras</name></author><id>tag:montrealpython.org,2010-01-19:django-sprint-follow-up.html</id><summary type="html">&lt;!--:en--&gt;
 
 &lt;p&gt;The django translation sprint was a clear success. A team of
 eight sprinters worked on the Django documentation and after an intense
 training session on the toolchain, we were able complete a sizable part
 of the API documentation. Our coach, Mathieu Leduc-Hamel, did a great
 job pinpointing the relevent documents and supporting the team during
-our moments of struggle with Mercurial and Sphinx.&lt;/p&gt;
-&lt;p&gt;This is definitely an adventure that we want to revisit. We estimate
-that with three or four additional sittings, we would be able to reach
-the complete translation of the documentation.&lt;/p&gt;
-&lt;p&gt;Thanks to Brasseurs Numériques for hosting the event and Congratulations
-to the sprint team:&lt;/p&gt;
+our moments of struggle with Mercurial and Sphinx. This is definitely an
+adventure that we want to revisit. We estimate that with three or four
+additional sittings, we would be able to reach the complete translation
+of the documentation. Thanks to Brasseurs Numériques for hosting the
+event and Congratulations to the sprint team:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Davin Baragiotta&lt;/li&gt;
 &lt;li&gt;Julien Desrosiers&lt;/li&gt;
@@ -88,13 +78,11 @@ to the sprint team:&lt;/p&gt;
 &lt;li&gt;Jean Schurger&lt;/li&gt;
 &lt;li&gt;Alexandre Vassalotti&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="sprint-1" src="http://montrealpython.org/wp-content/uploads/2010/01/sprint-1-300x225.jpg" title="sprint-1" /&gt; &lt;img alt="sprint-2" src="http://montrealpython.org/wp-content/uploads/2010/01/sprint-2-300x244.jpg" title="sprint-2" /&gt;&lt;!--:--&gt;&lt;/p&gt;
-&lt;/p&gt;</summary></entry><entry><title>Django translation sprint on 2010-01-18</title><link href="http://montrealpython.org/django-translation-sprint-on-2010-01-18.html" rel="alternate"></link><updated>2010-01-15T14:20:00-05:00</updated><author><name>Ygingras</name></author><id>tag:montrealpython.org,2010-01-15:django-translation-sprint-on-2010-01-18.html</id><summary type="html">&lt;!--:en--&gt;
+&lt;p&gt;&lt;img alt="sprint-1" src="http://montrealpython.org/wp-content/uploads/2010/01/sprint-1-300x225.jpg" title="sprint-1" /&gt; &lt;img alt="sprint-2" src="http://montrealpython.org/wp-content/uploads/2010/01/sprint-2-300x244.jpg" title="sprint-2" /&gt;&lt;/p&gt;</summary></entry><entry><title>Django translation sprint on 2010-01-18</title><link href="http://montrealpython.org/django-translation-sprint-on-2010-01-18.html" rel="alternate"></link><updated>2010-01-15T14:20:00-05:00</updated><author><name>Ygingras</name></author><id>tag:montrealpython.org,2010-01-15:django-translation-sprint-on-2010-01-18.html</id><summary type="html">&lt;!--:en--&gt;
 
 &lt;p&gt;Montréal-Python helps with the French translation of the
 Django documentation Monday 2010-01-18.  Brasseurs Numériques, a  young
-Montréal startup, will host us in their office:&lt;/p&gt;
-&lt;p&gt;Brasseurs Numériques 1124 Marie-Anne, bureau 11 Montréal, Qc H2J 2B7&lt;/p&gt;
-&lt;p&gt;The sprint begins at 18h and ends once everyone is too tired to type.
-Bring your own laptop or make an arrangement for pairing on the mailing
-list beforehand.&lt;!--:--&gt;&lt;/p&gt;</summary></entry></feed>
+Montréal startup, will host us in their office: Brasseurs Numériques
+1124 Marie-Anne, bureau 11 Montréal, Qc H2J 2B7 The sprint begins at 18h
+and ends once everyone is too tired to type. Bring your own laptop or
+make an arrangement for pairing on the mailing list beforehand.&lt;/p&gt;</summary></entry></feed>
