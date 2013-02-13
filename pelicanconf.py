@@ -8,9 +8,11 @@ SITEURL = ''
 TIMEZONE = 'America/Montreal'
 
 DEFAULT_LANG = 'en'
+MARKUP = ('rst', 'md', 'html')
 
 SITEURL = 'http://montrealpython.org'
 FEED_DOMAIN = 'http://montrealpython.org'
+#PAGE_URL = '{slug}.html'
 
 # Blogroll
 LINKS =  (('Python.org', 'http://python.org'), )
