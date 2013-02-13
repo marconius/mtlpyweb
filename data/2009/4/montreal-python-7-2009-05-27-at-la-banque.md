@@ -67,11 +67,7 @@ scripting musical".
 We still have a few open slots for flash presentations so don't hesitate
 to send us your presentation ideas.
 
-</p>
-
 -- [Yannick Gingras][]
-
-</p>
 
   [La Banque]: http://labanque.ca/
   [175 Roy E]: http://maps.google.ca/maps?f=q&hl=fr&geocode=&q=175+rue+Roy+e,+Montr%C3%A9al&sll=49.891235,-97.15369&sspn=32.875467,90.615234&ie=UTF8&ll=45.517068,-73.57456&spn=0.00869,0.022123&z=16&iwloc=addr

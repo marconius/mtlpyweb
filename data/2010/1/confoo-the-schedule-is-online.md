@@ -7,10 +7,9 @@ Lang: en
 
 <!--:en-->The ConFoo team is pleased to unveil the [conference
 schedule][]. With over 130 presentations in 8 rooms, ConFoo brings you
-the best of web development.
-
-Over 100 specialists will be present at the conference to share their
-knowledge during talks and training. Among them will be:
+the best of web development. Over 100 specialists will be present at the
+conference to share their knowledge during talks and training. Among
+them will be:
 
 -   [Raymond Hettinger][]
 -   [Antoine Pitrou][]
@@ -24,10 +23,7 @@ You would not want to miss presentations like:
 -   [Le packaging avec Python][] by Tarek Ziadé
 -   [Pylons: you mean "fast" Web development?][] by Alexandre Bourget
 
-[Register online][] before January 22nd and save \$200!
-
-</p>
-<!--:-->
+[Register online][] before January 22nd and save $200!
 
   [conference schedule]: http://confoo.ca/en/schedule
   [Raymond Hettinger]: http://confoo.ca/en/2010/speaker/raymond-hettinger

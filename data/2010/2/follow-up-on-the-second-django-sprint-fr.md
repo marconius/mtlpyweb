@@ -7,11 +7,9 @@ Lang: fr
 
 Le [second sprint Django][] était un autre franc succès. C'était une
 agréable surprise de voir autant de bénévoles, les bureaux des Brasseurs
-Numériques étant pleinement occupés par 12 sprinteurs.
-
-Merci à l'[Agence Universitaire de la Francophonie][] pour commanditer
-l'événement et des remerciments très chaleureux pour tous les
-sprinterus:
+Numériques étant pleinement occupés par 12 sprinteurs. Merci à l'[Agence
+Universitaire de la Francophonie][] pour commanditer l'événement et des
+remerciments très chaleureux pour tous les sprinterus:
 
 -   Davin Baragiotta
 -   Benoit Caron
@@ -27,10 +25,7 @@ sprinterus:
 -   Alexandre Vassalotti
 
 Nous allons tenter de faire un autre sprint de traduction vers la fin de
-Mars.
-
-</p>
-![django-sprint-2-1][]![django-sprint-2-2][]![django-sprint-2-3][]<!--:-->
+Mars. ![django-sprint-2-1][]![django-sprint-2-2][]![django-sprint-2-3][]
 
   [second sprint Django]: http://montrealpython.org/fr/2010/01/23/django-translation-sprint-2-on-2010-02-15/
   [Agence Universitaire de la Francophonie]: http://www.auf.org/

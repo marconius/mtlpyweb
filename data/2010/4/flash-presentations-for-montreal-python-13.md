@@ -14,8 +14,4 @@ Lang: en
 -   Sébastien Pierre on a surprise topic
 -   Yannick Gingras on the Montréal-Python wiki
 
-<!--:-->
-
-</p>
-
   [Montréal-Python 13]: http://www.montrealpython.org/2010/03/montreal-python-13-on-2010-04-26/

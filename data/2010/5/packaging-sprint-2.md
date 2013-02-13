@@ -24,10 +24,6 @@ hand. Attendance is limited to 12 sprinters so please [RSVP on the
 wiki][]. We don't have a sponsor this time but that won't stop us. Bring
 your own drinks and expect a group order for food arond 19h.
 
-<!--:-->
-
-</p>
-
   [Tarek]: http://tarekziade.wordpress.com/
   [PyPI site]: http://pypi.python.org/pypi
   [RSVP on the wiki]: http://wiki.montrealpython.org/index.php/Packaging_with_distutil2_2

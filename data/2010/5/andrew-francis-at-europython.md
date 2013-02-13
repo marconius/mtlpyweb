@@ -13,10 +13,6 @@ Select][] will be a slightly shorter version of the one that he did at
 Montréal-Python. It's good to see fellow Montréalers presenting at large
 international conferences.
 
-<!--:-->
-
-</p>
-
   [Montréal-Python 13]: http://www.montrealpython.org/2010/03/montreal-python-13-on-2010-04-26/
   [EuroPython]: http://www.europython.eu/
   [Implementing Go's Select]: http://www.europython.eu/talks/talk_abstracts/#talk102

@@ -15,20 +15,13 @@ About the format :
 -   second talk
 -   invitation to have a drink at Laika.
 
-About the talks:
-
-</p>
-I'm looking for topics general enough to be interesting for a diverse
-group and also advanced enough to not be boring. The presentation spots
-are still open, so if you feel up to the task, please send me an email
-at contact [at] montrealpython.org.
-
-To confirm that you will attend, please edit the wiki at
-[http://www.barcampmontreal.org/wiki/MontrealPython1  ][]
-
----
-
-Au sujet de la rencontre:
+About the talks: I'm looking for topics general enough to be interesting
+for a diverse group and also advanced enough to not be boring. The
+presentation spots are still open, so if you feel up to the task, please
+send me an email at contact [at] montrealpython.org. To confirm that you
+will attend, please edit the wiki at
+[http://www.barcampmontreal.org/wiki/MontrealPython1  ][] --- Au sujet
+de la rencontre:
 
 -   arrivez @ 18h30 - Akoha / Standout Jobs..
 -   temps pour rencontrer le monde, se réchauffer.
@@ -37,15 +30,11 @@ Au sujet de la rencontre:
 -   deuxième présentation
 -   Aller prendre un verre à Laïka.
 
-Les présentations:
-
-</p>
-Le critère pour les présentations c'est qu'elles soient assez générales
-pour satisfaire un groupe varié et aussi assez avancées pour ne pas être
-plates pour des non novices. Je n'ai pas encore fait de choix, alors je
-vous invite à vous proposer en envoyant un courriel contenant votre
-sujet à contact[at]montrealpython.org.
-
+Les présentations: Le critère pour les présentations c'est qu'elles
+soient assez générales pour satisfaire un groupe varié et aussi assez
+avancées pour ne pas être plates pour des non novices. Je n'ai pas
+encore fait de choix, alors je vous invite à vous proposer en envoyant
+un courriel contenant votre sujet à contact[at]montrealpython.org.
 [][http://www.barcampmontreal.org/wiki/MontrealPython1  ]Pour confirmer
 votre place, veuillez éditer le wiki à
 [http://www.barcampmontreal.org/wiki/MontrealPython1  ][]

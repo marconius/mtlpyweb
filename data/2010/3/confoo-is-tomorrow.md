@@ -12,10 +12,6 @@ miss that unique opportunity to meet famous Pythonistas such as [Mark
 Pilgrim][] (Dive into Python), [Raymond Hettinger][] (core Python),
 [Tarek Ziadé][] (Distribute), and [Antoine Pitrou][] (new GIL).
 
-<!--:-->
-
-</p>
-
   [Mark Pilgrim]: http://confoo.ca/en/2010/session/html5-where-are-we-now
   [Raymond Hettinger]: http://confoo.ca/en/2010/session/python-tips-tricks-and-idioms
   [Tarek Ziadé]: http://confoo.ca/en/2010/session/le-packaging-avec-python

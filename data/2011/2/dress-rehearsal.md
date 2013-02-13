@@ -19,10 +19,6 @@ their talk and receive some critical feedback that should give the
 official public performance this extra umph that makes you spill your
 pint. If you want to be part of the crowd, [RSVP on the wiki][].
 
-<!--:-->
-
-</p>
-
   [Notman House]: http://notmanhouse.com
   [expert pythonistas]: http://us.pycon.org/2011/schedule/sessions/147/
   [from Montréal]: http://confoo.ca/en/speaker/blaise-laflamme

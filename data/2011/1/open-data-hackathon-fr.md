@@ -9,8 +9,4 @@ Montréal-Ouvert organise un [hackathon sur les données ouvertes][]
 samedi le 2011-01-29. Voici une excellente opportunité pour démontrer à
 quel point Python excelle pour le prototypage rapide.
 
-<!--:-->
-
-</p>
-
   [hackathon sur les données ouvertes]: http://montrealouvert.net/2011/01/06/hackathon-donnees-ouvertes-open-data-montreal/

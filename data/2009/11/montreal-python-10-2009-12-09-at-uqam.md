@@ -8,9 +8,8 @@ Lang: en
 <!--:en-->Montréal-Python 10 will take place at UQAM, on Wednesday
 2009-12-09 in room **PK-5115** of the President-Kenedy building. The PK
 building is located at [201 Président-Kenedy][], it also has a direct
-entrance to the Place-des-Arts metro station.
-
-Here is our schedule for the evening:
+entrance to the Place-des-Arts metro station. Here is our schedule for
+the evening:
 
 -   18h00: Opening
 -   18h20: Announcements
@@ -64,10 +63,6 @@ development*.
 > center of a high density population center is that in addition to the
 > sound of the birds and children playing you can also hear the
 > distinctive hum of the nearby "outer beltway".
-
-<!--:-->
-
-</p>
 
   [201 Président-Kenedy]: http://www.uqam.ca/campus/pavillons/pk.htm
   [Benelux]: http://www.brasseriebenelux.com/

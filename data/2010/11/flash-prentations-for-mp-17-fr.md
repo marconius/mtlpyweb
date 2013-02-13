@@ -17,11 +17,8 @@ présentations éclaires:
 
 Ne manquez pas cet événement qui mettra en scène notre nouveau
 fournisseur de sandwiches (mais malheureusement pas de patates douces
-fourées pour l'instant).
-
-</p>
-Merci à nos commanditaires de rendre Montréal-Python Archéologue
-Apotropaïque possible:
+fourées pour l'instant). Merci à nos commanditaires de rendre
+Montréal-Python Archéologue Apotropaïque possible:
 
 -   [UQAM][]
 -   [Benelux][]
@@ -30,10 +27,6 @@ Apotropaïque possible:
 -   [Le Site][]
 -   [Ecometrica][]
 -   [Apress][]
-
-<!--:-->
-
-</p>
 
   [Montréal-Python 17]: http://montrealpython.org/fr/2010/11/mp-17/
   [UQAM]: http://uqam.ca

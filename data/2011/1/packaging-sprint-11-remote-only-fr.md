@@ -17,8 +17,4 @@ On prend note que les sprints la fin de semaine ne sont pas une option
 viable plus plusieurs d'entre-vous et on compte revenir à des sprints
 pendant les soirs de semaine au cours des semaines à venir.
 
-<!--:-->
-
-</p>
-
   [sprint de demain]: http://montrealpython.org/fr/2011/01/packaging-sprint-11/

@@ -7,7 +7,7 @@ Lang: fr
 
 Il ne reste que quelques jours pour [l'appel aux conférenciers][] de
 [ConFoo.ca][]. Nous ne demandons rien de mieux que d'entendre parler nos
-pythoneux locaux donc n'hésitez pas à soumettre une session.<!--:-->
+pythoneux locaux donc n'hésitez pas à soumettre une session.
 
   [l'appel aux conférenciers]: http://confoo.ca/en/cfp
   [ConFoo.ca]: http://confoo.ca

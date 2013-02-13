@@ -11,12 +11,9 @@ session intense pour se familiariser avec les outils, nous avons été en
 mesure de compléter une grande partie de la documentation de l'API.
 Notre mentor, Mathieu Leduc-Hamel, a fait un excellent travail pour
 identifier la documentation à attaquer et pour soutenir l'équipe pendant
-les moments difficiles de notre lutte avec Mercurial et Sphinx.
-
-C'est définitivement une expérience à répéter. On estime qu'avec encore
-trois ou quatre sessions, on serait en mesure d'avoir une traduction
-complète.
-
+les moments difficiles de notre lutte avec Mercurial et Sphinx. C'est
+définitivement une expérience à répéter. On estime qu'avec encore trois
+ou quatre sessions, on serait en mesure d'avoir une traduction complète.
 Merci aux Brasseurs Numériques pour héberger l'événement et
 félicitations à l'équipe de sprinteurs:
 
@@ -29,9 +26,7 @@ félicitations à l'équipe de sprinteurs:
 -   Jean Schurger
 -   Alexandre Vassalotti
 
-![sprint-1][] ![sprint-2][] <!--:-->
-
-</p>
+![sprint-1][] ![sprint-2][]
 
   [sprint-1]: http://montrealpython.org/wp-content/uploads/2010/01/sprint-1-300x225.jpg
     "sprint-1"

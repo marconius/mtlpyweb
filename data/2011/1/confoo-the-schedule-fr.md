@@ -24,10 +24,6 @@ tarifs préférentiels.
 
 </div>
 
-<!--:-->
-
-</p>
-
   [l'horaire complet des sessions]: http://confoo.ca/fr/2011/schedule
   [liste des présentateurs Python]: http://confoo.ca/en/2011/session/tag/python
   [confoo.ca]: http://confoo.ca

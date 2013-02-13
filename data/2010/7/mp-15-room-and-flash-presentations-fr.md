@@ -26,10 +26,6 @@ Merci à tous nos commanditaires pour rendre Montréal-Python 15 possible:
 -   [Ecometrica][]
 -   [Apress][]
 
-<!--:-->
-
-</p>
-
   [Montréal-Python 15]: http://montrealpython.org/fr/2010/06/mp-15/
   [UQAM]: http://uqam.ca
   [Benelux]: http://www.brasseriebenelux.com/

@@ -10,6 +10,6 @@ pré-vente. N'attendez plus et [reservez dès maintenant][] votre chance
 de rencontrer de expert internationaux du développement Web. À ConFoo,
 vous aurez l'occasion de discuter avec des Pythoneux célèbres tel que
 Tarek Ziadé (distribute), Antoine Pitrou (core Python), et James Tauber
-(Pinax).<!--:-->
+(Pinax).
 
   [reservez dès maintenant]: http://confoo.ca/fr/register

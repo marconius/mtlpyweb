@@ -51,9 +51,7 @@ Pythonistas to work together and to share tips on how to be efficient
 with Python. Stay tuned because we will certainly organize more of
 these.
 
-[![][]][][![][1]][]<!--:-->
-
-</p>
+[![][]][][![][1]][]
 
   [Chris Perkins]: http://percious.com/blog/
   [Tarek Ziadé]: http://tarekziade.wordpress.com/

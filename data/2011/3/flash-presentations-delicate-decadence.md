@@ -7,11 +7,9 @@ Lang: en
 
 <!--:en-->Under the theme of creation and entertainment with Python,
 [Delicate Decadence][], the next Montréal-Python event will take place
-next Monday, April 11th.
-
-It will be a great occasion to listen to and to meet some of the most
-energetic and creative presenters that we have in Montréal, makers.
-Among the many flash presenters, we count so far:
+next Monday, April 11th. It will be a great occasion to listen to and to
+meet some of the most energetic and creative presenters that we have in
+Montréal, makers. Among the many flash presenters, we count so far:
 
 -   Python-controlled slide shows, Amos Latteier
 -   Blender does Python: programming the three dimensions, Adrian
@@ -22,18 +20,11 @@ Among the many flash presenters, we count so far:
 
 As usual, the event is free of charge and does not require
 pre-registration. Snacks will be provided but do not plan for a full
-meal.
-
-</p>
-Thanks to our sponsors for making Montréal-Python 20 possible:
+meal. Thanks to our sponsors for making Montréal-Python 20 possible:
 
 -   Benelux
 -   UQAM
 -   Le Site
 -   Savoir-Faire Linux
-
-<!--:-->
-
-</p>
 
   [Delicate Decadence]: http://montrealpython.org/2011/03/mp-20/

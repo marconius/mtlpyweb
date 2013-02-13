@@ -17,7 +17,6 @@ translated by our 6 sprinters:
 -   George Peristerakis
 -   Pierre Phaneuf (from Google)
 
-</p>
 This new effort of translation brings the French translation coverage of
 the Django 1.2 documentation up to 18%. We estimate that 77% of the
 French translation has been made by pythonistas of Montréal.
@@ -25,21 +24,16 @@ French translation has been made by pythonistas of Montréal.
 -   11314 lines translated (18%)
 -   52731 lines waiting for translation
 
-</p>
 Of the translated lines,
 
 -   8759 are by Montreal-Python
 -   2624 are by the Django-fr team
 
-</p>
 Their is still a long road ahead but the Montreal-Python team is more
-and more efficient and we hope to see you at the next sprint.
-
-Thanks a lot to [AUF][] for the food and to Google and especially to
-Pierre Phaneuf ([@pphaneuf][]) for hosting us during those crazy six
-hours.
-
-[gallery columns="3"]<!--:-->
+and more efficient and we hope to see you at the next sprint. Thanks a
+lot to [AUF][] for the food and to Google and especially to Pierre
+Phaneuf ([@pphaneuf][]) for hosting us during those crazy six hours.
+[gallery columns="3"]
 
   [AUF]: http://auf.org
   [@pphaneuf]: http://twitter.com/pphaneuf

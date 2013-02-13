@@ -13,7 +13,7 @@ with Python's Newer Tools][], then get [your ticket for PyCon][] before
 next Tuesday. On the other hand, if you want to see Blaise Laflamme give
 an [Introduction to Pyramid][], then you should [register for ConFoo][]
 before next Friday. Of course, those who are not faint of heath will
-want to go to both conferences. Will you dare?<!--:-->
+want to go to both conferences. Will you dare?
 
   [Fun with Python's Newer Tools]: http://us.pycon.org/2011/schedule/sessions/261/
   [your ticket for PyCon]: http://us.pycon.org/2011/tickets/

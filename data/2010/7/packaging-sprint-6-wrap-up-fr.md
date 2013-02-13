@@ -38,5 +38,4 @@ Félicitations à tous le participants:
 Nous allons annoncer d'autres sprints sous peu. Soyez attentif pour les
 annonces.
 
-</p>
-[gallery] <!--:-->
+[gallery]

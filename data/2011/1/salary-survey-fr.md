@@ -19,8 +19,4 @@ personnes travaillant ici à Montréal. Peut-être que ce serait le moment
 pour certains d'entre nous d'y ajouter un peu d'information. Pas de
 souci, c'est parfaitement anonyme.
 
-<!--:-->
-
-</p>
-
   [Glassdoor.com]: http://glassdoor.com

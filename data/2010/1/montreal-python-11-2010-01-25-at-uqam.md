@@ -8,7 +8,6 @@ Lang: en
 <!--:en-->Montréal-Python 11 will take place at UQAM, on Monday
 2010-01-25 in room SH-3340 of the Sherbrooke building. The SH building
 is located at [200 Sherbrooke west][], Place-des-Arts metro station.
-
 Here is our schedule for the evening:
 
 -   18h00: Opening
@@ -37,18 +36,13 @@ about *Pylons, the swiss army knife of Python Web development*.
 > deployment scenarios. We'll also have some little comparisons between
 > frameworks; how Pylons relates to other frameworks and languages.
 
-</p>
-<p>
 > Alexandre is a passionate Python specialist who teaches the language
 > as a main trainer at Savoir-Faire Linux. He is also the creator and
 > main developer of SFLVault, an open source authentication information
 > management software project, and contributes to other packages such as
-> FormAlchemy.
-> </p>
-> <p>
-> Alexandre is also Consultant and Development Director at Savoir-Faire
-> Linux, where he integrates different web technologies around open
-> source.
+> FormAlchemy. Alexandre is also Consultant and Development Director at
+> Savoir-Faire Linux, where he integrates different web technologies
+> around open source.
 
 We want to thank our sponsors for making Montréal-Python 11 possible:
 
@@ -59,9 +53,7 @@ We want to thank our sponsors for making Montréal-Python 11 possible:
 -   Ecometrica
 -   AESS
 
-<small>[View Larger Map][]</small><!--:-->
-
-</p>
+<small>[View Larger Map][]</small>
 
   [200 Sherbrooke west]: http://www.uqam.ca/campus/pavillons/sh.htm
   [Benelux]: http://www.brasseriebenelux.com/

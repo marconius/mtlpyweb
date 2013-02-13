@@ -7,9 +7,7 @@ Lang: fr
 
 Montréal-Python 17 (nom de code Archéologue Apotropaïque) aura lieu
 lundi le 2010-11-29 au local PK-1620 du [pavillon Président Kennedy][]
-de l’UQAM.
-
-Voici notre programme pour la soirée:
+de l’UQAM. Voici notre programme pour la soirée:
 
 -   18h00: Ouverture des portes
 -   18h20: Annonces
@@ -23,29 +21,21 @@ Saliola. Elle mettra en vedette [Sage][], l'environnement de
 mathématique exploratoire. Le diaporama sera en anglais et la
 présentation sera en français ou en anglais selon la demande.
 
-</p>
-<p>
 > Sage est un logiciel libre et gratuit de mathématiques. Sa mission est
 > d'offrir une alternative viable aux logiciels commerciaux comme Maple
 > ou Mathematica, et sa communauté est en pleine croissance dans le
-> monde entier.
-> </p>
-> <p>
-> Nous ferons une présentation d'introduction à Sage (histoire, mission,
-> la communauté, liens avec Python). Nous ferons aussi une démo
-> d'utilisation qui illustrera les projets issus de Sage et maintenant
-> indépendants : l'interface Notebook et le langage Cython.
+> monde entier. Nous ferons une présentation d'introduction à Sage
+> (histoire, mission, la communauté, liens avec Python). Nous ferons
+> aussi une démo d'utilisation qui illustrera les projets issus de Sage
+> et maintenant indépendants : l'interface Notebook et le langage
+> Cython.
 
-</p>
-<p>
 > Franco Saliola, professeur de mathématiques à l'UQAM, et Sébastien
 > Labbé, étudiant au doctorat en mathématique-informatique au LaCIM à
 > l'UQAM, sont développeurs de Sage depuis 2008.
 
-</p>
 L'événement est gratuit et aucune inscription n'est requise. Des amuses
 gueule seront disponible mais ne vous attendez pas à un repas complète.
-
 Merci à nos commanditaires de rendre Montréal-Python 17 possible:
 
 -   [UQAM][]
@@ -55,10 +45,6 @@ Merci à nos commanditaires de rendre Montréal-Python 17 possible:
 -   [Le Site][]
 -   [Ecometrica][]
 -   [Apress][]
-
-<!--:-->
-
-</p>
 
   [pavillon Président Kennedy]: http://www.uqam.ca/campus/pavillons/pk.htm
   [Sage]: http://www.sagemath.org/

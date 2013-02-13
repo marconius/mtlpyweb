@@ -6,17 +6,12 @@ Slug: check-it-out-django-workshop-next-week-french
 Lang: en
 
 <!--:en-->Ta-ta-ra-ta-taaaaaaaaaaa! Pythonistas, Montréal-Python Rugby
-League needs your help!
-
-Here comes your confrontation with Django... a bit postponed since we
-absolutely wanted to hold this event in a UQAMian stadium. If bad
-weather occurs, we've took our dispositions : we've found a covered
-stadium near UQAM.
-
-So, let's stop kidding, here's what you need to know about our last
-workshop **in French** of the Winter 2012 Session :
-
-**Django : monter une application web en Python**
+League needs your help! Here comes your confrontation with Django... a
+bit postponed since we absolutely wanted to hold this event in a UQAMian
+stadium. If bad weather occurs, we've took our dispositions : we've
+found a covered stadium near UQAM. So, let's stop kidding, here's what
+you need to know about our last workshop **in French** of the Winter
+2012 Session : **Django : monter une application web en Python**
 
 -   Date: Wednesday 16th of May, from 6:00 PM to 9:00 PM
 -   Place: UQAM (hourra!), Sherbrooke Building, 200 Sherbrooke West,
@@ -26,13 +21,8 @@ workshop **in French** of the Winter 2012 Session :
 -   [Workshop's wiki page][]
 -   [Workshop's original post][]
 
-</p>
 Please, install what's needed before the workshop or show up at 5:30 PM
-to get help.
-
-Don't forget to subscribe even tough it's free!
-
-Be there!<!--:-->
+to get help. Don't forget to subscribe even tough it's free! Be there!
 
   [Eventbrite]: http://montrealpython-atelier-20120516.eventbrite.ca
   [Workshop's wiki page]: http://montrealpython.org/r/projects/workshops/wiki/2012-05-16

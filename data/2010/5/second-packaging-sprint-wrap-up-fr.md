@@ -34,9 +34,5 @@ avoir un coach sur place pour les sprints subséquents. Définitivement,
 on va s'assurer de toujours avoir un expert parmi nous pour tous les
 prochains sprints de programmation.
 
-<!--:-->
-
-</p>
-
   [second sprint sur le packaging]: http://montrealpython.org/2010/05/packaging-sprint-2/
   [Tarek]: http://tarekziade.wordpress.com/

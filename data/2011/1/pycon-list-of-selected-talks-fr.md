@@ -14,10 +14,6 @@ de [donner une présentation][] sur notre expérience à organiser
 Montréal-Python et de montrer comment d'autres peuvent (et devrait)
 prendre en main l'organisation de leur communauté locale.
 
-<!--:-->
-
-</p>
-
   [ConFoo]: http://confoo.ca/fr
   [liste des présentations sélectionnées]: http://us.pycon.org/2011/schedule/lists/talks/
   [API Design: Lessons Learned]: http://us.pycon.org/2011/schedule/sessions/263/

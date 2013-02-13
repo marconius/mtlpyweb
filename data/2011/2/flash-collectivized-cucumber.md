@@ -27,11 +27,9 @@ multiple Flash speakers:
 -   pybattle - The future of man by Benoit Clenett-Sirois
 
 <div>
-</p>
 The event is free to addend and no registration is required. Some snacks
-will be provided but do not expect a complete meal.
-
-Thanks to our sponsors for making Montréal-Python 19 possible:
+will be provided but do not expect a complete meal. Thanks to our
+sponsors for making Montréal-Python 19 possible:
 
 -   [UQAM][]
 -   [Benelux][]
@@ -41,9 +39,6 @@ Thanks to our sponsors for making Montréal-Python 19 possible:
 -   [Apress][]
 
 </div>
-<!--:-->
-
-</p>
 
   [Collectivized Cucumber]: http://montrealpython.org/2011/02/mp19/
   [UQAM]: http://uqam.ca/

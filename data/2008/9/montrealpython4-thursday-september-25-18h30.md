@@ -6,7 +6,6 @@ Tags: meetup, Montreal Python
 Slug: montrealpython4-thursday-september-25-18h30
 Lang: en
 
-<p>
 We are back, with a new location and a cool presentation in store for
 you. Thursday September 25th @ 18h30
 at <span style="border-collapse: collapse; font-family: arial; font-size: 13px; line-height: normal" class="Apple-style-span">**[http://labanque.ca/][]**<span style="border-collapse: separate; font-family: Georgia; font-size: 16px; line-height: 20px" class="Apple-style-span"> - <span style="border-collapse: collapse; font-family: arial; font-size: 13px; line-height: normal" class="Apple-style-span">175
@@ -27,8 +26,6 @@ intro.</span></span></span></span>
 > discussion to follow.</span>
 
 We will have refreshments available (beer, soda) as well as some food.
-
-</p>
 Also, there will be time for lightning talks, announcements before the
 presentation. The registration is back on the wiki... 
 [http://www.barcampmontreal.org/wiki/MontrealPython4][]

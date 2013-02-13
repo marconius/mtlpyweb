@@ -10,17 +10,11 @@ représentants à PyCon, ça sera de l'électronique et du Python. Nous
 sommes fiers de vous convier le 19 mars prochain à Montréal-Python 28 :
 Lobotomie Lithographique, Spécial Électronique.
 
-</p>
-
 L'événement se tiendra en collaboration avec Foulab, de purs tripeux
 d'électronique, et ils vont nous en mettre plein la vue.
 
-</p>
-
 La rencontre se déroulera à la magnifique Maison Notman, au 51
 Sherbrooke ouest.
-
-</p>
 
 Voici le programme de la soirée :
 
@@ -32,8 +26,6 @@ Voici le programme de la soirée :
 -   21h00 Fin de soirée au Bénélux
 
 </p>
-</p>
-
 Nos valeureux présentateurs:
 
 -   Michel Gallant, "pyserial and how it is used in tweletype"
@@ -44,13 +36,9 @@ Nos valeureux présentateurs:
 -   Paul Pereira-Brunner, "MyHDL"
 
 </p>
-</p>
-
 Comme toujours, nous sommes heureux de compter sur l’appui de nos
 commanditaires, qui tiennent à s’impliquer auprès de la communauté de
 Python.
-
-</p>
 
 Nous remercions :
 
@@ -60,9 +48,6 @@ Nous remercions :
 -   OSMO foundation, Maison Notman
 -   Radialpoint
 -   Savoir-Faire Linux
-
-</p>
-<!--:-->
 
 </p>
 

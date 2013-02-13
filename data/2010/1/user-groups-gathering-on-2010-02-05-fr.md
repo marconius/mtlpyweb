@@ -9,4 +9,4 @@ Vendredi prochain, pourquoi ne pas terminer la semaine en beauté en
 allant prendre une bière ou deux avec les membres d'autres groupes
 d'usagers. Montréal-Python, W3Québec, PHP-Québec, AMUG, Montreal Girl
 Geek Dinner et bien d'autres vous invitent au Pub Ste-Elizabeth à partir
-de 18h. <!--:-->
+de 18h.

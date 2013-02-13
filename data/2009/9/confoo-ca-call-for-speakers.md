@@ -10,11 +10,10 @@ Montréal are organizing the first edition of the [ConFoo.ca
 conference][], which will be held in Montréal on March 10th through 12th
 at the Hilton Bonaventure Hotel. With over 500 expected attendees,
 [ConFoo.ca][ConFoo.ca conference] is one of the the largest Web
-development conference in North America.
-
-We are looking for the best speakers willing to share their experience
-and skills with programmers, managers, marketers and decision makers.
-The conference is divided into two parts:
+development conference in North America. We are looking for the best
+speakers willing to share their experience and skills with programmers,
+managers, marketers and decision makers. The conference is divided into
+two parts:
 
 -   A technical part, encompassing different aspects of Web development:
     PHP, Python, Ruby, security, project management, CMSs and
@@ -26,16 +25,11 @@ The conference is divided into two parts:
 Presenters can decide to present in English or French. Presentations are
 roughly one hour long and these may be recorded for later broadcast in
 digital format. All relevant details concerning the conference are
-available on the [call for speaker website][].
-
-</p>
-Even though Python can be used for a wide range of programming tasks,
-the Python track at ConFoo.ca will focus on Web development with Python.
-For all the other fascinating aspects of Python, do not hesitate to
-submit a talk to [PyCon][], which is also running its call for speakers
-as I write this.
-
-<!--:-->
+available on the [call for speaker website][]. Even though Python can be
+used for a wide range of programming tasks, the Python track at
+ConFoo.ca will focus on Web development with Python. For all the other
+fascinating aspects of Python, do not hesitate to submit a talk to
+[PyCon][], which is also running its call for speakers as I write this.
 
   [ConFoo.ca conference]: http://confoo.ca
   [call for speaker website]: http://confoo.ca/en/cfp

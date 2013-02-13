@@ -11,10 +11,6 @@ que [Mark Pilgrim][] (Dive into Python), [Raymond Hettinger][] (core
 Python), [Tarek Ziadé][] (Distribute), and [Antoine Pitrou][] (nouveau
 GIL).
 
-<!--:-->
-
-</p>
-
   [Mark Pilgrim]: http://confoo.ca/fr/2010/session/html5-where-are-we-now
   [Raymond Hettinger]: http://confoo.ca/fr/2010/session/python-tips-tricks-and-idioms
   [Tarek Ziadé]: http://confoo.ca/fr/2010/session/le-packaging-avec-python

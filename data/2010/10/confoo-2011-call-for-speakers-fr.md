@@ -36,8 +36,4 @@ Passez le mot!
 
 </div>
 
-<!--:-->
-
-</p>
-
   [http://confoo.ca/fr/call-for-papers]: http://confoo.ca/fr/call-for-papers

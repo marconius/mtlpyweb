@@ -44,10 +44,6 @@ et de faire de Montréal une ville magnifique pour les geeks.
 <span>[![Hopper Travel][1]][] [![Google Montreal][]][]
 [![Needium][]][]</span>
 
-<!--:-->
-
-</p>
-
   [http://blog.simonmathieu.com]: http://blog.simonmathieu.com/
   [HackReduce]: http://www.hackreduce.org/ "HackReduce"
   [BIXI]: http://montreal.bixi.com/ "BIXI"

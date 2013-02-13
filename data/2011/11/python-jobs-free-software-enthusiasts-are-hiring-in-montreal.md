@@ -9,11 +9,7 @@ Lang: en
 
 Python Jobs: Free Software enthusiasts are hiring in Montreal!
 
-</p>
-
 Savoir-faire Linux team is looking for two Python Web developers.
-
-</p>
 
 Conditions:
 
@@ -25,9 +21,5 @@ Conditions:
 You can apply online via this address:
 
 [http://www.savoirfairelinux.com/en/careers/2011060701-web-python][]
-
-<!--:-->
-
-</p>
 
   [http://www.savoirfairelinux.com/en/careers/2011060701-web-python]: http://www.savoirfairelinux.com/en/careers/2011060701-web-python

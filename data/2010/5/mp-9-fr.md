@@ -4,10 +4,7 @@ Author: Pior
 Slug: mp-9
 Lang: fr
 
-<p>
 <style>#sidebar { display:none;} #content { width: 740px !important; } </style>
-</p>
-
 Présentation principale
 =======================
 
@@ -21,8 +18,6 @@ Andrew-Francis: Stackless Python
 <source src="http://montrealpython.org/videos/Montreal-Python-9-Andrew-Francis-Stackless-Python.mp4" type="video/mp4"></source>
 Your browser doesn't support HTML5. Please use the download link. If you
 use Safari and want to use a libre format, install the Xiph QuickTime
-Component at http://www.xiph.org/quicktime </video><!--:-->
-
-</p>
+Component at http://www.xiph.org/quicktime </video>
 
   [Montréal-Python 9]: http://wiki.montrealpython.org/index.php/Montréal-Python_9

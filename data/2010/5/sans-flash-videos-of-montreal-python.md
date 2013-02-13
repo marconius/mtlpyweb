@@ -7,9 +7,7 @@ Lang: en
 
 <!--:en-->At last, you can go watch the videos of the Montréal-Python
 presentations, including the lightning talks, on the dedicated
-[presentations page][].
-
-So far, we have:
+[presentations page][]. So far, we have:
 
 -   [Montréal-Python 1][] David Goodger on Polyform Puzzler
 -   [Montréal-Python 2][] Cyril Robert on Scripting Asterisk with Python
@@ -24,12 +22,9 @@ So far, we have:
 Each video is linked to a page on the [Montréal-Python wiki][] to give
 the opportunity to presenters and attendees to gather interesting
 material about the presentation, such as the slides, example code, and
-related links.
-
-</p>
-Now we need your feedback on the videos; Theora is quite easy to deal
-with but H264 is a lot more tricky to transcode properly. If you have
-trouble enjoying our videos, let us know.<!--:-->
+related links. Now we need your feedback on the videos; Theora is quite
+easy to deal with but H264 is a lot more tricky to transcode properly.
+If you have trouble enjoying our videos, let us know.
 
   [presentations page]: http://montrealpython.org/presentations/
   [Montréal-Python 1]: http://montrealpython.org/presentations/mp-1/

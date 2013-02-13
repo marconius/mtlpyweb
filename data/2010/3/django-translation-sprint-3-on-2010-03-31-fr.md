@@ -22,10 +22,6 @@ réservez la vôtre sur la liste. Si vous ne pouvez nous rejoindre, vous
 pouvez tout de même participer par IRC, sur [\#montreal-python][] sur
 irc.freenode.net.
 
-<!--:-->
-
-</p>
-
   [premier]: http://montrealpython.org/fr/2010/01/15/django-translation-sprint-on-2010-01-18/
   [deuxième sprint]: http://www.montrealpython.org/2010/01/django-translation-sprint-2-on-2010-02-15/
   [Agence Universitaire de la Francophonie]: http://www.auf.org/

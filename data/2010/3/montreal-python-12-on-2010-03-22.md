@@ -8,7 +8,6 @@ Lang: en
 <!--:en-->Montréal-Python 12 will take place at UQAM, on Monday
 2010-03-22 in room SH-3420 of the Sherbrooke building. The SH building
 is located at [200 Sherbrooke west][], Place-des-Arts metro station.
-
 Here is our schedule for the evening:
 
 -   18h00: Opening
@@ -18,11 +17,7 @@ Here is our schedule for the evening:
 -   19h20: Main presentation
 -   20h30: Discussions and refreshments at Benelux
 
-</p>
-
 Flash presenters will be:
-
-</p>
 
 -   Antoine Reversat -- Python for Sysadmins
 -   Francis Piéraut -- Jython and Tomcat
@@ -30,8 +25,6 @@ Flash presenters will be:
 -   Hadrien David -- Déploiement sur AppEngine
 -   Gary Haran -- Montreal, from Ghetto to Hub
 
-</p>
-<p>
 Our main presenter is going to be *Marcin Swiatek* and he's going to
 talk about *Generating control images for microscopy software with
 Python and Numpy*.
@@ -47,20 +40,14 @@ Python and Numpy*.
 > the past 12 years. He has been a Python user since the version 1.5.2.
 
 We still have a few spots for flash presentations so don't hesitate to
-[contact us][] if you have something that you would like to present.
-
-</p>
-We want to thank our sponsors for making Montréal-Python 12 possible:
+[contact us][] if you have something that you would like to present. We
+want to thank our sponsors for making Montréal-Python 12 possible:
 
 -   [UQAM][]
 -   [Benelux][]
 -   [Savoir-faire Linux][]
 -   [Ecometrica][]
 -   [O'Reilly][]
-
-<!--:-->
-
-</p>
 
   [200 Sherbrooke west]: http://www.uqam.ca/campus/pavillons/sh.htm
   [Numpy]: http://numpy.scipy.org/

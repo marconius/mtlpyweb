@@ -27,10 +27,6 @@ Thanks to our sponsors for making Montréal-Python 15 possible:
 -   [Ecometrica][]
 -   [Apress][]
 
-<!--:-->
-
-</p>
-
   [Montréal-Python 15]: http://montrealpython.org/2010/06/mp-15/
   [UQAM]: http://uqam.ca
   [Benelux]: http://www.brasseriebenelux.com/

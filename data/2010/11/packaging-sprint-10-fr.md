@@ -25,8 +25,4 @@ Nous vous invitons à vous inscrire dans notre wiki:
 
 </div>
 
-<!--:-->
-
-</p>
-
   [http://wiki.montrealpython.org/index.php/Packaging\_no.10]: http://wiki.montrealpython.org/index.php/Packaging_no.10
