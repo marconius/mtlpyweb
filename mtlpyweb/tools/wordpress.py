@@ -3,6 +3,7 @@
 """ Transform Wordpress files to rst files. """
 import argparse
 import os
+import sys
 import time
 import subprocess
 
@@ -68,7 +69,7 @@ def wp2fields(xml):
 
             tags = [tag.contents[0] for tag in item.fetch(domain='post_tag')]
 
-            yield (title, content, name, date, date_object, author, categories, tags, "html")
+            yield (title, content, filename, date, date_object, author, categories, tags, "html")
 
 
 def fields2pelican(fields, out_markup, output_path, dircat=False, strip_raw=False):
@@ -76,6 +77,7 @@ def fields2pelican(fields, out_markup, output_path, dircat=False, strip_raw=Fals
     for title, content, filename, date, date_object, author, categories, tags, in_markup in fields:
         for i, post in enumerate(content.split("<!--:fr-->")):
             ext = '.md'
+            out_markup = 'markdown'
             current_lang = lang[i]
             header = build_markdown_header(title, date, author, categories, filename, current_lang, tags)
             fullname = build_dirname(filename, date_object)
@@ -98,15 +100,19 @@ def fields2pelican(fields, out_markup, output_path, dircat=False, strip_raw=Fals
                 with open(html_filename, 'w', encoding='utf-8') as fp:
                     # Replace newlines with paragraphs wrapped with <p> so
                     # HTML is valid before conversion
-                    paragraphs = post.split('\n\n')
-                    paragraphs = [u'<p>{0}</p>'.format(p) for p in paragraphs]
-                    new_content = ''.join(paragraphs)
 
-                    fp.write(new_content)
+                    # paragraphs = post.split('\n\n')
+                    # paragraphs = [u'<p>{0}</p>'.format(p) for p in paragraphs]
+                    # new_content = ''.join(paragraphs)
+
+                    # TWEAK: Remove lang separator : <!--:-->
+                    post = post.replace("<!--:-->", "")
+
+                    fp.write(post)
 
 
                 parse_raw = '--parse-raw' if not strip_raw else ''
-                cmd = ('pandoc --normalize --reference-links {0} --from=html'
+                cmd = ('pandoc --normalize --reference-links {0} --strict --from=html'
                        ' --to={1} -o "{2}" "{3}"').format(
                         parse_raw, out_markup, out_filename, html_filename)
 
@@ -127,10 +133,15 @@ def fields2pelican(fields, out_markup, output_path, dircat=False, strip_raw=Fals
 
                 with open(out_filename, 'r', encoding='utf-8') as fs:
                     content = fs.read()
+
                     if out_markup == "markdown":
                         # In markdown, to insert a <br />, end a line with two or more spaces & then a end-of-line
                         content = content.replace("\\\n ", "  \n")
                         content = content.replace("\\\n", "  \n")
+
+                        # TWEAK: replace \$ to $ because pelican doesn't support this syntax
+                        content = content.replace("\$", "$")
+
 
             with open(out_filename, 'w', encoding='utf-8') as fs:
                 fs.write(header + content)

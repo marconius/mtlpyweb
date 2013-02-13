@@ -19,6 +19,6 @@ LINKS =  (('Python.org', 'http://python.org'), )
 SOCIAL = (('twitter', 'https://twitter.com/mtlpy'),
           ('github', 'https://github.com/mtlpy'))
 
-DEFAULT_PAGINATION = False
+DEFAULT_PAGINATION = 10
 
 THEME = 'themes/svbtle'
