@@ -77,7 +77,6 @@ def fields2pelican(fields, out_markup, output_path, dircat=False, strip_raw=Fals
     for title, content, filename, date, date_object, author, categories, tags, in_markup in fields:
         for i, post in enumerate(content.split("<!--:fr-->")):
             ext = '.md'
-            out_markup = 'markdown'
             current_lang = lang[i]
             header = build_markdown_header(title, date, author, categories, filename, current_lang, tags)
             fullname = build_dirname(filename, date_object)
@@ -112,9 +111,19 @@ def fields2pelican(fields, out_markup, output_path, dircat=False, strip_raw=Fals
 
 
                 parse_raw = '--parse-raw' if not strip_raw else ''
-                cmd = ('pandoc --normalize --reference-links {0} --strict --from=html'
-                       ' --to={1} -o "{2}" "{3}"').format(
-                        parse_raw, out_markup, out_filename, html_filename)
+
+                # Try to support the latest version of markdown
+                strict = '--strict' if not out_markup == 'markdown_strict' else ''
+
+                cmd = (
+                    'pandoc --normalize --reference-links {parse_raw} {strict} --from=html'
+                       ' --to={markup} -o "{out_filename}" "{html_filename}"').format(
+                       parse_raw=parse_raw,
+                       strict=strict,
+                       markup=out_markup,
+                       out_filename=out_filename,
+                       html_filename=html_filename
+                    )
 
                 try:
                     rc = subprocess.call(cmd, shell=True)
@@ -151,11 +160,10 @@ def parse_args():
     parser = argparse.ArgumentParser(description=__doc__)
 
     parser.add_argument(dest='input', help='The input file to read')
-    parser.add_argument('--wpfile', action='store_true', dest='wpfile',
-        help='Wordpress XML export')
     parser.add_argument('-o', '--output', dest='output', default='output',
         help='Output path')
-    parser.add_argument('-m', '--markup', dest='markup', default='rst',
+    parser.add_argument('-m', '--markup', dest='markup', default='markdown',
+        choices=['rst', 'markdown', 'markdown_strict'],
         help='Output markup format (supports rst & markdown)')
     parser.add_argument('--dir-cat', action='store_true', dest='dircat',
         help='Put files in directories with categories name')
