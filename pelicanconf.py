@@ -21,4 +21,4 @@ SOCIAL = (('twitter', 'https://twitter.com/mtlpy'),
 
 DEFAULT_PAGINATION = 10
 
-THEME = 'themes/svbtle'
+THEME = 'themes/mtlpy'
