@@ -1,0 +1,200 @@
+Montréal-Python 26 : Jolly Justification
+########################################
+:date: 2011-12-12 23:01
+:category: Montréal Python
+
+OH! OH! OH! Monday, December 19th, 6 days before christmas,
+Montreal-Python is inviting you to their last 2011 meeting, at UQAM,
+Sherbrooke building, room SH-R810, 200 sherbrooke west.
+
+The event is free and even though we can't serve a four course meal,
+snacks will be provided. Once again, there is some rumor about a free
+beer...
+
+Schedule of the evening:
+
+-  6:00pm Opening
+-  6:20pm Announcements
+-  6:30pm First salvo (flash presentations)
+-  6:50pm Break
+-  7:00pm: Second salvo
+-  7:30pm: Christmas party at Benelux!
+
+.. raw:: html
+
+   </p>
+
+Our jolly presenters will be:
+
+Flash Presentations (5 mins):
+
+-  Gabriel Tremblay "Tachyon, sloppiness is bliss"
+-  Putra Manggala "NetworkX, a package for the creation, manipulation,
+   and study of the structure, dynamics, and functions of complex
+   networks"
+-  Heri Rakotomalala "#MTLStartupTalent Join a startup: it might not be
+   easy, but it's worth it!"
+
+.. raw:: html
+
+   </p>
+
+Presentations (20mins)
+
+-  Alexander Kress "We use Python throughout our projects to run BDDs
+   using Freshen, both for the APIs and UI."
+-  Sophie Leroy "Par-delà l'Invisible, un projet de la SAT, une
+   exposition artistique en réalité augmentée sur un iPhone avec un
+   backend Django, ainsi qu'un site web interactif."
+-  Andy Frances "How Do You Solve a Problem Like Santa Claus:
+   Prototyping Join Patterns with Stackless.py" (`example video`_)
+
+.. raw:: html
+
+   </p>
+
+As always, we are really thankful to have such motivated an amazing
+sponsors. Thanks to all of them:
+
+-  `Ludia`_
+-  `iWeb`_
+-  `Benelux`_
+-  `UQAM`_
+-  `Le Site`_
+-  `Savoir-Faire Linux`_
+
+.. raw:: html
+
+   </p>
+
+OH! OH! OH! Le lundi 19 décembre, à 6 jours de Noël, Montréal-Python
+vous convie à la dernière rencontre de l'année 2011, à l’UQAM dans la
+salle SH-R810 du Pavillon Sherbrooke au 200 Sherbrooke ouest.
+
+L’événement est gratuit et ouvert à tous. Bien que nous ne soyons pas en
+mesure de vous offrir un repas quatre service, des amuse-gueules seront
+servis. Encore une fois le bruit court à propos d'une bière gratuite.
+
+Voici le programme de la soirée:
+
+.. raw:: html
+
+   <ul>
+
+.. raw:: html
+
+   <li>
+
+18h00 Ouverture des portes
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+18h20 Annonces
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+18h30 Tir de sommation (présentations Flash)
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+18h50 Pause
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+19h00 Début des présentations
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+19h30 Party de Noël de Montréal
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   </p>
+
+Nos joyeux présentateurs seront:Présentations Flash (5 mins):
+
+-  Gabriel Tremblay "Tachyon, sloppiness is bliss"
+-  Putra Manggala "NetworkX, a package for the creation, manipulation,
+   and study of the structure, dynamics, and functions of complex
+   networks"
+-  Heri Rakotomalala "#MTLStartupTalent Rejoindre une startup: ce n'est
+   peut-être pas facile, mais ça vaut le coup!"
+
+.. raw:: html
+
+   </p>
+
+Presentations (20mins)
+
+-  Alexander Kress "We use Python throughout our projects to run BDDs
+   using Freshen, both for the APIs and UI."
+-  Sophie Leroy "Par-delà l'Invisible, un projet de la SAT, une
+   exposition artistique en réalité augmentée sur un iPhone avec un
+   backend Django, ainsi qu'un site web interactif."
+-  Andy Frances "How Do You Solve a Problem Like Santa Claus:
+   Prototyping Join Patterns with Stackless.py" (`example video`_)
+
+.. raw:: html
+
+   </p>
+
+Comme toujours, nous sommes heureux d'avoir l’appui de nos
+commanditaires, qui tiennent à s’impliquer auprès de la communauté de
+Python:
+
+-  `Ludia`_
+-  `iWeb`_
+-  `Benelux`_
+-  `UQAM`_
+-  `Le Site`_
+-  `Savoir-Faire Linux`_
+
+.. raw:: html
+
+   </p>
+
+.. raw:: html
+
+   </p>
+
+.. _example video: http://www.youtube.com/watch?v=pqO6tKN2lc4
+.. _Ludia: http://ludia.com/
+.. _iWeb: http://iweb.ca/
+.. _Benelux: http://www.brasseriebenelux.com/
+.. _UQAM: http://uqam.ca/
+.. _Le Site: http://lesite.ca/
+.. _Savoir-Faire Linux: http://savoirfairelinux.com/

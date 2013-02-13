@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Montréal-Python</title><link href="http://montrealpython.org/" rel="alternate"></link><link href="http://montrealpython.org/feeds/4.atom.xml" rel="self"></link><id>http://montrealpython.org/</id><updated>2011-04-24T15:57:00-04:00</updated><entry><title>MP-20</title><link href="http://montrealpython.org/mp-20.html" rel="alternate"></link><updated>2011-04-24T15:57:00-04:00</updated><author><name>Pior</name></author><id>tag:montrealpython.org,2011-04-24:mp-20.html</id><summary type="html">&lt;p&gt;
+&lt;!--:en--&gt;
+
+&lt;style&gt;#sidebar { display:none;} #content { width: 740px !important; } &lt;/style&gt;
+&lt;/p&gt;
+
+&lt;h1&gt;Présentation principale&lt;/h1&gt;
+&lt;h2&gt;Olivier Bélanger: Pyo&lt;/h2&gt;
+&lt;p&gt;ressources sur cette présentation: &lt;a href="http://wiki.montrealpython.org/index.php/Montréal-Python_20"&gt;Montréal-Python 20&lt;/a&gt;   &lt;/p&gt;
+&lt;video controls poster="http://montrealpython.org/videos/Montreal-Python-20-Olivier-Belanger-Pyo.jpg"&gt;
+&lt;source src="http://montrealpython.org/videos/Montreal-Python-20-Olivier-Belanger-Pyo.mp4" type="video/mp4"&gt;&lt;/source&gt;
+&lt;source src="http://montrealpython.org/videos/Montreal-Python-20-Olivier-Belanger-Pyo.webm" type="video/webm"&gt;&lt;/source&gt;
+&lt;source src="http://montrealpython.org/videos/Montreal-Python-20-Olivier-Belanger-Pyo.ogg" type="video/ogg"&gt;&lt;/source&gt;
+Your browser doesn't support HTML5. Please use the download link. If you
+use Safari and want to use a libre format, install the Xiph QuickTime
+Component at http://www.xiph.org/quicktime &lt;/video&gt;
+
+&lt;p&gt;&lt;a href="http://montrealpython.org/videos/Montreal-Python-20-Olivier-Belanger-Pyo.webm"&gt;Video HD (webm)&lt;/a&gt; &lt;a href="http://montrealpython.org/videos/Montreal-Python-20-Olivier-Belanger-Pyo.mp4"&gt;Video HD (mp4)&lt;/a&gt; &lt;a href="http://montrealpython.org/videos/Montreal-Python-20-Olivier-Belanger-Pyo.ogg"&gt;Video HD (Theora)&lt;/a&gt; &lt;a href="http://montrealpython.org/videos/Montreal-Python-20-Olivier-Belanger-Pyo.mobile.mp4"&gt;Video
+Mobile (mp4)&lt;/a&gt; &lt;br /&gt;
+Special ! "Run" by Olivier Bélanger:
+&lt;audio controls&gt;&lt;source src="http://videos2.montrealpython.org/mp-20/Run_19_Nov_2010_00h38.ogg" type="audio/ogg"&gt;&lt;/audio&gt;
+&lt;a href="http://videos2.montrealpython.org/mp-20/Run_19_Nov_2010_00h38.ogg"&gt;Download&lt;/a&gt; &lt;!--:--&gt;&lt;/p&gt;
+&lt;/p&gt;</summary></entry></feed>

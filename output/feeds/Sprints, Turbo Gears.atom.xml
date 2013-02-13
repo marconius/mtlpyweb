@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Montréal-Python</title><link href="http://montrealpython.org/" rel="alternate"></link><link href="http://montrealpython.org/feeds/Sprints,%20Turbo%20Gears.atom.xml" rel="self"></link><id>http://montrealpython.org/</id><updated>2009-11-17T09:24:00-05:00</updated><entry><title>TurboGears sprint on 2009-11-27 at UQAM</title><link href="http://montrealpython.org/turbogears-sprint-on-2009-11-27-at-uqam.html" rel="alternate"></link><updated>2009-11-17T09:24:00-05:00</updated><author><name>Ygingras</name></author><id>tag:montrealpython.org,2009-11-17:turbogears-sprint-on-2009-11-27-at-uqam.html</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;&lt;a href="http://turbogears.org/"&gt;TurboGears&lt;/a&gt; is organizing a &lt;a href="http://percious.com/blog/archives/134"&gt;sprint on Black Friday&lt;/a&gt; to
+give the final polish for the 2.1 release. Montréal-Python invites you
+join to the sprinting effort at &lt;a href="http://www.vie-etudiante.uqam.ca/projetsetudiants/outils/associations/Pages/cafeetudiants.aspx"&gt;Café Fractal&lt;/a&gt; located in room SH-R380
+of the &lt;a href="http://www.uqam.ca/campus/pavillons/sh.htm"&gt;Sherbrooke building&lt;/a&gt; from 4pm to 11pm. We plan to have at
+least two persons somewhat familiar with the TurboGears 2.1 code base on
+site. They will be able to help you setup your development environment,
+coach you with the tools, and introduce you to TurboGears in general.&lt;/p&gt;
+&lt;!--:--&gt;</summary></entry></feed>

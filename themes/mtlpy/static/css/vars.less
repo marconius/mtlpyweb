@@ -2,4 +2,57 @@
 
 Colour, font and padding variables.
 
+@author Dimitry Zolotaryov <dimitry@webit.ca>
+
 */
+
+@root: "/theme";
+
+@serif: "Avro", sans;
+@sansserif: "Open Sans", Verdana, sans;
+
+@pywhite:         white;   // where ever white is used
+@pydarkgray:      #4c4c4c; // header, titles, text
+@pytextgray:      #a4a3a1; // lighter text
+@pylightgray:     #dddcd9; // button background
+@pytextlightgray: #b4b3b1; // placeholder text for input fields
+@pysalmon:        #eb756d; // where red text is used
+@pygreen:         #83c171; // links
+@pyborder:        #edebe6; // border around content
+
+@margin:       20px;  // basic unit of width
+@border-width: 1px;   // width of a border
+@border:       @border-width solid @pylightgray; // default border;
+
+.btn {
+    font-size: 14px;
+    line-height: 40px;
+    whitespace: nowrap;
+    min-width: 70px;
+    padding: 0 70px 0 20px; 
+    background-repeat: no-repeat;
+}
+
+.btn-icon {
+    width: 62px;
+    height: 72px;
+    text-aling: center;
+    display: block;
+    text-overflow: hidden;
+    text-indent: -100em;
+    line-height: 72px;
+    background: url('@root/img/icons.png') left -80px no-repeat;
+}
+.btn-icon-beer {
+    width: 45px;
+    height: 54px;
+    display: block;
+    text-overflow: hidden;
+    text-indent: -100em;
+    background: url('@root/img/icons.png') left -560px no-repeat;
+}
+.btn-icon-more {
+    .btn-icon;
+    background-position: left -480px;
+}
+

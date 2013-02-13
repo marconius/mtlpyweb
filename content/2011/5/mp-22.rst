@@ -1,0 +1,105 @@
+Montréal-Python 22 on 2011-06-27
+################################
+:date: 2011-05-30 10:34
+:category: Montréal Python
+
+Summer in Montréal, when it's not raining, is an immersing world of
+tempting pleasures. Falling Foulard, the 22th Montréal-Python meeting,
+will feature presentations on security and reverse engineering, the
+novel art of the electron-flirt. Join us on June 27th in room SH-R810 of
+the UQAM `Sherbrook building`_ for a fast paced volley of short
+presentations. Montréal-Python 22 will start at 6:20 PM with the
+following schedule:
+
+-  18h00: Doors opening
+-  18h20: Announcements
+-  18h30: First salvo
+-  19h00: Break
+-  19h20: Second salvo
+-  20h30: Discussions and refreshments at Benelux
+
+Flash presentations:
+
+-  Sébastien Labbé and Franco Saliola on cryptography with Sage
+-  Ian Jeffrey on Founder Fuel
+
+Longer presentations:
+
+-  Gabriel Tremblay on Practical device firmware reverse engineering
+   using Python (part 1)
+-  `Alexandre Bourget`_ on the internals of SFL vault
+-  Pierre-Marc Bureau on Basic Python for Malware analysis
+-  Julien Desfossez on packet manipulation with scapy
+
+The event is free to attend and no registration is required. Some snacks
+will be provided but do not expect a complete meal. We still have room
+for a few more flash prentations so let us know if you have an
+outrageous new subject in mind. Thanks to our sponsors for making
+Montréal-Python 22 possible:
+
+-  `Ludia`_
+-  `QNX`_
+-  `iWeb`_
+-  `Benelux`_
+-  `UQAM`_
+-  `Le Site`_
+-  `Savoir-Faire Linux`_
+
+L'été à Montréal, pour autant qu'on tombe sur une journée où il ne pleut
+pas, est un monde enivrant de tentations. Foulard Fuyant, la 22e
+rencontre de Montréal-Python sera sous le thème de sa sécurité et du
+reverse engineering, cet art contemporain du flirt électronique.
+Joignez-vous à nous le 27 juin au local SH-R810 du `pavillon
+Sherbrooke`_ de l'UQAM pour une volée frénétique de présentations
+courtes. Montréal-Python 22 commencera à 18:20 avec le programme
+suivant:
+
+-  18h00: Ouverture des portes
+-  18h20: Annonces
+-  18h30: Première salve
+-  19h00: Pause
+-  19h20: Seconde salve
+-  20h30: Discussions et rafraîchissements chez Benelux
+
+Présentations éclairs:
+
+-  Sébastien Labbé et Franco Saliola sur la cryptographie avec Sage
+-  Ian Jeffrey sur Founder Fuel
+
+Présentations de 20 minutes:
+
+-  Gabriel Tremblay sur le reverse engineering de firmware appliqué avec
+   Python (1e partie)
+-  `Alexandre Bourget`_ sur le fonctionnement interne de SFLVault
+-  Pierre-Marc Bureau sur les bases de l'analyse de malware avec Python
+-  Julien Desfossez sur la manipulation de paquets avec scapy
+
+L’événement est gratuit et aucune inscription n’est requise. Des
+amuses-gueule seront disponibles mais ne vous attendez pas à un repas
+complet. Il nous reste de la place pour quelques présentations éclairs.
+N’hésitez pas à nous contacter si vous avez un nouveau sujet outrageux
+en tête. Merci à nos commanditaires de rendre Montréal-Python 22
+possible:
+
+-  `Ludia`_
+-  `QNX`_
+-  `iWeb`_
+-  `Benelux`_
+-  `UQAM`_
+-  `Le Site`_
+-  `Savoir-Faire Linux`_
+
+.. raw:: html
+
+   </p>
+
+.. _Sherbrook building: http://www.uqam.ca/campus/pavillons/sh.htm
+.. _Alexandre Bourget: http://blog.abourget.net/
+.. _Ludia: http://www.ludia.com/
+.. _QNX: http://www.qnx.com/
+.. _iWeb: http://iweb.ca
+.. _Benelux: http://www.brasseriebenelux.com/
+.. _UQAM: http://uqam.ca
+.. _Le Site: http://lesite.ca
+.. _Savoir-Faire Linux: http://savoirfairelinux.com
+.. _pavillon Sherbrooke: http://www.uqam.ca/campus/pavillons/sh.htm

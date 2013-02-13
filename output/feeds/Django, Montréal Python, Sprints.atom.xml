@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Montréal-Python</title><link href="http://montrealpython.org/" rel="alternate"></link><link href="http://montrealpython.org/feeds/Django,%20Montr%C3%A9al%20Python,%20Sprints.atom.xml" rel="self"></link><id>http://montrealpython.org/</id><updated>2010-06-16T21:00:00-04:00</updated><entry><title>Django translation sprint #5 on 2010-06-28</title><link href="http://montrealpython.org/django-translation-sprint-5-on-2010-06-28.html" rel="alternate"></link><updated>2010-06-16T21:00:00-04:00</updated><author><name>Giotta</name></author><id>tag:montrealpython.org,2010-06-16:django-translation-sprint-5-on-2010-06-28.html</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;Django 1.2 has been released and then 1.2.1. The project moves
+on and so will be our translation effort. Montréal-Python is organizing
+a next sprint on 2010-06-28 at Google’s office:&lt;/p&gt;
+&lt;p&gt;1253 McGill College suite 250&lt;/p&gt;
+&lt;p&gt;We warmly thank &lt;a href="http://www.auf.org"&gt;Agence universitaire de la Francophonie&lt;/a&gt; for
+supporting the event with food and drinks for every participants.&lt;/p&gt;
+&lt;p&gt;The sprint begins at 18h and ends once everyone is too tired to type.
+Bring your own laptop or make an arrangement for pairing on the mailing
+list beforehand. We only have 12 seats; use the &lt;a href="http://wiki.montrealpython.org/index.php/Translation_of_Django_5"&gt;wiki&lt;/a&gt; to RSVP. If you
+can’t join us physically, you can still participate on IRC, on
+#montreal-python on irc.freenode.net.&lt;!--:--&gt;&lt;/p&gt;</summary></entry><entry><title>Follow-up on the 4th Django Sprint</title><link href="http://montrealpython.org/follow-up-on-the-4th-django-sprint.html" rel="alternate"></link><updated>2010-05-04T19:30:00-04:00</updated><author><name>Ygingras</name></author><id>tag:montrealpython.org,2010-05-04:follow-up-on-the-4th-django-sprint.html</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;The &lt;a href="http://montrealpython.org/2010/04/django-translation-sprint-4/"&gt;fourth Django translation sprint&lt;/a&gt; was very productive.
+The group is now experienced and we can at last spend more time
+strugling with the language than with the tools. Anyone knows a good
+translation for "file handler"?&lt;/p&gt;
+&lt;p&gt;We hope to launch a new sprint a few weeks from now; watch the blog or
+the mailing list for the announcement. Thanks to &lt;a href="http://auf.org"&gt;AUF&lt;/a&gt; for the food
+and the drinks and thanks to &lt;a href="http://ajah.ca"&gt;Brasseurs Numériques&lt;/a&gt; for hosting the
+event. Congratulation to all the sprinters for their good work:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pior Bastida&lt;/li&gt;
+&lt;li&gt;Thibault Cohen&lt;/li&gt;
+&lt;li&gt;Yannick Gingras&lt;/li&gt;
+&lt;li&gt;Benoît Grégoire&lt;/li&gt;
+&lt;li&gt;François Lapierre-Messier&lt;/li&gt;
+&lt;li&gt;Mathieu Leduc-Hamel&lt;/li&gt;
+&lt;li&gt;Jonathan Marcil&lt;/li&gt;
+&lt;li&gt;Cyril Robert&lt;/li&gt;
+&lt;li&gt;Jean Schurger&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[gallery link="file" columns="2"]&lt;!--:--&gt;&lt;/p&gt;
+&lt;/p&gt;</summary></entry><entry><title>Follow-up on the 3rd Django Sprint</title><link href="http://montrealpython.org/follow-up-on-the-3rd-django-sprint.html" rel="alternate"></link><updated>2010-04-12T19:24:00-04:00</updated><author><name>Mlhamel</name></author><id>tag:montrealpython.org,2010-04-12:follow-up-on-the-3rd-django-sprint.html</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;Thanks to everyone who took part in the latest translation
+sprint of the Django technical documentation of Django on March 31 at
+&lt;a href="http://ajah.ca"&gt;Brasseurs Numériques&lt;/a&gt;' office.&lt;/p&gt;
+&lt;p&gt;We were seven motivated Pythonistas and we progressed very quickly in
+this endeavour.&lt;/p&gt;
+&lt;p&gt;More than that, numerous contacts have been made with the French Django
+community (Django-fr).  We now try to coordinate a little bit more with
+them because with the release of Django-1.2 we'll need to keep up the
+good work, ideally with more and more people.  So far, we've completed
+the translation 12 files from the documentation.&lt;/p&gt;
+&lt;p&gt;Another sprint will be organized in the following weeks in the hope that
+we gather more people and to have fun with this work.&lt;/p&gt;
+&lt;p&gt;Thanks to the &lt;a href="http://ajah.ca"&gt;Brasseurs Numériques&lt;/a&gt; for their good hospitality.
+Thanks to the &lt;a href="http://auf.org"&gt;Agence universitaire de la Francophonie&lt;/a&gt; for the food
+and the drinks.&lt;/p&gt;
+&lt;p&gt;Congratulation to our sprinters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Davin Baragiotta&lt;/li&gt;
+&lt;li&gt;Cyril Robert&lt;/li&gt;
+&lt;li&gt;François Savard&lt;/li&gt;
+&lt;li&gt;Antoine Reversat&lt;/li&gt;
+&lt;li&gt;Yannick Gingras&lt;/li&gt;
+&lt;li&gt;Mathieu Leduc-Hamel&lt;/li&gt;
+&lt;li&gt;Jean Schurger&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--:--&gt;
+
+&lt;/p&gt;</summary></entry></feed>
