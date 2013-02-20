@@ -10,7 +10,7 @@ TIMEZONE = 'America/Montreal'
 DEFAULT_LANG = 'en'
 MARKUP = ('rst', 'md', 'html')
 
-SITEURL = 'http://montrealpython.org'
+SITEURL = 'https://raw.github.com/mtlpy/mtlpyweb/master/'
 FEED_DOMAIN = 'http://montrealpython.org'
 #PAGE_URL = '{slug}.html'
 
@@ -24,3 +24,5 @@ SOCIAL = (('twitter', 'https://twitter.com/mtlpy'),
 DEFAULT_PAGINATION = 10
 
 THEME = 'themes/mtlpy'
+
+RELATIVE_URLS = False

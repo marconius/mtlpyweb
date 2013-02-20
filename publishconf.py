@@ -5,14 +5,14 @@ import sys
 sys.path.append('.')
 from pelicanconf import *
 
-SITEURL = 'http://montrealpython.org'
+SITEURL = 'https://raw.github.com/mtlpy/mtlpyweb/master/'
 
 DELETE_OUTPUT_DIRECTORY = False
 
 # Following items are often useful when publishing
 
 # Uncomment following line for absolute URLs in production:
-#RELATIVE_URLS = False
+RELATIVE_URLS = False
 
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
