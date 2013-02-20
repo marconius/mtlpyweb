@@ -8,20 +8,24 @@ using [Pelican](http://docs.getpelican.com/en/3.0/) to generate the static pages
 Install
 -------
 
-`cd <path-to-mtlpyweb>/mtlpyweb
+`
+cd <path-to-mtlpyweb>/mtlpyweb
 
 virtualenv .
 
 source bin/activate
 
-python setup.py develop`
+python setup.py develop
+`
 
 Generate HTML content
 ---------------------
 
-`cd <path-to-mtlpyweb>/mtlpyweb
+`
+cd <path-to-mtlpyweb>/mtlpyweb
 
-make html`
+make html
+`
 
 Theme
 -----
