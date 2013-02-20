@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
     <title>{% block title %}{{ SITENAME }}{%endblock%}</title>
     <meta charset="utf-8" />
 
@@ -25,29 +25,55 @@
     <!--[if lt IE 7]>
         <link rel="stylesheet" type="text/css" media="all" href="{{ SITEURL }}/css/ie6.css"/><![endif]-->
 
-</head>
+  </head>
 
-<body>
+  <body>
     <header>
-        <nav>
-            <ul>
-                <li><img src="{{ SITEURL }}/theme/static/img/logo_header.png"/></li>
-            {% for page in PAGES %}
-                <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
-            {% endfor %}
-                <li class="search"><img src="{{ SITEURL }}/theme/static/img/icon/search.png"/></li>
-                <li class="settings"><img src="{{ SITEURL }}/theme/static/img/icon/settings.png"/></li>
-            </ul>
-        </nav>
+      <nav>
+        <ul>
+          <li><img src="{{ SITEURL }}/theme/static/img/logo_header.png"/></li>
+          <li><a href="">Blog</a></li>
+          <li><a href="">Calendar</a></li>
+          <li><a href="">About</a></li>
+          <li><a href="">Sponsorship</a></li>
+          <li class="search"><img src="{{ SITEURL }}/theme/static/img/icon/search.png"/></li>
+          <li class="settings"><img src="{{ SITEURL }}/theme/static/img/icon/settings.png"/></li>
+        </ul>
+      </nav>
     </header>
     <section id="main-content">
-    {% block content %}
-    {% endblock %}
+      {% block content %}
+      {% endblock %}
     </section>
     <footer>
-        <address id="about" class="vcard body">
+      <ul>
+        <li>
+          <h2>Navigation</h2>
+          <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ul>
+        </li>
+        <li>
+          <h2>Social</h2>
+          <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ul>
+        </li>
+        <li>
+          <h2>Newsletter</h2>
+          <h3>Pour tout savoir sur les activités de Montréal-Python</h3>
+        </li>
+      </ul>
+      <address id="about" class="vcard body">
         Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
-        </address><!-- /#about -->
+      </address><!-- /#about -->
     </footer>
-</body>
+  </body>
 </html>
