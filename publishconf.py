@@ -5,7 +5,7 @@ import sys
 sys.path.append('.')
 from pelicanconf import *
 
-SITEURL = 'https://raw.github.com/mtlpy/mtlpyweb/master/'
+SITEURL = '/'
 
 DELETE_OUTPUT_DIRECTORY = False
 
@@ -16,3 +16,6 @@ RELATIVE_URLS = False
 
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
+
+THEME = 'themes/mtlpy'
+THEME_STATIC_PATHS = (['static'])
