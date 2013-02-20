@@ -9,14 +9,18 @@ Install
 -------
 
 `cd <path-to-mtlpyweb>/mtlpyweb`
+
 `virtualenv .`
+
 `source bin/activate`
+
 `python setup.py develop`
 
 Generate HTML content
 ---------------------
 
 `cd <path-to-mtlpyweb>/mtlpyweb`
+
 `make html`
 
 Theme
