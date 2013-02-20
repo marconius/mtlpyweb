@@ -38,6 +38,11 @@ nosetests.xml
 # vi
 .*.swp
 
+# emacs
+*#
+*.#*
+
+
 # Build output
 output
 pelican.pid
