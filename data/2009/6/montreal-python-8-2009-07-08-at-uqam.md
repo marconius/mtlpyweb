@@ -47,7 +47,5 @@ in touch with us if you have an idea for a main presentation.
 
 -- [Yannick Gingras][]
 
-</p>
-
   [Sherbrooke building]: http://www.uqam.ca/campus/pavillons/sh.htm
   [Yannick Gingras]: http://ygingras.net

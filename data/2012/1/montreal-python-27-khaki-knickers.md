@@ -7,10 +7,8 @@ Lang: en
 
 <!--:en-->Pythonistas, grab your pants firmly! We're really happy to
 announce the first Montréal-Python monthly event of 2012 : Knickers
-Khaki.
-
-After the flaws of the stock market these recent years, we're in right
-to ask :
+Khaki. After the flaws of the stock market these recent years, we're in
+right to ask :
 
 -   What's Python place in this maelstrom?
 -   Does our favourite language can change the world and help us keep
@@ -18,13 +16,9 @@ to ask :
 -   Into wich company or startup invest?
 
 We'll may not answer all these questions but we're proud to invite you
-on January 30th, at Montréal-Python 27, Finance special edition.
-
-</p>
-The meeting will be held at UQAM, room SH-R810, Sherbrooke building on
-200 Sherbrooke West.
-
-Here's the program of the evening :
+on January 30th, at Montréal-Python 27, Finance special edition. The
+meeting will be held at UQAM, room SH-R810, Sherbrooke building on 200
+Sherbrooke West. Here's the program of the evening :
 
 -   6:00 PM : Opening
 -   6:20 PM : Annoucements
@@ -33,10 +27,7 @@ Here's the program of the evening :
 -   7:00 PM : Main presentations
 -   9:00 PM : End of evening at Bénélux
 
-Our presenters will be :
-
-</p>
-Flash (5 mins)
+Our presenters will be : Flash (5 mins)
 
 -   Greg Whiteside (Betabrokers), « Email as an API for simulated stock
     trading »
@@ -59,11 +50,9 @@ Long (45mins)
 -   Taavi Burns (Freshbooks), « Evolving an Internal Web Service »
 
 The event is free and open to all. Snacks will be provided and yes,
-there will be again some free beer...
-
-</p>
-As always, we are really proud to have the support of our sponsors,
-willing to get involved in the Python community. Thanks to all of them:
+there will be again some free beer... As always, we are really proud to
+have the support of our sponsors, willing to get involved in the Python
+community. Thanks to all of them:
 
 -   [Ludia][]
 -   [iWeb][]
@@ -71,10 +60,6 @@ willing to get involved in the Python community. Thanks to all of them:
 -   [UQAM][]
 -   [Le Site][]
 -   [Savoir-Faire Linux][]
-
-<!--:-->
-
-</p>
 
   [Ludia]: http://ludia.com/
   [iWeb]: http://iweb.ca/

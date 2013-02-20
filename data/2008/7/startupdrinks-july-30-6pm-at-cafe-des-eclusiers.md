@@ -9,10 +9,7 @@ Lang: en
 Heri and our friends from MontrealTechWatch are organizing
 Montreal.StartupDrinks this Wednesday (July 30). I thought since
 MontrealPython4 is postponed, some of you would enjoy joining this event
-which is different but related.
-
-<p>
-The concept is simple:
+which is different but related. The concept is simple:
 
 > startup culture in cities around the world gathers around a bar to
 > have a pint and discuss what they are working on, what they need help
@@ -25,7 +22,5 @@ de la Commune Ouest][]. For those who don't know, it's in the Old
 Montreal and the place is beautiful. See you.
 
 --Arach
-
-</p>
 
   [400 rue de la Commune Ouest]: http://maps.google.com/maps?f=q&hl=en&geocode=&q=caf%C3%A9+des+%C3%A9clusiers,+montreal&ie=UTF8&ll=45.500031,-73.552866&spn=0.038863,0.055275&z=14&iwloc=A

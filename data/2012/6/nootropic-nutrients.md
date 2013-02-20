@@ -12,18 +12,12 @@ was it because you used the best ingredients around? Montréal-Python 30,
 Nootropic Nutriments, is the place to be to share all the tips, tricks
 and secrets to get the best out of our beloved Python.
 
-</p>
-
 Join us on the 12th of June for our epic return to l'UQÀM starting at
 6pm for a stack of short presentations and an animated debate with our
 guests who will come from as far away as Europe and the West Coast for
 the evening.
 
-</p>
-
 Here's the lineup:
-
-</p>
 
 -   Mystery presenter on PyCon
 -   Nicolas Cadou and Yannick Gingras, "Virtualenvwrapper"
@@ -33,15 +27,9 @@ Here's the lineup:
     totally wrong"
 -   Alexandre Vassalotti, "Software architectures in Python"
 
-</p>
-
 Where it is: UQÀM SH-3420 (amphithéâtre)
 
-</p>
-
 The schedule: 12 of June 2012
-
-</p>
 
 -   6:00pm - Doors open
 -   6:30pm - Presentations start
@@ -49,23 +37,13 @@ The schedule: 12 of June 2012
 -   7:45pm - Second round of presentations
 -   8:30pm - We all meet at the Bénélux for a nice refreshing beer
 
-</p>
-
 We would also like to thank our brave sponsors:
-
-</p>
 
 -   [Savoir-Faire Linux][]
 -   [UQÀM][]
 -   [The Bénélux][]
 
-</p>
-
 Hope to see your there!
-
-<!--:-->
-
-</p>
 
   [Savoir-Faire Linux]: http://savoirfairelinux.com
   [UQÀM]: http://uqam.ca

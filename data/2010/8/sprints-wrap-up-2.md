@@ -54,10 +54,6 @@ code.
 We will take a break for the rest of the summer but stay tuned for more
 sprints in September.
 
-<!--:-->
-
-</p>
-
   [Brasseurs Numériques]: http://ajah.ca
   [argparse]: http://docs.python.org/dev/library/argparse.html
   [PEP-8]: http://www.python.org/dev/peps/pep-0008/

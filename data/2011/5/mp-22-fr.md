@@ -11,9 +11,8 @@ rencontre de Montréal-Python sera sous le thème de sa sécurité et du
 reverse engineering, cet art contemporain du flirt électronique.
 Joignez-vous à nous le 27 juin au local SH-R810 du [pavillon
 Sherbrooke][] de l'UQAM pour une volée frénétique de présentations
-courtes.
-
-Montréal-Python 22 commencera à 18:20 avec le programme suivant:
+courtes. Montréal-Python 22 commencera à 18:20 avec le programme
+suivant:
 
 -   18h00: Ouverture des portes
 -   18h20: Annonces
@@ -37,13 +36,10 @@ Présentations de 20 minutes:
 
 L’événement est gratuit et aucune inscription n’est requise. Des
 amuses-gueule seront disponibles mais ne vous attendez pas à un repas
-complet.
-
-</p>
-Il nous reste de la place pour quelques présentations éclairs. N’hésitez
-pas à nous contacter si vous avez un nouveau sujet outrageux en tête.
-
-Merci à nos commanditaires de rendre Montréal-Python 22 possible:
+complet. Il nous reste de la place pour quelques présentations éclairs.
+N’hésitez pas à nous contacter si vous avez un nouveau sujet outrageux
+en tête. Merci à nos commanditaires de rendre Montréal-Python 22
+possible:
 
 -   [Ludia][]
 -   [QNX][]
@@ -52,10 +48,6 @@ Merci à nos commanditaires de rendre Montréal-Python 22 possible:
 -   [UQAM][]
 -   [Le Site][]
 -   [Savoir-Faire Linux][]
-
-<!--:-->
-
-</p>
 
   [pavillon Sherbrooke]: http://www.uqam.ca/campus/pavillons/sh.htm
   [Alexandre Bourget]: http://blog.abourget.net/

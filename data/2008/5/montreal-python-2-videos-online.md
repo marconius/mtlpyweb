@@ -17,8 +17,6 @@ edition.
 
 -- [Yannick Gingras][]
 
-</p>
-
   [Cyril Robert: Asterisk and Python]: http://video.google.com/videoplay?docid=-2134430227299882771
   [Yannick Gingras: Practical intro to PyQt and PyOpenGL]: http://video.google.com/videoplay?docid=1831337244910918313
   [Yannick Gingras]: http://ygingras.net

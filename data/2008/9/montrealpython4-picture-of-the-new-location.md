@@ -6,13 +6,8 @@ Tags: meetup, Montreal Python
 Slug: montrealpython4-picture-of-the-new-location
 Lang: en
 
-A little preview of inside la banque.
-
-[![La banque - Intérieur][]][]
-
-From the outside [![La banque - Extérieur][]][]
-
-Cheers, -- Arach
+A little preview of inside la banque. [![La banque - Intérieur][]][]
+From the outside [![La banque - Extérieur][]][] Cheers, -- Arach
 
   [La banque - Intérieur]: http://farm4.static.flickr.com/3269/2870494684_8712eedb38.jpg
   [![La banque - Intérieur][]]: http://www.flickr.com/photos/atchoupani/2870494684/

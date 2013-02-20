@@ -6,7 +6,7 @@ Slug: schedule-for-montreal-python-5
 Lang: en
 
 Greetings Pythonistas of Montreal,   
-as you hopefully know by now, Montreal Python 5 is this Thursday at la
+ as you hopefully know by now, Montreal Python 5 is this Thursday at la
 [Banque][]. Here is our schedule for the evening:
 
 -   18h00: Opening
@@ -16,9 +16,6 @@ as you hopefully know by now, Montreal Python 5 is this Thursday at la
     to Python 3
 
 </p>
-
-</p>
-
 Flash presenters will be:
 
 -   Marc-Antoine Desroches: VLAM Compyle, a just-in-time compiler for
@@ -31,19 +28,13 @@ Flash presenters will be:
 -   Philippe Chretien: Python and Bluetooth.   
 -   Tristan Matthews: Video4linux, osc, and chuck.   
 
-</p>
 **update:** we also had a last minute presenter:
 
 -   Joseph Turian: Machine Learning using Theano, An optimizing compiler
     in Python   
 
 </p>
-
-</p>
-
 – [Yannick Gingras][]
-
-</p>
 
   [Banque]: http://labanque.ca
   [Yannick Gingras]: http://ygingras.net

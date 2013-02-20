@@ -5,17 +5,11 @@ Category: Montréal Python
 Slug: montrealpython-looking-good
 Lang: en
 
-Welcome to our new identity.
-
-We owe this identity to [Hamish Macpherson][]who did a wonderful job. I
-encourage everyone to thank him and tell him how awesome he is.
-
-Remember that the next meetup is coming April 10th and please invite
-anyone who needs to be invited.
-
-If you haven't signed up on the [wiki][], please do it now.
-
-![logo - final][]
+Welcome to our new identity. We owe this identity to [Hamish
+Macpherson][]who did a wonderful job. I encourage everyone to thank him
+and tell him how awesome he is. Remember that the next meetup is coming
+April 10th and please invite anyone who needs to be invited. If you
+haven't signed up on the [wiki][], please do it now. ![logo - final][]
 
   [Hamish Macpherson]: http://hami.sh "Hamish's blog"
   [wiki]: http://barcampmontreal.org/wiki/MontrealPython2

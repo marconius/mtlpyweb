@@ -14,8 +14,4 @@ Nous sommes heureux d’annoncer la liste des présentations éclaires pour
 -   Sébastien Pierre sur a surprise topic
 -   Yannick Gingras sur le wiki Montréal-Python
 
-<!--:-->
-
-</p>
-
   [Montréal-Python 13]: http://www.montrealpython.org/2010/03/montreal-python-13-on-2010-04-26/

@@ -28,10 +28,6 @@ les sprinteurs pour leur bon travail:
 
 [gallery link="file" columns="2"]
 
-<!--:-->
-
-</p>
-
   [quatrième sprint de traduction de Django]: http://montrealpython.org/2010/04/django-translation-sprint-4/
   [AUF]: http://auf.org
   [Brasseurs Numériques]: http://ajah.ca

@@ -7,13 +7,6 @@ Slug: reminder-montrealpython1-is-tomorrow-thursday-feb-7th-630pm
 Lang: en
 
 If anyone has a video camera and or a tripod, please let me know. The
-equipment I thought we could use isn't available.
-
----
-
-Si quelqu'un a une caméra et un trépied, laissez-moi savoir.
-L'équipement que je croyais pouvoir utiliser n'est plus disponible.
-
-À demain,
-
-Arach
+equipment I thought we could use isn't available. --- Si quelqu'un a une
+caméra et un trépied, laissez-moi savoir. L'équipement que je croyais
+pouvoir utiliser n'est plus disponible. À demain, Arach

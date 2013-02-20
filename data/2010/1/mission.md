@@ -15,8 +15,4 @@ wording right, we are happy to release our [official mission][].
 -   Éric St-Jean
 -   Arach Tchoupani
 
-<!--:-->
-
-</p>
-
   [official mission]: http://montrealpython.org/about/

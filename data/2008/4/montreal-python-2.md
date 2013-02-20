@@ -8,53 +8,34 @@ Lang: en
 What a great turn-out! I counted at least fifty people showing up to our
 [second event][]. And I think we’re going to get many more.
 
-</p>
-
 Spread the word with friends! Join our [Facebook group][]! Volunteer to
 give a talk!
 
-</p>
-
   
 
-</p>
-
 <div style="clear: both; margin-left: auto; margin-right: auto; width: 505px">
-</p>
 <span style="float: left; margin-right: 6px; margin-bottom: 10px;">[![][]][]  
 <span style="font-size: 0.9em; margin-top: 0px;"> [Arach Tchoupani][]  
-Originally uploaded by [sfllaw][].</span></span>
-
+ Originally uploaded by [sfllaw][].</span></span>
 <span style="float: left; margin-right: 6px; margin-bottom: 10px;">[![][1]][]  
 <span style="font-size: 0.9em; margin-top: 0px;"> [Cyril Robert][]  
-Originally uploaded by [sfllaw][].</span></span>
-
+ Originally uploaded by [sfllaw][].</span></span>
 <span style="float: left; margin-bottom: 10px;">[![][2]][]  
 <span style="font-size: 0.9em; margin-top: 0px;">[Yannick Gingras][]  
 Originally uploaded by [sfllaw][].</span></span>
 
-<p>
 </div>
-</p>
-
 <div style="clear: both">
 </div>
-</p>
-
 <div style="margin-left: auto; margin-right: auto; width: 504px">
-</p>
 <span style="float: left; margin-bottom: 10px;"> [![][3]][![][]]  
 <span style="font-size: 0.9em; margin-top: 0px;">[Presenting][Arach
 Tchoupani]  
-Originally uploaded by [sfllaw][].</span></span>
+ Originally uploaded by [sfllaw][].</span></span>
 
-<p>
 </div>
-</p>
-
 <div style="clear: both">
 </div>
-</p>
 
   [second event]: http://montrealpython.org/?p=30
   [Facebook group]: http://www.facebook.com/group.php?gid=14111999427

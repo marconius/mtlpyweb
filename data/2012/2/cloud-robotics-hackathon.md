@@ -18,8 +18,4 @@ We are waiting for you if you would like to create a team
 Montreal-Python and if you would like to join us for this week-end of
 hack and programming.
 
-<!--:-->
-
-</p>
-
   [http://roboticshackathon.com/]: http://roboticshackathon.com/

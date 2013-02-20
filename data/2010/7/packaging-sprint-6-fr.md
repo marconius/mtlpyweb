@@ -18,10 +18,6 @@ La capacité est limité à 12 places donc [réservez la votre][] sans plus
 tarder. Apportez votre ordinateur ou faites une entente de pairage à
 l’avance sur la liste de diffusion.
 
-<!--:-->
-
-</p>
-
   [fut productif]: http://montrealpython.org/2010/07/packaging-sprint-5-wrap-up/
   [Brasseurs Numériques]: http://ajah.ca/blog
   [réservez la votre]: http://wiki.montrealpython.org/index.php/Packaging_no.6

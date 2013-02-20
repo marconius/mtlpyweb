@@ -19,8 +19,4 @@ not a lot of them are from people working here in Montréal. Maybe it's
 time for some of us to share some information. Don't worry, it's
 perfectly anonymous.
 
-<!--:-->
-
-</p>
-
   [Glassdoor.com]: http://glassdoor.com

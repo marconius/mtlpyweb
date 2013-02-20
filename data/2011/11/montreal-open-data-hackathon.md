@@ -10,21 +10,16 @@ are. Right now, it just got event more exciting to be a hacker in this
 city. We hack code, but when our code interacts with cool data, the
 dance is a lot spicier. On Wednesday, the city of Montréal made us proud
 by [releasing a lot of it's data][] under a very [permissive license][].
-This is a first in the province of Québec.
-
-Montréal-Ouvert has already been planing on [hacking on Saturday
-November 19th][]. Now that it has become exciting with real data, we
-want to make sure that there's going to be a lot of Python code written
-there.
-
-We don't know yet where the hackothon will take place, but we trust that
-it's going to be near downtown, somewhere within walking distance from a
-metro station. We will be there, and if you like to write Python code
-and plan on being there, write you name in the comments below; we're
-going to assemble a corrosive Python strike team.
-
-Here's some ideas for cool projects we could undertake during this one
-day event:
+This is a first in the province of Québec. Montréal-Ouvert has already
+been planing on [hacking on Saturday November 19th][]. Now that it has
+become exciting with real data, we want to make sure that there's going
+to be a lot of Python code written there. We don't know yet where the
+hackothon will take place, but we trust that it's going to be near
+downtown, somewhere within walking distance from a metro station. We
+will be there, and if you like to write Python code and plan on being
+there, write you name in the comments below; we're going to assemble a
+corrosive Python strike team. Here's some ideas for cool projects we
+could undertake during this one day event:
 
 -   A site where people could suggest and vote on what dataset the city
     should release next. Think of something like Reddit or Ubuntu
@@ -59,9 +54,6 @@ Vote on project
 ideas: [https://mtlouvert.uservoice.com/forums/137103-hackathon-donn-es-ouvertes-montr-al-19-novembre][]
 
 </div>
-<!--:-->
-
-</p>
 
   [releasing a lot of it's data]: http://montrealouvert.net/2011/10/27/nous-avons-reussi-montreal-devient-une-ville-ouverte/
   [permissive license]: http://donnees.ville.montreal.qc.ca/licence/licence-texte-complet

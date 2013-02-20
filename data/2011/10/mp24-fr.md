@@ -6,19 +6,16 @@ Slug: mp24
 Lang: fr
 
 <div>
-</p>
 L'hiver arrive, les terrasses ferment mais Montréal-Python prépare pour
-cet automne une nouvelle rencontre qui sera probablement épique.
-
-On s'éloigne des débats de sociétés pour se laisser aller et retomber
-dans l'enfance du Python en nous avec une rencontre spéciale sur les
-jeux vidéos. Nous vous invitons donc à cette rencontre, Hacks
-Harmonieux, pour le lundi 24 octobre, à l'UQAM au  [pavillon
-Sherbrooke][] de l'UQAM (local SH-R810). Encore une fois nous aurons
-droits à plusieurs présentations de 5 et 20 minutes.
-
-Une collation servie mais il ne fait pas compter sur un repas complet.
-Notre horaire pour la soirée sera:
+cet automne une nouvelle rencontre qui sera probablement épique. On
+s'éloigne des débats de sociétés pour se laisser aller et retomber dans
+l'enfance du Python en nous avec une rencontre spéciale sur les jeux
+vidéos. Nous vous invitons donc à cette rencontre, Hacks Harmonieux,
+pour le lundi 24 octobre, à l'UQAM au  [pavillon Sherbrooke][] de l'UQAM
+(local SH-R810). Encore une fois nous aurons droits à
+plusieurs présentations de 5 et 20 minutes. Une collation servie mais il
+ne fait pas compter sur un repas complet. Notre horaire pour la soirée
+sera:
 
 -   18h00: Ouverture des portes
 -   18h20: Annonces
@@ -53,9 +50,6 @@ Pythoneux:
 -   [Savoir-Faire Linux][]
 
 </div>
-<!--:-->
-
-</p>
 
   [pavillon Sherbrooke]: http://www.uqam.ca/campus/pavillons/sh.htm
   [Ludia]: http://www.ludia.com/

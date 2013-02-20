@@ -4,10 +4,7 @@ Author: Pior
 Slug: mp-12
 Lang: fr
 
-<p>
 <style>#sidebar { display:none;} #content { width: 740px !important; } </style>
-</p>
-
 Présentations principales
 =========================
 
@@ -22,9 +19,7 @@ Marcin Swiatek: Numpy
 Your browser doesn't support HTML5. Please use the download link. If you
 use Safari and want to use a libre format, install the Xiph QuickTime
 Component at http://www.xiph.org/quicktime </video>   
-Download link: [Theora][] [MP4][] <!--:-->
-
-</p>
+ Download link: [Theora][] [MP4][]
 
   [Montréal-Python 12]: http://wiki.montrealpython.org/index.php/Montréal-Python_12
   [Theora]: http://montrealpython.org/videos/Montreal-Python-12-Marcin-Swiatek-Numpy.ogg

@@ -13,8 +13,6 @@ least two persons somewhat familiar with the TurboGears 2.1 code base on
 site. They will be able to help you setup your development environment,
 coach you with the tools, and introduce you to TurboGears in general.
 
-<!--:-->
-
   [TurboGears]: http://turbogears.org/
   [sprint on Black Friday]: http://percious.com/blog/archives/134
   [Café Fractal]: http://www.vie-etudiante.uqam.ca/projetsetudiants/outils/associations/Pages/cafeetudiants.aspx

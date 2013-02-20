@@ -16,8 +16,4 @@ publier notre [mission officielle][].
 -   Éric St-Jean
 -   Arach Tchoupani
 
-<!--:-->
-
-</p>
-
   [mission officielle]: http://montrealpython.org/fr/about/

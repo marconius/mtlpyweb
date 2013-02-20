@@ -51,9 +51,7 @@ Les sprints se montrent comme un moyen efficace de donner l'opportunité
 pour être productive en Python. Restez à l'affût car on va certainement
 en organiser plus.
 
-[![][]][][![][1]][]<!--:-->
-
-</p>
+[![][]][][![][1]][]
 
   [Chris Perkins]: http://percious.com/blog/
   [Tarek Ziadé]: http://tarekziade.wordpress.com/

@@ -7,7 +7,6 @@ Lang: fr
 
 Here is a follow-up on Montréal Python 8. By public demand, we will do
 our best to re-post the slides and example files online after the event.
-
 Flash presenters at MP8 were:
 
 -   Jennifer Bell: [visiblegovernment.ca][] and [fixmystreet.ca][] --
@@ -20,28 +19,22 @@ Flash presenters at MP8 were:
     ([examples][])
 
 Our main presenter was *Alexandre Vassalotti* on *developing extension
-modules for CPython* ([slides][3], [examples][4]).
-
-</p>
-As mentioned, we Montreal Python teams up with PHP Québec for the [PHP
-BBQ][], which unfortunately we did not have time to rename to something
-more language agnostic. The BBQ will take place at Parc du Mont-Royal on
-2009-08-08 at 13h. There will be a home brew beer contest between the
-PHP master brewer and the Python master brewer. I will proudly represent
-the Montréal Python team with a keg of Pythoune Brune, a fruity Belgian
-dark ale. Please confirm your presence by calling 514-581-8497 to make
-sure that there is enough food. Admission is only \$5.
-
-Montréal-Python will take a break for the rest of the summer. We get
-back on track in mid-September with Andrew Francis who is going to do a
-presentation on Stackless Python. We keep you posted as soon as we have
-the final date and location.
-
-As usual, we are still looking for presenter for both flash and main
-presentation. Do not hesitate to contact us if you have an idea for a
-presentation.
-
-Montréal Python would like to thank the sponsors who made MP8 possible:
+modules for CPython* ([slides][3], [examples][4]). As mentioned, we
+Montreal Python teams up with PHP Québec for the [PHP BBQ][], which
+unfortunately we did not have time to rename to something more language
+agnostic. The BBQ will take place at Parc du Mont-Royal on 2009-08-08 at
+13h. There will be a home brew beer contest between the PHP master
+brewer and the Python master brewer. I will proudly represent the
+Montréal Python team with a keg of Pythoune Brune, a fruity Belgian dark
+ale. Please confirm your presence by calling 514-581-8497 to make sure
+that there is enough food. Admission is only $5. Montréal-Python will
+take a break for the rest of the summer. We get back on track in
+mid-September with Andrew Francis who is going to do a presentation on
+Stackless Python. We keep you posted as soon as we have the final date
+and location. As usual, we are still looking for presenter for both
+flash and main presentation. Do not hesitate to contact us if you have
+an idea for a presentation. Montréal Python would like to thank the
+sponsors who made MP8 possible:
 
 -   gold: [Département d'Informatique de l'UQAM][]
 -   silver: [Pivotal Payments][] and [Savoir-faire Linux][]
@@ -50,10 +43,6 @@ Montréal Python would like to thank the sponsors who made MP8 possible:
 Thanks again to the presenters and to the attendees. See you at the BBQ.
 
 -- [Yannick Gingras][]
-
-<!--:-->
-
-</p>
 
   [visiblegovernment.ca]: http://visiblegovernment.ca
   [fixmystreet.ca]: http://fixmystreet.ca

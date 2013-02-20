@@ -42,10 +42,6 @@ Montréal-Python 19 est possible:
 </div>
 </div>
 
-<!--:-->
-
-</p>
-
   [Concombre Collectivisé]: http://montrealpython.org/fr/2011/02/mp19/
   [UQAM]: http://uqam.ca/
   [Benelux]: http://www.brasseriebenelux.com/

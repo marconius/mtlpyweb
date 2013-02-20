@@ -9,8 +9,4 @@ ConFoo vient de publier la [liste des sessions sélectionnées][] et nous
 sommes très fières du volet Python. Le dévoilement de l'horaire complet
 sera fait sous peu.
 
-<!--:-->
-
-</p>
-
   [liste des sessions sélectionnées]: http://confoo.ca/fr/2011/session

@@ -25,10 +25,6 @@ commanditaire pour ce sprint mais ca ne va pas nous arrêter. Apporter
 vos rafraîchissements et comptez sur une commande de groupe pour la
 bouffe vers 19h.
 
-<!--:-->
-
-</p>
-
   [Tarek]: http://tarekziade.wordpress.com/
   [site de PyPI]: http://pypi.python.org/pypi
   [notre wiki]: http://wiki.montrealpython.org/index.php/Packaging_with_distutil2_2

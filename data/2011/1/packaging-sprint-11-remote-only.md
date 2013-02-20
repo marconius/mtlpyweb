@@ -15,8 +15,4 @@ We take note that sprinting during the weekend is not a good option for
 most of you. Expect some new sprints on weekday evenings in the coming
 weeks.
 
-<!--:-->
-
-</p>
-
   [sprint tomorrow]: http://montrealpython.org/2011/01/packaging-sprint-11/

@@ -8,10 +8,8 @@ Lang: en
 <!--:en-->Last week we got the resignation from Montréal Python's
 founder, [Arach Tchoupani][]. This resignation prompted us to open the 3
 officer positions, and proceed to run an election. All active members of
-the organizing committee were eligible to vote.
-
-The results are in, and we're very proud to introduce the new Montréal
-Python officers:
+the organizing committee were eligible to vote. The results are in, and
+we're very proud to introduce the new Montréal Python officers:
 
 -   [Yannick Gingras][], reelected President
 -   [Cyril Robert][], Vice-President
@@ -19,10 +17,7 @@ Python officers:
 
 <!-- p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Arial} -->We
 all look forward to give one another year of dynamic events that will
-put forward how Python is shaping the tech scene of Montréal.
-
-</p>
-[gallery]<!--:-->
+put forward how Python is shaping the tech scene of Montréal. [gallery]
 
   [Arach Tchoupani]: http://tchoupani.com
   [Yannick Gingras]: http://ygingras.net

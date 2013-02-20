@@ -19,10 +19,6 @@ Bring your own laptop or make an arrangement for pairing on the mailing
 list beforehand. Attendance is limited to 12 persons so please [RSVP on
 the wiki][].
 
-<!--:-->
-
-</p>
-
   [a productive one]: http://montrealpython.org/2010/07/packaging-sprint-5-wrap-up/
   [Brasseurs Numériques]: http://ajah.ca/blog
   [RSVP on the wiki]: http://wiki.montrealpython.org/index.php/Packaging_no.6

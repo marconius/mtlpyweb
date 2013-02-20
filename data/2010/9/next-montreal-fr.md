@@ -11,7 +11,6 @@ que le notre, OWASP, JS-Montreal, Montreal.rb, et PHP-Québec; avec des
 se retrouve avec des semaine où toutes nos soirées sont occupés. Hélas,
 il arrive aussi qu'on reçoive un invité en ville et qu'on veuille lui
 présenter le dynamisme de notre communauté sans savoir où l'emmener.
-
 Heureusement, des membres de la communauté ont décidé de prendre la
 situation en main et de nous montrer ce qui se passe dans le monde des
 startups et des technologies à Montréal. [Next Montréal][] est un blogue
@@ -20,10 +19,9 @@ est piloté par [un groupe d'entrepreneurs Montréalais][] qui nous tiens
 en haleine avec des entrevues avec des joueurs locaux et avec une bonne
 couverture sur qui se trame et sur ce qui sera la prochaine grande
 percée. En plus des entrevues, Next Montréal rassemble la communauté
-avec des offres d'emploi et un calendrier d'événements.
-
-Next Montréal est une excellente initiative et nous espérons voir plus
-de projets en Python [dans leurs chroniques][].<!--:-->
+avec des offres d'emploi et un calendrier d'événements. Next Montréal
+est une excellente initiative et nous espérons voir plus de projets en
+Python [dans leurs chroniques][].
 
   [Next Montréal]: http://nextmontreal.com
   [un groupe d'entrepreneurs Montréalais]: http://nextmontreal.com/team/

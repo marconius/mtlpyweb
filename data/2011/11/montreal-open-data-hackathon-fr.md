@@ -11,18 +11,15 @@ plus excitant: quand notre code interagit avec des données
 particulièrement intéressantes, la danse est d'autant plus enivrante.
 Mercredi dernier, la ville de Montréal nous a rendu fière d'être
 Montréalais en [publiant une partie de ses données][] sous [une licence
-très permissive][]. C'est une première au Quebec.
-
-Montréal-Ouvert a déjà prévu un [hackaton le samedi 19 novembre][].
-Maintenant que nous avons de vrai données à manipuler, nous voulons être
-sûr que beaucoup de code Python va être écrit pendant ce hackaton.
-
-La date du hackaton n'est pas encore définit, mais ce sera proche du
-centre-ville, non loin d'un metro. Nous y serons, et si vous pensez
-venir y écrire du code Python, alors inscrivez votre nom en commentaire
-ci-dessous; nous allons monter une équipe Python de choc.
-
-Voici quelques idées de projets cools qui pourront être attaqué:
+très permissive][]. C'est une première au Quebec. Montréal-Ouvert a déjà
+prévu un [hackaton le samedi 19 novembre][]. Maintenant que nous avons
+de vrai données à manipuler, nous voulons être sûr que beaucoup de code
+Python va être écrit pendant ce hackaton. La date du hackaton n'est pas
+encore définit, mais ce sera proche du centre-ville, non loin d'un
+metro. Nous y serons, et si vous pensez venir y écrire du code Python,
+alors inscrivez votre nom en commentaire ci-dessous; nous allons monter
+une équipe Python de choc. Voici quelques idées de projets cools qui
+pourront être attaqué:
 
 -   Un site web où l'on peut suggérer et voter pour les données que la
     ville devrait publier en priorité. Un outil proche de Reddit ou
@@ -58,9 +55,6 @@ Votez pour des idées de
 projets: [https://mtlouvert.uservoice.com/forums/137103-hackathon-donn-es-ouvertes-montr-al-19-novembre][]
 
 </div>
-<!--:-->
-
-</p>
 
   [publiant une partie de ses données]: http://montrealouvert.net/2011/10/27/nous-avons-reussi-montreal-devient-une-ville-ouverte/
   [une licence très permissive]: http://donnees.ville.montreal.qc.ca/licence/licence-texte-complet

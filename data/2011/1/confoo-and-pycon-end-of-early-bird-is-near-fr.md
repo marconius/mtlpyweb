@@ -15,10 +15,6 @@ son [Introduction à Pyramid][], alors vous avez jusqu'à vendredi
 prochain pour vous [inscrire à ConFoo][]. Bien entendu, ceux qui n'ont
 pas froid aux yeux assisteront aux deux conférences. Oserez-vous?
 
-<!--:-->
-
-</p>
-
   [Fun avec les derniers outils de Python]: http://us.pycon.org/2011/schedule/sessions/261/
   [acheter vos billets pour PyCon]: http://us.pycon.org/2011/tickets/
   [Introduction à Pyramid]: http://confoo.ca/en/2011/session/introduction-a-pyramid

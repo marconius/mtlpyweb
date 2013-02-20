@@ -7,8 +7,5 @@ Slug: montrealpython2-april-10-2008-630pm
 Lang: en
 
 MontrealPython2 will be held April 10 2008 @ 6:30PM. We'll be meeting at
-Standout Jobs : 3981 boul. St. Laurent, Suite 615, Montreal.
-
-We have one presentation confirmed, and one open spot.
-
-Arach (from PyCon Chicago)
+Standout Jobs : 3981 boul. St. Laurent, Suite 615, Montreal. We have one
+presentation confirmed, and one open spot. Arach (from PyCon Chicago)

@@ -27,23 +27,13 @@ a smooth experience and this is worth sharing with the future speakers.
 The focus is not limited to tools; tips and resources on how to
 structure a presentation and on public speaking are all welcome.
 
-</p>
-
 So, go ahead and have a look, improve the content, add your company to
 the list, and have fun
 
-</p>
-
 [http://wiki.montrealpython.org/][]
-
-</p>
 
 Please keep the point of view neutral and any listing in alphabetical
 order.
-
-<!--:-->
-
-</p>
 
   [tips and tricks for speakers]: http://wiki.montrealpython.org/index.php/Speaker's_Tips_and_Tricks
   [http://wiki.montrealpython.org/]: http://wiki.montrealpython.org/

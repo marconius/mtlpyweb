@@ -16,11 +16,8 @@ presentations:
 -   Simon Law on Loops
 
 Don't miss this event that will feature our new sandwich provider (but
-no baked sweet potatoes yet).
-
-</p>
-Thanks to our sponsors for making Montréal-Python Apotropaic
-Archeologist possible:
+no baked sweet potatoes yet). Thanks to our sponsors for making
+Montréal-Python Apotropaic Archeologist possible:
 
 -   [UQAM][]
 -   [Benelux][]
@@ -29,10 +26,6 @@ Archeologist possible:
 -   [Le Site][]
 -   [Ecometrica][]
 -   [Apress][]
-
-<!--:-->
-
-</p>
 
   [Montréal-Python 17]: http://montrealpython.org/2010/11/mp-17/
   [UQAM]: http://uqam.ca

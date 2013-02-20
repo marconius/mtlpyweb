@@ -23,11 +23,9 @@ présentateurs seront présent :
 -   Blender Games, Faral Averill
 
 <div>
-</p>
 L'événement est gratuit et c'est sans enregistrement. Notez qu'un snack
-sera offert mais il ne faut pas s'attendre à avoir un vrai repas.
-
-Merci à nos commanditaires, qui permettent de faire en sorte que
+sera offert mais il ne faut pas s'attendre à avoir un vrai repas. Merci
+à nos commanditaires, qui permettent de faire en sorte que
 Montréal-Python 20 est possible:
 
 -   Benelux
@@ -36,8 +34,5 @@ Montréal-Python 20 est possible:
 -   Savoir-Faire Linux
 
 </div>
-<!--:-->
-
-</p>
 
   [Décadence Délicate]: http://montrealpython.org/fr/2011/03/mp-20/

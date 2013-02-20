@@ -11,8 +11,4 @@ ConFoo just published the [list of selected talks][] and we're really
 proud of the Python track. Stay tuned for the unveiling of the complete
 schedule.
 
-<!--:-->
-
-</p>
-
   [list of selected talks]: http://confoo.ca/en/2011/session

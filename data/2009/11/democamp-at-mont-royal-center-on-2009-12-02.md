@@ -10,6 +10,4 @@ With a schedule jam packed with live demos and presentations, this is a
 good occasion to meet other developers and see who is working on what in
 the area.
 
-<!--:-->
-
   [DemoCamp]: http://careerdemocamp.eventbrite.com/

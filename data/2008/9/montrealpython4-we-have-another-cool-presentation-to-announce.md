@@ -6,7 +6,6 @@ Tags: meetup, Montreal Python, Presentations
 Slug: montrealpython4-we-have-another-cool-presentation-to-announce
 Lang: en
 
-<p>
 We are happy to propose another great presentation for our upcoming
 meetup:
 
@@ -17,12 +16,8 @@ meetup:
 > article from
 > [ttp://www.wired.com/entertainment/music/news/2008/09/nin\_show][].
 
-===
-
-</p>
-<p>
-Nous sommes heureux de vous proposer une seconde présentation pour ce
-jeudi :
+=== Nous sommes heureux de vous proposer une seconde présentation pour
+ce jeudi :
 
 > Richard Hachem de Global Mind/LaBanque et Quentin Bleton de Moment
 > factory. Ces derniers ont réalisé une application en Python afin de
@@ -32,24 +27,14 @@ jeudi :
 > article dans le  Wired :
 > [http://www.wired.com/entertainment/music/news/2008/09/nin\_show][ttp://www.wired.com/entertainment/music/news/2008/09/nin\_show]
 
-**Montreal Python 4** -- September 25th 2008
+**Montreal Python 4** -- September 25th 2008 **Date** : Thursday
+September 25th @ 18h30 **Location**: [http://labanque.ca/][] - 175, Roy
+E. ([map][]). **Presentations **:
 
-</p>
-**Date** : Thursday September 25th @ 18h30
-
-**Location**: [http://labanque.ca/][] - 175, Roy E. ([map][]).
-
-<p>
-**Presentations **:
-
-> Hugo Boyer- Python for the machinist
-> </p>
-> <p>
-> Richard Hachem / Quentin Bleton - Python on stages
+> Hugo Boyer- Python for the machinist Richard Hachem / Quentin Bleton -
+> Python on stages
 
 -- Arach
-
-</p>
 
   [Moment Factory]: http://www.momentfactory.com/ "Moment Factory"
   [ttp://www.wired.com/entertainment/music/news/2008/09/nin\_show]: http://www.wired.com/entertainment/music/news/2008/09/nin_show

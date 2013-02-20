@@ -24,8 +24,6 @@ of Python leather?
 Reveal to Montrealers the very power of Python by submitting your talk
 proposal before September 2nd.
 
-</p>
-
 <div id="magicdomid1664">
 For more information :
 
@@ -36,10 +34,6 @@ For more information :
 </div>
 ConFoo is organized by different user groups and organisations dedicated
 to the promotion and advancement of web technologies.
-
-<!--:-->
-
-</p>
 
   [http://confoo.ca/en]: http://confoo.ca/en
   [http://confoo.ca/en/news/confoo-2012-call-for-papers-is-now-open]: http://confoo.ca/en/news/confoo-2012-call-for-papers-is-now-open

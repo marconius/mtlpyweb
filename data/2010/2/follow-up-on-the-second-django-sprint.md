@@ -7,10 +7,9 @@ Lang: en
 
 <!--:en-->The [second Django sprint][] was another clear success. It was
 a pleasant surprise to have so many volunteer and we filled the
-Brasseurs Numériques' office at capacity with 12 sprinters.
-
-Thanks to [Agence Universitaire de la Francophonie][] for sponsoring the
-event and a very special thank to all the sprinters:
+Brasseurs Numériques' office at capacity with 12 sprinters. Thanks to
+[Agence Universitaire de la Francophonie][] for sponsoring the event and
+a very special thank to all the sprinters:
 
 -   Davin Baragiotta
 -   Benoit Caron
@@ -26,9 +25,7 @@ event and a very special thank to all the sprinters:
 -   Alexandre Vassalotti
 
 We will try to have another translation sprint toward the end of March.
-
-</p>
-![django-sprint-2-1][]![django-sprint-2-2][]![django-sprint-2-3][]<!--:-->
+![django-sprint-2-1][]![django-sprint-2-2][]![django-sprint-2-3][]
 
   [second Django sprint]: http://montrealpython.org/2010/01/23/django-translation-sprint-2-on-2010-02-15/
   [Agence Universitaire de la Francophonie]: http://www.auf.org/

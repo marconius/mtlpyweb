@@ -7,9 +7,8 @@ Lang: fr
 
 Montréal Python 13 aura lieu lundi le 2010-04-26 au local SH-3420 du
 pavillon Sherbrooke de l’UQAM. Le pavillon SH est situé au [200 rue
-Sherbrooke ouest][], métro Place-des-Arts.
-
-Voici notre programme pour la soirée:
+Sherbrooke ouest][], métro Place-des-Arts. Voici notre programme pour la
+soirée:
 
 -   18h00: Ouverture des portes
 -   18h20: Annonces
@@ -60,20 +59,14 @@ Python*.
 > Python/Twisted Integration.”
 
 Il nous reste quelque places pour des présentations flash donc n’hésitez
-pas à nous contacter si vous avec en sujet en tête.
-
-</p>
-Merci à nos commanditaires pour rendre Montréal-Python 13 possible:
+pas à nous contacter si vous avec en sujet en tête. Merci à nos
+commanditaires pour rendre Montréal-Python 13 possible:
 
 -   [UQAM][]
 -   [Benelux][]
 -   [Savoir-faire Linux][]
 -   [Ecometrica][]
 -   [Apress][]
-
-<!--:-->
-
-</p>
 
   [200 rue Sherbrooke ouest]: http://www.uqam.ca/campus/pavillons/sh.htm
   [UQAM]: http://uqam.ca

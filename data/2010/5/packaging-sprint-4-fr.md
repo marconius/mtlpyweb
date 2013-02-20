@@ -18,9 +18,5 @@ sur la liste de diffusion. Nous n’avons pas de commanditaire pour ce
 sprint mais ca ne va pas nous arrêter. Apporter vos rafraîchissements et
 comptez sur une commande de groupe pour la bouffe vers 19h.
 
-<!--:-->
-
-</p>
-
   [derniers sprints]: http://wiki.montrealpython.org/index.php/Sprints
   [réservez la votre sur notre wiki]: http://wiki.montrealpython.org/index.php/Packaging_no.4

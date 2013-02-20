@@ -54,10 +54,6 @@ l'équipe à travailler sur les tests unitaires.
 Nous allons faire une pause pour le reste de l'été mais nous seront de
 retours dès septembre avec plus de sprints.
 
-<!--:-->
-
-</p>
-
   [Brasseurs Numériques]: http://ajah.ca
   [argparse]: http://docs.python.org/dev/library/argparse.html
   [PEP-8]: http://www.python.org/dev/peps/pep-0008/

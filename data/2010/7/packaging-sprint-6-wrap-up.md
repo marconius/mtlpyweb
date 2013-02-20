@@ -38,5 +38,4 @@ terraces to work on the Python packaging system:
 We will have more sprint in the coming weeks. Stay tuned for the
 announcements.
 
-</p>
-[gallery]<!--:-->
+[gallery]

@@ -6,7 +6,6 @@ Tags: Conferences, PyCon, python
 Slug: pycon-2008-chicago
 Lang: en
 
-<p>
 PyCon 2008 is coming up next week, and it's shaping up to be a great
 event.  You can find information at [http://us.pycon.org/2008/about][]/,
 check out the blog [http://pycon.blogspot.com/][] . There is also a
@@ -18,10 +17,7 @@ scheduler for the talks presented
 > the number of attendees from just the year before!
 
 BTW. David Goodger who gave our first presentation ever is the Chair of
-the conference.
-
-</p>
-Anybody from MP going to be at PyCon?
+the conference. Anybody from MP going to be at PyCon?
 
   [http://us.pycon.org/2008/about]: http://us.pycon.org/2008/about/
     "PyCon 2008"

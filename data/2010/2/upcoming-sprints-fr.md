@@ -26,8 +26,4 @@ Apporter votre ordinateur ou arrangez une entende de pairage avec
 quelqu'un d'autre. Comme toujours, la capacité est limité à 12 sprinters
 donc veuillez réserver votre place sur la liste de diffusion.
 
-<!--:-->
-
-</p>
-
   [ConFoo]: http://confoo.ca/fr

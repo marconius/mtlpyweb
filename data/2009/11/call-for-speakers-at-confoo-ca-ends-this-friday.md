@@ -7,7 +7,7 @@ Lang: en
 
 <!--:en-->There is only a few days left in the [call for speakers][] at
 [ConFoo.ca][]. We would love to hear from local Pythonistas so don't
-hesitate to submit a talk proposal.<!--:-->
+hesitate to submit a talk proposal.
 
   [call for speakers]: http://confoo.ca/en/cfp
   [ConFoo.ca]: http://confoo.ca

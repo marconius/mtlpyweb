@@ -10,16 +10,12 @@ deuxième événement de la saison 2012-2013. Nos champions vous offrent en
 avant-première les prestations qu'ils livreront lors de la première
 PyCon Canada, en novembre 2012.
 
-</p>
-
 L'événement aura lieu à 18h00 au **Studio XX**, un centre d’artistes
 féministe bilingue engagé dans l’exploration, la création, la diffusion
 et la réflexion critique en art technologique. Le Studio XX vise à
 mettre de l'avant la multiplicité des territoires, des voix et des
 actions créatives des femmes dans les paysages technologiques
 contemporains à travers le monde.
-
-</p>
 
 Notre invité principal:
 
@@ -30,8 +26,6 @@ de gevent. Alexandre maintient ce projet. Dans cette présentation, nous
 assisterons à une démonstration en direct de ses possibilités en
 développant Google Analytics en 45 minutes, à l'aide d'AngularJS pour le
 client, et d'autres fonctionnalités sympathiques.
-
-</p>
 
 Au programme:
 
@@ -66,12 +60,8 @@ applications with Amazon's NoSQL database"
 
 </li>
 </ul>
-</p>
-
 Studio XX 4001, Berri street (coin Duluth) local
 201([http://goo.gl/maps/b3cEz][])
-
-</p>
 
 Horaires:
 
@@ -96,8 +86,6 @@ Horaires:
 
 </li>
 </ul>
-</p>
-
 Nous souhaitons remercier ici nos braves commanditaires:
 
 -   [Studio XX][]
@@ -105,10 +93,6 @@ Nous souhaitons remercier ici nos braves commanditaires:
 -   [Ludia][]
 -   [Savoir-Faire Linux][]
 -   [iWeb][]
-
-<!--:-->
-
-</p>
 
   [http://goo.gl/maps/b3cEz]: http://goo.gl/maps/b3cEz
   [Studio XX]: http://www.studioxx.org/

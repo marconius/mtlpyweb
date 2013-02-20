@@ -18,19 +18,13 @@ Voici notre programme pour la soirée:
 -   19h20: Présentation principale
 -   20h30: Discussions et rafraîchissements chez Benelux
 
-</p>
-
 Les présentations éclaires seront:
-
-</p>
 
 -   Antoine Reversat -- Python for Sysadmins
 -   Francis Piéraut -- Jython and Tomcat
 -   Sébastien Pierre -- Rugg: crash-testing for your hard drives
 -   Hadrien David -- Déploiement sur AppEngine
 -   Gary Haran -- Montreal, from Ghetto to Hub
-
-</p>
 
 Notre présentateur principal sera *Marcin Swiatek* et il va nous faire
 une présentation sur *Generating control images for microscopy software
@@ -56,10 +50,6 @@ Merci à nos commanditaires pour rendre Montréal-Python 13 possible:
 -   [Savoir-faire Linux][]
 -   [Ecometrica][]
 -   [O'Reilly][]
-
-<!--:-->
-
-</p>
 
   [200 rue Sherbrooke ouest]: http://www.uqam.ca/campus/pavillons/sh.htm
   [Numpy]: http://numpy.scipy.org/

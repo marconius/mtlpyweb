@@ -8,8 +8,6 @@ Lang: fr
 [Montréal-Python 16][] aura lieu lundi prochain et nous sommes heureux
 de dévoiler qui nous donnera des présentations éclaires:
 
-</p>
-
 -   Cyril Robert sur CalDAV pour Python
 -   George Peristerakis sur une introduction à lib2to3
 -   Ben Yoskovitz sur Year One Labs
@@ -17,9 +15,8 @@ de dévoiler qui nous donnera des présentations éclaires:
     Python
 -   Jean Schurger sur le développement d'application Python pour Android
 
-</p>
 Merci encore à nos commanditaires, particulièrement à [Savoir-faire
-Linux][] que nous avons manqué de citer dans le post précédent.<!--:-->
+Linux][] que nous avons manqué de citer dans le post précédent.
 
   [Montréal-Python 16]: http://montrealpython.org/2010/10/mp-16/
   [Savoir-faire Linux]: http://savoirfairelinux.com/

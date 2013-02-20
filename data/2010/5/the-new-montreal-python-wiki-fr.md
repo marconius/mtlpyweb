@@ -17,8 +17,6 @@ plusieurs raisons:
 -   Fournir des conseils et des ressources aux présentateurs.
 
 </p>
-</p>
-
 Le tout manque de polissage par endroits mais on a une bonne base pour
 une ressource très pertinente. La section qui est le plus ouverte aux
 contributions pour l'instant est certainement les [astuces pour les
@@ -29,22 +27,12 @@ partagée avec les futurs présentateurs. L'emphase n'est pas que sur les
 outils et toutes les astuces et les ressources sur comment structurer
 une présentation et sur l'art oratoire en général y sont les bienvenues.
 
-</p>
-
 Alors allez y faire un tour, améliorez le contenu, ajoutez votre
 compagnie à la liste, et amusez-vous:
 
-</p>
-
 [http://wiki.montrealpython.org/][]
 
-</p>
-
 Svp, gardez le point de vue neutre, et les listes en ordre alphabétique.
-
-<!--:-->
-
-</p>
 
   [astuces pour les présentateurs]: http://wiki.montrealpython.org/index.php/Speaker's_Tips_and_Tricks
   [http://wiki.montrealpython.org/]: http://wiki.montrealpython.org/

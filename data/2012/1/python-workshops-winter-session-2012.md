@@ -7,12 +7,9 @@ Lang: en
 
 <!--:en-->You're dreaming to feel Python leather on your keyboard? You
 already know its legendary softness and now want to feel the gentle
-power of its grasp?
-
-Pythonista in the egg, moulting or already moving : the Winter 2012
-series of Python workshops has arrived!
-
-This semester, Montréal-Python is offering one workshop a month :
+power of its grasp? Pythonista in the egg, moulting or already moving :
+the Winter 2012 series of Python workshops has arrived! This semester,
+Montréal-Python is offering one workshop a month :
 
 -   January : Introduction Workshop to Python
 -   February : Python Workshop : more advanced notions and use of
@@ -26,15 +23,11 @@ professional trainers, practionners and academics from the community.
 Animated by our champions, they are offered in French at UQAM and
 English at McGill. **They're open to all** : only minimal knowledge of
 programming is required (e.g.: to know what a variable is). You also
-need to bring a laptop to follow the exercises.
-
-</p>
-These workshops are independent : to attend one, no need to attend the
-formers. But to progress on the Pythonic Way, to follow them all is
-better than following one. When to start? "Now is better than never." --
-[Zen of Python][]
-
-INTRODUCTION WORKSHOP TO PYTHON
+need to bring a laptop to follow the exercises. These workshops are
+independent : to attend one, no need to attend the formers. But to
+progress on the Pythonic Way, to follow them all is better than
+following one. When to start? "Now is better than never." -- [Zen of
+Python][] INTRODUCTION WORKSHOP TO PYTHON
 
 -   language : English
 -   when : Wednesday, January 25th, 6:00 PM
@@ -58,12 +51,9 @@ The programme :
 -   Modules
 
 The room of this workshop is sponsored by : the [Network Dynamics][]
-lab.
-
-</p>
-To follow this workshop in French, read the French version of this post
-in order to know the exact place and date: [Lire cette annonce en
-français][]<!--:-->
+lab. To follow this workshop in French, read the French version of this
+post in order to know the exact place and date: [Lire cette annonce en
+français][]
 
   [Zen of Python]: http://www.python.org/dev/peps/pep-0020/
   [Network Dynamics]: http://www.networkdynamics.org/

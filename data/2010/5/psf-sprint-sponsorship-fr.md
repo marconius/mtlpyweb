@@ -19,8 +19,4 @@ La commandite de sprint est une bonne nouvelle qui devrait nous
 permettre de faire plus de sprints sur une variété plus grande de
 sujets.
 
-<!--:-->
-
-</p>
-
   [Announcing: Python Sprint Sponsorship]: http://jessenoller.com/2010/05/20/announcing-python-sprint-sponsorship/
