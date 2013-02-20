@@ -24,3 +24,5 @@ SOCIAL = (('twitter', 'https://twitter.com/mtlpy'),
 DEFAULT_PAGINATION = 10
 
 THEME = 'themes/mtlpy'
+
+DELETE_OUTPUT_DIRECTORY = False
