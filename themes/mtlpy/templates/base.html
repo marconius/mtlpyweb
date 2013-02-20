@@ -14,7 +14,6 @@
 
     <link rel="stylesheet/less" href="{{ SITEURL }}/theme/css/base.less" type="text/css" />
 
-    <link href="{{ SITEURL }}/theme/css/bootstrap.min.css" rel="stylesheet" media="screen">
     <link href='http://fonts.googleapis.com/css?family=Arvo|Open+Sans:400italic,400,700,600' rel='stylesheet' type='text/css' />
     <link href="{{ SITEURL }}/theme/css/bootstrap-responsive.css" rel="stylesheet">
 
@@ -38,8 +37,8 @@
   </head>
 
   <body>
-    <div class="container">
-      <header class="row">
+    <div class="container-fluid">
+      <header class="row-fluid">
 	<nav class="offset1 span10">
           <ul>
             <li><img src="{{ SITEURL }}/theme/img/logo.png"/></li>
@@ -52,12 +51,14 @@
           </ul>
 	</nav>
       </header>
-      <section id="main-content">
-	{% block content %}
-	{% endblock %}
+      <section id="main-content" class="row-fluid">
+	<div id="inner" class="offset1 span10">
+	  {% block content %}
+	  {% endblock %}
+	</div>
       </section>
-      <footer>
-	<ul>
+      <footer class="row-fluid">
+	<ul class="offset1 span10" >
           <li>
             <h2>Navigation</h2>
             <ul>
@@ -82,9 +83,6 @@
             <h3>Pour tout savoir sur les activités de Montréal-Python</h3>
           </li>
 	</ul>
-	<address id="about" class="vcard body">
-          Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
-	</address><!-- /#about -->
       </footer>
     </div>
   </body>
