@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
+import os
 
 AUTHOR = u"Montréal-Python"
 SITENAME = u"Montréal-Python"
@@ -10,7 +11,7 @@ TIMEZONE = 'America/Montreal'
 DEFAULT_LANG = 'en'
 MARKUP = ('rst', 'md', 'html')
 
-SITEURL = 'https://raw.github.com/mtlpy/mtlpyweb/master/'
+SITEURL = os.path.dirname(__file__)
 FEED_DOMAIN = 'http://montrealpython.org'
 #PAGE_URL = '{slug}.html'
 
