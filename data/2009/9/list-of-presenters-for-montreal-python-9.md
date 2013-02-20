@@ -6,10 +6,8 @@ Slug: list-of-presenters-for-montreal-python-9
 Lang: en
 
 <!--:en-->Montréal-Python 9 is this Wednesday at room PK-5115 of UQAM at
-6 PM.
-
-We have a lot of very interesting flash presentations scheduled for the
-event:
+6 PM. We have a lot of very interesting flash presentations scheduled
+for the event:
 
 -   Simon Law: Cygwinreg and ctypes -- Using the Windows registry from
     Cygwin
@@ -24,9 +22,4 @@ event:
     cards
 
 Main Presentation will be Andrew Francis on Stackless Python and there
-will be a keg of homebrew.
-
-</p>
-See you there!
-
-<!--:-->
+will be a keg of homebrew. See you there!

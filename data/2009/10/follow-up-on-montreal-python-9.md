@@ -5,13 +5,11 @@ Category: Presentations
 Slug: follow-up-on-montreal-python-9
 Lang: en
 
-<!--:en-->Here is a follow-up on Montréal Python 9.
-
-First, the video was uploaded to our [blip.tv channel][]. It's currently
-queued for transcoding and should show up in the coming days.
-
-Based on your feedback, we continue posting the slides and examples used
-during the presentations. Our flash presenters were:
+<!--:en-->Here is a follow-up on Montréal Python 9. First, the video was
+uploaded to our [blip.tv channel][]. It's currently queued for
+transcoding and should show up in the coming days. Based on your
+feedback, we continue posting the slides and examples used during the
+presentations. Our flash presenters were:
 
 -   Simon Law: [Cygwinreg][] and ctypes -- Using the Windows registry
     from Cygwin ([slides][])
@@ -27,25 +25,15 @@ during the presentations. Our flash presenters were:
     cards ([slides and examples][])
 
 Our main presenter was *Andrew Francis* on *Stackless Python*
-([slides][4]).
-
-</p>
-Montréal-Python is a co-organizer of the [ConFoo.ca][] conference and
-we'd like remind you that there is little less than four weeks to submit
-a talk proposal.
-
-Also, there will be a BarCamp with a presentation on AppEngine at
-[Station C][] on 2009-10-29. It would be a good occasion to have a small
-informall Python gathering.
-
-Finally, we would like to thank our sponsors for Montréal Python 9:
+([slides][4]). Montréal-Python is a co-organizer of the [ConFoo.ca][]
+conference and we'd like remind you that there is little less than four
+weeks to submit a talk proposal. Also, there will be a BarCamp with a
+presentation on AppEngine at [Station C][] on 2009-10-29. It would be a
+good occasion to have a small informall Python gathering. Finally, we
+would like to thank our sponsors for Montréal Python 9:
 
 -   gold: [Département d'Informatique de l'UQAM][]
 -   bronze: [O'Reilly][] and [AESS][]
-
-<!--:-->
-
-</p>
 
   [blip.tv channel]: http://montrealpython.blip.tv/
   [Cygwinreg]: http://pypi.python.org/pypi/cygwinreg

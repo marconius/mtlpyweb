@@ -7,8 +7,6 @@ Lang: fr
 
 Bonjour Membres de **Montréal-Python**!
 
-</p>
-
 Nous sommes heureux de vous annoncez que l'inscription pour la
 conférence de mars 2013 vient de débuter à l'adresse suivante :
 [https://us.pycon.org/2013/registration/register/][] ! Le prix « early
@@ -25,29 +23,21 @@ d'ateliers à partir du 13 mars, suivi des trois jours de conférences
 débutant le 15 mars. **PyCon** se conclura avec les habituels sprints du
 18 au 21 mars.
 
-</p>
-
 Pour cette édition, nous sommes fiers d'avoir réduit le prix étudiant de
-50%, ce qui donne un tarif « early bird » à seulement 100\$ et le tarif
-normal à 125\$. Offrir une conférence accessible et abordable pour les
+50%, ce qui donne un tarif « early bird » à seulement 100$ et le tarif
+normal à 125$. Offrir une conférence accessible et abordable pour les
 étudiants est l'une des priorités des organisateurs et de la *Python
 Software Foundation*.
-
-</p>
 
 Nous sommes fier d'augmenter notre programme d'aide financière cette
 année et nous espérons ainsi aider plus de gens à venir assiter à
 **PyCon en 2013** ! Si vous désirez appliquer pour une aide financière,
 utilisez le [nouveau formulaire unifié][]
 
-</p>
-
 Nous acceptons toujours des propositions de présentations et d'ateliers
 jusqu'au 28 septembre 2012. Les propostions acceptées seront publiées le
 15 janvier 2013. Pour plus d'informations rendez-vous à l'adresse
 suivante : [https://us.pycon.org/2013/speaking/cfp/][].
-
-</p>
 
 De plus, si votre compagnie est intéressée à commanditer, nous avons
 besoins de vous. C'est grace aux commanditaires que la tenue de
@@ -60,15 +50,9 @@ l'adresse [https://us.pycon.org/2013/sponsors/prospectus/][]. N'hésitez
 pas à contacter Jesse Noller à [jnoller@python.org][] pour n'importe
 quelle questions concernant les commandites.
 
-</p>
-
 Afin d'être informé des dernières nouvelles, n'oubliez pas de jeter un
 oeil à notre blog à [http://pycon.blogspot.com/][] et de nous suivre sur
 Twitter à [@pycon][].
-
-<!--:-->
-
-</p>
 
   [https://us.pycon.org/2013/registration/register/]: https://us.pycon.org/2013/registration/register/
   [nouveau formulaire unifié]: https://docs.google.com/spreadsheet/viewformfromEmail=true&formkey=dGt4Z0dsY052VERJem4xUUFVQW9uQVE6MQ

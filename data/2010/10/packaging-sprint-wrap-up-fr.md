@@ -69,10 +69,9 @@ et il vient tout juste d'être fusionné dans la [branche de Tarek][]. On
 compte refaire un sprint vers la mi-octobre. Suivez-ce blog pour plus de
 détails.
 
-</p>
 [caption id="attachment\_978" align="alignnone" width="300"
 caption="Yannick explains how to measure the test
-coverage"][![][]][][/caption]<!--:-->
+coverage"][![][]][][/caption]
 
   [WingIDE]: http://wingware.com/products
   [branche de Tarek]: https://bitbucket.org/tarek/distutils2/changesets/38d869d48447

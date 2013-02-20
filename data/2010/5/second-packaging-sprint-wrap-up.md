@@ -40,10 +40,6 @@ local knowledge to have local coach for the subsequent sprints. One
 thing that is sure is that for future code sprints, we will ensure that
 there is an expert on site.
 
-<!--:-->
-
-</p>
-
   [second packaging sprint]: http://montrealpython.org/2010/05/packaging-sprint-2/
   [Tarek]: http://tarekziade.wordpress.com/
   [Typeracer in instadeath mode]: http://play.typeracer.com/universe/accuracy

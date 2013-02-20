@@ -17,13 +17,10 @@ Les deux premiers sprints seront chez les [Brasseurs Numériques][], au
 Google Montréal, 1253 McGill College, suite 250. L'emplacement est
 limité à 12 place donc [réservez la votre][] sur le wiki sans plus
 tarder. Merci à l'[AUF][] pour supporter le sprint de traduction en nous
-fournissant la nourriture et les rafraîchissements.
-
-</p>
-**m-à-j:** tous les sprints commencent à 18h30 EDT (UTC-4) et il est
-possible de participer à distance. **autre m-à-j:** le sprint sur le
-packaging du 2010-08-05 se tiendra chez Google. Le sprint sur le
-pacakging est annullé.<!--:-->
+fournissant la nourriture et les rafraîchissements. **m-à-j:** tous les
+sprints commencent à 18h30 EDT (UTC-4) et il est possible de participer
+à distance. **autre m-à-j:** le sprint sur le packaging du 2010-08-05 se
+tiendra chez Google. Le sprint sur le pacakging est annullé.
 
   [Brasseurs Numériques]: http://ajah.ca
   [réservez la votre]: http://wiki.montrealpython.org/index.php/Sprints

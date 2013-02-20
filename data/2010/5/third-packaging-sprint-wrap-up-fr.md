@@ -17,13 +17,11 @@ commit. Félicitations aux sprinteurs:
 -   Cyril Robert
 -   Tarez Ziadé (remote)
 
-</p>
 De plus, on a eu la chance d'avoir Tarek Ziade en téléconférence et ça
 nous a vraiment motivé. Tarek nous a donc fait un résumé de l'état
 actuel du packaging, il a pu mettre en contexte les différents tickets
-sur lesquels on travaillait et nous a orienté dans notre stratégie.
-
-Le bilan est vraiment positif. En résumé nous avons travaillé sur:
+sur lesquels on travaillait et nous a orienté dans notre stratégie. Le
+bilan est vraiment positif. En résumé nous avons travaillé sur:
 
 -   Distutils2, la future mouture de distutils
 -   Distribute, le successeur de setuptools
@@ -32,9 +30,5 @@ Le bilan est vraiment positif. En résumé nous avons travaillé sur:
 La motivation est là et on est sur une lancé! On va donc répéter
 l'expérience et continuer le bon travail le 2 Juin à 18h. L'emplacement
 le plus probable est chez les Brasseurs Numériques mais on a un
-emplacement alternatif dans notre mire.
-
-</p>
-Restez à l'écoute, l'annonce officielle du prochain sprint s'en vient.
-
-[gallery columns="2"]<!--:-->
+emplacement alternatif dans notre mire. Restez à l'écoute, l'annonce
+officielle du prochain sprint s'en vient. [gallery columns="2"]

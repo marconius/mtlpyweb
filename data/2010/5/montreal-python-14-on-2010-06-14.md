@@ -10,9 +10,8 @@ June 14th, room SH-3420 of the [Sherbrooke building][] (200 Sherbrooke
 west, metro Place-des-arts); it will be an entrepreneurial themed
 meeting because we received many proposals on that theme and because we
 sincerely believe that the best way to ensure that you are paid to code
-in Python is to found your own job.
-
-Here is our schedule for the evening:
+in Python is to found your own job. Here is our schedule for the
+evening:
 
 -   18h00: Opening
 -   18h20: Announcements
@@ -28,19 +27,13 @@ Flash presenters will be:
 -   Michael Lenczner and Daniel Drouet on Ajah
 -   Sébastien Pierre on FFunction
 
-The main presentation slot will be split in two parts:
+The main presentation slot will be split in two parts: In the first
+part, *Gary Haran* will talk about *Four ways to fund your startup*:
 
-</p>
-<p>
-In the first part, *Gary Haran* will talk about *Four ways to fund your
-startup*:
-
-> Second installment of the from ghetto to hub series.
-> </p>
-> <p>
-> Gary is an entrepreneur active in the Ruby and JS communities. Within
-> seven months he managed to found and sell a company. He wants you to
-> do the same.
+> Second installment of the from ghetto to hub series. Gary is an
+> entrepreneur active in the Ruby and JS communities. Within seven
+> months he managed to found and sell a company. He wants you to do the
+> same.
 
 For the second part, *Jean-Sébastien Cournoyer* will talk about *Real
 Ventures and Founderfuel, supporting the next generation of
@@ -61,20 +54,14 @@ entrepreneurs*:
 > five.
 
 We still have a few spots for flash presentations so don’t hesitate to
-contact us if you have something that you would like to present.
-
-</p>
-Thanks to our sponsors for making Montréal-Python 14 possible:
+contact us if you have something that you would like to present. Thanks
+to our sponsors for making Montréal-Python 14 possible:
 
 -   [UQAM][]
 -   [Benelux][]
 -   [Savoir-faire Linux][]
 -   [Ecometrica][]
 -   [Apress][]
-
-<!--:-->
-
-</p>
 
   [Sherbrooke building]: http://www.uqam.ca/campus/pavillons/sh.htm
   [UQAM]: http://uqam.ca

@@ -8,23 +8,15 @@ Lang: en
 We are pleased to announce that Montreal Python 6 will be on 2009-04-14
 at [La Banque][].
 
-</p>
-
 Our main presenter will be [Francis Piéraut][] on Machine Learning
 empowered by Python:
 
-</p>
-<p>
-> </p>
->
 > Machine Learning is a subfield of AI that considers learning patterns
 > from existing data. Related applications are increasing in many fields
 > where adaptive systems are needed, like fraud detection, face
 > recognition, recommendation systems, disambiguation systems, insurance
 > risk estimation, web traffic filtering, voice recognition, and many
 > others.
->
-> </p>
 >
 > The first part of this presentation will cover the basics of machine
 > learning; in the second part, we will dive into a real example and see
@@ -33,8 +25,6 @@ empowered by Python:
 > practical approach should allow the audience to assimilate the most
 > important concepts of machine learning and the critical need for data
 > preprocessing.
->
-> </p>
 >
 > After a Software Engineer degree, Francis Piéraut made a research
 > master in Machine Learning at [LISA][]. During his research work, he
@@ -45,11 +35,6 @@ empowered by Python:
 > library that allows him to speedup his Machine Learning projects by
 > simplifying data preprocessing, features selection and data
 > visualization.
->
-> </p>
-> <p>
-
-</p>
 
 Here is our schedule for the evening:
 
@@ -59,13 +44,8 @@ Here is our schedule for the evening:
 -   19h45: Main presentation
 
 </p>
-
-</p>
-
 We are still looking for flash presenters so contact us if you have an
 idea for a flash presentation.
-
-</p>
 
   [La Banque]: http://labanque.ca
   [Francis Piéraut]: http://fraka6.blogspot.com

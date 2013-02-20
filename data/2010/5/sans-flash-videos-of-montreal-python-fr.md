@@ -30,10 +30,6 @@ compémentaires.
 N'hesitez pas à nous faire part de tout commentaire à propos des vidéos.
 Tant sur les détails technique que sur la forme.
 
-<!--:-->
-
-</p>
-
   [page dédiée]: http://montrealpython.org/presentations/
   [Montréal-Python 1]: http://montrealpython.org/presentations/mp-1/
   [Montréal-Python 2]: http://montrealpython.org/presentations/mp-2/

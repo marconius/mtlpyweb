@@ -22,8 +22,4 @@ rejoindre, vous pouvez tout de même participer par IRC, sur
 </div>
 </div>
 
-<!--:-->
-
-</p>
-
   [wiki]: http://wiki.montrealpython.org/index.php/Translation_of_Django_7

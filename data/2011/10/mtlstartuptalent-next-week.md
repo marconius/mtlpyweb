@@ -9,9 +9,7 @@ Lang: en
 aims to connect companies that are hiring with talent looking for
 employment. Montreal-Python invite you to assist and participate and to
 demonstrate how dynamic and energetic are the Pythonistas of
-Montreal-Python.
-
-Here’s what you can expect:
+Montreal-Python. Here’s what you can expect:
 
 -   Access to great job opportunities at great companies
 -   A chance to converse with an employee or founder and start to build
@@ -20,8 +18,4 @@ Here’s what you can expect:
     field of interest
 
 If you are interested, don't forget to register your place at
-
-</p>
-http://mtlstartuptalent.eventbrite.com/
-
-See you on Thursday !<!--:-->
+http://mtlstartuptalent.eventbrite.com/ See you on Thursday !

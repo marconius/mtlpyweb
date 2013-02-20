@@ -25,9 +25,5 @@ sexe masculin.
 
 Au plaisir de vous y voir!
 
-<!--:-->
-
-</p>
-
   [le syllabus et autres informations]: http://wiki.montrealpython.org/index.php/PythonIntroduction-2011-05-03
   [guestlist]: http://guestlistapp.com/events/51924

@@ -10,6 +10,4 @@ horaire rempli de présentations et de démonstrations en direct, c'est
 une bonne occasion pour rencontrer d'autres dévelopeurs et pour voir qui
 travail sur quoi dans la région.
 
-<!--:-->
-
   [DemoCamp]: http://careerdemocamp.eventbrite.com/

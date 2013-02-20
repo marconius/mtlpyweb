@@ -4,50 +4,37 @@ Author: Pior
 Slug: presentations
 Lang: fr
 
-<p>
   
-Vous pouvez suivre nos vidéos grace à nos flux RSS dédicacés:
+ Vous pouvez suivre nos vidéos grace à nos flux RSS dédicacés:
 [THEORA][] [H264][]   
-
 <li>
 [Montreal Python 1][]
-
 </li>
 <li>
 [Montreal Python 2][]
-
 </li>
 <li>
 [Montreal Python 7][]
-
 </li>
 <li>
 [Montreal Python 8][]
-
 </li>
 <li>
 [Montreal Python 9][]
-
 </li>
 <li>
 [Montreal Python 10][]
-
 </li>
 <li>
 [Montreal Python 11][] À venir
-
 </li>
 <li>
 [Montreal Python 12][] À venir
-
 </li>
 <li>
 [Montreal Python 13][] À venir
-
 </li>
-</p>
 Pour retrouver les anciennes vidéos, allez sur la [page de blip.tv][]
-<!--:-->
 
   [THEORA]: http://montrealpython.org/videos/theora.rss
   [H264]: http://montrealpython.org/videos/h264.rss

@@ -35,33 +35,25 @@ the main presentation:
 > where adaptive systems are needed, like fraud detection, face
 > recognition, recommendation systems, disambiguation systems, insurance
 > risk estimation, web traffic filtering, voice recognition, and many
-> others.
->
-> </p>
-> The first part of this presentation will cover the basics of machine
-> learning; in the second part, we will dive into a real example and see
-> the complete process of using machine learning to create a real-time
-> digit recognition system using Mlboost, a python library. The
-> practical approach should allow the audience to assimilate the most
-> important concepts of machine learning and the critical need for data
-> preprocessing.
->
-> <p>
-> After a Software Engineer degree, Francis Piéraut made a research
-> master in Machine Learning at LISA. During his research work, he
-> developed flayers, a powerful C++ neural network library. During the
-> beginning of his career, his spend several years in Montreal startups
-> companies applying Machine Learning and statistical AI related
-> solutions. In 2005, he released the first version of MLboost, a python
-> library that allows him to speedup his Machine Learning projects by
-> simplifying data preprocessing, features selection and data
-> visualization.
+> others. The first part of this presentation will cover the basics of
+> machine learning; in the second part, we will dive into a real example
+> and see the complete process of using machine learning to create a
+> real-time digit recognition system using Mlboost, a python library.
+> The practical approach should allow the audience to assimilate the
+> most important concepts of machine learning and the critical need for
+> data preprocessing. After a Software Engineer degree, Francis Piéraut
+> made a research master in Machine Learning at LISA. During his
+> research work, he developed flayers, a powerful C++ neural network
+> library. During the beginning of his career, his spend several years
+> in Montreal startups companies applying Machine Learning and
+> statistical AI related solutions. In 2005, he released the first
+> version of MLboost, a python library that allows him to speedup his
+> Machine Learning projects by simplifying data preprocessing, features
+> selection and data visualization.
 
 See you there.
 
 --[Yannick Gingras][]
-
-</p>
 
   [la Banque]: http://labanque.ca/
   [Yannick Gingras]: http://ygingras.net

@@ -14,8 +14,6 @@ code de TurboGears 2.1 pour vous aider à mettre en place votre
 environnement de développement, pour vous guider avec les outils, et
 pour vous introduire à TurboGears en général.
 
-<!--:-->
-
   [TurboGears]: http://turbogears.org/
   [sprint le 2009-11-27]: http://percious.com/blog/archives/134
   [Café Fractal]: http://www.vie-etudiante.uqam.ca/projetsetudiants/outils/associations/Pages/cafeetudiants.aspx

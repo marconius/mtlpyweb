@@ -16,33 +16,29 @@ bien sur, de très bonnes bières.
 En fût :
 
 Anniversaire 2xIPA 2010  
-Anniversaire 2xIPA 2011  
-Grande Armada Réserve / 8 mois en fut de whiskey  
-Zoot 2010  
-Dub 2009 (à voir)  
-Dreadlux 2010  
-Barley Wine 2010  
-Barley Wine de Noel 2009  
-Barley Wine de Noel 2009 / +brett. fut de chêne  
-Strato 6 mois  
-Alter Novis 10 mois  
-Alter Novis au raisin 6 mois  
-Dreadlux-Sticke Alt (blend) 5 mois
+ Anniversaire 2xIPA 2011  
+ Grande Armada Réserve / 8 mois en fut de whiskey  
+ Zoot 2010  
+ Dub 2009 (à voir)  
+ Dreadlux 2010  
+ Barley Wine 2010  
+ Barley Wine de Noel 2009  
+ Barley Wine de Noel 2009 / +brett. fut de chêne  
+ Strato 6 mois  
+ Alter Novis 10 mois  
+ Alter Novis au raisin 6 mois  
+ Dreadlux-Sticke Alt (blend) 5 mois
 
 En cask :
 
 Chief / 3 mois, "oaked"  
-Yakima / dry hop Riwaka  
-Sour EXP / oude geuze 2.5 ans
+ Yakima / dry hop Riwaka  
+ Sour EXP / oude geuze 2.5 ans
 
 Au plaisir de vous y voir!
 
 [http://www.brasseriebenelux.com/]  
-[http://www.facebook.com/event.php?eid=193551764010682&index=1]
+ [http://www.facebook.com/event.php?eid=193551764010682&index=1]
 
 </div>
-
-<!--:-->
-
-</p>
 

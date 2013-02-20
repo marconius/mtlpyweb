@@ -19,10 +19,6 @@ prestation publique officielle ce petit je-ne-sais-quoi de plus qui vous
 fera renverser votre pinte. Si vous voulez être de l'assistance,
 [inscrivez-vous sur le wiki][].
 
-<!--:-->
-
-</p>
-
   [Maison Notman]: http://notmanhouse.com
   [experts pythoneux]: http://us.pycon.org/2011/schedule/sessions/147/
   [de Montréal]: http://confoo.ca/en/speaker/blaise-laflamme

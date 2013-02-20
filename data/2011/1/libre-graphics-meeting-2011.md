@@ -9,10 +9,8 @@ Lang: en
 will be back in Montréal in 2011. In the past, Libre Graphics Meeting
 always featured a healthy dose of Python. Indeed, essentially all the
 modern graphic tools on a GNU/Linux desktop are scriptable in Python, if
-not written in it as the main language.
-
-We are looking forward for this state of the art conference, which might
-also allow us to have a graphics special edition in May. Stay
-tuned...<!--:-->
+not written in it as the main language. We are looking forward for this
+state of the art conference, which might also allow us to have a
+graphics special edition in May. Stay tuned...
 
   [Libre Graphics Meeting]: http://www.libregraphicsmeeting.org/2011/index.php

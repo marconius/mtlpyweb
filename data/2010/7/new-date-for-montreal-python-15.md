@@ -6,6 +6,6 @@ Slug: new-date-for-montreal-python-15
 Lang: en
 
 <!--:en-->[Montréal-Python 15][] is delayed by a week. The new date is
-2010-07-26.<!--:-->
+2010-07-26.
 
   [Montréal-Python 15]: http://montrealpython.org/2010/06/mp-15/

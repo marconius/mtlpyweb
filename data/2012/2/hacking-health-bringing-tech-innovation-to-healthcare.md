@@ -11,25 +11,15 @@ Lang: en
 pair health and technological entrepreneurs so that they can develop
 solutions to front-line healthcare problems.
 
-</p>
-
 By emphasizing hands-on work on small projects which can be tackled in a
 short period of time, participants can quickly test assumptions, build
 teams, and generate momentum for promising ideas in healthcare.
 
-</p>
-
 There's a limited number of places and they are leaving very quickly:
 [http://physiqa.wufoo.com/forms/hackers-form/][]
 
-</p>
-
 For more information or to sign up, visit
 [http://www.hackinghealth.ca][Hacking Health].
-
-<!--:-->
-
-</p>
 
   [Hacking Health]: http://www.hackinghealth.ca
   [http://physiqa.wufoo.com/forms/hackers-form/]: http://physiqa.wufoo.com/forms/hackers-form/

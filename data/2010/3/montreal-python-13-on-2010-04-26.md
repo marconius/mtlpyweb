@@ -8,7 +8,6 @@ Lang: en
 <!--:en-->Montréal-Python 13 will take place at UQAM, on Monday
 2010-04-26 in room SH-3420 of the Sherbrooke building. The SH building
 is located at [200 Sherbrooke west][], Place-des-Arts metro station.
-
 Here is our schedule for the evening:
 
 -   18h00: Opening
@@ -59,20 +58,14 @@ talk about *Implementing Go's select in Stackless Python*.
 > Python/Twisted Integration.”
 
 We still have a few spots for flash presentations so don’t hesitate to
-contact us if you have something that you would like to present.
-
-</p>
-Thanks to our sponsors for making Montréal-Python 13 possible:
+contact us if you have something that you would like to present. Thanks
+to our sponsors for making Montréal-Python 13 possible:
 
 -   [UQAM][]
 -   [Benelux][]
 -   [Savoir-faire Linux][]
 -   [Ecometrica][]
 -   [Apress][]
-
-<!--:-->
-
-</p>
 
   [200 Sherbrooke west]: http://www.uqam.ca/campus/pavillons/sh.htm
   [UQAM]: http://uqam.ca

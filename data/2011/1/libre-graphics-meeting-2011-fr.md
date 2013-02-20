@@ -18,8 +18,4 @@ mai une édition spéciale sur le graphisme et l'imagerie. À suivre...
 
 </div>
 
-<!--:-->
-
-</p>
-
   [Libre Graphics Meeting]: http://www.libregraphicsmeeting.org/2011/index.php

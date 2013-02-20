@@ -57,10 +57,6 @@ Montréal Python est organisé par:
 -   [Arach Tchoupani][]
 -   [Pior Bastida][]
 
-<!--:-->
-
-</p>
-
   [conférence ConFoo]: http://confoo.ca
   [liste de diffusion]: http://groups.google.com/group/montrealpython
   [\#montrealpython]: irc://irc.freenode.net/montreal-python

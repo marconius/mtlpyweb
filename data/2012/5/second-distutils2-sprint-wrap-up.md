@@ -12,15 +12,11 @@ again a success. We've managed to fix some interesting issues and we've
 gained some experience points at dealing with the black magic of the
 packaging arcane.
 
-</p>
-
 We would like to thank [TP1][] for hosting the sprint at their nice
 Downtown Montreal offices and also for the pizza. Pierre Paul, our host,
 wrote [a longer post][] relating the event.
 
 Stay tuned for upcoming announcements on Distutils2 sprints.
-
-</p>
 
 Special thanks to the sprinters:
 
@@ -42,10 +38,6 @@ Here's a glimpse of patches being born:
 Divine inspiration:
 
 ![Light falling on a computer][]
-
-<!--:-->
-
-</p>
 
   [TP1 logo]: http://www.tp1.ca/sites/all/themes/tp1/images/logo.png
   [TP1]: http://www.tp1.ca/

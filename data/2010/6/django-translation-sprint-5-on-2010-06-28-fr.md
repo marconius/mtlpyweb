@@ -22,9 +22,5 @@ réservez la vôtre sur le [wiki][]. Si vous ne pouvez nous rejoindre,
 vous pouvez tout de même participer par IRC, sur \#montreal-python sur
 irc.freenode.net.
 
-<!--:-->
-
-</p>
-
   [Agence universitaire de la Francophonie]: http://www.auf.org
   [wiki]: http://wiki.montrealpython.org/index.php/Translation_of_Django_5

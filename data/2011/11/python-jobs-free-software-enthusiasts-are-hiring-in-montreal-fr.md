@@ -7,11 +7,7 @@ Lang: fr
 
 Emplois Python : Des passionnés en logiciel libre à Montréal recrutent !
 
-</p>
-
 Les gens de Savoir-faire Linux recherchent deux programmeurs Web Python.
-
-</p>
 
 Conditions :
 
@@ -24,9 +20,5 @@ Conditions :
 Vous pouvez postuler en suivant le lien suivant :
 
 [http://www.savoirfairelinux.com/fr/careers/2011060701-web-python][]
-
-<!--:-->
-
-</p>
 
   [http://www.savoirfairelinux.com/fr/careers/2011060701-web-python]: http://www.savoirfairelinux.com/fr/careers/2011060701-web-python

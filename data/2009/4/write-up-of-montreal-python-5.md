@@ -12,7 +12,5 @@ of attending.
 
 -- [Yannick Gingras][]
 
-</p>
-
   [write-up]: http://peadrop.com/mp5.html
   [Yannick Gingras]: http://ygingrasnet

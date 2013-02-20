@@ -10,13 +10,9 @@ printanière a été encore une fois couronné de succès. Nous avons pu
 corriger plusieurs bugs intéressants et acquérir de l'experience sur ce
 sujet complexe qu'est le packaging.
 
-</p>
-
 Nous voudrions remercier tout spécialement [TP1][] de nous avoir
 accueillis et nourris. D'ailleurs, Pierre Paul, notre hôte, a écrit [un
 plus long billet][] sur l'événement.
-
-</p>
 
 Il faut remercier chaleureusement les participants:
 
@@ -38,10 +34,6 @@ Capture d'un moment de la journée:
 Inspiration divine:
 
 ![Halo de lumière sur un ordinateur][]
-
-<!--:-->
-
-</p>
 
   [Logo de TP1]: http://www.tp1.ca/sites/all/themes/tp1/images/logo.png
   [TP1]: http://www.tp1.ca/

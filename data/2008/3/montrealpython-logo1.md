@@ -9,12 +9,7 @@ Lang: en
 Here is our first attempt at a logo. We have [Hamish Macpherson][] to
 thank for this original design. Over time, we'll come up with an
 original website and you are all welcome to contribute (read please
-contribute! )
-
-![MontrealPython - logo 2][]
-
-![MontrealPython - logo 2][1]
-
+contribute! ) ![MontrealPython - logo 2][] ![MontrealPython - logo 2][1]
 What do you think ?
 
   [Hamish Macpherson]: http://blog.hamstu.com/ "Hamish's blog"

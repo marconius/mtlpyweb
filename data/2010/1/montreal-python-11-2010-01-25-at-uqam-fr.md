@@ -7,9 +7,8 @@ Lang: fr
 
 Montréal Python 11 aura lieu lundi le 2010-01-25 au local SH-3340 du
 pavillon Sherbrooke de l’UQAM. Le pavillon SH est situé au [200 rue
-Sherbrooke ouest][], métro Place-des-Arts.
-
-Voici notre programme pour la soirée:
+Sherbrooke ouest][], métro Place-des-Arts. Voici notre programme pour la
+soirée:
 
 -   18h00: Ouverture des portes
 -   18h20: Annonces
@@ -37,8 +36,6 @@ de *Pylons, the swiss army knife of Python Web development*.
 > deployment scenarios. We'll also have some little comparisons between
 > frameworks; how Pylons relates to other frameworks and languages.
 
-</p>
-<p>
 > Alexandre est spécialiste passionné du langage Python et l'enseigne
 > comme formateur principal chez Savoir-faire Linux. Il est créateur et
 > développeur principal de SFLvault - un projet libre de gestion
@@ -58,10 +55,6 @@ possible:
 -   Benelux
 -   Ecometrica
 -   AESS
-
-<!--:-->
-
-</p>
 
   [200 rue Sherbrooke ouest]: http://www.uqam.ca/campus/pavillons/sh.htm
   [Benelux]: http://www.brasseriebenelux.com/

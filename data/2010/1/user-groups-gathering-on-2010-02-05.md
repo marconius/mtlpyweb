@@ -8,4 +8,4 @@ Lang: en
 <!--:en-->Next Friday, why not celebrate the end of the week with
 members of other user groups? Montréal-Python, W3Québec, PHP-Québec,
 AMUG, Montréal Girl Geek Dinners, and many others invite you for a drink
-or two at Pub Ste-Elizabeth starting at 6pm.<!--:-->
+or two at Pub Ste-Elizabeth starting at 6pm.

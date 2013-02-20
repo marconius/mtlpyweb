@@ -37,10 +37,6 @@ me hope!
 
 (cross posted from [savetheions][])
 
-<!--:-->
-
-</p>
-
   [python.kr]: http://python.kr/
   []: http://s2.i1.picplzthumbs.com/upload/img/53/a3/03/53a3031c2de706fb76528821cda964155577b1a4_wmeg.jpg
   [![][]]: http://picplz.com/user/cyrilrbt/pic/rk3n3/

@@ -4,9 +4,8 @@ Author: Pior
 Slug: presentations
 Lang: en
 
-<p>
 <!--:en-->  
-You can get the videos using our special RSS feeds: [THEORA][] [H264][]
+ You can get the videos using our special RSS feeds: [THEORA][] [H264][]
   
 <li>
 [Montreal Python 1][]
@@ -38,8 +37,7 @@ You can get the videos using our special RSS feeds: [THEORA][] [H264][]
 <li>
 [Montreal Python 20][]
 </li>
-For the old videos, go to the [blip.tv page][] <!--:-->
-</p>
+For the old videos, go to the [blip.tv page][]
 
   [THEORA]: http://montrealpython.org/videos/theora.rss
   [H264]: http://montrealpython.org/videos/h264.rss

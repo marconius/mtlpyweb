@@ -21,18 +21,11 @@ In this first post, I want to give shout out to
 [www.montrealonrails.com][][][www.montrealonrails.com]for demonstrating
 how an active local developer group can be stimulating and fun. In many
 ways we have a lot to learn from Rails developers and, I suspect, a lot
-to share.
-
-</p>
-Ξ
-
-MontrealPython.org cherche à devenir un point de ralliement pour la
-communauté de développeurs [python][] montréalaise. Si vous programmez
-en python ou avez toute autre raison de vous intéresser à ce language de
-programmation, envoyez un petit courriel à
-[contact@montrealpython.org][].
-
-Notre mission est de :
+to share. Ξ MontrealPython.org cherche à devenir un point de ralliement
+pour la communauté de développeurs [python][] montréalaise. Si vous
+programmez en python ou avez toute autre raison de vous intéresser à ce
+language de programmation, envoyez un petit courriel à
+[contact@montrealpython.org][]. Notre mission est de :
 
 -   faire connaître l'existence et le dynamisme d'une communauté de
     développeurs python à Montréal
@@ -45,8 +38,6 @@ Dès le départ, j'aimerais souligner que [www.montrealonrails.com][1] est
 clairement une source d'inspiration avec son groupe de développeurs. Je
 pense qu'on a beaucoup de choses à apprendre des développeurs Rails et
 je soupçonne, beaucoup à partager.
-
-</p>
 
   [python]: http://www.python.org "Python Programming Language"
   [contact@montrealpython.org]: mailto:contact@montrealpython.org

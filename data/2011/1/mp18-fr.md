@@ -7,9 +7,8 @@ Lang: fr
 
 Montréal-Python 18, nom de code Boat-shaped Benefactress (ou  en
 français, Bienfaitrice aux allures de navires) aura lieu le lundi 31
-janvier 2011 au local SH-R810 du [pavillon][]Sherbrooke de l’UQAM.
-
-Voici notre programme pour la soirée:
+janvier 2011 au local SH-R810 du [pavillon][]Sherbrooke de l’UQAM. Voici
+notre programme pour la soirée:
 
 -   18h00: Ouverture des portes
 -   18h20: Annonces
@@ -36,19 +35,13 @@ pythonique, en passant par des tutoriels pratiques.
 *Natural Language Toolkit (NLTK) est une bibliothèque logicielle en
 Python*
 
-</p>
-permettant un traitement automatique des langues.
-
-En plus de la bibliothèque, NLTK fournit des démonstrations graphiques,
-
-*des données-échantillon, des tutoriels,ainsi que la documentation de
-l'interface de programmation (API).*
-
-L'événement est gratuit et aucune inscription n'est requise. Des
-amuses-gueule seront disponibles mais ne vous attendez pas à un repas
-complet.
-
-Merci à nos commanditaires de rendre Montréal-Python 18 possible:
+ permettant un traitement automatique des langues. En plus de la
+bibliothèque, NLTK fournit des démonstrations graphiques, *des
+données-échantillon, des tutoriels,ainsi que la documentation de
+l'interface de programmation (API).* L'événement est gratuit et aucune
+inscription n'est requise. Des amuses-gueule seront disponibles mais ne
+vous attendez pas à un repas complet. Merci à nos commanditaires de
+rendre Montréal-Python 18 possible:
 
 -   [UQAM][]
 -   [Benelux][]
@@ -56,10 +49,6 @@ Merci à nos commanditaires de rendre Montréal-Python 18 possible:
 -   [Savoir-Faire Linux][]
 -   [Ecometrica][]
 -   [Apress][]
-
-<!--:-->
-
-</p>
 
   [pavillon]: http://www.uqam.ca/campus/pavillons/sh.htm
   [UQAM]: http://uqam.ca

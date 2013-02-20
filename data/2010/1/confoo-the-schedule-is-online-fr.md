@@ -8,11 +8,9 @@ Lang: fr
 L'équipe ConFoo est heureuse de dévoiler [l'horraire de la
 conférence][]. Avec plus de 130 présentations réparties dans 8 salles,
 ConFoo vous apporte une perspective exceptionnelle sur le développement
-Web.
-
-Nous sommes fiers d'accueillir plus de 100 spécialistes qui viendront
-partager leur expertise lors des présentations et formations; parmi eux,
-nous comptons:
+Web. Nous sommes fiers d'accueillir plus de 100 spécialistes qui
+viendront partager leur expertise lors des présentations et formations;
+parmi eux, nous comptons:
 
 -   [Raymond Hettinger][]
 -   [Antoine Pitrou][]
@@ -27,10 +25,8 @@ Vous ne voudrez certainement pas manquer des présentations tel que:
 -   [Pylons: you mean "fast" Web development?][] par Alexandre Bourget
 
 [Inscrivez-vous en ligne][] avant le 22 janvier pour bénéficier du tarif
-de pré-vente, une économie de 200\$.
-
-</p>
-Ne tardez plus car le nombre de places est limité. <!--:-->
+de pré-vente, une économie de 200$. Ne tardez plus car le nombre de
+places est limité.
 
   [l'horraire de la conférence]: http://confoo.ca/fr/schedule
   [Raymond Hettinger]: http://confoo.ca/fr/2010/speaker/raymond-hettinger

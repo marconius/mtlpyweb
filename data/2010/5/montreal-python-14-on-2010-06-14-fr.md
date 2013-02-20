@@ -7,14 +7,10 @@ Lang: fr
 
 La 14e rencontre Montréal Python aura lieu le 14 Juin prochain à l'UQAM,
 salle SH-3420 du [pavillion Sherbrooke][] (200 Sherbrooke ouest, métro
-Place-des-arts).
-
-Cet événement sera sous la thématique *Startup*, du au nombre
-d'excellentes propositions que nous avons reçu sur le sujet et parce que
-nous pensons que la meilleure façon de travailler en Python est de
-fonder son propre emploi.
-
-Voici notre programme pour la soirée:
+Place-des-arts). Cet événement sera sous la thématique *Startup*, du au
+nombre d'excellentes propositions que nous avons reçu sur le sujet et
+parce que nous pensons que la meilleure façon de travailler en Python
+est de fonder son propre emploi. Voici notre programme pour la soirée:
 
 -   18h00: Ouverture des portes
 -   18h20: Annonces
@@ -30,19 +26,14 @@ Les présentations éclaires seront:
 -   Michael Lenczner et Daniel Drouet sur Ajah
 -   Sébastien Pierre sur FFunction
 
-La présentation principale sera séparée en deux parties:
+La présentation principale sera séparée en deux parties: La première
+partie sera donnée par *Gary Haran*, et s'intitule *4 façons de financer
+votre startup*:
 
-</p>
-<p>
-La première partie sera donnée par *Gary Haran*, et s'intitule *4 façons
-de financer votre startup*:
-
-> Cette présentation est la suite de la série "From Ghetto to Hub".
-> </p>
-> <p>
-> Gary est un entrepreneur actif dans les communautés Ruby et JS. En
-> sept mois, il a réussi a fonder et revendre une compagnie. Il veut que
-> vous fassiez la même chose.
+> Cette présentation est la suite de la série "From Ghetto to Hub". Gary
+> est un entrepreneur actif dans les communautés Ruby et JS. En sept
+> mois, il a réussi a fonder et revendre une compagnie. Il veut que vous
+> fassiez la même chose.
 
 La deuxième partie nous sera présentée par *Jean-Sébastien Cournoyer*,
 et va nous présenter son incubateur *Founder Fuel*:
@@ -58,20 +49,14 @@ et va nous présenter son incubateur *Founder Fuel*:
 > compagnie de stockage revendue a Rackable systems en 2006.
 
 Il nous reste quelque places pour des présentations flash donc n’hésitez
-pas à nous contacter si vous avez en sujet en tête.
-
-</p>
-Merci à nos commanditaires de rendre Montréal-Python 14 possible:
+pas à nous contacter si vous avez en sujet en tête. Merci à nos
+commanditaires de rendre Montréal-Python 14 possible:
 
 -   [UQAM][]
 -   [Benelux][]
 -   [Savoir-faire Linux][]
 -   [Ecometrica][]
 -   [Apress][]
-
-<!--:-->
-
-</p>
 
   [pavillion Sherbrooke]: http://www.uqam.ca/campus/pavillons/sh.htm
   [UQAM]: http://uqam.ca

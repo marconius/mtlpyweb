@@ -12,12 +12,8 @@ de la saison 2012-2013, où nous traiterons de sujets aussi variés que
 les outils de build et les effets spéciaux. Le tout se passe à
 l'Université Concordia commençant à 18h.
 
-</p>
-
 Notre présenteur principal: **Greg Ward** *The Problem With Build Tools,
 or, why the heck are people still using Make in 2012*
-
-</p>
 
 Nos autres présenteurs:
 
@@ -31,16 +27,10 @@ Nos autres présenteurs:
     amazon pros & cons preview
 
 </p>
-</p>
-
 Où: le pavillon principal de Université Concordia (1455 De Maisonneuve
 Blvd), 7e étage (H-763).
 
-</p>
-
 Quand: Le lundi 17 septembre 2012, à 18h00
-
-</p>
 
 Le programme:
 
@@ -66,8 +56,6 @@ Le programme:
 
 </li>
 </p>
-</p>
-
 On aimerais aussi remercier nos braves sponsors:
 
 -   Ludia
@@ -77,13 +65,7 @@ On aimerais aussi remercier nos braves sponsors:
 -   iWeb
 
 </p>
-</p>
-
 **On espère vous voir!**
-
-<!--:-->
-
-</p>
 
   [Modus FX]: http://modusfx.com/
   [Shedmtl.com]: http://shedmtl.com

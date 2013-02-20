@@ -39,8 +39,3 @@ Component at http://www.xiph.org/quicktime </video>
 Your browser doesn't support HTML5. Please use the download link. If you
 use Safari and want to use a libre format, install the Xiph QuickTime
 Component at http://www.xiph.org/quicktime </video>
-
-<!--:-->
-
-</p>
-

@@ -21,7 +21,6 @@ Voici notre programme pour la soirée:
 -   19h20: Présentation principale
 -   20h30: Discussions et rafraîchissements chez Benelux
 
-</p>
 Les présentations éclaires seront:
 
 -   Pierre Thibault sur ipython
@@ -31,14 +30,10 @@ Les présentations éclaires seront:
 -   Simon Law sur Startup Mistakes in Cloud Deployment
 -   Wesley Bouarab sur skeedy.com
 
-</p>
-
 Notre présentateur principal sera Stéphane Jolicoeur et il va nous
 parler de *l'Architecture d'ONF.ca, une plateforme aux fondations libres
 et pythonesques*.
 
-</p>
-<p>
 > Le site ONF.ca est le fruit d'une petite équipe et de la
 > disponnibilité d'outils de la communauté du logiciel libre et de la
 > flexibilité d'un langage de scripting en particulier: Python. Les
@@ -48,13 +43,9 @@ et pythonesques*.
 > visionnement actifs et disponnible sur plusieurs platformes allant du
 > Web au iPad.
 
-</p>
-<p>
 > Analyste Web Principal (lead technique) au département Web de l'Office
 > National du Film du Canada depuis 3 ans, Stéphane Jolicoeur est
 > l'architecte et concepteur fondateur de la platforme ONF.ca.
-
-</p>
 
 Montréal-Python 15 sera notre dernière rencontre de l'été; nous serons
 de retour en septembre après un repos bien mérité.
@@ -66,10 +57,6 @@ Merci à nos commanditaires de rendre Montréal-Python 15 possible:
 -   [Savoir-faire Linux][]
 -   [Ecometrica][]
 -   [Apress][]
-
-<!--:-->
-
-</p>
 
   [pavillon Sherbrooke]: http://www.uqam.ca/campus/pavillons/sh.htm
   [UQAM]: http://uqam.ca

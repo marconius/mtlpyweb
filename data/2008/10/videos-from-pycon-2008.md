@@ -10,7 +10,5 @@ PyCon2008][].  I invite you to take a look...
 
 --Arach
 
-</p>
-
   [YouTube channel of PyCon2008]: http://http://au.youtube.com/profile?user=pycon08
     "PyCon 2008 on YouTube"

@@ -8,9 +8,7 @@ Lang: fr
 Montréal Python 10 aura lieu mercredi le 2009-12-09 au local **PK-5115**
 du pavillon Président-Kenedy de l’UQAM. Le pavillon PK est situé au [201
 rue Président-Kenedy][]. La pavillon PK communique directement avec la
-station de métro Place-des-Arts.
-
-Voici notre programme pour la soirée:
+station de métro Place-des-Arts. Voici notre programme pour la soirée:
 
 -   18h00: Ouverture des portes
 -   18h20: Annonces
@@ -64,10 +62,6 @@ Notre présentateur principal sera *Chris Steel* et il va nous parler de
 > center of a high density population center is that in addition to the
 > sound of the birds and children playing you can also hear the
 > distinctive hum of the nearby "outer beltway".
-
-<!--:-->
-
-</p>
 
   [201 rue Président-Kenedy]: http://www.uqam.ca/campus/pavillons/pk.htm
   [Benelux]: http://www.brasseriebenelux.com/

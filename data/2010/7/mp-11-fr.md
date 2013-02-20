@@ -4,10 +4,7 @@ Author: Pior
 Slug: mp-11
 Lang: fr
 
-<p>
 <style>#sidebar { display:none;} #content { width: 740px !important; } </style>
-</p>
-
 Présentations principales
 =========================
 
@@ -22,9 +19,7 @@ Alexandre Bourget: Pylons
 Your browser doesn't support HTML5. Please use the download link. If you
 use Safari and want to use a libre format, install the Xiph QuickTime
 Component at http://www.xiph.org/quicktime </video>   
-Download link: [Theora][] [MP4][] <!--:-->
-
-</p>
+ Download link: [Theora][] [MP4][]
 
   [Montréal-Python 11]: http://wiki.montrealpython.org/index.php/Montréal-Python_11
   [Theora]: http://montrealpython.org/videos/Montreal-Python-11-Alexandre-Bourget-Pylons.ogg

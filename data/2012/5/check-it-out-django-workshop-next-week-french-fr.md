@@ -6,17 +6,13 @@ Slug: check-it-out-django-workshop-next-week-french
 Lang: fr
 
 Ta-ta-ra-ta-taaaaaaaaaaa! Pythoneux, la Ligue de rugby de
-Montréal-Python a besoin de vous!
-
-Voici venu votre affrontement avec Django... un peu plus tard que prévu
-parce que nous tenions absolument à ce que cet événement se passe dans
-un stade UQÀMien. S'il devait faire mauvais temps, nous avons pris nos
-dispositions: nous avons trouvé un stade couvert près de l'UQÀM.
-
-Alors, trève de plaisenterie, voici ce que vous devez savoir sur notre
-dernier atelier **en français** de la session Hiver 2012:
-
-**Django: monter une application web en Python**
+Montréal-Python a besoin de vous! Voici venu votre affrontement avec
+Django... un peu plus tard que prévu parce que nous tenions absolument à
+ce que cet événement se passe dans un stade UQÀMien. S'il devait faire
+mauvais temps, nous avons pris nos dispositions: nous avons trouvé un
+stade couvert près de l'UQÀM. Alors, trève de plaisenterie, voici ce que
+vous devez savoir sur notre dernier atelier **en français** de la
+session Hiver 2012: **Django: monter une application web en Python**
 
 -   Date: mercredi 16 mai 2012, de 18h00 à 21h00
 -   Lieu: UQÀM (hourra!), Pavillon Sherbrooke, 200 Sherbrooke ouest,
@@ -26,13 +22,9 @@ dernier atelier **en français** de la session Hiver 2012:
 -   [Page wiki de l'atelier][]
 -   [Post original annonçant l'atelier][]
 
-</p>
 S.V.P. installez le nécessaire avant l'atelier ou présentez-vous à 17h30
-pour obtenir un coup de main.
-
-N'oubliez pas de vous inscrire, même si c'est gratuit!
-
-Soyez là!<!--:-->
+pour obtenir un coup de main. N'oubliez pas de vous inscrire, même si
+c'est gratuit! Soyez là!
 
   [Eventbrite]: http://montrealpython-atelier-20120516.eventbrite.ca
   [Page wiki de l'atelier]: http://montrealpython.org/r/projects/workshops/wiki/2012-05-16

@@ -15,10 +15,6 @@ topic of building inspiration, yours truly will be [giving a talk][] on
 our experience organizing Montréal-Python and how others can (and
 should) step up and build their local communities.
 
-<!--:-->
-
-</p>
-
   [ConFoo]: http://confoo.ca/en
   [list of selected talks]: http://us.pycon.org/2011/schedule/lists/talks/
   [API Design: Lessons Learned]: http://us.pycon.org/2011/schedule/sessions/263/

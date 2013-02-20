@@ -13,13 +13,11 @@ consist of two parts. The first part introduces the fundamentals of
 programming, as implemented in Python, and the second part will be a
 hands-on session where you will get to take Python for a spin and bend
 it to your will. See the wiki for [the outline and other information][].
-
 The event is free to attend, but since there are space limitations,
 please sign up using [the guest list][]. Also, please bring a laptop if
 you can or make a pairing agreement beforehand. If you would like to
-bring a male friend as a guest, by all means feel free.
-
-Looking forward to seeing you there!<!--:-->
+bring a male friend as a guest, by all means feel free. Looking forward
+to seeing you there!
 
   [the outline and other information]: http://wiki.montrealpython.org/index.php/PythonIntroduction-2011-05-03
   [the guest list]: http://guestlistapp.com/events/51924

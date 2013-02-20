@@ -37,9 +37,5 @@ Félicitations à l'équipe de sprinteurs:
 -   Mathieu Leduc-Hamel
 -   Jean Schurger
 
-<!--:-->
-
-</p>
-
   [Brasseurs Numériques]: http://ajah.ca
   [Agence universitaire de la Francophonie]: http://auf.org

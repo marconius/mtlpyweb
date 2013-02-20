@@ -16,8 +16,4 @@ maintenant disponible:
 -   Mathieu Trudel-Lapierre: Packaging de projets Python pour Debian et
     Ubuntu
 
-<!--:-->
-
-</p>
-
   [Montréal-Python 11]: /fr/2010/01/16/montreal-python-11-2010-01-25-at-uqam/

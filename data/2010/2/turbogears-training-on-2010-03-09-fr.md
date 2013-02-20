@@ -11,9 +11,7 @@ d'une journée sur TurboGears2][] le 9 mars. Sa présentation couvre de
 nombreuses parties de TurboGears2 qui sont communes à Pylons donc ceux
 qui était intéressés par la présentation d'Alexandre Bourget y
 trouveront l'occasion d'approfondir leur connaissance de Pylons et de
-l'écosystème WSGI. À \$300 et avec le rabais de \$100 pour ceux qui vont
+l'écosystème WSGI. À $300 et avec le rabais de $100 pour ceux qui vont
 aussi à la conférence, c'est une aubaine à ne pas manquer.
-
-<!--:-->
 
   [formation appliquée d'une journée sur TurboGears2]: http://confoo.ca/fr/2010/session/relational-database-apps-with-turbogears
