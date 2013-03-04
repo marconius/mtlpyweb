@@ -39,50 +39,16 @@
   <body>
     <div class="container-fluid">
       <header class="row-fluid">
-	<nav class="offset1 span10">
-          <ul>
-            <li><img src="{{ SITEURL }}/theme/img/logo.png"/></li>
-            <li><a href="">Blog</a></li>
-            <li><a href="">Calendar</a></li>
-            <li><a href="">About</a></li>
-            <li><a href="">Sponsorship</a></li>
-            <li class="search"><img src="{{ SITEURL }}/theme/static/img/icon/search.png"/></li>
-            <li class="settings"><img src="{{ SITEURL }}/theme/static/img/icon/settings.png"/></li>
-          </ul>
-	</nav>
+        {% block header %}{% endblock %}
+        {% include 'inc/menu.html' %}
       </header>
-      <section id="main-content" class="row-fluid">
+      <main id="main-content" class="row-fluid">
 	<div id="inner" class="offset1 span10">
-	  {% block content %}
-	  {% endblock %}
+	  {% block content %}{% endblock %}
 	</div>
-      </section>
+      </main>
       <footer class="row-fluid">
-	<ul class="offset1 span10" >
-          <li>
-            <h2>Navigation</h2>
-            <ul>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-            </ul>
-          </li>
-          <li>
-            <h2>Social</h2>
-            <ul>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-            </ul>
-          </li>
-          <li>
-            <h2>Newsletter</h2>
-            <h3>Pour tout savoir sur les activités de Montréal-Python</h3>
-          </li>
-	</ul>
+        {% block footer %}{% include 'inc/footer.html' %}{% endblock %}
       </footer>
     </div>
   </body>
