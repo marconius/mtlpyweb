@@ -23,20 +23,8 @@ $SITE_URL = 'http://localhost/mtlpyweb/themes/example';
                 <?php include("nav.php"); ?>
             </header>
 
-            <main id="content" class="container" aria-role="main">
-                <style>
-                body { padding: 0px; }
-                #content {
-                    display: block;
-                    margin-top: 96px;
-                }
-
-                @media (max-width: 767px) {
-                    #content {
-                        margin-top: 0px;
-                    }
-                }
-                </style>
+            <main id="content" aria-role="main">
+                <?php include("home.php"); ?>
             </main>
 
             <footer id="footer">

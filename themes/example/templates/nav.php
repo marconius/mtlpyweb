@@ -50,7 +50,7 @@
         <div class="row">
             <div class="span3">
                 <a id="logo" href="<?php echo $SITE_URL; ?>" class="pull-left">
-                    <img src="<?php echo $SITE_URL; ?>/static/img/logo.png" />
+                    <img src="<?php echo $SITE_URL; ?>/static/img/header/logo.png" />
                 </a>
             </div>
 
