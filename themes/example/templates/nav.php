@@ -11,7 +11,7 @@
 }
 
 #logo {
-
+    margin-left: 10px;
 }
 
 .mainmenu--nav {
@@ -22,8 +22,25 @@
 
 .mainmenu--nav a {
     color: white;
+}
+
+.mainmenu--nav span {
     display: table-cell;
     width: 25%;
+}
+
+.mainmenu--search {
+    float: right;
+}
+
+.mainmenu--search a {
+    margin-right: 10px;
+}
+
+@media (max-width: 767px) {
+    #mainmenu {
+        position: static;
+    }
 }
 </style>
 
@@ -37,21 +54,22 @@
                 </a>
             </div>
 
+            <div class="mainmenu--search">
+                <a href="#"><img src="holder.js/21x22" alt="Search" /></a>
+                <a href="#"><img src="holder.js/21x22" alt="Settings" /></a>
+            </div>
+
             <div class="span7">
                 <div class="mainmenu--nav">
-                    <a href="#">Blog</a>
-                    <a href="">Calandrier</a>
-                    <a href="">À Propos</a>
-                    <a href="">Commandite</a>
+                    <span><a href="#">Blog</a></span>
+                    <span><a href="#">Calandrier</a></span>
+                    <span><a href="#">À Propos</a></span>
+                    <span><a href="#">Commandite</a></span>
                 </div>
             </div>
 
-            <div class="span2">
 
-            </div>
         </div>
-
-
 
     </nav>
 
