@@ -1,11 +1,12 @@
 <?php
-$SITE_URL = 'http://localhost/mtlpyweb/themes/example';
+$SITE_URL = 'http://192.168.1.146/mtlpyweb/themes/example';
 ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
         <title>Put the title here =D</title>
         <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
         <link rel="stylesheet" href="<?php echo $SITE_URL; ?>/static/css/bootstrap.min.css" type="text/css" />
         <link rel="stylesheet" href="<?php echo $SITE_URL; ?>/static/css/bootstrap-responsive.min.css" type="text/css" />
