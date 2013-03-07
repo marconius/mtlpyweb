@@ -1,5 +1,5 @@
 <?php
-$SITE_URL = 'http://192.168.1.146/mtlpyweb/themes/example';
+$SITE_URL = 'http://localhost/mtlpyweb/themes/example';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -11,9 +11,6 @@ $SITE_URL = 'http://192.168.1.146/mtlpyweb/themes/example';
         <link rel="stylesheet" href="<?php echo $SITE_URL; ?>/static/css/bootstrap.min.css" type="text/css" />
         <link rel="stylesheet" href="<?php echo $SITE_URL; ?>/static/css/bootstrap-responsive.min.css" type="text/css" />
         <!--[if lt IE9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-
-        <!-- REMOVE THIS!!! -->
-        <script src="https://raw.github.com/imsky/holder/master/holder.js"></script>
     </head>
 
     <body>
@@ -34,5 +31,8 @@ $SITE_URL = 'http://192.168.1.146/mtlpyweb/themes/example';
 
         </div>
 
+
+        <!-- REMOVE THIS!!! -->
+        <script src="https://raw.github.com/imsky/holder/master/holder.js"></script>
     </body>
 </html>

@@ -2,7 +2,6 @@
 body { padding: 0px; }
 #content {
     display: block;
-    margin-top: 96px;
 }
 
 .homepage {}
@@ -10,6 +9,7 @@ body { padding: 0px; }
 .homepage--snakes {
     background-color: #f3f2ee;
     text-align: center;
+    padding-top: 100px;
 }
 
 .homepage--menu {
@@ -18,7 +18,7 @@ body { padding: 0px; }
 
 .hexagon {
     width: 100px;
-    height: 55px;
+    line-height: 55px;
     background: red;
     position: relative;
     display: block;
@@ -73,6 +73,24 @@ body { padding: 0px; }
         margin: 50px auto 50px auto;
     }
 }
+
+/* Separator */
+.spacer,
+.spacer:empty,
+.separator,
+.separator:empty {
+    display: block;
+    clear: both;
+    background-color: #e6e5e3;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    height: 10px;
+}
+
+.spacer,
+.spacer:empty {
+    background-color: transparent;
+}
 </style>
 
 
@@ -86,37 +104,98 @@ body { padding: 0px; }
         </div>
     </div>
 
-    <div class="homepage--menu container">
 
-        <div class="span3 offset1 text-center">
-            <div class="hexagon blue">
-                Oi ?
+    <div class="container">
+
+        <div class="row homepage--menu">
+
+            <div class="span3 offset1 text-center">
+                <div class="hexagon blue">
+                    <img src="<?php echo $SITE_URL; ?>/static/img/home/icon_events.png" alt="Events" width="40" height="25" />
+                </div>
+
+                <h4>Événements</h4>
+
+                <p>Tous les activités</p>
             </div>
 
-            <h4>Événements</h4>
+            <div class="span3 text-center">
+                <div class="hexagon yellow">
+                    <img src="<?php echo $SITE_URL; ?>/static/img/home/icon_community.png" alt="Community" width="40" height="35" />
+                </div>
 
-            <p>Tous les activités</p>
-        </div>
+                <h4>Communauté</h4>
 
-        <div class="span3 text-center">
-            <div class="hexagon yellow">
-                Oi ?
+                <p>Partager votre passion</p>
             </div>
 
-            <h4>Événements</h4>
+            <div class="span3 text-center">
+                <a class="hexagon red">
+                    <img src="<?php echo $SITE_URL; ?>/static/img/home/icon_blog.png" alt="Blogue" width="29" height="21" />
+                </a>
 
-            <p>Tous les activités</p>
+                <h4>Blogue</h4>
+
+                <p>Des articles, des vidéos...</p>
+            </div>
         </div>
 
-        <div class="span3 text-center">
-            <a class="hexagon red">
-                Oi ?
-            </a>
+        <div class="separator"></div>
 
-            <h4>Événements</h4>
+        <ul class="thumbnails">
 
-            <p>Tous les activités</p>
+            <li class="span1"></li>
+
+            <li class="span3">
+                <div class="thumbnail">
+                    <img src="holder.js/279x156" alt="" />
+
+                    <div class="text">
+                        <p>In hac habitasse platea dictumst. Nam pulvinar, odio sed rho.</p>
+                        <p><a href="#">En savoir plus</a></p>
+                    </div>
+                </div>
+            </li>
+
+            <li class="span3">
+                <div class="thumbnail">
+                    <img src="holder.js/279x156" alt="" />
+
+                    <div class="text">
+                        <p>In hac habitasse platea dictumst. Nam pulvinar, odio sed rho.</p>
+                        <p><a href="#">En savoir plus</a></p>
+                    </div>
+                </div>
+            </li>
+
+            <li class="span3">
+                <div class="thumbnail">
+                    <img src="holder.js/279x156" alt="" />
+
+                    <div class="text">
+                        <p>In hac habitasse platea dictumst. Nam pulvinar, odio sed rho.</p>
+                        <p><a href="#">En savoir plus</a></p>
+                    </div>
+                </div>
+            </li>
+
+        </ul>
+
+        <div class="separator"></div>
+
+        <div class="row">
+            <div class="span12 text-center muted">
+                <i>- Nos commanditaires -</i>
+            </div>
+
+            <div class="span12">
+                <img src="holder.js/100%x200" alt="">
+            </div>
         </div>
+
+
+        <div class="spacer"></div>
+
     </div>
 
 </div>
