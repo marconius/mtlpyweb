@@ -1,9 +1,58 @@
-/*
+body { padding: 0px; }
 
-Base less stylesheet used for importing other stylesheets.
 
-*/
+.btn {
+    border-radius: 0px;
+    background-image: none;
+    box-shadow: none;
 
-@import "/theme/css/reset.less";
-@import "/theme/css/vars.less";
-@import "/theme/css/style.less";
+
+    padding-right: 25px;
+    padding-left: 25px;
+}
+
+
+#content {
+    display: block;
+}
+
+.homepage {}
+
+.homepage--snakes {
+    background-color: #f3f2ee;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.homepage--menu {
+
+}
+
+@media (max-width: 767px) {
+    #content {
+        margin-top: 0px;
+    }
+}
+
+/* Separator */
+.spacer,
+.spacer:empty,
+.separator,
+.separator:empty {
+    display: block;
+    clear: both;
+    background-color: #e6e5e3;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    height: 10px;
+}
+
+.spacer,
+.spacer:empty {
+    background-color: transparent;
+}
+
+#footer {
+    background-color: #f3f2ee;
+    padding: 10px;
+}

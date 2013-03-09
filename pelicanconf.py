@@ -4,14 +4,13 @@ import os
 
 AUTHOR = u"Montréal-Python"
 SITENAME = u"Montréal-Python"
-SITEURL = ''
 
 TIMEZONE = 'America/Montreal'
 
 DEFAULT_LANG = 'en'
 MARKUP = ('rst', 'md', 'html')
 
-SITEURL = '/'
+SITEURL = 'http://localhost/mtlpyweb/output/'
 FEED_DOMAIN = 'http://montrealpython.org'
 #PAGE_URL = '{slug}.html'
 
