@@ -12,6 +12,7 @@ MARKUP = ('rst', 'md', 'html')
 
 SITEURL = 'http://localhost/mtlpyweb/output/'
 FEED_DOMAIN = 'http://montrealpython.org'
+STATIC_URL = 'http://localhost/mtlpyweb/output/theme'
 #PAGE_URL = '{slug}.html'
 
 # Blogroll
