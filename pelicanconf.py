@@ -12,6 +12,7 @@ MARKUP = ('rst', 'md', 'html')
 
 SITEURL = 'http://localhost/mtlpyweb/output/'
 FEED_DOMAIN = 'http://montrealpython.org'
+STATIC_URL = 'http://localhost/mtlpyweb/output/theme'
 #PAGE_URL = '{slug}.html'
 
 # Blogroll
@@ -28,3 +29,5 @@ THEME_STATIC_PATHS = (['static'])
 
 DELETE_OUTPUT_DIRECTORY = False
 RELATIVE_URLS = False
+
+TEMPLATE_PAGES = {'styleguide.html': 'styleguide.html' }

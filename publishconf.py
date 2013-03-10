@@ -17,5 +17,5 @@ RELATIVE_URLS = False
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
 
-THEME = 'themes/mtlpy'
+THEME = 'themes/example'
 THEME_STATIC_PATHS = (['static'])
