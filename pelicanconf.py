@@ -29,3 +29,5 @@ THEME_STATIC_PATHS = (['static'])
 
 DELETE_OUTPUT_DIRECTORY = False
 RELATIVE_URLS = False
+
+TEMPLATE_PAGES = {'styleguide.html': 'styleguide.html' }

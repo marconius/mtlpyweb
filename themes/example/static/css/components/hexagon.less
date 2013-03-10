@@ -1,53 +1,56 @@
-.hexagon {
-    width: 100px;
-    line-height: 55px;
-    background: red;
+/**
+ * Base mixin for hexagon
+ */
+.hexagon( @width: 100px, @color: red; ){
+    @half-width: @width / 2;
+
     position: relative;
+    text-align: center;
+    background: @color;
+
     display: block;
-    cursor: pointer;
+    width: @width;
+    line-height: @half-width;
 
-    margin: -15px auto 50px auto;
-}
-.hexagon:before {
-    content: "";
-    position: absolute;
-    top: -25px;
-    left: 0;
-    width: 0;
-    height: 0;
-    border-left: 50px solid transparent;
-    border-right: 50px solid transparent;
-    border-bottom: 25px solid red;
-}
-.hexagon:after {
-    content: "";
-    position: absolute;
-    bottom: -25px;
-    left: 0;
-    width: 0;
-    height: 0;
-    border-left: 50px solid transparent;
-    border-right: 50px solid transparent;
-    border-top: 25px solid red;
-}
+    margin: -15px auto @half-width auto;
 
-.hexagon.blue { background-color: #73cfdd; }
-.hexagon.blue:before { border-bottom-color: #73cfdd; }
-.hexagon.blue:after { border-top-color: #73cfdd; }
+    &:before {
+        content: "";
+        position: absolute;
+        top: @half-width / -2;
+        left: 0;
+        width: 0;
+        height: 0;
+        border-left: @half-width solid transparent;
+        border-right: @half-width solid transparent;
+        border-bottom: (@half-width / 2) solid @color;
+    }
 
-
-.hexagon.yellow { background-color: #f5cf51; }
-.hexagon.yellow:before { border-bottom-color: #f5cf51; }
-.hexagon.yellow:after { border-top-color: #f5cf51; }
-
-
-.hexagon.red { background-color: #ea756c; }
-.hexagon.red:before { border-bottom-color: #ea756c; }
-.hexagon.red:after { border-top-color: #ea756c; }
-
-
-@media (max-width: 767px) {
-    .hexagon:not(.blue) {
-        margin: 50px auto 50px auto;
+    &:after {
+        content: "";
+        position: absolute;
+        bottom: @half-width / -2;
+        left: 0;
+        width: 0;
+        height: 0;
+        border-left: @half-width solid transparent;
+        border-right: @half-width solid transparent;
+        border-top: (@half-width / 2) solid @color;
     }
 }
+
+
+/**
+ * Creates modifier for change the hexagon color
+ */
+.hexagon-color( @color ) {
+    &.hexagon { background-color: @color; }
+    &.hexagon:before { border-bottom-color: @color; }
+    &.hexagon:after { border-top-color: @color; }
+}
+
+.hexagon { .hexagon(); }
+
+.red { .hexagon-color(#ea756c); }
+.blue { .hexagon-color(#73cfdd); }
+.yellow { .hexagon-color(#f5cf51); }

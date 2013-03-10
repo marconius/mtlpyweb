@@ -15,18 +15,19 @@
     <body>
 
         <div id="wrapper">
+            {% block page %}
+                <header id="header">
+                    {% block header %}{% include "nav.html" %}{% endblock header %}
+                </header>
 
-            <header id="header">
-                {% include "nav.html" %}
-            </header>
+                <main id="content" aria-role="main">
+                    {% block content %}{% include "home.html" %}{% endblock content %}
+                </main>
 
-            <main id="content" aria-role="main">
-                {% include "home.html" %}
-            </main>
-
-            <footer id="footer">
-                {% include "footer.html" %}
-            </footer>
+                <footer id="footer">
+                    {% block footer %}{% include "footer.html" %}{% endblock footer %}
+                </footer>
+            {% endblock page %}
 
         </div>
 
