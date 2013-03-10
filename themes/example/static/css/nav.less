@@ -1,0 +1,45 @@
+#mainmenu {
+    background-color: #4b4b4b;
+
+    line-height: 96px;
+
+    /*
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    */
+}
+
+#logo {
+    margin-left: 10px;
+}
+
+.mainmenu--nav {
+    display: table;
+    text-align: center;
+    width: 100%;
+}
+
+.mainmenu--nav a {
+    color: white;
+}
+
+.mainmenu--nav span {
+    display: table-cell;
+    width: 25%;
+}
+
+.mainmenu--search {
+    float: right;
+}
+
+.mainmenu--search a {
+    margin-right: 10px;
+}
+
+@media (max-width: 767px) {
+    #mainmenu {
+        position: static;
+    }
+}
