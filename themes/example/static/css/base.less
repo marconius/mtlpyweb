@@ -1,6 +1,14 @@
-body { padding: 0px; }
+body {
+    background-color: #fffefb;
+    padding: 0px;
+}
 
+// ==========================
+// Components
+// ==========================
 
+// Buttons
+// ==========================
 .btn {
     border-radius: 0px;
     background-image: none;
@@ -10,6 +18,33 @@ body { padding: 0px; }
     padding-right: 25px;
     padding-left: 25px;
 }
+
+.btn-large {
+    border: 0;
+    font-size: 12px; // I hate not using REM
+}
+
+// Form input
+// ==========================
+input[type="text"] {
+    &, &:focus {
+        border: solid 1px #e9e8e5;
+        border-radius: 0;
+        box-shadow: 1px 2px 1px #585857;
+
+        padding: auto 10px;
+    }
+}
+
+
+input[type="text"].input--alpha {
+    border: 0;
+    box-shadow: none;
+    color: #b3b3b0;
+    margin: 0;
+    padding: 11px 20px;
+}
+
 
 
 #content {
