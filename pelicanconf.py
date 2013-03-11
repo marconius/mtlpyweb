@@ -8,6 +8,7 @@ SITENAME = u"Montréal-Python"
 TIMEZONE = 'America/Montreal'
 
 DEFAULT_LANG = 'en'
+
 MARKUP = ('rst', 'md', 'html')
 
 SITEURL = 'http://localhost:8000/mtlpyweb/output/'
@@ -30,4 +31,9 @@ THEME_STATIC_PATHS = (['static'])
 DELETE_OUTPUT_DIRECTORY = False
 RELATIVE_URLS = False
 
-#TEMPLATE_PAGES = {'styleguide.html': 'styleguide.html' }
+TEMPLATE_PAGES = {'styleguide.html': 'styleguide.html' }
+
+ARTICLE_URL = '{lang}/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = '{lang}/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+PAGE_URL = '{slug}'
+PAGE_URL = '{slug}/index.html'

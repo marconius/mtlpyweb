@@ -5,7 +5,7 @@ import sys
 sys.path.append('.')
 from pelicanconf import *
 
-SITEURL = '/'
+# SITEURL = '/'
 
 DELETE_OUTPUT_DIRECTORY = False
 
@@ -16,6 +16,3 @@ RELATIVE_URLS = False
 
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
-
-THEME = 'themes/example'
-THEME_STATIC_PATHS = (['static'])
