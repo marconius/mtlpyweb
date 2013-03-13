@@ -4,6 +4,10 @@
 .hexagon( @width: 100px, @color: red; ){
     @half-width: @width / 2;
 
+    -webkit-transition: margin-top 0.4s, margin-bottom 0.4s;
+    -moz-transition: margin-top 0.4s, margin-bottom 0.4s;
+    transition: margin-top 0.4s, margin-bottom 0.4s;
+
     position: relative;
     text-align: center;
     background: @color;
@@ -13,6 +17,11 @@
     line-height: @half-width;
 
     margin: -15px auto @half-width auto;
+
+    .hexagon-wrapper:hover & {
+        margin-top: -30px;
+        margin-bottom: @half-width + 15px;
+    }
 
     &:before {
         content: "";
@@ -41,7 +50,7 @@
 
 
 /**
- * Creates modifier for change the hexagon color
+ * Creates modifier to change the hexagon color
  */
 .hexagon-color( @color ) {
     &.hexagon { background-color: @color; }
