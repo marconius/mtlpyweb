@@ -11,10 +11,9 @@ DEFAULT_LANG = 'en'
 
 MARKUP = ('rst', 'md', 'html')
 
-SITEURL = 'http://localhost:8000/mtlpyweb/output/'
+SITEURL = 'http://localhost:8888/mtlpyweb/output'
 FEED_DOMAIN = 'http://montrealpython.org'
-STATIC_URL = 'http://localhost:8z000/theme'
-#PAGE_URL = '{slug}.html'
+STATIC_URL = 'http://localhost:8888/theme'
 
 # Blogroll
 LINKS =  (('Python.org', 'http://python.org'), )
@@ -35,5 +34,7 @@ TEMPLATE_PAGES = {'styleguide.html': 'styleguide.html' }
 
 ARTICLE_URL = '{lang}/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = '{lang}/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
-PAGE_URL = '{slug}'
+# PAGE_URL = '{slug}'
 PAGE_URL = '{slug}/index.html'
+TEMPLATE_PAGES = {'styleguide.html': 'styleguide.html',
+                  'about.html': 'about.html'}

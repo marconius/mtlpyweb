@@ -16,12 +16,26 @@
 
         <div id="wrapper">
             {% block page %}
-                <header id="header">
-                    {% block header %}{% include "nav.html" %}{% endblock header %}
+                {% include "nav.html" %}
+
+                <header id="header" class="container">
+                    <div class="row">
+                        <div class="span6">
+                            <h1 class="page-title">{% block title %}{% endblock %}</h1>
+                        </div>
+
+                        <div class="span6">
+                            {% block header_media %}{% endblock %}
+                        </div>
+                    </div>
+
+                    {% block header %}{% endblock header %}
                 </header>
 
                 <main id="content" aria-role="main">
-                    {% block content %}{% include "home.html" %}{% endblock content %}
+                    <div class="container">
+                        {% block content %}{% include "home.html" %}{% endblock content %}
+                    </div>
                 </main>
 
                 <footer id="footer">
@@ -31,8 +45,5 @@
 
         </div>
 
-
-        <!-- REMOVE THIS!!! -->
-        <script src="https://raw.github.com/imsky/holder/master/holder.js"></script>
     </body>
 </html>

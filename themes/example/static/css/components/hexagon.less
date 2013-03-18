@@ -16,17 +16,17 @@
     width: @width;
     line-height: @half-width;
 
-    margin: -15px auto @half-width auto;
+    margin: 15px auto @half-width auto;
 
     .hexagon-wrapper:hover & {
-        margin-top: -30px;
+        margin-top: 0px;
         margin-bottom: @half-width + 15px;
     }
 
     &:before {
         content: "";
         position: absolute;
-        top: @half-width / -2;
+        top: ceil(@half-width / -2);
         left: 0;
         width: 0;
         height: 0;
@@ -38,7 +38,7 @@
     &:after {
         content: "";
         position: absolute;
-        bottom: @half-width / -2;
+        bottom: ceil(@half-width / -2);
         left: 0;
         width: 0;
         height: 0;
@@ -53,13 +53,22 @@
  * Creates modifier to change the hexagon color
  */
 .hexagon-color( @color ) {
-    &.hexagon { background-color: @color; }
-    &.hexagon:before { border-bottom-color: @color; }
-    &.hexagon:after { border-top-color: @color; }
+    &.hexagon, &.hexagon-small  { background-color: @color; }
+    &.hexagon:before, &.hexagon-small:before { border-bottom-color: @color; }
+    &.hexagon:after, &.hexagon-small:after { border-top-color: @color; }
 }
 
 .hexagon { .hexagon(); }
+.hexagon-small { .hexagon(50px); }
 
 .red { .hexagon-color(#ea756c); }
 .blue { .hexagon-color(#73cfdd); }
 .yellow { .hexagon-color(#f5cf51); }
+.green { .hexagon-color(#83C171); }
+
+
+@media (max-width: 767px) {
+    .hexagon-wrapper {
+        margin-bottom: 100px;
+    }
+}
