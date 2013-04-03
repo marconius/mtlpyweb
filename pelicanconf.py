@@ -27,15 +27,17 @@ DEFAULT_PAGINATION = 10
 THEME = 'themes/mtlpy'
 THEME_STATIC_PATHS = (['static'])
 
-DELETE_OUTPUT_DIRECTORY = False
-RELATIVE_URLS = False
+DELETE_OUTPUT_DIRECTORY = True
+RELATIVE_URLS = True
 
 TEMPLATE_PAGES = {'styleguide.html': 'styleguide.html' }
 
-ARTICLE_URL = '{lang}/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+ARTICLE_URL = ARTICLE_LANG_URL = '{lang}/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = '{lang}/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
-ARTICLE_LANG_SAVE_AS = '{lang}/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+ARTICLE_LANG_SAVE_AS = ARTICLE_SAVE_AS
 
-PAGE_URL = '{slug}/index.html'
+PAGE_URL = PAGE_LANG_URL = '{lang}/{slug}/'
+PAGE_SAVE_AS = PAGE_LANG_SAVE_AS = '{lang}/{slug}/index.html'
+
 TEMPLATE_PAGES = {'styleguide.html': 'styleguide.html',
                   'about.html': 'about.html'}
