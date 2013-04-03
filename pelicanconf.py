@@ -11,9 +11,9 @@ DEFAULT_LANG = 'en'
 
 MARKUP = ('rst', 'md', 'html')
 
-SITEURL = 'http://localhost:8888/mtlpyweb/output'
+SITEURL = '/mtlpyweb/output'
 FEED_DOMAIN = 'http://montrealpython.org'
-STATIC_URL = 'http://localhost:8888/theme'
+STATIC_URL = '/theme'
 
 # Blogroll
 LINKS =  (('Python.org', 'http://python.org'), )
