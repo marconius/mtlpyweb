@@ -1,11 +1,30 @@
-<nav class="offset1 span10">
-  <ul>
-    <li><img src="{{ SITEURL }}/theme/img/logo.png"/></li>
-    <li><a href="">Blog</a></li>
-    <li><a href="">Calendar</a></li>
-    <li><a href="">About</a></li>
-    <li><a href="">Sponsorship</a></li>
-    <li class="search"><img src="{{ SITEURL }}/theme/static/img/icon/search.png"/></li>
-    <li class="settings"><img src="{{ SITEURL }}/theme/static/img/icon/settings.png"/></li>
-  </ul>
-</nav>
+<div id="mainmenu">
+
+    <nav class="container" aria-role="navigation">
+        <div class="row">
+            <div class="span3">
+                <a id="logo" href="{{ STATIC_URL }}" class="pull-left">
+                    <img src="{{ STATIC_URL }}/img/header/logo.png" />
+                </a>
+            </div>
+
+            <div class="mainmenu-search">
+                <a href="#" id="mainmenu-settings-link"></a>
+                <a href="#" id="mainmenu-search-link"></a>
+            </div>
+
+            <div class="span7">
+                <div class="mainmenu-nav">
+                    <span><a href="#">Blog</a></span>
+                    <span><a href="#">Calandrier</a></span>
+                    <span><a href="#">À Propos</a></span>
+                    <span><a href="#">Commandite</a></span>
+                </div>
+            </div>
+
+
+        </div>
+
+    </nav>
+
+</div>
