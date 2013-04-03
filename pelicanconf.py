@@ -34,6 +34,7 @@ TEMPLATE_PAGES = {'styleguide.html': 'styleguide.html' }
 
 ARTICLE_URL = '{lang}/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = '{lang}/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+ARTICLE_LANG_SAVE_AS = '{lang}/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
 PAGE_URL = '{slug}/index.html'
 TEMPLATE_PAGES = {'styleguide.html': 'styleguide.html',
