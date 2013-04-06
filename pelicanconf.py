@@ -11,10 +11,9 @@ DEFAULT_LANG = 'en'
 
 MARKUP = ('rst', 'md', 'html')
 
-SITEURL = 'http://localhost:8000/mtlpyweb/output/'
+SITEURL = '/mtlpyweb/output'
 FEED_DOMAIN = 'http://montrealpython.org'
-STATIC_URL = 'http://localhost:8z000/theme'
-#PAGE_URL = '{slug}.html'
+STATIC_URL = '/theme'
 
 # Blogroll
 LINKS =  (('Python.org', 'http://python.org'), )
@@ -25,15 +24,20 @@ SOCIAL = (('twitter', 'https://twitter.com/mtlpy'),
 
 DEFAULT_PAGINATION = 10
 
-THEME = 'themes/example'
+THEME = 'themes/mtlpy'
 THEME_STATIC_PATHS = (['static'])
 
-DELETE_OUTPUT_DIRECTORY = False
-RELATIVE_URLS = False
+DELETE_OUTPUT_DIRECTORY = True
+RELATIVE_URLS = True
 
 TEMPLATE_PAGES = {'styleguide.html': 'styleguide.html' }
 
-ARTICLE_URL = '{lang}/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+ARTICLE_URL = ARTICLE_LANG_URL = '{lang}/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = '{lang}/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
-PAGE_URL = '{slug}'
-PAGE_URL = '{slug}/index.html'
+ARTICLE_LANG_SAVE_AS = ARTICLE_SAVE_AS
+
+PAGE_URL = PAGE_LANG_URL = '{lang}/{slug}/'
+PAGE_SAVE_AS = PAGE_LANG_SAVE_AS = '{lang}/{slug}/index.html'
+
+TEMPLATE_PAGES = {'styleguide.html': 'styleguide.html',
+                  'about.html': 'about.html'}
