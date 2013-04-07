@@ -1,6 +1,6 @@
 Title: Yannick&#039;s good bye party next Wednesday
 Date: 2011-11-10 23:16
-Author: Dmounce
+Author: Derek Mounce (d.mounce@silkseed.com)
 Category: Montréal Python
 Slug: yannicks-good-bye-party-next-wednesday
 Lang: fr
