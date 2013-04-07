@@ -1,6 +1,6 @@
 Title: Want to be on the MontrealPython blogroll, just email the link.
 Date: 2007-12-06 01:31
-Author: Arach
+Author: Arach Tchoupani (atchoupani@yahoo.com)
 Category: Montréal Python
 Tags: Blogroll
 Slug: montrealpython-blogroll

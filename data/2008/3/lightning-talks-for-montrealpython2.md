@@ -1,6 +1,6 @@
 Title: Lightning talks for MontrealPython2
 Date: 2008-03-18 21:22
-Author: Arach
+Author: Arach Tchoupani (atchoupani@yahoo.com)
 Category: Montréal Python
 Tags: lightning talks, Montreal Python
 Slug: lightning-talks-for-montrealpython2

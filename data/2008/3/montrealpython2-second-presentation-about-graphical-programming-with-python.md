@@ -1,6 +1,6 @@
 Title: MontrealPython2 - second presentation about graphical programming with Python
 Date: 2008-03-19 23:38
-Author: Arach
+Author: Arach Tchoupani (atchoupani@yahoo.com)
 Category: Presentations
 Tags: MontrealPython2, PyOpenGL, PyQT, Yannick Gingras
 Slug: montrealpython2-second-presentation-about-graphical-programming-with-python

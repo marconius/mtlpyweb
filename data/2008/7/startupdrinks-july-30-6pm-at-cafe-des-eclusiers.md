@@ -1,6 +1,6 @@
 Title: StartupDrinks - July 30 @ 6pm at Café des Éclusiers
 Date: 2008-07-29 23:04
-Author: Arach
+Author: Arach Tchoupani (atchoupani@yahoo.com)
 Category: Montréal Python
 Tags: Montreal Python, startupdrinks
 Slug: startupdrinks-july-30-6pm-at-cafe-des-eclusiers

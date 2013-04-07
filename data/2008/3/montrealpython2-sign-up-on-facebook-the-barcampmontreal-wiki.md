@@ -1,6 +1,6 @@
 Title: MontrealPython2 - sign up on facebook, the barcampmontreal wiki
 Date: 2008-03-25 21:29
-Author: Arach
+Author: Arach Tchoupani (atchoupani@yahoo.com)
 Category: Montréal Python
 Tags: Montreal Python
 Slug: montrealpython2-sign-up-on-facebook-the-barcampmontreal-wiki

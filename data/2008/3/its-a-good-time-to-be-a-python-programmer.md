@@ -1,6 +1,6 @@
 Title: It&#8217;s a good time to be a Python programmer!
 Date: 2008-03-31 19:12
-Author: Arach
+Author: Arach Tchoupani (atchoupani@yahoo.com)
 Category: Montréal Python
 Tags: disney, meetup, python, socal piggies
 Slug: its-a-good-time-to-be-a-python-programmer

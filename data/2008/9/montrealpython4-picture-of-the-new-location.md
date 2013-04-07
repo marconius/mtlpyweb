@@ -1,6 +1,6 @@
 Title: MontrealPython4 - Picture of the new location
 Date: 2008-09-19 09:50
-Author: Arach
+Author: Arach Tchoupani (atchoupani@yahoo.com)
 Category: Montréal Python
 Tags: meetup, Montreal Python
 Slug: montrealpython4-picture-of-the-new-location

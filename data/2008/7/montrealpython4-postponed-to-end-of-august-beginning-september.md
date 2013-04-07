@@ -1,6 +1,6 @@
 Title: MontrealPython4 - postponed to end of August / beginning September
 Date: 2008-07-29 10:17
-Author: Arach
+Author: Arach Tchoupani (atchoupani@yahoo.com)
 Category: Presentations
 Tags: meetup, Montreal Python
 Slug: montrealpython4-postponed-to-end-of-august-beginning-september

@@ -1,6 +1,6 @@
 Title: Call for presenters - first meetup coming soon!
 Date: 2007-11-14 23:24
-Author: Arach
+Author: Arach Tchoupani (atchoupani@yahoo.com)
 Category: Presentations
 Tags: meetup, montreal, presentation, presenter, python, rencontre
 Slug: call-for-presenters
