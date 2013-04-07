@@ -1,6 +1,6 @@
 Title: Venue for Introduction Class
 Date: 2011-04-20 21:55
-Author: Jszkut
+Author: Janina Szkut (janina.szkut@gmail.com)
 Category: Tutorials/Workshops
 Slug: intro-class-venue
 Lang: en
