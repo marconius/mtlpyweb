@@ -39,5 +39,5 @@ ARTICLE_LANG_SAVE_AS = ARTICLE_SAVE_AS
 PAGE_URL = PAGE_LANG_URL = '{lang}/{slug}/'
 PAGE_SAVE_AS = PAGE_LANG_SAVE_AS = '{lang}/{slug}/index.html'
 
-TEMPLATE_PAGES = {'styleguide.html': 'styleguide.html',
-                  'about.html': 'about.html'}
+
+TEMPLATE_PAGES = {'pages/styleguide.html': 'styleguide.html',}
