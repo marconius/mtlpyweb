@@ -1,6 +1,6 @@
 Title: Montréal&#039;s Hackreduce got it right
 Date: 2011-03-27 21:46
-Author: Smathieu
+Author: Simon Mathieu (simon.math@gmail.com)
 Category: Montréal Python
 Slug: montreals-hackreduce-got-it-right
 Lang: en
