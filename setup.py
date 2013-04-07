@@ -30,7 +30,8 @@ setup(name = "mtlpyweb",
       zip_safe = True,
       entry_points={
         "console_scripts": [
-            "mtlpyweb-wordpress = mtlpyweb.tools.wordpress:main"
+            "mtlpyweb-wordpress = mtlpyweb.tools.wordpress:main",
+            "mtlpyweb-gen-logos = mtlpyweb.scripts.gen_logos:main"
             ]
         }
       )
