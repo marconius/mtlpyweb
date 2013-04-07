@@ -1,6 +1,6 @@
 Title: Call to citizens to fight against government corruption !
 Date: 2012-11-09 10:30
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Montréal Python
 Slug: hackons-corruption
 Lang: en

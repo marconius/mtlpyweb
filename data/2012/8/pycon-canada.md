@@ -1,6 +1,6 @@
 Title: PyCon Canada
 Date: 2012-08-28 07:32
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Montréal Python
 Slug: pycon-canada
 Lang: en

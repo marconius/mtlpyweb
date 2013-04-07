@@ -1,6 +1,6 @@
 Title: Django Translation Sprint #7: 2010-11-22
 Date: 2010-11-10 21:37
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Montréal Python
 Slug: django-translation-sprint-7-2010-11-22
 Lang: fr

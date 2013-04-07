@@ -1,6 +1,6 @@
 Title: Cloud Robotics Hackathon
 Date: 2012-02-13 21:38
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Montréal Python
 Slug: cloud-robotics-hackathon
 Lang: en

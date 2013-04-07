@@ -1,6 +1,6 @@
 Title: Second French Workshop on April 4th: More advanced Python notions and use of the Twitter API
 Date: 2012-03-29 15:22
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Montréal Python, Tutorials/Workshops
 Slug: second-french-workshop-on-march-4th-more-advanced-python-notions-and-use-of-the-twitter-api
 Lang: en

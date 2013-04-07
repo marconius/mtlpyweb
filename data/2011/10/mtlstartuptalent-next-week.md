@@ -1,6 +1,6 @@
 Title: #MTLStartupTalent Next Week
 Date: 2011-10-27 07:13
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Montréal Python
 Slug: mtlstartuptalent-next-week
 Lang: en

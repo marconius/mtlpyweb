@@ -1,6 +1,6 @@
 Title: Follow-up on the 3rd Django Sprint
 Date: 2010-04-12 19:24
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Django, Montréal Python, Sprints
 Slug: follow-up-on-the-3rd-django-sprint
 Lang: fr
