@@ -1,6 +1,6 @@
 Title: Introduction to Programming in Python
 Date: 2012-10-24 10:43
-Author: George
+Author: George Peristerakis (peristerakis@gmail.com)
 Category: Tutorials/Workshops
 Slug: introduction-to-programming-in-python
 Lang: fr
