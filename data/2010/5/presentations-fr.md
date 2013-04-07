@@ -1,6 +1,6 @@
 Title: Videos
 Date: 2010-05-13 19:21
-Author: Pior
+Author: Pior Bastida (pior@pbastida.net)
 Slug: presentations
 Lang: fr
 

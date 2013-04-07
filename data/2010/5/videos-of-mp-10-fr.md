@@ -1,6 +1,6 @@
 Title: Videos of Montréal-Python 10
 Date: 2010-05-17 23:35
-Author: Pior
+Author: Pior Bastida (pior@pbastida.net)
 Category: Montréal Python
 Slug: videos-of-mp-10
 Lang: fr

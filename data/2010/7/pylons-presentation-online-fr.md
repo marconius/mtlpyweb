@@ -1,6 +1,6 @@
 Title: Pylons presentation is online
 Date: 2010-07-30 13:23
-Author: Pior
+Author: Pior Bastida (pior@pbastida.net)
 Category: Montréal Python, videos
 Slug: pylons-presentation-online
 Lang: fr

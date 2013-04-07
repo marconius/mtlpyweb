@@ -1,6 +1,6 @@
 Title: MP-2
 Date: 2010-05-24 21:57
-Author: Pior
+Author: Pior Bastida (pior@pbastida.net)
 Slug: mp-2
 Lang: fr
 

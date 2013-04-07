@@ -1,6 +1,6 @@
 Title: MP-1
 Date: 2010-05-24 21:54
-Author: Pior
+Author: Pior Bastida (pior@pbastida.net)
 Slug: mp-1
 Lang: fr
 
