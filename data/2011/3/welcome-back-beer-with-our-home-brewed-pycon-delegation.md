@@ -1,6 +1,6 @@
 Title: Welcome Back Beer with our Home Brewed PyCon Delegation
 Date: 2011-03-16 06:01
-Author: Giotta
+Author: Davin Baragiotta (davin@baragiotta.org)
 Category: Montréal Python
 Slug: welcome-back-beer-with-our-home-brewed-pycon-delegation
 Lang: en

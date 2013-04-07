@@ -1,6 +1,6 @@
 Title: Reminder : Django Workshop tomorrow [English]
 Date: 2012-05-01 19:55
-Author: Giotta
+Author: Davin Baragiotta (davin@baragiotta.org)
 Category: Montréal Python, Tutorials/Workshops
 Slug: reminder-django-workshop-tomorrow-english
 Lang: en

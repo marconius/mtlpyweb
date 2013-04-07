@@ -1,6 +1,6 @@
 Title: Django translation sprint #5 on 2010-06-28
 Date: 2010-06-16 21:00
-Author: Giotta
+Author: Davin Baragiotta (davin@baragiotta.org)
 Category: Django, Montréal Python, Sprints
 Slug: django-translation-sprint-5-on-2010-06-28
 Lang: fr

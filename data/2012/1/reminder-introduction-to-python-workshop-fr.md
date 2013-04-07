@@ -1,6 +1,6 @@
 Title: Reminder : Introduction to Python Workshop
 Date: 2012-01-18 16:24
-Author: Giotta
+Author: Davin Baragiotta (davin@baragiotta.org)
 Category: Montréal Python, Tutorials/Workshops
 Slug: reminder-introduction-to-python-workshop
 Lang: fr

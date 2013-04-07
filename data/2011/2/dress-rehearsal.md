@@ -1,6 +1,6 @@
 Title: PyCon / ConFoo dress rehearsal
 Date: 2011-02-07 23:59
-Author: Giotta
+Author: Davin Baragiotta (davin@baragiotta.org)
 Category: Montréal Python
 Slug: dress-rehearsal
 Lang: en

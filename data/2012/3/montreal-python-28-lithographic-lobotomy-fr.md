@@ -1,6 +1,6 @@
 Title: Montréal-Python 28 : Lithographic Lobotomy
 Date: 2012-03-08 02:28
-Author: Giotta
+Author: Davin Baragiotta (davin@baragiotta.org)
 Category: Montréal Python
 Slug: montreal-python-28-lithographic-lobotomy
 Lang: fr

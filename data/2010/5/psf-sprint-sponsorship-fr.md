@@ -1,6 +1,6 @@
 Title: PSF Sprint Sponsorship
 Date: 2010-05-25 17:55
-Author: Giotta
+Author: Davin Baragiotta (davin@baragiotta.org)
 Category: Sprints
 Slug: psf-sprint-sponsorship
 Lang: fr

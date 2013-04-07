@@ -1,6 +1,6 @@
 Title: Django Workshop at UQAM on 2011-12-01
 Date: 2011-11-25 11:27
-Author: Giotta
+Author: Davin Baragiotta (davin@baragiotta.org)
 Category: Montréal Python, Tutorials/Workshops
 Slug: django-workshop-at-uqam-on-2011-12-01
 Lang: en
