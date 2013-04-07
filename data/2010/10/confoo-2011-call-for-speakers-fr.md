@@ -1,6 +1,6 @@
 Title: ConFoo 2011 Call for speakers
 Date: 2010-10-06 20:59
-Author: Cyrilrbt
+Author: Cyril Robert (cyrilrbt@gmail.com)
 Category: Montréal Python
 Slug: confoo-2011-call-for-speakers
 Lang: fr

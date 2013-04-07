@@ -1,6 +1,6 @@
 Title: Translation Sprint wrap-up
 Date: 2010-09-24 14:51
-Author: Cyrilrbt
+Author: Cyril Robert (cyrilrbt@gmail.com)
 Category: Montréal Python
 Slug: translation-sprint-wrap-up
 Lang: fr

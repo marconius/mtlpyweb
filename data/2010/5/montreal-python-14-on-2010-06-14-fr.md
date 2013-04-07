@@ -1,6 +1,6 @@
 Title: Montréal-Python 14 on 2010-06-14
 Date: 2010-05-17 22:19
-Author: Cyrilrbt
+Author: Cyril Robert (cyrilrbt@gmail.com)
 Category: Presentations
 Slug: montreal-python-14-on-2010-06-14
 Lang: fr

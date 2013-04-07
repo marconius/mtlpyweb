@@ -1,6 +1,6 @@
 Title: OpenCV workshop
 Date: 2011-01-25 20:19
-Author: Cyrilrbt
+Author: Cyril Robert (cyrilrbt@gmail.com)
 Category: Montréal Python
 Slug: opencv-workshop
 Lang: en

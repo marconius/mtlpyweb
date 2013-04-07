@@ -1,6 +1,6 @@
 Title: Django translation sprint #4 on 2010-05-03
 Date: 2010-04-27 09:36
-Author: Cyrilrbt
+Author: Cyril Robert (cyrilrbt@gmail.com)
 Category: Montréal Python
 Slug: django-translation-sprint-4
 Lang: en

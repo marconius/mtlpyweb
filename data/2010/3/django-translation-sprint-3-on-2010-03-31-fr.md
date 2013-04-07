@@ -1,6 +1,6 @@
 Title: Django translation sprint #3 on 2010-03-31
 Date: 2010-03-24 19:04
-Author: Cyrilrbt
+Author: Cyril Robert (cyrilrbt@gmail.com)
 Category: Django, Sprints
 Slug: django-translation-sprint-3-on-2010-03-31
 Lang: fr

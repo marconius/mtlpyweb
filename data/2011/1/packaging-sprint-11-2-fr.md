@@ -1,6 +1,6 @@
 Title: Packaging Sprint #11
 Date: 2011-01-25 19:41
-Author: Cyrilrbt
+Author: Cyril Robert (cyrilrbt@gmail.com)
 Category: Packaging, Sprints
 Slug: packaging-sprint-11-2
 Lang: fr
