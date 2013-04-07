@@ -25,7 +25,8 @@ Generate HTML content
 cd <path-to-mtlpyweb>/mtlpyweb
 
 make html
-
+or
+pelican -t themes/mtlpy -s pelicanconf.py -o output data -vvv
 
 Theme
 -----
