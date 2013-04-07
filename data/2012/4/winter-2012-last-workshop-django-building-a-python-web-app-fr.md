@@ -1,6 +1,6 @@
 Title: Winter 2012 Last Workshop : Django : building a Python web app
 Date: 2012-04-24 12:54
-Author: Giotta
+Author: Davin Baragiotta (davin@baragiotta.org)
 Category: Montréal Python, Tutorials/Workshops
 Slug: winter-2012-last-workshop-django-building-a-python-web-app
 Lang: fr

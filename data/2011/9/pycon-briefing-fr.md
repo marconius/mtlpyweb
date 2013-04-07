@@ -1,6 +1,6 @@
 Title: PyCon 2012 - Briefing meeting
 Date: 2011-09-19 19:32
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Montréal Python
 Slug: pycon-briefing
 Lang: fr

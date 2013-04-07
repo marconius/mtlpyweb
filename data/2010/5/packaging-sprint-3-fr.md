@@ -1,6 +1,6 @@
 Title: Packaging sprint #3
 Date: 2010-05-17 18:50
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Montréal Python, Sprints
 Slug: packaging-sprint-3
 Lang: fr

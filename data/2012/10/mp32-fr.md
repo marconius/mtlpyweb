@@ -1,6 +1,6 @@
 Title: Montréal-Python 32: Prehistoric Panorama
 Date: 2012-10-11 21:53
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Montréal Python
 Slug: mp32
 Lang: fr

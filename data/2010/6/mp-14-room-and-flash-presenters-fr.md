@@ -1,6 +1,6 @@
 Title: MP 14 - room and flash presenters
 Date: 2010-06-13 16:09
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Montréal Python
 Slug: mp-14-room-and-flash-presenters
 Lang: fr

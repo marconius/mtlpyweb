@@ -1,6 +1,6 @@
 Title: Videos from PyCon 2008
 Date: 2008-10-26 14:16
-Author: Arach
+Author: Arach Tchoupani (atchoupani@yahoo.com)
 Category: Montréal Python
 Slug: videos-from-pycon-2008
 Lang: en

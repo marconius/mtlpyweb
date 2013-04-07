@@ -1,6 +1,6 @@
 Title: AESSUQAM on strike : Python Workshop in French postponed
 Date: 2012-02-23 17:14
-Author: Giotta
+Author: Davin Baragiotta (davin@baragiotta.org)
 Category: Montréal Python, Tutorials/Workshops
 Slug: aessuqam-on-strike-python-workshop-in-french-postponed
 Lang: en

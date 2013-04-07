@@ -1,6 +1,6 @@
 Title: MP-15: room and flash presentations
 Date: 2010-07-23 18:34
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: mp-15-room-and-flash-presentations
 Lang: fr

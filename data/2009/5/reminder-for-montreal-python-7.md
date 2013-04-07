@@ -1,6 +1,6 @@
 Title: Reminder for Montreal Python 7
 Date: 2009-05-25 07:44
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Presentations
 Slug: reminder-for-montreal-python-7
 Lang: en

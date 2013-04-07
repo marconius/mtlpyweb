@@ -1,6 +1,6 @@
 Title: ConFoo: buy online before Monday for the best rate
 Date: 2010-02-18 09:17
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Conferences
 Slug: confoo-buy-online-before-monday-for-the-best-rate
 Lang: en

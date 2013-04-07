@@ -1,6 +1,6 @@
 Title: Python Workshops : Winter 2012 series
 Date: 2012-01-13 00:14
-Author: Giotta
+Author: Davin Baragiotta (davin@baragiotta.org)
 Category: Montréal Python, Tutorials/Workshops
 Slug: python-workshops-winter-session-2012
 Lang: fr

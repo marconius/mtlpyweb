@@ -1,6 +1,6 @@
 Title: Sprints wrap-up
 Date: 2010-08-18 14:31
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: sprints-wrap-up-2
 Lang: en

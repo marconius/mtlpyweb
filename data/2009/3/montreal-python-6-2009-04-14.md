@@ -1,6 +1,6 @@
 Title: Montreal Python 6: 2009-04-14
 Date: 2009-03-04 13:08
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Presentations
 Slug: montreal-python-6-2009-04-14
 Lang: en

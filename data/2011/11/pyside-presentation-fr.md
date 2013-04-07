@@ -1,6 +1,6 @@
 Title: PySide Presentation
 Date: 2011-11-19 20:11
-Author: Pior
+Author: Pior Bastida (pior@pbastida.net)
 Category: Montréal Python
 Slug: pyside-presentation
 Lang: fr

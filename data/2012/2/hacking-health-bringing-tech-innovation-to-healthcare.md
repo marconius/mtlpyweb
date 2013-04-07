@@ -1,6 +1,6 @@
 Title: Hacking Health: Bringing tech innovation to healthcare
 Date: 2012-02-06 08:15
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Montréal Python
 Slug: hacking-health-bringing-tech-innovation-to-healthcare
 Lang: en

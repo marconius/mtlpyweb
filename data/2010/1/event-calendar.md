@@ -1,6 +1,6 @@
 Title: Event Calendar
 Date: 2010-01-15 10:39
-Author: Wiswaud
+Author: Éric St-Jean(esj@wwd.ca)
 Category: Montréal Python
 Slug: event-calendar
 Lang: en

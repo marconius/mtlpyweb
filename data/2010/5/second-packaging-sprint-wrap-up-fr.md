@@ -1,6 +1,6 @@
 Title: Second packaging sprint wrap-up
 Date: 2010-05-14 14:22
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: second-packaging-sprint-wrap-up
 Lang: fr

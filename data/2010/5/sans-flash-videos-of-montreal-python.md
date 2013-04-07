@@ -1,6 +1,6 @@
 Title: Sans-Flash Videos of Montréal-Python
 Date: 2010-05-25 18:17
-Author: Pior
+Author: Pior Bastida (pior@pbastida.net)
 Category: Montréal Python
 Slug: sans-flash-videos-of-montreal-python
 Lang: en

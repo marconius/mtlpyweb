@@ -1,6 +1,6 @@
 Title: Upcoming Sprints
 Date: 2010-02-27 12:56
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Sprints
 Slug: upcoming-sprints
 Lang: en

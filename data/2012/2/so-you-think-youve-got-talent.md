@@ -1,6 +1,6 @@
 Title: So you think you&#039;ve got talent?
 Date: 2012-02-14 17:22
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Montréal Python
 Slug: so-you-think-youve-got-talent
 Lang: en

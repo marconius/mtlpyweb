@@ -1,6 +1,6 @@
 Title: McGill Python Workshop
 Date: 2011-03-27 23:02
-Author: Mperrault
+Author: Mathieu Perreault (mathieu.perreault@gmail.com)
 Category: Tutorials/Workshops
 Slug: mcgill-python-workshop
 Lang: fr

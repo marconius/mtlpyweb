@@ -1,6 +1,6 @@
 Title: MontrealPython1 - The address
 Date: 2008-01-29 01:39
-Author: Arach
+Author: Arach Tchoupani (atchoupani@yahoo.com)
 Category: Montréal Python
 Tags: MontrealPython1, StandoutJobs
 Slug: montrealpython1-the-address

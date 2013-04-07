@@ -1,6 +1,6 @@
 Title: PyCon 2013 Ticket Sales Have Begun!
 Date: 2012-09-21 10:20
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: 2013, Conferences, Montréal Python, PyCon
 Slug: pycon-2013-ticket-sales-have-begun
 Lang: fr

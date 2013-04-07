@@ -1,6 +1,6 @@
 Title: Reminder: MontrealPython1 is tomorrow Thursday Feb 7th @ 6:30pm
 Date: 2008-02-06 20:58
-Author: Arach
+Author: Arach Tchoupani (atchoupani@yahoo.com)
 Category: Montréal Python
 Tags: meetup, MontrealPython1
 Slug: reminder-montrealpython1-is-tomorrow-thursday-feb-7th-630pm

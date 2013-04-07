@@ -1,6 +1,6 @@
 Title: MontrealPython-logo1
 Date: 2008-03-11 21:53
-Author: Arach
+Author: Arach Tchoupani (atchoupani@yahoo.com)
 Category: Montréal Python
 Tags: Hamish, logo, Montreal Python
 Slug: montrealpython-logo1

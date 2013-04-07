@@ -1,6 +1,6 @@
 Title: Flash Presentations: Collectivized Cucumber
 Date: 2011-02-21 21:59
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Montréal Python
 Slug: flash-collectivized-cucumber
 Lang: fr

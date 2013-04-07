@@ -1,6 +1,6 @@
 Title: The new Montréal Python wiki
 Date: 2010-05-17 21:26
-Author: Cyrilrbt
+Author: Cyril Robert (cyrilrbt@gmail.com)
 Category: Montréal Python
 Slug: the-new-montreal-python-wiki
 Lang: en

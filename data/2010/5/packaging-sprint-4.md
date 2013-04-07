@@ -1,6 +1,6 @@
 Title: Packaging Sprint #4
 Date: 2010-05-24 20:40
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Packaging, Sprints
 Slug: packaging-sprint-4
 Lang: en

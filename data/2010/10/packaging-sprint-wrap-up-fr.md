@@ -1,6 +1,6 @@
 Title: Packaging Sprint Wrap-up
 Date: 2010-10-03 23:39
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: packaging-sprint-wrap-up
 Lang: fr

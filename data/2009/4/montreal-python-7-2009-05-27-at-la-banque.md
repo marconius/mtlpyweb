@@ -1,6 +1,6 @@
 Title: Montreal Python 7: 2009-05-27 at La Banque
 Date: 2009-04-24 12:15
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Presentations
 Slug: montreal-python-7-2009-05-27-at-la-banque
 Lang: en

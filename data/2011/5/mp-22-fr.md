@@ -1,6 +1,6 @@
 Title: Montréal-Python 22 on 2011-06-27
 Date: 2011-05-30 10:34
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: mp-22
 Lang: fr

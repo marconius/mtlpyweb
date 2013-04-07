@@ -1,6 +1,6 @@
 Title: TurboGears sprint on 2009-11-27 at UQAM
 Date: 2009-11-17 09:24
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Sprints, Turbo Gears
 Slug: turbogears-sprint-on-2009-11-27-at-uqam
 Lang: fr

@@ -1,6 +1,6 @@
 Title: Volunteering through technology
 Date: 2011-11-13 21:06
-Author: Dimitry
+Author: Dimitry Zolotaryov (dim.zol@gmail.com)
 Category: Montréal Python, Sprints
 Slug: volunteering-through-technology
 Lang: en

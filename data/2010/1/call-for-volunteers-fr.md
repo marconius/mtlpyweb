@@ -1,6 +1,6 @@
 Title: Call for volunteers
 Date: 2010-01-13 06:15
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: call-for-volunteers
 Lang: fr

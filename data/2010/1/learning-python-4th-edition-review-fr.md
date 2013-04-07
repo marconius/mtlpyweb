@@ -1,6 +1,6 @@
 Title: Review of Learning Python 4th edition
 Date: 2010-01-26 11:59
-Author: Agal
+Author: Alex Gal (gal.alex@gmail.com)
 Category: Montréal Python
 Slug: learning-python-4th-edition-review
 Lang: fr

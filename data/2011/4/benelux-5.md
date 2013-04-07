@@ -1,6 +1,6 @@
 Title: The Benelux&#039;s Fifth Anniversary
 Date: 2011-04-28 07:56
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Montréal Python
 Slug: benelux-5
 Lang: en

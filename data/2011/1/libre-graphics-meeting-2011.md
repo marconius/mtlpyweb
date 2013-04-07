@@ -1,6 +1,6 @@
 Title: Libre Graphics Meeting 2011
 Date: 2011-01-12 22:32
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Conferences, Montréal Python
 Slug: libre-graphics-meeting-2011
 Lang: en

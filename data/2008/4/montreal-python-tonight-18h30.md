@@ -1,6 +1,6 @@
 Title: Montreal Python - tonight @ 18h30
 Date: 2008-04-10 09:49
-Author: Arach
+Author: Arach Tchoupani (atchoupani@yahoo.com)
 Category: Presentations
 Tags: meetup, Montreal Python
 Slug: montreal-python-tonight-18h30

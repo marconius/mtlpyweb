@@ -1,6 +1,6 @@
 Title: ConFoo: the schedule is online
 Date: 2010-01-12 13:23
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Conferences
 Slug: confoo-the-schedule-is-online
 Lang: en

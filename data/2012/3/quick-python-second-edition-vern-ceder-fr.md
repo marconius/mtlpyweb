@@ -1,6 +1,6 @@
 Title: Quick Python second edition
 Date: 2012-03-27 12:38
-Author: George
+Author: George Peristerakis (peristerakis@gmail.com)
 Category: book review
 Slug: quick-python-second-edition-vern-ceder
 Lang: fr

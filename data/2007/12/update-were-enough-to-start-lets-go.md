@@ -1,6 +1,6 @@
 Title: Update : We&#8217;re enough to start! Let&#8217;s go&#8230;
 Date: 2007-12-04 19:43
-Author: Arach
+Author: Arach Tchoupani (atchoupani@yahoo.com)
 Category: Montréal Python
 Tags: invite, Montreal Python, spread the word
 Slug: update-were-enough-to-start-lets-go

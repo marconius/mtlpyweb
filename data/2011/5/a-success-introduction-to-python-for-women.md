@@ -1,6 +1,6 @@
 Title: A success! Introduction to Python for Women
 Date: 2011-05-04 20:33
-Author: Dmounce
+Author: Derek Mounce (d.mounce@silkseed.com)
 Category: Montréal Python, Tutorials/Workshops
 Slug: a-success-introduction-to-python-for-women
 Lang: en

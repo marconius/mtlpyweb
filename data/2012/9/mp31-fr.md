@@ -1,6 +1,6 @@
 Title: Montréal-Python 31: Orchestral Onomatopoeia 
 Date: 2012-09-06 12:39
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Montréal Python
 Slug: mp31
 Lang: fr

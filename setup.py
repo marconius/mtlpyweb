@@ -19,7 +19,10 @@ setup(name = "mtlpyweb",
         "pelican",
         "Jinja2",
         "BeautifulSoup",
-        "markdown"
+        "markdown",
+        "rst2pdf",
+        "docutils",
+        "pillow",
         ],
       packages = find_packages(exclude=["examples", "tests", "tests.*", "docs", "scripts"]),
       include_package_data = True,
@@ -30,7 +33,8 @@ setup(name = "mtlpyweb",
       zip_safe = True,
       entry_points={
         "console_scripts": [
-            "mtlpyweb-wordpress = mtlpyweb.tools.wordpress:main"
+            "mtlpyweb-wordpress = mtlpyweb.tools.wordpress:main",
+            "mtlpyweb-gen-logos = mtlpyweb.scripts.gen_logos:main"
             ]
         }
       )

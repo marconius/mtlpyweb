@@ -1,6 +1,6 @@
 Title: Third packaging sprint wrap-up
 Date: 2010-05-24 19:21
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Packaging, Sprints
 Slug: third-packaging-sprint-wrap-up
 Lang: fr

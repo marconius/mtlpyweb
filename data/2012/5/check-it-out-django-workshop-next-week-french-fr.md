@@ -1,6 +1,6 @@
 Title: Check it out: Django Workshop Next Week [French]
 Date: 2012-05-07 15:42
-Author: Giotta
+Author: Davin Baragiotta (davin@baragiotta.org)
 Category: Montréal Python
 Slug: check-it-out-django-workshop-next-week-french
 Lang: fr

@@ -1,6 +1,6 @@
 Title: Montréal-Ouvert Hackathon : Preliminary Meeting
 Date: 2011-11-10 19:43
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Montréal Python
 Slug: montreal-ouvert-hackathon-preliminary-meeting
 Lang: fr

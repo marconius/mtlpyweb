@@ -1,6 +1,6 @@
 Title: Montreal&#8217;s Python Community
 Date: 2007-11-10 09:32
-Author: Arach
+Author: Arach Tchoupani (atchoupani@yahoo.com)
 Category: Montréal Python
 Tags: montreal, montreal on rails, Montreal Python, programmers, python
 Slug: hello-world-2

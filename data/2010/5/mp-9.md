@@ -1,6 +1,6 @@
 Title: MP-9
 Date: 2010-05-25 18:13
-Author: Pior
+Author: Pior Bastida (pior@pbastida.net)
 Slug: mp-9
 Lang: en
 

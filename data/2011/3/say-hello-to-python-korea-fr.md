@@ -1,6 +1,6 @@
 Title: Say hello to Python Korea!
 Date: 2011-03-25 09:49
-Author: Cyrilrbt
+Author: Cyril Robert (cyrilrbt@gmail.com)
 Category: Montréal Python
 Slug: say-hello-to-python-korea
 Lang: fr

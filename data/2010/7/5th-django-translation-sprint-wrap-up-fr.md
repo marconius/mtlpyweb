@@ -1,6 +1,6 @@
 Title: 5th Django translation sprint wrap-up
 Date: 2010-07-01 21:34
-Author: Pior
+Author: Pior Bastida (pior@pbastida.net)
 Category: Django, Sprints
 Slug: 5th-django-translation-sprint-wrap-up
 Lang: fr

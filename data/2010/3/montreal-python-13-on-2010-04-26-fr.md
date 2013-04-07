@@ -1,6 +1,6 @@
 Title: Montréal-Python 13 on 2010-04-26
 Date: 2010-03-30 11:02
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Presentations
 Slug: montreal-python-13-on-2010-04-26
 Lang: fr

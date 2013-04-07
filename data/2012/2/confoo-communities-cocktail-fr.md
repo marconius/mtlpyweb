@@ -1,6 +1,6 @@
 Title: Confoo Communities Cocktail
 Date: 2012-02-29 21:50
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Montréal Python
 Slug: confoo-communities-cocktail
 Lang: fr

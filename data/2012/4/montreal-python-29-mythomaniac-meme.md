@@ -1,6 +1,6 @@
 Title: Montréal-Python 29 : Mythomaniac Meme
 Date: 2012-04-11 20:19
-Author: Giotta
+Author: Davin Baragiotta (davin@baragiotta.org)
 Category: Montréal Python
 Slug: montreal-python-29-mythomaniac-meme
 Lang: en

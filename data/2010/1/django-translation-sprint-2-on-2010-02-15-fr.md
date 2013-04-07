@@ -1,6 +1,6 @@
 Title: Django translation sprint #2 on 2010-02-15
 Date: 2010-01-23 13:46
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Django, Sprints
 Slug: django-translation-sprint-2-on-2010-02-15
 Lang: fr

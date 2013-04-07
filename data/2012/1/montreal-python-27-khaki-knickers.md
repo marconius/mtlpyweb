@@ -1,6 +1,6 @@
 Title: Montréal-Python 27 : Khaki Knickers
 Date: 2012-01-17 15:14
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Montréal Python
 Slug: montreal-python-27-khaki-knickers
 Lang: en

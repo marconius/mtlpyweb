@@ -1,6 +1,6 @@
 Title: Reminder : MP 29 Mythomaniac Meme Next Monday
 Date: 2012-04-25 20:59
-Author: Giotta
+Author: Davin Baragiotta (davin@baragiotta.org)
 Category: Montréal Python
 Slug: reminder-mp-29-mythomaniac-meme-next-monday
 Lang: en

@@ -1,6 +1,6 @@
 Title: ConFoo 2012 : Call for Presenters (CFP)
 Date: 2011-07-28 22:10
-Author: Pior
+Author: Pior Bastida (pior@pbastida.net)
 Category: Montréal Python
 Slug: confoo2012cfp
 Lang: en

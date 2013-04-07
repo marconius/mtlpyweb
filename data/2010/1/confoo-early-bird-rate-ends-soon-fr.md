@@ -1,6 +1,6 @@
 Title: ConFoo early bird rate ends soon
 Date: 2010-01-20 17:47
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Conferences
 Slug: confoo-early-bird-rate-ends-soon
 Lang: fr

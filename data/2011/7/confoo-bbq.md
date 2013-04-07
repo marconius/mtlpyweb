@@ -1,6 +1,6 @@
 Title: Confoo BBQ
 Date: 2011-07-20 09:44
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Montréal Python
 Slug: confoo-bbq
 Lang: en

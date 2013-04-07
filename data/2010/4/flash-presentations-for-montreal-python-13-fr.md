@@ -1,6 +1,6 @@
 Title: Flash presentations for Montréal-Python 13
 Date: 2010-04-19 23:01
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python, Presentations
 Slug: flash-presentations-for-montreal-python-13
 Lang: fr

@@ -1,6 +1,6 @@
 Title: Follow-up on Montréal Python 8
 Date: 2009-07-27 07:43
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Presentations
 Slug: follow-up-on-montreal-python-8
 Lang: fr

@@ -1,6 +1,6 @@
 Title: Second Workshop on Feb. 23rd: More advanced Python notions and use of the Twitter API
 Date: 2012-02-16 07:23
-Author: Giotta
+Author: Davin Baragiotta (davin@baragiotta.org)
 Category: Montréal Python, Tutorials/Workshops
 Slug: workshop-2012-02-23-python-more-advanced-notions-and-use-of-twitter-api
 Lang: en

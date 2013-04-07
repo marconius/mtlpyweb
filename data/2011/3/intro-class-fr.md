@@ -1,6 +1,6 @@
 Title: Class for Women: Introduction to Programming with Python
 Date: 2011-03-31 11:16
-Author: Jszkut
+Author: Janina Szkut (janina.szkut@gmail.com)
 Category: Montréal Python, Tutorials/Workshops
 Slug: intro-class
 Lang: fr

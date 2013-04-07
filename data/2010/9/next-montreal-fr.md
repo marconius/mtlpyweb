@@ -1,6 +1,6 @@
 Title: Next Montréal
 Date: 2010-09-01 09:21
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: next-montreal
 Lang: fr

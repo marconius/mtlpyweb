@@ -1,6 +1,6 @@
 Title: User Groups Gathering on 2010-02-05
 Date: 2010-01-29 11:14
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Conferences
 Slug: user-groups-gathering-on-2010-02-05
 Lang: fr

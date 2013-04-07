@@ -1,6 +1,6 @@
 Title: MontrealPython3 - choosing the next presentation(s)
 Date: 2008-05-14 00:42
-Author: Arach
+Author: Arach Tchoupani (atchoupani@yahoo.com)
 Category: Presentations
 Tags: montrealpython3, Presentations
 Slug: montrealpython3-choosing-the-next-presentations

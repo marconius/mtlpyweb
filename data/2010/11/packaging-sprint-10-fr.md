@@ -1,6 +1,6 @@
 Title: Packaging sprint #10
 Date: 2010-11-24 20:53
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Montréal Python
 Slug: packaging-sprint-10
 Lang: fr

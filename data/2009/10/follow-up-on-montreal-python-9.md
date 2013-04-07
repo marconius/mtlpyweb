@@ -1,6 +1,6 @@
 Title: Follow-up on Montréal-Python 9
 Date: 2009-10-19 09:00
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Presentations
 Slug: follow-up-on-montreal-python-9
 Lang: en

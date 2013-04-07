@@ -1,6 +1,6 @@
 Title: Andrew Francis at EuroPython
 Date: 2010-05-24 21:22
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Conferences
 Slug: andrew-francis-at-europython
 Lang: en

@@ -1,6 +1,6 @@
 Title: Python Bug Day this Saturday in Montreal and on IRC
 Date: 2012-10-29 15:25
-Author: Merwok
+Author: Éric Araujo (merwok@netwok.org)
 Category: Montréal Python, Sprints
 Slug: python-bug-day
 Lang: en

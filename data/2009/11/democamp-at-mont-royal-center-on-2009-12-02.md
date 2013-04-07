@@ -1,6 +1,6 @@
 Title: DemoCamp at Mont-Royal Center on 2009-12-02
 Date: 2009-11-24 16:07
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Presentations
 Slug: democamp-at-mont-royal-center-on-2009-12-02
 Lang: en

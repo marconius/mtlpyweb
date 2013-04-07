@@ -1,6 +1,6 @@
 Title: Montreal Python 5
 Date: 2009-02-12 08:01
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Presentations
 Slug: montreal-python-5
 Lang: en

@@ -1,6 +1,6 @@
 Title: Montréal-Python 20 on 2011-04-11
 Date: 2011-03-22 00:13
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Montréal Python
 Slug: mp-20
 Lang: fr

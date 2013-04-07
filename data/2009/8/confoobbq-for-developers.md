@@ -1,6 +1,6 @@
 Title: ConFooBBQ: BBQ for Developers
 Date: 2009-08-31 21:07
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Conferences
 Slug: confoobbq-for-developers
 Lang: en

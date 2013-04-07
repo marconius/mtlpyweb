@@ -1,6 +1,6 @@
 Title: Sprints: New Location
 Date: 2010-09-09 16:58
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Django, Montréal Python, Packaging, Sprints
 Slug: sprints-new-location
 Lang: en

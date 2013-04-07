@@ -1,6 +1,6 @@
 Title: Montreal Python 8: 2009-07-08 at UQAM
 Date: 2009-06-10 09:42
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Presentations
 Slug: montreal-python-8-2009-07-08-at-uqam
 Lang: en

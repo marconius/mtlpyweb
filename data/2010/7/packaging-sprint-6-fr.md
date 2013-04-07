@@ -1,6 +1,6 @@
 Title: Packaging Sprint #6
 Date: 2010-07-12 23:44
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Packaging, Sprints
 Slug: packaging-sprint-6
 Lang: fr

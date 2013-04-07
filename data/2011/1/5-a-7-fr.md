@@ -1,6 +1,6 @@
 Title: Montréal-Python January 5-à-7
 Date: 2011-01-12 23:56
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: 5-a-7
 Lang: fr

@@ -1,6 +1,6 @@
 Title: Python Jobs: Free Software enthusiasts are hiring in Montreal!
 Date: 2011-11-29 10:52
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Montréal Python
 Slug: python-jobs-free-software-enthusiasts-are-hiring-in-montreal
 Lang: en

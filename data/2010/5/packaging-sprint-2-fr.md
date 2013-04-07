@@ -1,6 +1,6 @@
 Title: Packaging Sprint #2
 Date: 2010-05-04 21:30
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: packaging-sprint-2
 Lang: fr

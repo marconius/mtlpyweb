@@ -1,6 +1,6 @@
 Title: MontrealPython3 - thanks, link
 Date: 2008-06-27 14:21
-Author: Arach
+Author: Arach Tchoupani (atchoupani@yahoo.com)
 Category: Presentations
 Tags: meetup, Montreal Python, Presentations, python
 Slug: montrealpython3-thanks-link

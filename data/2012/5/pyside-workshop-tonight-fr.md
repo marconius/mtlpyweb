@@ -1,6 +1,6 @@
 Title: PySide Workshop Tonight
 Date: 2012-05-10 09:51
-Author: Giotta
+Author: Davin Baragiotta (davin@baragiotta.org)
 Category: Montréal Python
 Slug: pyside-workshop-tonight
 Lang: fr

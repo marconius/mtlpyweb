@@ -1,6 +1,6 @@
 Title: Announcing the new Montréal Python staff!
 Date: 2010-09-17 15:12
-Author: Cyrilrbt
+Author: Cyril Robert (cyrilrbt@gmail.com)
 Category: Montréal Python
 Slug: announcing-the-new-montreal-python-staff
 Lang: fr

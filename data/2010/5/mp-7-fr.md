@@ -1,6 +1,6 @@
 Title: MP-7
 Date: 2010-05-25 14:46
-Author: Pior
+Author: Pior Bastida (pior@pbastida.net)
 Slug: mp-7
 Lang: fr
 

@@ -1,6 +1,6 @@
 Title: New location for the 5th Django translation sprint
 Date: 2010-06-26 00:14
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Django, Sprints
 Slug: new-location-for-the-5th-django-translation-sprint
 Lang: fr

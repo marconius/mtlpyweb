@@ -1,6 +1,6 @@
 Title: Open Data Hackathon on 2011-01-29
 Date: 2011-01-06 14:46
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: open-data-hackathon
 Lang: en

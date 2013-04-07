@@ -1,6 +1,6 @@
 Title: Confoo: the schedule is online
 Date: 2011-01-12 21:34
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Conferences
 Slug: confoo-the-schedule
 Lang: fr

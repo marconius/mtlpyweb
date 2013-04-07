@@ -1,6 +1,6 @@
 Title: Second Distutils2 Sprint Wrap-up
 Date: 2012-05-14 20:48
-Author: Merwok
+Author: Éric Araujo (merwok@netwok.org)
 Category: Montréal Python, Packaging, Sprints
 Slug: second-distutils2-sprint-wrap-up
 Lang: fr

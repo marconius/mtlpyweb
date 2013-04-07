@@ -1,6 +1,6 @@
 Title: Follow-up on the second Django sprint
 Date: 2010-02-18 10:28
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Django
 Slug: follow-up-on-the-second-django-sprint
 Lang: en

@@ -1,6 +1,6 @@
 Title: MP-8
 Date: 2010-05-25 18:10
-Author: Pior
+Author: Pior Bastida (pior@pbastida.net)
 Slug: mp-8
 Lang: fr
 

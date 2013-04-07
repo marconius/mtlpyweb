@@ -1,6 +1,6 @@
 Title: Flash presentations for Montréal-Python 12
 Date: 2010-03-18 10:11
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Presentations
 Slug: flash-presentations-for-montreal-python-12
 Lang: en

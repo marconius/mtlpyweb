@@ -1,6 +1,6 @@
 Title: How much do Python hackers earn?
 Date: 2011-01-25 22:06
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: salary-survey
 Lang: en

@@ -1,6 +1,6 @@
 Title: Django sprint follow-up
 Date: 2010-01-19 09:42
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Django, Sprints
 Slug: django-sprint-follow-up
 Lang: fr

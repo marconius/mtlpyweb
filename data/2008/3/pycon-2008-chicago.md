@@ -1,6 +1,6 @@
 Title: PyCon 2008 - Chicago
 Date: 2008-03-08 19:31
-Author: Arach
+Author: Arach Tchoupani (atchoupani@yahoo.com)
 Category: Conferences
 Tags: Conferences, PyCon, python
 Slug: pycon-2008-chicago

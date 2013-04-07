@@ -1,6 +1,6 @@
 Title: Next Distutils2 Sprint
 Date: 2012-05-03 11:19
-Author: Merwok
+Author: Éric Araujo (merwok@netwok.org)
 Category: Montréal Python, Packaging, Sprints
 Slug: distutils2-sprint-2
 Lang: en

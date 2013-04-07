@@ -1,6 +1,6 @@
 Title: Call for speakers at ConFoo.ca ends this Friday
 Date: 2009-11-09 23:24
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Conferences
 Slug: call-for-speakers-at-confoo-ca-ends-this-friday
 Lang: fr

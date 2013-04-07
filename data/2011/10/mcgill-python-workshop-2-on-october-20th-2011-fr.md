@@ -1,6 +1,6 @@
 Title: McGill Python Workshop 2 on October 20th, 2011
 Date: 2011-10-18 10:22
-Author: Mperrault
+Author: Mathieu Perreault (mathieu.perreault@gmail.com)
 Category: Montréal Python, Tutorials/Workshops
 Slug: mcgill-python-workshop-2-on-october-20th-2011
 Lang: fr

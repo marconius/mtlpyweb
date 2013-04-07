@@ -1,6 +1,6 @@
 Title: Flash Presentations: Delicate Decadence
 Date: 2011-03-28 22:46
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Montréal Python
 Slug: flash-presentations-delicate-decadence
 Lang: fr

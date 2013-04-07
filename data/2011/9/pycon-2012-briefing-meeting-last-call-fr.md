@@ -1,6 +1,6 @@
 Title: PyCon 2012 - Briefing meeting, last call
 Date: 2011-09-30 14:43
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Montréal Python
 Slug: pycon-2012-briefing-meeting-last-call
 Lang: fr

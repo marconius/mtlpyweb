@@ -1,6 +1,6 @@
 Title: Vacation is over
 Date: 2010-08-27 08:17
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: vacation-is-over
 Lang: fr

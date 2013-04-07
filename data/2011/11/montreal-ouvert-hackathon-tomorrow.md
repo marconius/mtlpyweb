@@ -1,6 +1,6 @@
 Title: Montréal-Ouvert Hackathon: tomorrow
 Date: 2011-11-18 10:10
-Author: Mlhamel
+Author: Mathieu Leduc-Hamel (marrakis@gmail.com)
 Category: Montréal Python
 Slug: montreal-ouvert-hackathon-tomorrow
 Lang: en
