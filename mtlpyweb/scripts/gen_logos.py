@@ -9,7 +9,7 @@ from pprint import pprint
 from argparse import ArgumentParser
 from ConfigParser import RawConfigParser
 
-from resize import fixed_scale
+from mtlpyweb.lib.resize import fixed_scale
 
 CONF = "sponsors.ini"
 
