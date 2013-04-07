@@ -1,6 +1,6 @@
 Title: First Python Workshop at UQAM
 Date: 2011-11-02 20:47
-Author: Jpcaissy
+Author: Jean-Philippe Caissy (jpcaissy@piji.ca)
 Category: Tutorials/Workshops
 Slug: first-python-workshop-at-uqam
 Lang: en
