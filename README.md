@@ -7,7 +7,7 @@ using [Pelican](http://docs.getpelican.com/en/3.0/) to generate the static pages
 
 Install
 -------
-
+sudo apt-get install dpkg-dev libjpeg-dev libpng12-dev
 
 cd <path-to-mtlpyweb>/mtlpyweb
 
