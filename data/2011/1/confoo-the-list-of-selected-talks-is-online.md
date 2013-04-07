@@ -1,6 +1,6 @@
 Title: ConFoo: the list of selected talks is online
 Date: 2011-01-06 14:32
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: confoo-the-list-of-selected-talks-is-online
 Lang: en

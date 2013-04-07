@@ -1,6 +1,6 @@
 Title: ConFoo and PyCon: end of early bird is near
 Date: 2011-01-20 17:36
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: confoo-and-pycon-end-of-early-bird-is-near
 Lang: en

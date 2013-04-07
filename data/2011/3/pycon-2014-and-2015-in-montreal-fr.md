@@ -1,6 +1,6 @@
 Title: PyCon 2014 and 2015: in Montréal
 Date: 2011-03-13 16:20
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Conferences, Montréal Python
 Slug: pycon-2014-and-2015-in-montreal
 Lang: fr

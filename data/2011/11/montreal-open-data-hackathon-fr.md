@@ -1,6 +1,6 @@
 Title: Montréal Open Data Hackathon
 Date: 2011-11-02 19:42
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Sprints
 Slug: montreal-open-data-hackathon
 Lang: fr

@@ -1,6 +1,6 @@
 Title: Follow-up on the 4th Django Sprint
 Date: 2010-05-04 19:30
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Django, Montréal Python, Sprints
 Slug: follow-up-on-the-4th-django-sprint
 Lang: fr

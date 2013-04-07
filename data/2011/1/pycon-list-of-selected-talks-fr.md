@@ -1,6 +1,6 @@
 Title: PyCon: the list of selected talks is online
 Date: 2011-01-08 02:53
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: pycon-list-of-selected-talks
 Lang: fr

@@ -1,6 +1,6 @@
 Title: ConFoo.ca call for speakers
 Date: 2009-09-22 07:37
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Conferences
 Slug: confoo-ca-call-for-speakers
 Lang: en

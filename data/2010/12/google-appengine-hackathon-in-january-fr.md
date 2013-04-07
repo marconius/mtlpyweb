@@ -1,6 +1,6 @@
 Title: Google AppEngine Hackathon in January
 Date: 2010-12-20 22:39
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: google-appengine-hackathon-in-january
 Lang: fr

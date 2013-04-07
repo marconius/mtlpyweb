@@ -1,6 +1,6 @@
 Title: Montréal-Python 12 on 2010-03-22
 Date: 2010-03-09 11:00
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Presentations
 Slug: montreal-python-12-on-2010-03-22
 Lang: en

@@ -1,6 +1,6 @@
 Title: Django translation sprint on 2010-01-18
 Date: 2010-01-15 14:20
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Django, Sprints
 Slug: django-translation-sprint-on-2010-01-18
 Lang: en

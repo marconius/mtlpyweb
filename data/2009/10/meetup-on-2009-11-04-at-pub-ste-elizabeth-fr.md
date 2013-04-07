@@ -1,6 +1,6 @@
 Title: Meetup on 2009-11-04 at Pub Ste-Elizabeth
 Date: 2009-10-29 03:13
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: meetup-on-2009-11-04-at-pub-ste-elizabeth
 Lang: fr

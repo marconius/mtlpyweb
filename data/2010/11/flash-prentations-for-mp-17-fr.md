@@ -1,6 +1,6 @@
 Title: Flash Prentations for MP-17
 Date: 2010-11-24 21:17
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: flash-prentations-for-mp-17
 Lang: fr

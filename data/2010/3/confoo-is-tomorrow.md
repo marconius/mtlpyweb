@@ -1,6 +1,6 @@
 Title: ConFoo is Tomorrow
 Date: 2010-03-09 11:30
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Conferences
 Slug: confoo-is-tomorrow
 Lang: en

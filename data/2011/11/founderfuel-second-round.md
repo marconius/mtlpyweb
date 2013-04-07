@@ -1,6 +1,6 @@
 Title: FounderFuel: second round
 Date: 2011-11-12 20:39
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: founderfuel-second-round
 Lang: en

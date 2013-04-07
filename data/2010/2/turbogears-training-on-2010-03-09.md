@@ -1,6 +1,6 @@
 Title: TurboGears training on 2010-03-09
 Date: 2010-02-01 10:57
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Conferences, Turbo Gears
 Slug: turbogears-training-on-2010-03-09
 Lang: en

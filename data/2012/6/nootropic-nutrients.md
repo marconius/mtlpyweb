@@ -1,6 +1,6 @@
 Title: Lineup for Montréal-Python 30 Nootropic Nutrients
 Date: 2012-06-06 08:30
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: nootropic-nutrients
 Lang: en

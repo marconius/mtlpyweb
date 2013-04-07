@@ -1,6 +1,6 @@
 Title: ConFoo: release of the presentation list and flash sale
 Date: 2009-12-03 15:31
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Conferences
 Slug: confoo-release-of-the-presentation-list-and-flash-sale
 Lang: en

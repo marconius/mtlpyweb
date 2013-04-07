@@ -1,6 +1,6 @@
 Title: New date for Montréal-Python 15
 Date: 2010-07-08 17:41
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: new-date-for-montreal-python-15
 Lang: en

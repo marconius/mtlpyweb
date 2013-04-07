@@ -1,6 +1,6 @@
 Title: Sprints Wrap-up
 Date: 2010-03-17 21:33
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Sprints
 Slug: sprints-wrap-up
 Lang: en

@@ -1,6 +1,6 @@
 Title: Flash Prentations for MP-16
 Date: 2010-10-15 19:00
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: mp-16-flash
 Lang: en

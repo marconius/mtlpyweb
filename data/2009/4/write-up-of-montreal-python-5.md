@@ -1,6 +1,6 @@
 Title: Write-up of Montreal Python 5
 Date: 2009-04-06 06:35
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Presentations
 Slug: write-up-of-montreal-python-5
 Lang: en

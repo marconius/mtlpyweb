@@ -1,6 +1,6 @@
 Title: Montréal-Python 11: 2010-01-25 at UQAM
 Date: 2010-01-16 22:23
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Presentations
 Slug: montreal-python-11-2010-01-25-at-uqam
 Lang: en

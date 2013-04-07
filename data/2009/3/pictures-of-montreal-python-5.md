@@ -1,6 +1,6 @@
 Title: Pictures of Montreal Python 5
 Date: 2009-03-08 16:16
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Presentations
 Slug: pictures-of-montreal-python-5
 Lang: en

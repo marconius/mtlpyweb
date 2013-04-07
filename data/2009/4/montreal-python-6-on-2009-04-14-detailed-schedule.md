@@ -1,6 +1,6 @@
 Title: Montreal Python 6 on 2009-04-14: detailed schedule
 Date: 2009-04-11 18:19
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Presentations
 Slug: montreal-python-6-on-2009-04-14-detailed-schedule
 Lang: en

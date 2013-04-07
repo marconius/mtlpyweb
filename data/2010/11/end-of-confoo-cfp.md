@@ -1,6 +1,6 @@
 Title: ConFoo call for speakers: 10 days left!
 Date: 2010-11-17 22:57
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: end-of-confoo-cfp
 Lang: en

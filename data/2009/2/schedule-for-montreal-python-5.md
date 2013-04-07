@@ -1,6 +1,6 @@
 Title: Schedule for Montreal Python 5
 Date: 2009-02-24 07:59
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Presentations
 Slug: schedule-for-montreal-python-5
 Lang: en

@@ -1,6 +1,6 @@
 Title: ConFooBBQ
 Date: 2010-08-31 21:46
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: confoobbq
 Lang: fr

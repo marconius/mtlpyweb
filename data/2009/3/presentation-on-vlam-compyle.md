@@ -1,6 +1,6 @@
 Title: Presentation on VLAM Compyle
 Date: 2009-03-04 04:59
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Presentations
 Slug: presentation-on-vlam-compyle
 Lang: en

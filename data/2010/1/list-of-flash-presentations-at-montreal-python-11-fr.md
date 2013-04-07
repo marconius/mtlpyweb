@@ -1,6 +1,6 @@
 Title: List of flash presentations at Montréal-Python 11
 Date: 2010-01-22 17:39
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Presentations
 Slug: list-of-flash-presentations-at-montreal-python-11
 Lang: fr

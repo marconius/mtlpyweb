@@ -1,6 +1,6 @@
 Title: Mission
 Date: 2010-01-13 06:07
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: mission
 Lang: en

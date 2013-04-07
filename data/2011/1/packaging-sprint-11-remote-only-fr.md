@@ -1,6 +1,6 @@
 Title: Packaging Sprint #11: remote only
 Date: 2011-01-28 17:02
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: packaging-sprint-11-remote-only
 Lang: fr

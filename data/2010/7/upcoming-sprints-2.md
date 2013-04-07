@@ -1,6 +1,6 @@
 Title: Upcoming Sprints
 Date: 2010-07-23 19:04
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: upcoming-sprints-2
 Lang: en

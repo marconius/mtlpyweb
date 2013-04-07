@@ -1,6 +1,6 @@
 Title: Montréal-Python 10: 2009-12-09 at UQAM
 Date: 2009-11-22 10:36
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Presentations
 Slug: montreal-python-10-2009-12-09-at-uqam
 Lang: en

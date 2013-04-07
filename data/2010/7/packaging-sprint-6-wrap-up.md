@@ -1,6 +1,6 @@
 Title: Packaging Sprint #6 wrap-up
 Date: 2010-07-23 17:13
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Packaging, Sprints
 Slug: packaging-sprint-6-wrap-up
 Lang: en

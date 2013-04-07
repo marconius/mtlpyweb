@@ -1,6 +1,6 @@
 Title: Second McGill Python workshop was a success
 Date: 2011-10-30 12:07
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python, Tutorials/Workshops
 Slug: second-mcgill-python-workshop-was-a-success
 Lang: fr

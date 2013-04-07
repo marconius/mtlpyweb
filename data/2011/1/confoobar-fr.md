@@ -1,6 +1,6 @@
 Title: ConFooBar
 Date: 2011-01-25 23:24
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: confoobar
 Lang: fr

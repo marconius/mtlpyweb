@@ -1,6 +1,6 @@
 Title: Packaging Sprint #11
 Date: 2011-01-12 23:26
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Packaging, Sprints
 Slug: packaging-sprint-11
 Lang: en

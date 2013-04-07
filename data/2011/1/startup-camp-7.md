@@ -1,6 +1,6 @@
 Title: Startup Camp 7
 Date: 2011-01-12 22:57
-Author: Ygingras
+Author: Yannick Gingras (ygingras@ygingras.net)
 Category: Montréal Python
 Slug: startup-camp-7
 Lang: en
