@@ -18,9 +18,11 @@
 
     margin: 15px auto @half-width auto;
 
-    .hexagon-wrapper:hover & {
-        margin-top: 0px;
-        margin-bottom: @half-width + 15px;
+    @media (min-width: 768px) {
+        .hexagon-wrapper:hover & {
+            margin-top: 0px;
+            margin-bottom: @half-width + 15px;
+        }
     }
 
     &:before {
@@ -56,10 +58,25 @@
     &.hexagon, &.hexagon-small  { background-color: @color; }
     &.hexagon:before, &.hexagon-small:before { border-bottom-color: @color; }
     &.hexagon:after, &.hexagon-small:after { border-top-color: @color; }
+    .hexagon-bar { background-color: @color; }
 }
 
 .hexagon { .hexagon(); }
 .hexagon-small { .hexagon(50px); }
+
+.hexagon-bar {
+    @hexagon-bar-width: 200px;
+    @hexagon-bar-height: 15px;
+
+    display: block;
+    width: @hexagon-bar-width;
+    height: @hexagon-bar-height;
+    position: absolute;
+    top: 50%;
+    margin-top: @hexagon-bar-height / -2;
+    left: @hexagon-bar-width / -4;
+    z-index: -1;
+}
 
 .red { .hexagon-color(#ea756c); }
 .blue { .hexagon-color(#73cfdd); }
