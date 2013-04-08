@@ -10,15 +10,39 @@ body {
 
 .homepage {}
 
+.homepage #header {
+    display: none;
+}
+
 .homepage-snakes {
-    background-color: #f3f2ee;
+    @homepage-snakes-bg-color: #f3f2ee;
+
+    background-color: @homepage-snakes-bg-color;
     text-align: center;
     padding-top: 100px;
+    position: relative;
+
+
+    &:before,
+    &:after {
+        content: '';
+        display: block;
+        position: absolute;
+        top: 0;
+        right: 100%;
+        bottom: 0;
+        background-color: @homepage-snakes-bg-color;
+
+        width: 9000px; // Huuuuuuuge
+    }
+
+    &:after {
+        right: auto;
+        left: 100%;
+    }
 }
 
-.homepage-menu {
 
-}
 
 @media (max-width: 767px) {
     #header {
