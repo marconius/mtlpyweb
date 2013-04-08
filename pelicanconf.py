@@ -8,6 +8,7 @@ SITENAME = u"Montréal-Python"
 TIMEZONE = 'America/Montreal'
 
 DEFAULT_LANG = 'en'
+LANGUAGES = ['en', 'fr']
 
 MARKUP = ('rst', 'md', 'html')
 
