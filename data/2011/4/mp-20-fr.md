@@ -4,7 +4,6 @@ Author: Pior Bastida (pior@pbastida.net)
 Slug: mp-20
 Lang: fr
 
-<style>#sidebar { display:none;} #content { width: 740px !important; } </style>
 Main Presentation
 =================
 

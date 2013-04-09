@@ -4,9 +4,9 @@ Author: Pior Bastida (pior@pbastida.net)
 Slug: mp-9
 Lang: en
 
+
 <!--:en-->
 
-<style>#sidebar { display:none;} #content { width: 740px !important; } </style>
 Présentation principale
 =======================
 

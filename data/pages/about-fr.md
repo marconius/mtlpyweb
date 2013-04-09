@@ -1,6 +1,4 @@
 Title: About
-Date: 2007-11-10 09:32
-Author: Admin
 Slug: about
 Lang: fr
 

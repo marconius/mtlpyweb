@@ -4,7 +4,6 @@ Author: Pior Bastida (pior@pbastida.net)
 Slug: mp-1
 Lang: fr
 
-<style>#sidebar { display:none;} #content { width: 740px !important; } </style>
 Présentation
 ============
 
