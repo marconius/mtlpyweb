@@ -28,6 +28,13 @@ make html
 or
 pelican -t themes/mtlpy -s pelicanconf.py -o output data -vvv
 
+How to deploy on mp server
+--------------------------
+
+cd <path-to-mtlpyweb>
+make rsync_upload
+
+
 Theme
 -----
 
