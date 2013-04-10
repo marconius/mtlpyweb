@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Montréal-Python</title><link href="http://localhost:8888/" rel="alternate"></link><link href="http://montrealpython.org/feeds/5.atom.xml" rel="self"></link><id>http://localhost:8888/</id><updated>2010-05-25T18:13:00-04:00</updated><entry><title>MP-9</title><link href="http://localhost:8888/en/2010/05/25/mp-9/" rel="alternate"></link><updated>2010-05-25T18:13:00-04:00</updated><author><name>Pior Bastida (pior@pbastida.net)</name></author><id>tag:localhost:8888,2010-05-25:en/2010/05/25/mp-9/</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;h1&gt;Présentation principale&lt;/h1&gt;
+&lt;h2&gt;Andrew-Francis: Stackless Python&lt;/h2&gt;
+&lt;p&gt;More on this presentation: &lt;a href="http://wiki.montrealpython.org/index.php/Montréal-Python_9"&gt;Montréal-Python 9&lt;/a&gt;   &lt;/p&gt;
+&lt;video controls poster="http://montrealpython.org/videos/Montreal-Python-9-Andrew-Francis-Stackless-Python.jpg"&gt;
+&lt;source src="http://montrealpython.org/videos/Montreal-Python-9-Andrew-Francis-Stackless-Python.ogg" type="video/ogg"&gt;&lt;/source&gt;
+&lt;source src="http://montrealpython.org/videos/Montreal-Python-9-Andrew-Francis-Stackless-Python.mp4" type="video/mp4"&gt;&lt;/source&gt;
+Your browser doesn't support HTML5. Please use the download link. If you
+use Safari and want to use a libre format, install the Xiph QuickTime
+Component at http://www.xiph.org/quicktime &lt;/video&gt;</summary></entry><entry><title>MP-8</title><link href="http://localhost:8888/en/2010/05/25/mp-8/" rel="alternate"></link><updated>2010-05-25T18:10:00-04:00</updated><author><name>Pior Bastida (pior@pbastida.net)</name></author><id>tag:localhost:8888,2010-05-25:en/2010/05/25/mp-8/</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;h1&gt;Main Presentation&lt;/h1&gt;
+&lt;h2&gt;Alexandre Vassalotti: CPython module extension&lt;/h2&gt;
+&lt;p&gt;More on this presentation: &lt;a href="http://wiki.montrealpython.org/index.php/Montréal-Python_8"&gt;Montréal-Python 8&lt;/a&gt;   &lt;/p&gt;
+&lt;video controls poster="http://montrealpython.org/videos/Montreal-Python-8-Alexandre-Vassalotti-CPython-module-extension.jpg"&gt;
+&lt;source src="http://montrealpython.org/videos/Montreal-Python-8-Alexandre-Vassalotti-CPython-module-extension.ogg" type="video/ogg"&gt;&lt;/source&gt;
+&lt;source src="http://montrealpython.org/videos/Montreal-Python-8-Alexandre-Vassalotti-CPython-module-extension.mp4" type="video/mp4"&gt;&lt;/source&gt;
+Your browser doesn't support HTML5. Please use the download link. If you
+use Safari and want to use a libre format, install the Xiph QuickTime
+Component at http://www.xiph.org/quicktime &lt;/video&gt;</summary></entry><entry><title>MP-7</title><link href="http://localhost:8888/en/2010/05/25/mp-7/" rel="alternate"></link><updated>2010-05-25T14:46:00-04:00</updated><author><name>Pior Bastida (pior@pbastida.net)</name></author><id>tag:localhost:8888,2010-05-25:en/2010/05/25/mp-7/</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;h1&gt;Main Presentation&lt;/h1&gt;
+&lt;h2&gt;Olivier Belanger: Ounk&lt;/h2&gt;
+&lt;p&gt;More on this presentation: &lt;a href="http://wiki.montrealpython.org/index.php/Montréal-Python_7"&gt;Montréal-Python 7&lt;/a&gt;   &lt;/p&gt;
+&lt;video controls poster="http://montrealpython.org/videos/Montreal-Python-7-Olivier-Belanger-Ounk.jpg"&gt;
+&lt;source src="http://montrealpython.org/videos/Montreal-Python-7-Olivier-Belanger-Ounk.ogg" type="video/ogg"&gt;&lt;/source&gt;
+&lt;source src="http://montrealpython.org/videos/Montreal-Python-7-Olivier-Belanger-Ounk.mp4" type="video/mp4"&gt;&lt;/source&gt;
+Your browser doesn't support HTML5. Please use the download link. If you
+use Safari and want to use a libre format, install the Xiph QuickTime
+Component at http://www.xiph.org/quicktime &lt;/video&gt;</summary></entry><entry><title>MP-2</title><link href="http://localhost:8888/en/2010/05/24/mp-2/" rel="alternate"></link><updated>2010-05-24T21:57:00-04:00</updated><author><name>Pior Bastida (pior@pbastida.net)</name></author><id>tag:localhost:8888,2010-05-24:en/2010/05/24/mp-2/</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;h1&gt;Main Presentation&lt;/h1&gt;
+&lt;h2&gt;Cyril Robert: Asterisk and Python&lt;/h2&gt;
+&lt;p&gt;More on this presentation: &lt;a href="http://wiki.montrealpython.org/index.php/Montréal-Python_2"&gt;Montréal-Python 2&lt;/a&gt;   &lt;/p&gt;
+&lt;video controls poster="http://montrealpython.org/videos/Montreal-Python-2-Cyril-Robert-Asterisk-and-Python.jpg"&gt;
+&lt;source src="http://montrealpython.org/videos/Montreal-Python-2-Cyril-Robert-Asterisk-and-Python.ogg" type="video/ogg"&gt;&lt;/source&gt;
+&lt;source src="http://montrealpython.org/videos/Montreal-Python-2-Cyril-Robert-Asterisk-and-Python.mp4" type="video/mp4"&gt;&lt;/source&gt;
+Your browser doesn't support HTML5. Please use the download link. If you
+use Safari and want to use a libre format, install the Xiph QuickTime
+Component at http://www.xiph.org/quicktime &lt;/video&gt;
+
+&lt;h2&gt;Yannick Gingras: PyQt and PyOpenGL&lt;/h2&gt;
+&lt;p&gt;More on this presentation: &lt;a href="http://wiki.montrealpython.org/index.php/Montréal-Python_2"&gt;Montréal-Python 2&lt;/a&gt;   &lt;/p&gt;
+&lt;video controls poster="http://montrealpython.org/videos/Montreal-Python-2-Yannick-Gingras-PyQt-PyOpenGL.jpg"&gt;
+&lt;source src="http://montrealpython.org/videos/Montreal-Python-2-Yannick-Gingras-PyQt-PyOpenGL.ogg" type="video/ogg"&gt;&lt;/source&gt;
+&lt;source src="http://montrealpython.org/videos/Montreal-Python-2-Yannick-Gingras-PyQt-PyOpenGL.mp4" type="video/mp4"&gt;&lt;/source&gt;
+Your browser doesn't support HTML5. Please use the download link. If you
+use Safari and want to use a libre format, install the Xiph QuickTime
+Component at http://www.xiph.org/quicktime &lt;/video&gt;</summary></entry><entry><title>MP-1</title><link href="http://localhost:8888/en/2010/05/24/mp-1/" rel="alternate"></link><updated>2010-05-24T21:54:00-04:00</updated><author><name>Pior Bastida (pior@pbastida.net)</name></author><id>tag:localhost:8888,2010-05-24:en/2010/05/24/mp-1/</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;h1&gt;Main Presentation&lt;/h1&gt;
+&lt;h2&gt;David Goodger: Polyform Puzzler&lt;/h2&gt;
+&lt;p&gt;More on this presentation: &lt;a href="http://wiki.montrealpython.org/index.php/Montréal-Python_1"&gt;Montréal-Python 1&lt;/a&gt;   &lt;/p&gt;
+&lt;video controls poster="http://montrealpython.org/videos/Montreal-Python-1-David-Goodger-Polyform-Puzzler.jpg"&gt;
+&lt;source src="http://montrealpython.org/videos/Montreal-Python-1-David-Goodger-Polyform-Puzzler.mp4" type="video/mp4"&gt;&lt;/source&gt;
+&lt;source src="http://montrealpython.org/videos/Montreal-Python-1-David-Goodger-Polyform-Puzzler.ogg" type="video/ogg"&gt;&lt;/source&gt;
+Your browser doesn't support HTML5. Please use the download link. If you
+use Safari and want to use a libre format, install the Xiph QuickTime
+Component at http://www.xiph.org/quicktime &lt;/video&gt;</summary></entry><entry><title>MP-10</title><link href="http://localhost:8888/en/2010/05/24/mp-10/" rel="alternate"></link><updated>2010-05-24T20:01:00-04:00</updated><author><name>Pior Bastida (pior@pbastida.net)</name></author><id>tag:localhost:8888,2010-05-24:en/2010/05/24/mp-10/</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;h1&gt;Main Presentation&lt;/h1&gt;
+&lt;h2&gt;Chris Steel: web2py&lt;/h2&gt;
+&lt;p&gt;More on this presentation: &lt;a href="http://wiki.montrealpython.org/index.php/Montréal-Python_10"&gt;Montréal-Python 10&lt;/a&gt;   &lt;/p&gt;
+&lt;video controls poster="http://montrealpython.org/videos/Montreal-Python-10-Chris-Steel-Web2py.jpg"&gt;
+&lt;source src="http://montrealpython.org/videos/Montreal-Python-10-Chris-Steel-Web2py.ogg" type="video/ogg"&gt;&lt;/source&gt;
+&lt;source src="http://montrealpython.org/videos/Montreal-Python-10-Chris-Steel-Web2py.mp4" type="video/mp4"&gt;&lt;/source&gt;
+Your browser doesn't support HTML5. Please use the download link. If you
+use Safari and want to use a libre format, install the Xiph QuickTime
+Component at http://www.xiph.org/quicktime &lt;/video&gt;
+
+&lt;p&gt;. .&lt;/p&gt;
+&lt;h1&gt;Flash presentation&lt;/h1&gt;
+&lt;h2&gt;Alexandre Bourget: WSGI&lt;/h2&gt;
+&lt;p&gt;More on this presentation: &lt;a href="http://wiki.montrealpython.org/index.php/Montréal-Python_10"&gt;Montréal-Python 10&lt;/a&gt;   &lt;/p&gt;
+&lt;video controls poster="http://montrealpython.org/videos/Montreal-Python-10-Alexandre-Bourget-WSGI.jpg"&gt;
+&lt;source src="http://montrealpython.org/videos/Montreal-Python-10-Alexandre-Bourget-WSGI.ogg" type="video/ogg"&gt;&lt;/source&gt;
+&lt;source src="http://montrealpython.org/videos/Montreal-Python-10-Alexandre-Bourget-WSGI.mp4" type="video/mp4"&gt;&lt;/source&gt;
+Your browser doesn't support HTML5. Please use the download link. If you
+use Safari and want to use a libre format, install the Xiph QuickTime
+Component at http://www.xiph.org/quicktime &lt;/video&gt;
+
+&lt;h2&gt;Jeremy Barnes: PyJML&lt;/h2&gt;
+&lt;p&gt;More on this presentation: &lt;a href="http://wiki.montrealpython.org/index.php/Montréal-Python_10"&gt;Montréal-Python 10&lt;/a&gt; &lt;br /&gt;
+ &lt;video controls&gt;
+&lt;source src="http://montrealpython.org/videos/Montreal-Python-10-Jeremy-Barnes-PyJML.ogg" type="video/ogg"&gt;&lt;/source&gt;
+&lt;source src="http://montrealpython.org/videos/Montreal-Python-10-Jeremy-Barnes-PyJML.mp4" type="video/mp4"&gt;&lt;/source&gt;
+Your browser doesn't support HTML5. Please use the download link. If you
+use Safari and want to use a libre format, install the Xiph QuickTime
+Component at http://www.xiph.org/quicktime &lt;/video&gt;&lt;/p&gt;
+&lt;h2&gt;Marco Robado: Sage&lt;/h2&gt;
+&lt;p&gt;More on this presentation: &lt;a href="http://wiki.montrealpython.org/index.php/Montréal-Python_10"&gt;Montréal-Python 10&lt;/a&gt; &lt;br /&gt;
+ &lt;video controls&gt;
+&lt;source src="http://montrealpython.org/videos/Montreal-Python-10-Marco-Robado-Sage.ogg" type="video/ogg"&gt;&lt;/source&gt;
+&lt;source src="http://montrealpython.org/videos/Montreal-Python-10-Marco-Robado-Sage.mp4" type="video/mp4"&gt;&lt;/source&gt;
+Your browser doesn't support HTML5. Please use the download link. If you
+use Safari and want to use a libre format, install the Xiph QuickTime
+Component at http://www.xiph.org/quicktime &lt;/video&gt;&lt;/p&gt;</summary></entry><entry><title>Videos</title><link href="http://localhost:8888/en/2010/05/13/presentations/" rel="alternate"></link><updated>2010-05-13T19:21:00-04:00</updated><author><name>Pior Bastida (pior@pbastida.net)</name></author><id>tag:localhost:8888,2010-05-13:en/2010/05/13/presentations/</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;You can get the videos using our special RSS feeds: &lt;a href="http://montrealpython.org/videos/theora.rss"&gt;THEORA&lt;/a&gt; &lt;a href="http://montrealpython.org/videos/h264.rss"&gt;H264&lt;/a&gt;&lt;/p&gt;
+&lt;li&gt;
+[Montreal Python 1][]
+&lt;/li&gt;
+
+&lt;li&gt;
+[Montreal Python 2][]
+&lt;/li&gt;
+
+&lt;li&gt;
+[Montreal Python 7][]
+&lt;/li&gt;
+
+&lt;li&gt;
+[Montreal Python 8][]
+&lt;/li&gt;
+
+&lt;li&gt;
+[Montreal Python 9][]
+&lt;/li&gt;
+
+&lt;li&gt;
+[Montreal Python 10][]
+&lt;/li&gt;
+
+&lt;li&gt;
+[Montreal Python 11][]
+&lt;/li&gt;
+
+&lt;li&gt;
+[Montreal Python 12][]
+&lt;/li&gt;
+
+&lt;li&gt;
+[Montreal Python 13][] Coming!
+&lt;/li&gt;
+
+&lt;li&gt;
+[Montreal Python 20][]
+&lt;/li&gt;
+
+&lt;p&gt;For the old videos, go to the &lt;a href="http://montrealpython.blip.tv"&gt;blip.tv page&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Sponsorship</title><link href="http://localhost:8888/en/2010/05/05/sponsorship/" rel="alternate"></link><updated>2010-05-05T20:17:00-04:00</updated><author><name>Admin</name></author><id>tag:localhost:8888,2010-05-05:en/2010/05/05/sponsorship/</id><summary type="html"></summary></entry></feed>

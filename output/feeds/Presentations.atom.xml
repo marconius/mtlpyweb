@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Montréal-Python</title><link href="http://localhost:8888/" rel="alternate"></link><link href="http://montrealpython.org/feeds/Presentations.atom.xml" rel="self"></link><id>http://localhost:8888/</id><updated>2010-11-03T14:50:00-04:00</updated><entry><title>Montréal-Python 17 on 2010-11-29</title><link href="http://localhost:8888/en/2010/11/03/mp-17/" rel="alternate"></link><updated>2010-11-03T14:50:00-04:00</updated><author><name>Yannick Gingras (ygingras@ygingras.net)</name></author><id>tag:localhost:8888,2010-11-03:en/2010/11/03/mp-17/</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;Montréal-Python 17 (code name Apotropaic Archeologist) will
+take place in room PK-1620 of UQAM on Monday 2010-11-29. This is in the
+&lt;a href="http://www.uqam.ca/campus/pavillons/pk.htm"&gt;President-Kennedy building&lt;/a&gt;. Here is our schedule for the evening:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;18h00: Doors open&lt;/li&gt;
+&lt;li&gt;18h20: Announcements&lt;/li&gt;
+&lt;li&gt;18h30: Flash presentations&lt;/li&gt;
+&lt;li&gt;19h00: Break&lt;/li&gt;
+&lt;li&gt;19h20: Main presentations&lt;/li&gt;
+&lt;li&gt;20h30: Discussions and refreshments at Benelux&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The main presentation will be given by Sébastien Labbé and Franco
+Saliola; it will showcase &lt;a href="http://www.sagemath.org/"&gt;Sage&lt;/a&gt;, the math exploration environment for
+Python.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Sage is a free and open source software for mathematics. Featuring a
+growing worldwide community, its mission is to offer an alternative to
+commercial packages such as Maple and Mathematica. Slides will be in
+English and the presentation will be done in French or in English,
+depending on what the audience is more comfortable with. We will
+present an introduction to Sage (history, mission, community, links
+with Python). We will also perform a demonstration that will highlight
+projects born from Sage and now growing independently: the Notebook
+interface and the Cython language.&lt;/p&gt;
+&lt;p&gt;Franco Saliola, professor of mathematics at UQAM, and Sébastien Labbé,
+PhD student in applied mathematics and computer science at the LaCIM
+of UQAM, are Sage developers since 2008.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The event is free to addend and not registration is required. Some
+snacks will be provided but do not expect a complete meal. Thanks to our
+sponsors for making Montréal-Python 17 possible:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://uqam.ca"&gt;UQAM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.brasseriebenelux.com/"&gt;Benelux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://shwowp.com/"&gt;Shwowp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://savoirfairelinux.com/"&gt;Savoir-faire Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://lesite.ca"&gt;Le Site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ecometrica.ca/"&gt;Ecometrica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://apress.com"&gt;Apress&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>Montréal-Python 14 on 2010-06-14</title><link href="http://localhost:8888/en/2010/05/17/montreal-python-14-on-2010-06-14/" rel="alternate"></link><updated>2010-05-17T22:19:00-04:00</updated><author><name>Cyril Robert (cyrilrbt@gmail.com)</name></author><id>tag:localhost:8888,2010-05-17:en/2010/05/17/montreal-python-14-on-2010-06-14/</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;The 14th Montréal-Python meeting will take place at UQAM on
+June 14th, room SH-3420 of the &lt;a href="http://www.uqam.ca/campus/pavillons/sh.htm"&gt;Sherbrooke building&lt;/a&gt; (200 Sherbrooke
+west, metro Place-des-arts); it will be an entrepreneurial themed
+meeting because we received many proposals on that theme and because we
+sincerely believe that the best way to ensure that you are paid to code
+in Python is to found your own job. Here is our schedule for the
+evening:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;18h00: Opening&lt;/li&gt;
+&lt;li&gt;18h20: Announcements&lt;/li&gt;
+&lt;li&gt;18h30: Flash presentations&lt;/li&gt;
+&lt;li&gt;19h00: Break&lt;/li&gt;
+&lt;li&gt;19h20: Main presentations&lt;/li&gt;
+&lt;li&gt;20h30: Discussions and refreshments at Benelux&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Flash presenters will be:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jeremy Barnes on Recoset&lt;/li&gt;
+&lt;li&gt;Chris Hart on the business value of Python&lt;/li&gt;
+&lt;li&gt;Michael Lenczner and Daniel Drouet on Ajah&lt;/li&gt;
+&lt;li&gt;Sébastien Pierre on FFunction&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The main presentation slot will be split in two parts: In the first
+part, &lt;em&gt;Gary Haran&lt;/em&gt; will talk about &lt;em&gt;Four ways to fund your startup&lt;/em&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Second installment of the from ghetto to hub series. Gary is an
+entrepreneur active in the Ruby and JS communities. Within seven
+months he managed to found and sell a company. He wants you to do the
+same.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;For the second part, &lt;em&gt;Jean-Sébastien Cournoyer&lt;/em&gt; will talk about &lt;em&gt;Real
+Ventures and Founderfuel, supporting the next generation of
+entrepreneurs&lt;/em&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Real Ventures is a new seed fund by entrepreneurs for entrepreneurs to
+be launched this summer, from the people behind Montreal Startup.
+Founderfuel is an accelerator program to be launched in 2011 in
+Montreal.&lt;/p&gt;
+&lt;p&gt;Entrepreneur, venture capitalist and/or angel investor since the late
+nineties, with successes and failures as entrepreneur and investor.
+Venture capital experience include Innovatech, CDP, Vantage Point
+Venture Partner, Montreal Startupand now Real Ventures. Investments
+include Net Integration Technologies, Wavesat, Quazal, Terrascale, OZ
+Communications, Whatsnexx, SocialGrapes, Recoset, to name a few.
+Startups include Terrascale, Maybenow, SocialBuckets, etc. Father of
+five.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We still have a few spots for flash presentations so don’t hesitate to
+contact us if you have something that you would like to present. Thanks
+to our sponsors for making Montréal-Python 14 possible:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://uqam.ca"&gt;UQAM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.brasseriebenelux.com/"&gt;Benelux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://savoirfairelinux.com"&gt;Savoir-faire Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ecometrica.ca/"&gt;Ecometrica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://apress.com/"&gt;Apress&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>Montréal-Python 13 on 2010-04-26</title><link href="http://localhost:8888/en/2010/03/30/montreal-python-13-on-2010-04-26/" rel="alternate"></link><updated>2010-03-30T11:02:00-04:00</updated><author><name>Yannick Gingras (ygingras@ygingras.net)</name></author><id>tag:localhost:8888,2010-03-30:en/2010/03/30/montreal-python-13-on-2010-04-26/</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;Montréal-Python 13 will take place at UQAM, on Monday
+2010-04-26 in room SH-3420 of the Sherbrooke building. The SH building
+is located at &lt;a href="http://www.uqam.ca/campus/pavillons/sh.htm"&gt;200 Sherbrooke west&lt;/a&gt;, Place-des-Arts metro station.
+Here is our schedule for the evening:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;18h00: Opening&lt;/li&gt;
+&lt;li&gt;18h20: Announcements&lt;/li&gt;
+&lt;li&gt;18h30: Flash presentations&lt;/li&gt;
+&lt;li&gt;19h00: Break&lt;/li&gt;
+&lt;li&gt;19h20: Main presentation&lt;/li&gt;
+&lt;li&gt;20h30: Discussions and refreshments at Benelux&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Flash Presenters will be:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hao Deng on Pointfree Functional Programming in Python&lt;/li&gt;
+&lt;li&gt;Pierre Thibault on ipython&lt;/li&gt;
+&lt;li&gt;Alexandre Bourget on WebUndo&lt;/li&gt;
+&lt;li&gt;Sébastien Pierre on a surprise topic&lt;/li&gt;
+&lt;li&gt;Yannick Gingras on the Montréal-Python wiki&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our main presenter is going to be &lt;em&gt;Andrew Francis&lt;/em&gt; and he’s going to
+talk about &lt;em&gt;Implementing Go's select in Stackless Python&lt;/em&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Google's introduction of the Go language raised eyebrows in the
+Stackless Python community. Although very different languages, Go and
+Stackless Python's concurrency model share a common ancestor: the Bell
+Labs family of languages (i.e., Newsqueak, Limbo). The common feature
+are channels: a synchronous message passing mechanism based on Tony
+Hoare's Communicating Sequential Processes (CSP).&lt;/p&gt;
+&lt;p&gt;Both Go and Python have channels. However with the select language
+statement. Go has the ability to wait on multiple channels
+simultaneously. Stackless Python does not have this feature.&lt;/p&gt;
+&lt;p&gt;This talk discusses implementing a Select like feature in Stackless
+Python. The technique will be to prototype the feature with
+stackless.py - the PyPy's project implementation of Stackless Python
+written in Python!&lt;/p&gt;
+&lt;p&gt;Along the way, audience will learn Stackless Python basics and get a
+glimpse at greenlets and PyPy. In the process, the audience will see
+how Stackless Python's API reflects philosophical differences between
+Go and Stackless Python's approach to concurrency.&lt;/p&gt;
+&lt;p&gt;Living in Montréal, Andrew Francis has an academic background in the
+humanities, computer science, and management. Professionally, Andrew
+has worked at companies such as BNR, Omnimark, and Adobe Systems in
+California. Ever since 2005, Andrew has been playing with Stackless
+Python, as a part of his work with WS-BPEL, and he has never looked
+back! At Pycon 2008, Andrew gave the talk “Adventures in Stackless
+Python/Twisted Integration.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We still have a few spots for flash presentations so don’t hesitate to
+contact us if you have something that you would like to present. Thanks
+to our sponsors for making Montréal-Python 13 possible:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://uqam.ca"&gt;UQAM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.brasseriebenelux.com/"&gt;Benelux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://savoirfairelinux.com/"&gt;Savoir-faire Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ecometrica.ca"&gt;Ecometrica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://apress.com/"&gt;Apress&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>Flash presentations for Montréal-Python 12</title><link href="http://localhost:8888/en/2010/03/18/flash-presentations-for-montreal-python-12/" rel="alternate"></link><updated>2010-03-18T10:11:00-04:00</updated><author><name>Yannick Gingras (ygingras@ygingras.net)</name></author><id>tag:localhost:8888,2010-03-18:en/2010/03/18/flash-presentations-for-montreal-python-12/</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;We are happy to annouce the list of flash presentations for
+&lt;a href="http://www.montrealpython.org/2010/03/montreal-python-12-on-2010-03-22/"&gt;Montréal-Python 12&lt;/a&gt; next Monday:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Antoine Reversat -- Python for Sysadmins&lt;/li&gt;
+&lt;li&gt;Francis Piéraut -- Jython and Tomcat&lt;/li&gt;
+&lt;li&gt;Sébastien Pierre -- Rugg: crash-testing for your hard drives&lt;/li&gt;
+&lt;li&gt;Hadrien David -- Déploiement sur AppEngine&lt;/li&gt;
+&lt;li&gt;Gary Haran -- Montreal, from Ghetto to Hub&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>Montréal-Python 12 on 2010-03-22</title><link href="http://localhost:8888/en/2010/03/09/montreal-python-12-on-2010-03-22/" rel="alternate"></link><updated>2010-03-09T11:00:00-05:00</updated><author><name>Yannick Gingras (ygingras@ygingras.net)</name></author><id>tag:localhost:8888,2010-03-09:en/2010/03/09/montreal-python-12-on-2010-03-22/</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;Montréal-Python 12 will take place at UQAM, on Monday
+2010-03-22 in room SH-3420 of the Sherbrooke building. The SH building
+is located at &lt;a href="http://www.uqam.ca/campus/pavillons/sh.htm"&gt;200 Sherbrooke west&lt;/a&gt;, Place-des-Arts metro station.
+Here is our schedule for the evening:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;18h00: Opening&lt;/li&gt;
+&lt;li&gt;18h20: Announcements&lt;/li&gt;
+&lt;li&gt;18h30: Flash presentations&lt;/li&gt;
+&lt;li&gt;19h00: Break&lt;/li&gt;
+&lt;li&gt;19h20: Main presentation&lt;/li&gt;
+&lt;li&gt;20h30: Discussions and refreshments at Benelux&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Flash presenters will be:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Antoine Reversat -- Python for Sysadmins&lt;/li&gt;
+&lt;li&gt;Francis Piéraut -- Jython and Tomcat&lt;/li&gt;
+&lt;li&gt;Sébastien Pierre -- Rugg: crash-testing for your hard drives&lt;/li&gt;
+&lt;li&gt;Hadrien David -- Déploiement sur AppEngine&lt;/li&gt;
+&lt;li&gt;Gary Haran -- Montreal, from Ghetto to Hub&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our main presenter is going to be &lt;em&gt;Marcin Swiatek&lt;/em&gt; and he's going to
+talk about &lt;em&gt;Generating control images for microscopy software with
+Python and Numpy&lt;/em&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Numpy is the mainstay of all things numerical in Python. I will use
+one of my past projects – a pipeline for testing image analysis
+software – to introduce &lt;a href="http://numpy.scipy.org/"&gt;Numpy&lt;/a&gt;. The presentation will focus on
+basic array manipulation, random number generators, and elementwise
+operations. Real math will be given silent treatment. PIL, or &lt;a href="http://www.pythonware.com/products/pil/"&gt;Python
+Imaging Library&lt;/a&gt; will appear in a supporting role.&lt;/p&gt;
+&lt;p&gt;Marcin has been working on development of life sciences software for
+the past 12 years. He has been a Python user since the version 1.5.2.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We still have a few spots for flash presentations so don't hesitate to
+&lt;a href="http://groups.google.com/group/montrealpython"&gt;contact us&lt;/a&gt; if you have something that you would like to present. We
+want to thank our sponsors for making Montréal-Python 12 possible:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://uqam.ca"&gt;UQAM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.brasseriebenelux.com/"&gt;Benelux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://savoirfairelinux.com"&gt;Savoir-faire Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ecometrica.ca"&gt;Ecometrica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://oreilly.com/"&gt;O'Reilly&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>List of flash presentations at Montréal-Python 11</title><link href="http://localhost:8888/en/2010/01/22/list-of-flash-presentations-at-montreal-python-11/" rel="alternate"></link><updated>2010-01-22T17:39:00-05:00</updated><author><name>Yannick Gingras (ygingras@ygingras.net)</name></author><id>tag:localhost:8888,2010-01-22:en/2010/01/22/list-of-flash-presentations-at-montreal-python-11/</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;The list of flash presentation at &lt;a href="/2010/01/16/montreal-python-11-2010-01-25-at-uqam/"&gt;Montréal-Python 11&lt;/a&gt; is
+out:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;David Goodger: BIG &amp;amp; BOLD Slides With reST &amp;amp; S5&lt;/li&gt;
+&lt;li&gt;Hadrien David: Deploiement sur AppEngine&lt;/li&gt;
+&lt;li&gt;Mathieu Leduc-Hamel: Sprints de programmation et de traduction&lt;/li&gt;
+&lt;li&gt;Mathieu Viau: ConFoo Jobfair&lt;/li&gt;
+&lt;li&gt;Jean Schurger: Emacs pour les Pythoneux&lt;/li&gt;
+&lt;li&gt;Mathieu Trudel-Lapierre: Packaging de projets Python pour Debian et
+    Ubuntu&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>Montréal-Python 11: 2010-01-25 at UQAM</title><link href="http://localhost:8888/en/2010/01/16/montreal-python-11-2010-01-25-at-uqam/" rel="alternate"></link><updated>2010-01-16T22:23:00-05:00</updated><author><name>Yannick Gingras (ygingras@ygingras.net)</name></author><id>tag:localhost:8888,2010-01-16:en/2010/01/16/montreal-python-11-2010-01-25-at-uqam/</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;Montréal-Python 11 will take place at UQAM, on Monday
+2010-01-25 in room SH-3340 of the Sherbrooke building. The SH building
+is located at &lt;a href="http://www.uqam.ca/campus/pavillons/sh.htm"&gt;200 Sherbrooke west&lt;/a&gt;, Place-des-Arts metro station.
+Here is our schedule for the evening:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;18h00: Opening&lt;/li&gt;
+&lt;li&gt;18h20: Announcements&lt;/li&gt;
+&lt;li&gt;18h30: Flash presentations&lt;/li&gt;
+&lt;li&gt;19h00: Break&lt;/li&gt;
+&lt;li&gt;19h20: Main presentation&lt;/li&gt;
+&lt;li&gt;20h30: Discussions and refreshments at &lt;a href="http://www.brasseriebenelux.com/"&gt;Benelux&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Flash presenters are going to be:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;David Goodger: BIG &amp;amp; BOLD Slides With reST &amp;amp; S5&lt;/li&gt;
+&lt;li&gt;Hadrien David: Deploiement sur AppEngine&lt;/li&gt;
+&lt;li&gt;Mathieu Leduc-Hamel: Sprints de programmation et de traduction&lt;/li&gt;
+&lt;li&gt;Mathieu Viau: ConFoo Jobfair&lt;/li&gt;
+&lt;li&gt;Jean Schurger: Emacs pour les Pythoneux&lt;/li&gt;
+&lt;li&gt;Mathieu Trudel-Lapierre: Packaging de projets Python pour Debian et
+    Ubuntu&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our main presenter will be Alexandre Bourget and he is going to talk
+about &lt;em&gt;Pylons, the swiss army knife of Python Web development&lt;/em&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In this session, we're going to go through the main components of
+Pylons, with live demos of each piece of the stack: templating
+engines, persistence models, controllers, WSGI bricks, and some
+deployment scenarios. We'll also have some little comparisons between
+frameworks; how Pylons relates to other frameworks and languages.&lt;/p&gt;
+&lt;p&gt;Alexandre is a passionate Python specialist who teaches the language
+as a main trainer at Savoir-Faire Linux. He is also the creator and
+main developer of SFLVault, an open source authentication information
+management software project, and contributes to other packages such as
+FormAlchemy. Alexandre is also Consultant and Development Director at
+Savoir-Faire Linux, where he integrates different web technologies
+around open source.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We want to thank our sponsors for making Montréal-Python 11 possible:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;UQAM&lt;/li&gt;
+&lt;li&gt;Savoir-faire Linux&lt;/li&gt;
+&lt;li&gt;No Starch Press&lt;/li&gt;
+&lt;li&gt;Benelux&lt;/li&gt;
+&lt;li&gt;Ecometrica&lt;/li&gt;
+&lt;li&gt;AESS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;small&gt;&lt;a href="http://maps.google.ca/maps?hl=en&amp;amp;q=201,+president-kennedy,+montr%C3%A9al,+qc+(UQAM,+local%2Froom+*TBA*)&amp;amp;ie=UTF8&amp;amp;hq=&amp;amp;hnear=201+Avenue+Du+President-Kennedy,+Montr%C3%A9al,+Communaut%C3%A9-Urbaine-de-Montr%C3%A9al,+Qu%C3%A9bec&amp;amp;z=16&amp;amp;ll=45.509323,-73.567916&amp;amp;source=embed"&gt;View Larger Map&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</summary></entry><entry><title>DemoCamp at Mont-Royal Center on 2009-12-02</title><link href="http://localhost:8888/en/2009/11/24/democamp-at-mont-royal-center-on-2009-12-02/" rel="alternate"></link><updated>2009-11-24T16:07:00-05:00</updated><author><name>Yannick Gingras (ygingras@ygingras.net)</name></author><id>tag:localhost:8888,2009-11-24:en/2009/11/24/democamp-at-mont-royal-center-on-2009-12-02/</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;There is a &lt;a href="http://careerdemocamp.eventbrite.com/"&gt;DemoCamp&lt;/a&gt; at Mont-Royal Center on 2009-12-02.
+With a schedule jam packed with live demos and presentations, this is a
+good occasion to meet other developers and see who is working on what in
+the area.&lt;/p&gt;</summary></entry><entry><title>Montréal-Python 10: 2009-12-09 at UQAM</title><link href="http://localhost:8888/en/2009/11/22/montreal-python-10-2009-12-09-at-uqam/" rel="alternate"></link><updated>2009-11-22T10:36:00-05:00</updated><author><name>Yannick Gingras (ygingras@ygingras.net)</name></author><id>tag:localhost:8888,2009-11-22:en/2009/11/22/montreal-python-10-2009-12-09-at-uqam/</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;Montréal-Python 10 will take place at UQAM, on Wednesday
+2009-12-09 in room &lt;strong&gt;PK-5115&lt;/strong&gt; of the President-Kenedy building. The PK
+building is located at &lt;a href="http://www.uqam.ca/campus/pavillons/pk.htm"&gt;201 Président-Kenedy&lt;/a&gt;, it also has a direct
+entrance to the Place-des-Arts metro station. Here is our schedule for
+the evening:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;18h00: Opening&lt;/li&gt;
+&lt;li&gt;18h20: Announcements&lt;/li&gt;
+&lt;li&gt;18h30: Flash presentations&lt;/li&gt;
+&lt;li&gt;19h00: Break&lt;/li&gt;
+&lt;li&gt;19h20: Main presentation&lt;/li&gt;
+&lt;li&gt;20h30: Discussions and refreshments at &lt;a href="http://www.brasseriebenelux.com/"&gt;Benelux&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our flash presenters will be:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alexandre Bourget: Introduction to WSGI&lt;/li&gt;
+&lt;li&gt;Pierre-Luc Beaudoin: Agenda du Libre&lt;/li&gt;
+&lt;li&gt;Jeremy Barnes: PyJML -- case study of C extensions&lt;/li&gt;
+&lt;li&gt;Marco Robado: Introduction to the Sage symbolic math environment&lt;/li&gt;
+&lt;li&gt;Marcin Swiatek: Bioinformatics with Python&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our main presenter will be &lt;em&gt;Chris Steel&lt;/em&gt; and he's going to walk us
+through &lt;em&gt;Universal Cake, a case study of using web2py for Web
+development&lt;/em&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Universal Cake is that desert which taste good to everyone,
+everywhere, at any time. In terms of software it is the perfect
+application that comes in every language, is 100% accessible and is so
+easy to use that it you are unaware of the complexities it hides. It
+runs on any operating system and it does exactly what you want it to
+do. An interface to our current mixed media of radio waves, sound
+waves, electrons and increasingly photons, perhaps Marshall McLuhan
+would have describe it as frosting, or even the "skin" on our shiny
+new extended and now highly interconnected nervous system.&lt;/p&gt;
+&lt;p&gt;Chris has a numbingly long and exceedingly diverse employment history
+that has become impossible to summarize. He currently provides
+contract services to the LED R&amp;amp;D branch of a medium sized US lighting
+company where he helped deploy their first digital signage network. At
+the moment, he is also in the process of launching a non-profit
+organization dedicated to promoting "fair access" to social, political
+and economic resources.&lt;/p&gt;
+&lt;p&gt;Originally from the Washington D.C. area, he grew up in a tiny town
+that was full of journalists, scientists, musicians, professors,
+artists, lawyers and the most liberated mothers on the planet at the
+time. As the forests and farmlands surrounding their tiny town where
+bulldozed and the lakes filled in to create mega malls and shopping
+centers our town maintained it's independence by regularly and
+successfully battling to divert highways, national convenience store
+chains, incinerators and other threats to the towns integrity.&lt;/p&gt;
+&lt;p&gt;Today, the front of most of the homes in the town still face the
+gravel "walkways" and communal green spaces are full of deer who no
+longer have any other place to go. The only clue that you are in the
+center of a high density population center is that in addition to the
+sound of the birds and children playing you can also hear the
+distinctive hum of the nearby "outer beltway".&lt;/p&gt;
+&lt;/blockquote&gt;</summary></entry><entry><title>Follow-up on Montréal-Python 9</title><link href="http://localhost:8888/en/2009/10/19/follow-up-on-montreal-python-9/" rel="alternate"></link><updated>2009-10-19T09:00:00-04:00</updated><author><name>Yannick Gingras (ygingras@ygingras.net)</name></author><id>tag:localhost:8888,2009-10-19:en/2009/10/19/follow-up-on-montreal-python-9/</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;Here is a follow-up on Montréal Python 9. First, the video was
+uploaded to our &lt;a href="http://montrealpython.blip.tv/"&gt;blip.tv channel&lt;/a&gt;. It's currently queued for
+transcoding and should show up in the coming days. Based on your
+feedback, we continue posting the slides and examples used during the
+presentations. Our flash presenters were:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Simon Law: &lt;a href="http://pypi.python.org/pypi/cygwinreg"&gt;Cygwinreg&lt;/a&gt; and ctypes -- Using the Windows registry
+    from Cygwin (&lt;a href="http://www.slideshare.net/sfllaw/tilting-at-windmills-with-ctypes-and-cygwinreg"&gt;slides&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Mathieu Chartier: &lt;a href="http://confoo.ca"&gt;ConFoo.ca&lt;/a&gt; -- One of the largest Web
+    development conference in North-America&lt;/li&gt;
+&lt;li&gt;Sébastien Pierre: Sink -- A tool to compare and keep directories in
+    sync (&lt;a href="http://montrealpython.com/wp-content/uploads/2009/10/mp9-sink.pdf"&gt;slides&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Erik Wright: Django Lean -- A tool for lean development and A/B
+    testing (&lt;a href="http://www.slideshare.net/erikwright/djangolean-akohas-opensource-ab-experimentation-framework-montreal-python-9"&gt;slides&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Alexandre Vassalotti: Memory profiling for Python programs
+    (&lt;a href="http://montrealpython.com/wp-content/uploads/2009/10/mp9-mem-profile.odp"&gt;slides&lt;/a&gt;, &lt;a href="http://montrealpython.com/wp-content/uploads/2009/10/mp9-mem-profile.py"&gt;example&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Hugo Boyer: PyCUDA -- High performance computation using graphic
+    cards (&lt;a href="http://montrealpython.com/wp-content/uploads/2009/10/mp9-pycuda.zip"&gt;slides and examples&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our main presenter was &lt;em&gt;Andrew Francis&lt;/em&gt; on &lt;em&gt;Stackless Python&lt;/em&gt;
+(&lt;a href="http://montrealpython.com/wp-content/uploads/2009/10/mp9-main-presentation.pdf"&gt;slides&lt;/a&gt;). Montréal-Python is a co-organizer of the &lt;a href="http://confoo.ca"&gt;ConFoo.ca&lt;/a&gt;
+conference and we'd like remind you that there is little less than four
+weeks to submit a talk proposal. Also, there will be a BarCamp with a
+presentation on AppEngine at &lt;a href="http://station-c.com/"&gt;Station C&lt;/a&gt; on 2009-10-29. It would be a
+good occasion to have a small informall Python gathering. Finally, we
+would like to thank our sponsors for Montréal Python 9:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;gold: &lt;a href="http://www.info.uqam.ca/"&gt;Département d'Informatique de l'UQAM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;bronze: &lt;a href="http://oreilly.com/"&gt;O'Reilly&lt;/a&gt; and &lt;a href="http://www.aessuqam.org/"&gt;AESS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>List of presenters for Montréal-Python 9</title><link href="http://localhost:8888/en/2009/09/28/list-of-presenters-for-montreal-python-9/" rel="alternate"></link><updated>2009-09-28T14:53:00-04:00</updated><author><name>Yannick Gingras (ygingras@ygingras.net)</name></author><id>tag:localhost:8888,2009-09-28:en/2009/09/28/list-of-presenters-for-montreal-python-9/</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;Montréal-Python 9 is this Wednesday at room PK-5115 of UQAM at
+6 PM. We have a lot of very interesting flash presentations scheduled
+for the event:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Simon Law: Cygwinreg and ctypes -- Using the Windows registry from
+    Cygwin&lt;/li&gt;
+&lt;li&gt;Mathieu Chartier: ConFoo.ca -- One of the largest Web development
+    conference in North-America&lt;/li&gt;
+&lt;li&gt;Sébastien Pierre: Sink -- A tool to compare and keep directories in
+    sync&lt;/li&gt;
+&lt;li&gt;Erik Wright: Django Lean -- A tool for lean development and A/B
+    testing&lt;/li&gt;
+&lt;li&gt;Alexandre Vassalotti: Memory profiling for Python programs&lt;/li&gt;
+&lt;li&gt;Hugo Boyer: PyCUDA -- High performance computation using graphic
+    cards&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Main Presentation will be Andrew Francis on Stackless Python and there
+will be a keg of homebrew. See you there!&lt;/p&gt;</summary></entry><entry><title>Montréal-Python 9: 2009-09-30 at UQAM</title><link href="http://localhost:8888/en/2009/09/02/montreal-python-9-2009-09-30-at-uqam/" rel="alternate"></link><updated>2009-09-02T16:11:00-04:00</updated><author><name>Yannick Gingras (ygingras@ygingras.net)</name></author><id>tag:localhost:8888,2009-09-02:en/2009/09/02/montreal-python-9-2009-09-30-at-uqam/</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;&lt;strong&gt;update:&lt;/strong&gt;the event was moved from the 23rd to the 30th.
+Montréal-Python 9 will take place at UQAM, on Wednesday 2009-09-30 in
+room PK-5115 of the President-Kenedy building. The PK building is
+located at &lt;a href="http://www.uqam.ca/campus/pavillons/pk.htm"&gt;201 Président-Kenedy&lt;/a&gt;, the street that is also called
+Ontario on the east side of St-Laurent. The PK building has a direct
+entrance to the Place-des-Arts metro station. Here is our schedule for
+the evening:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;18h00: Opening&lt;/li&gt;
+&lt;li&gt;18h20: Announcements&lt;/li&gt;
+&lt;li&gt;18h30: Flash presentations&lt;/li&gt;
+&lt;li&gt;19h00: Break&lt;/li&gt;
+&lt;li&gt;19h20: Main presentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our main presenter will be Andrew Francis and he is going to walk us
+through his Survey of Stackless Python:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Over the years, Stackless Python has acquired a mystical reputation,
+mostly based around its micro-thread implement and its use in a really
+big MOORPG. Otherwise, relatively little is known about Stackless
+Python. I would like to change this...&lt;/p&gt;
+&lt;p&gt;In this talk, I will discuss what is Stackless Python and its
+relationship to Python. I will give an overview of key Stackless
+Python concepts. Special attention will be devoted to network
+programming. I will finish the talk with a mention of my own Stackless
+work and Stackless Python's future. Throughout the talk, I will
+suggest that Stackless Python true strength is not the performance of
+its concurrency model but rather its simplicity that gives insights as
+to what a Pythonic concurrency model would look like.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Living in Montreal, Andrew Francis has an academic background in the
+humanities, computer science, and management. Professionally, Andrew has
+worked at companies such as BNR, Omnimark, and Adobe Systems in
+California. Ever since 2005, Andrew has been playing with Stackless
+Python, as a part of his work with WS-BPEL, and he has never looked
+back! At Pycon 2008, Andrew gave the talk "Adventures in Stackless
+Python/Twisted Integration." We still have a lot of open slots for flash
+presentations so don't hesitate to propose a talk. Also, our speaker
+pool is running low so please get in touch with us if you have an idea
+for a main presentation.&lt;/p&gt;</summary></entry><entry><title>Follow-up on Montréal Python 8</title><link href="http://localhost:8888/en/2009/07/27/follow-up-on-montreal-python-8/" rel="alternate"></link><updated>2009-07-27T07:43:00-04:00</updated><author><name>Yannick Gingras (ygingras@ygingras.net)</name></author><id>tag:localhost:8888,2009-07-27:en/2009/07/27/follow-up-on-montreal-python-8/</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;Here is a follow-up on Montréal Python 8. By popular demand,
+we will try and do our best to post the slides and example files online
+after the event. Flash presenters at MP8 were:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jennifer Bell: &lt;a href="http://visiblegovernment.ca"&gt;visiblegovernment.ca&lt;/a&gt; and &lt;a href="http://fixmystreet.ca"&gt;fixmystreet.ca&lt;/a&gt; --
+    Google Maps API and Geodjango (&lt;a href="http://montrealpython.com/wp-content/uploads/2009/07/mp8-visiblegovermento.pdf"&gt;slides&lt;/a&gt;, &lt;a href="http://github.com/visiblegovernment"&gt;code&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Sébastien Pierre: Pamela -- rediscovering the pleasure of
+    hand-written HTML (&lt;a href="http://montrealpython.com/wp-content/uploads/2009/07/mp8-pamela.pdf"&gt;slides&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Francis Pieraut: follow-up on Digipy, the real time character
+    recognition system presented at Montreal Python 6 (&lt;a href="http://montrealpython.com/wp-content/uploads/2009/07/mp8-digipy.pdf"&gt;slides&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Yannick Gingras: the Setuptools entry-points plugins system
+    (&lt;a href="http://montrealpython.com/wp-content/uploads/2009/07/mp8-setuptools-plugins-intro.tar.gz"&gt;examples&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our main presenter was &lt;em&gt;Alexandre Vassalotti&lt;/em&gt; on &lt;em&gt;developing extension
+modules for CPython&lt;/em&gt; (&lt;a href="http://montrealpython.com/wp-content/uploads/2009/07/mp8-main-presentation.pdf"&gt;slides&lt;/a&gt;, &lt;a href="http://montrealpython.com/wp-content/uploads/2009/07/mp8-main-presentation-examples.zip"&gt;examples&lt;/a&gt;). As we mentioned at
+MP8, Montreal Python is teaming up with PHP Québec for the &lt;a href="http://www.phpquebec.org/modules/piCal/index.php?smode=Daily&amp;amp;caldate=2009-8-8"&gt;PHP BBQ&lt;/a&gt;,
+which unfortunately we did not have time to rename to something more
+language agnostic. The BBQ will take place at Parc du Mont-Royal on
+2009-08-08 at 13h. There will be a home brewed beer contest between the
+PHP and the Python master brewers. I will proudly represent the Montréal
+Python team with a keg of Pythoune Brune, a fruity Belgian dark ale.
+Please confirm your presence by calling 514-581-8497 to make sure that
+there is enough food. Admission is only $5. Montréal-Python will take a
+break for the rest of the summer. We'll be back on track in
+mid-September for MP9 with Andrew Francis who is going to do a
+presentation on Stackless Python. We'll keep you posted as soon as we
+have the final date and location. As usual, we are still looking for
+presenter for both flash and main presentations! Do not hesitate to
+contact us if you have an idea for a presentation. Montréal Python would
+like to thank our sponsors who made MP8 possible:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;gold: &lt;a href="http://www.info.uqam.ca/"&gt;Département d'Informatique de l'UQAM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;silver: &lt;a href="http://www.pivotalpayments.ca/"&gt;Pivotal Payments&lt;/a&gt; and &lt;a href="http://savoirfairelinux.com"&gt;Savoir-faire Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;bronze: &lt;a href="http://oreilly.com/"&gt;O'Reilly&lt;/a&gt; and &lt;a href="http://www.aessuqam.org/"&gt;AESS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thanks again to the presenters and to the attendees. See you at the BBQ.&lt;/p&gt;
+&lt;p&gt;-- &lt;a href="http://ygingras.net"&gt;Yannick Gingras&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Montreal Python 8: 2009-07-08 at UQAM</title><link href="http://localhost:8888/en/2009/06/10/montreal-python-8-2009-07-08-at-uqam/" rel="alternate"></link><updated>2009-06-10T09:42:00-04:00</updated><author><name>Yannick Gingras (ygingras@ygingras.net)</name></author><id>tag:localhost:8888,2009-06-10:en/2009/06/10/montreal-python-8-2009-07-08-at-uqam/</id><summary type="html">&lt;p&gt;Greetings Pythonistas of Montréal, we have the pleasure to announce that
+Montréal Python 8 will take place at UQAM on Wednesday 2009-07-08. The
+event will be in room SH-2420 of the &lt;a href="http://www.uqam.ca/campus/pavillons/sh.htm"&gt;Sherbrooke building&lt;/a&gt;, located at
+200 Sherbrooke west&lt;/p&gt;
+&lt;p&gt;Here is our schedule for the evening:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;18h00: Opening&lt;/li&gt;
+&lt;li&gt;18h20: Announcements&lt;/li&gt;
+&lt;li&gt;18h30: Flash presentations&lt;/li&gt;
+&lt;li&gt;19h00: Break&lt;/li&gt;
+&lt;li&gt;19h20: Main presentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our main presenter will be &lt;em&gt;Alexandre Vassalotti&lt;/em&gt; on &lt;em&gt;developing
+extension modules for CPython&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Python makes an excellent glue language to connect software
+components. The CPython interpreter can easily be extended to provide
+new ways to manipulate and combine your programs and libraries.&lt;/p&gt;
+&lt;p&gt;The core of the talk will be on how to develop extension modules for
+CPython using its C API. The presentation will also give insights how
+to write Python code which makes efficient use of the CPython
+interpreter.&lt;/p&gt;
+&lt;p&gt;Please note that the audience will be expected to have a basic
+understanding of the C language. However, people who do not know C
+will probably still enjoy the commentaries about the design of the
+CPython interpreter and the overview of the alternative techniques
+available for extending it.&lt;/p&gt;
+&lt;p&gt;Alexandre Vassalotti is a contributing Python core developer and a
+computer science student at McGill University. He was a successful
+participant of Google Summer of Code 2007, for which he worked on the
+different aspects of Python 3.0.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We still have a few open slots for flash presentations so don't hesitate
+to propose a talk. Also, our speaker pool is running low so please get
+in touch with us if you have an idea for a main presentation.&lt;/p&gt;
+&lt;p&gt;-- &lt;a href="http://ygingras.net"&gt;Yannick Gingras&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Reminder for Montreal Python 7</title><link href="http://localhost:8888/en/2009/05/25/reminder-for-montreal-python-7/" rel="alternate"></link><updated>2009-05-25T07:44:00-04:00</updated><author><name>Yannick Gingras (ygingras@ygingras.net)</name></author><id>tag:localhost:8888,2009-05-25:en/2009/05/25/reminder-for-montreal-python-7/</id><summary type="html">&lt;p&gt;This is a reminder that Montreal Python 7 will be on Wednesday
+2009-05-27 at &lt;a href="http://labanque.ca/"&gt;La Banque&lt;/a&gt;, &lt;a href="http://maps.google.ca/maps?f=q&amp;amp;hl=fr&amp;amp;geocode=&amp;amp;q=175+rue+Roy+e,+Montr%C3%A9al&amp;amp;sll=49.891235,-97.15369&amp;amp;sspn=32.875467,90.615234&amp;amp;ie=UTF8&amp;amp;ll=45.517068,-73.57456&amp;amp;spn=0.00869,0.022123&amp;amp;z=16&amp;amp;iwloc=addr"&gt;175 Roy E&lt;/a&gt;. Based on your feedback,
+we'll start earlier and we'll have a tighter schedule.&lt;/p&gt;
+&lt;p&gt;Here is our schedule for the evening:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;18h00: Opening&lt;/li&gt;
+&lt;li&gt;18h20: Announcements&lt;/li&gt;
+&lt;li&gt;18h30: Flash presentations&lt;/li&gt;
+&lt;li&gt;19h00: Break&lt;/li&gt;
+&lt;li&gt;19h20: Main presentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our flash preseters will be:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jean Schurger: Intro to Google AppEngine&lt;/li&gt;
+&lt;li&gt;Sébastien Pierre: Railways -- Un toolkit web léger et déclaratif&lt;/li&gt;
+&lt;li&gt;Alexis Laferrière: PyCaptain -- Writing a game with PyGame&lt;/li&gt;
+&lt;li&gt;David Goodger: Building PyCon&lt;/li&gt;
+&lt;li&gt;Marc-Antoine Desroches: Unique -- A Copy-paste detector&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our main presenter will be Olivier Bélanger on "Ounk, un environnement
+de scripting musical".&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;La création du logiciel Ounk a été motivée par le besoin d'un
+environnement de programmation musicale offrant une excellente qualité
+sonore accompagnée d'un langage de haut niveau, simple et efficace.
+L'environnement doit permettre à l'utilisateur d'arriver rapidement au
+résultat sonore souhaité. Le langage Csound comme moteur audio fut
+choisi pour plusieurs raisons. Premièrement, Csound est un langage
+mature ayant une communauté de programmeurs très active. En plus
+d'offrir une très large librairie d'opérateurs, la précision de
+l'interpolation produit un rendu sonore d'excellente qualité. Csound
+permet aussi de calculer les échantillons en temps réel ou en temps
+différé, en créant un fichier son sur le disque dur, ce qui permet de
+construire des structures sonores dont la complexité n'est pas limitée
+à la puissance du processeur.&lt;/p&gt;
+&lt;p&gt;Par contre, la syntaxe du logiciel Csound est un peu désuète et
+rébarbative. Ounk nécessitait une syntaxe moderne, claire et efficace
+pour l'écriture des scripts. Le choix du langage de programmation
+Python s'est imposé principalement pour la simplicité de sa syntaxe,
+sa librairie de fonctions riche et variée, le fait qu'il est
+multi-plateforme et les facilités d'interfaçage qu'il fournit. Python
+est un excellent langage pour construire des algorithmes puissants et
+versatiles.&lt;/p&gt;
+&lt;p&gt;Le tandem Python et Csound combine la puissance du langage de
+programmation Python à la qualité du moteur audio Csound pour offrir
+un environnement de programmation musicale agréable à utiliser, que ce
+soit pour la construction d'interfaces graphiques, l'exploration des
+techniques de traitement sonore, le multitâche ou la communication
+avec d'autres logiciels.&lt;/p&gt;
+&lt;p&gt;Lors de cette présentation, seront détaillés, et mis en exemple, les
+différents procédés mis en place dans l'environnement Ounk pour
+faciliter la création de scripts musicaux.&lt;/p&gt;
+&lt;p&gt;Olivier Bélanger a terminé en février 2009 un doctorat en composition
+électroacoustique à l'université de Montréal sous la direction de Jean
+Piché et Caroline Traube. Ses travaux ont porté sur la création d'un
+modèle de synthèse de la voix chantée et sur le contrôle algorithmique
+des instruments de synthèse. Depuis 2003 il est chargé de cours pour
+le secteur électroacoustique de la faculté de musique de l'université
+de Montréal où il donne les cours de programmation musicale. Ses
+recherches s'orientent vers le développement de logiciels de
+programmation et de traitement du son.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;-- &lt;a href="http://ygingras.net"&gt;Yannick Gingras&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Montreal Python 7: 2009-05-27 at La Banque</title><link href="http://localhost:8888/en/2009/04/24/montreal-python-7-2009-05-27-at-la-banque/" rel="alternate"></link><updated>2009-04-24T12:15:00-04:00</updated><author><name>Yannick Gingras (ygingras@ygingras.net)</name></author><id>tag:localhost:8888,2009-04-24:en/2009/04/24/montreal-python-7-2009-05-27-at-la-banque/</id><summary type="html">&lt;p&gt;We are pleased to announce that Montreal Python 7 will be on Wednesday
+2009-05-27 at &lt;a href="http://labanque.ca/"&gt;La Banque&lt;/a&gt;, &lt;a href="http://maps.google.ca/maps?f=q&amp;amp;hl=fr&amp;amp;geocode=&amp;amp;q=175+rue+Roy+e,+Montr%C3%A9al&amp;amp;sll=49.891235,-97.15369&amp;amp;sspn=32.875467,90.615234&amp;amp;ie=UTF8&amp;amp;ll=45.517068,-73.57456&amp;amp;spn=0.00869,0.022123&amp;amp;z=16&amp;amp;iwloc=addr"&gt;175 Roy E&lt;/a&gt;. Based on your feedback,
+we'll start earlier and we'll have a tighter schedule.&lt;/p&gt;
+&lt;p&gt;Here is our schedule for the evening:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;18h00: Opening&lt;/li&gt;
+&lt;li&gt;18h20: Announcements&lt;/li&gt;
+&lt;li&gt;18h30: Flash presentations&lt;/li&gt;
+&lt;li&gt;19h00: Break&lt;/li&gt;
+&lt;li&gt;19h20: Main presentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our main presenter Olivier Bélanger on "Ounk, un environnement de
+scripting musical".&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;La création du logiciel Ounk a été motivée par le besoin d'un
+environnement de programmation musicale offrant une excellente qualité
+sonore accompagnée d'un langage de haut niveau, simple et efficace.
+L'environnement doit permettre à l'utilisateur d'arriver rapidement au
+résultat sonore souhaité. Le langage Csound comme moteur audio fut
+choisi pour plusieurs raisons. Premièrement, Csound est un langage
+mature ayant une communauté de programmeurs très active. En plus
+d'offrir une très large librairie d'opérateurs, la précision de
+l'interpolation produit un rendu sonore d'excellente qualité. Csound
+permet aussi de calculer les échantillons en temps réel ou en temps
+différé, en créant un fichier son sur le disque dur, ce qui permet de
+construire des structures sonores dont la complexité n'est pas limitée
+à la puissance du processeur.&lt;/p&gt;
+&lt;p&gt;Par contre, la syntaxe du logiciel Csound est un peu désuète et
+rébarbative. Ounk nécessitait une syntaxe moderne, claire et efficace
+pour l'écriture des scripts. Le choix du langage de programmation
+Python s'est imposé principalement pour la simplicité de sa syntaxe,
+sa librairie de fonctions riche et variée, le fait qu'il est
+multi-plateforme et les facilités d'interfaçage qu'il fournit. Python
+est un excellent langage pour construire des algorithmes puissants et
+versatiles.&lt;/p&gt;
+&lt;p&gt;Le tandem Python et Csound combine la puissance du langage de
+programmation Python à la qualité du moteur audio Csound pour offrir
+un environnement de programmation musicale agréable à utiliser, que ce
+soit pour la construction d'interfaces graphiques, l'exploration des
+techniques de traitement sonore, le multitâche ou la communication
+avec d'autres logiciels.&lt;/p&gt;
+&lt;p&gt;Lors de cette présentation, seront détaillés, et mis en exemple, les
+différents procédés mis en place dans l'environnement Ounk pour
+faciliter la création de scripts musicaux.&lt;/p&gt;
+&lt;p&gt;Olivier Bélanger a terminé en février 2009 un doctorat en composition
+électroacoustique à l'université de Montréal sous la direction de Jean
+Piché et Caroline Traube. Ses travaux ont porté sur la création d'un
+modèle de synthèse de la voix chantée et sur le contrôle algorithmique
+des instruments de synthèse. Depuis 2003 il est chargé de cours pour
+le secteur électroacoustique de la faculté de musique de l'université
+de Montréal où il donne les cours de programmation musicale. Ses
+recherches s'orientent vers le développement de logiciels de
+programmation et de traitement du son.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We still have a few open slots for flash presentations so don't hesitate
+to send us your presentation ideas.&lt;/p&gt;
+&lt;p&gt;-- &lt;a href="http://ygingras.net"&gt;Yannick Gingras&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Montreal Python 6 on 2009-04-14: detailed schedule</title><link href="http://localhost:8888/en/2009/04/11/montreal-python-6-on-2009-04-14-detailed-schedule/" rel="alternate"></link><updated>2009-04-11T18:19:00-04:00</updated><author><name>Yannick Gingras (ygingras@ygingras.net)</name></author><id>tag:localhost:8888,2009-04-11:en/2009/04/11/montreal-python-6-on-2009-04-14-detailed-schedule/</id><summary type="html">&lt;p&gt;As you hopefully know by now, Montreal Python 6 is this Tuesday at &lt;a href="http://labanque.ca/"&gt;la
+Banque&lt;/a&gt;. Here is our schedule for the evening:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;18h00: Opening&lt;/li&gt;
+&lt;li&gt;18h45: Announcements and flash presentations&lt;/li&gt;
+&lt;li&gt;19h15: Break&lt;/li&gt;
+&lt;li&gt;19h45: Main presentation: Francis Piéraut on Machine Learning
+    empowered by Python&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Flash presenters will be:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Nathanaël Lécaudé: PyMT: module for developing multi-touch enabled
+    applications&lt;/li&gt;
+&lt;li&gt;Stéphane Jolicoeur How Python is used at the National Film Board of
+    Canada&lt;/li&gt;
+&lt;li&gt;Alexandre Bourget SFL Vault: a secure distributed crediential
+    storage system&lt;/li&gt;
+&lt;li&gt;Herald Gjura The challenge of managing a horde of Pythonistas&lt;/li&gt;
+&lt;li&gt;François Pinard Tweeting with Python&lt;/li&gt;
+&lt;li&gt;Olivier Bélanger Ounk: a Python audio scripting environment for
+    Csound; pitch for Montréal Python 7&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In case you missed the original announcement, here is the abstract for
+the main presentation:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Machine Learning is a subfield of AI that considers learning patterns
+from existing data. Related applications are increasing in many fields
+where adaptive systems are needed, like fraud detection, face
+recognition, recommendation systems, disambiguation systems, insurance
+risk estimation, web traffic filtering, voice recognition, and many
+others. The first part of this presentation will cover the basics of
+machine learning; in the second part, we will dive into a real example
+and see the complete process of using machine learning to create a
+real-time digit recognition system using Mlboost, a python library.
+The practical approach should allow the audience to assimilate the
+most important concepts of machine learning and the critical need for
+data preprocessing. After a Software Engineer degree, Francis Piéraut
+made a research master in Machine Learning at LISA. During his
+research work, he developed flayers, a powerful C++ neural network
+library. During the beginning of his career, his spend several years
+in Montreal startups companies applying Machine Learning and
+statistical AI related solutions. In 2005, he released the first
+version of MLboost, a python library that allows him to speedup his
+Machine Learning projects by simplifying data preprocessing, features
+selection and data visualization.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;See you there.&lt;/p&gt;
+&lt;p&gt;--&lt;a href="http://ygingras.net"&gt;Yannick Gingras&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Write-up of Montreal Python 5</title><link href="http://localhost:8888/en/2009/04/06/write-up-of-montreal-python-5/" rel="alternate"></link><updated>2009-04-06T06:35:00-04:00</updated><author><name>Yannick Gingras (ygingras@ygingras.net)</name></author><id>tag:localhost:8888,2009-04-06:en/2009/04/06/write-up-of-montreal-python-5/</id><summary type="html">&lt;p&gt;Alexadre Vassalotti just published a &lt;a href="http://peadrop.com/mp5.html"&gt;write-up&lt;/a&gt; of the presentation
+that he gave at Montreal Python 5. Hopefully that will help the ones who
+were not fast enough at note taking and the ones who didn't have the joy
+of attending.&lt;/p&gt;
+&lt;p&gt;-- &lt;a href="http://ygingrasnet"&gt;Yannick Gingras&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Pictures of Montreal Python 5</title><link href="http://localhost:8888/en/2009/03/08/pictures-of-montreal-python-5/" rel="alternate"></link><updated>2009-03-08T16:16:00-04:00</updated><author><name>Yannick Gingras (ygingras@ygingras.net)</name></author><id>tag:localhost:8888,2009-03-08:en/2009/03/08/pictures-of-montreal-python-5/</id><summary type="html">&lt;p&gt;Pictures of Montreal Python 5 are now &lt;a href="http://www.flickr.com/search/?q=montrealpython5&amp;amp;s=int"&gt;showing up&lt;/a&gt; on Flickr. Thanks
+to &lt;a href="http://sfllaw.livejournal.com/"&gt;Simon Law&lt;/a&gt;, our master portraitist.&lt;/p&gt;</summary></entry><entry><title>Montreal Python 6: 2009-04-14</title><link href="http://localhost:8888/en/2009/03/04/montreal-python-6-2009-04-14/" rel="alternate"></link><updated>2009-03-04T13:08:00-05:00</updated><author><name>Yannick Gingras (ygingras@ygingras.net)</name></author><id>tag:localhost:8888,2009-03-04:en/2009/03/04/montreal-python-6-2009-04-14/</id><summary type="html">&lt;p&gt;We are pleased to announce that Montreal Python 6 will be on 2009-04-14
+at &lt;a href="http://labanque.ca"&gt;La Banque&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our main presenter will be &lt;a href="http://fraka6.blogspot.com"&gt;Francis Piéraut&lt;/a&gt; on Machine Learning
+empowered by Python:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Machine Learning is a subfield of AI that considers learning patterns
+from existing data. Related applications are increasing in many fields
+where adaptive systems are needed, like fraud detection, face
+recognition, recommendation systems, disambiguation systems, insurance
+risk estimation, web traffic filtering, voice recognition, and many
+others.&lt;/p&gt;
+&lt;p&gt;The first part of this presentation will cover the basics of machine
+learning; in the second part, we will dive into a real example and see
+the complete process of using machine learning to create a real-time
+digit recognition system using &lt;a href="http://sourceforge.net/projects/mlboost"&gt;Mlboost&lt;/a&gt;, a python library. The
+practical approach should allow the audience to assimilate the most
+important concepts of machine learning and the critical need for data
+preprocessing.&lt;/p&gt;
+&lt;p&gt;After a Software Engineer degree, Francis Piéraut made a research
+master in Machine Learning at &lt;a href="http://www.iro.umontreal.ca/rubrique.php3?id_rubrique=27&amp;amp;lang=en"&gt;LISA&lt;/a&gt;. During his research work, he
+developed flayers, a powerful C++ neural network library. During the
+beginning of his career, his spend several years in Montreal startups
+companies applying Machine Learning and statistical AI related
+solutions. In 2005, he released the first version of MLboost, a python
+library that allows him to speedup his Machine Learning projects by
+simplifying data preprocessing, features selection and data
+visualization.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Here is our schedule for the evening:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;18h00: Opening&lt;/li&gt;
+&lt;li&gt;18h45: Announcements and flash presentations&lt;/li&gt;
+&lt;li&gt;19h15: Break&lt;/li&gt;
+&lt;li&gt;19h45: Main presentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+We are still looking for flash presenters so contact us if you have an
+idea for a flash presentation.&lt;/p&gt;</summary></entry><entry><title>Presentation on VLAM Compyle</title><link href="http://localhost:8888/en/2009/03/04/presentation-on-vlam-compyle/" rel="alternate"></link><updated>2009-03-04T04:59:00-05:00</updated><author><name>Yannick Gingras (ygingras@ygingras.net)</name></author><id>tag:localhost:8888,2009-03-04:en/2009/03/04/presentation-on-vlam-compyle/</id><summary type="html">&lt;p&gt;Marc-Antoine Desroches will be giving a presentation on VLAM Compyle, a
+just-in-time compiler for Python at the &lt;a href="http://schemeway.dyndns.org/mslug/mslug-home"&gt;Montreal Scheme/Lisp User
+Group&lt;/a&gt; meeting next Thursday (2009-03-12) . Marc-Antoine was one of
+our flash presenters at Montreal Python 5. The MSLUG meeting is at 7pm
+in Room 3195, André-Aisenstadt Building, Université de Montréal, 2920
+chemin de la Tour.&lt;/p&gt;
+&lt;p&gt;– &lt;a href="http://ygingras.net"&gt;Yannick Gingras&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Schedule for Montreal Python 5</title><link href="http://localhost:8888/en/2009/02/24/schedule-for-montreal-python-5/" rel="alternate"></link><updated>2009-02-24T07:59:00-05:00</updated><author><name>Yannick Gingras (ygingras@ygingras.net)</name></author><id>tag:localhost:8888,2009-02-24:en/2009/02/24/schedule-for-montreal-python-5/</id><summary type="html">&lt;p&gt;Greetings Pythonistas of Montreal, &lt;br /&gt;
+ as you hopefully know by now, Montreal Python 5 is this Thursday at la
+&lt;a href="http://labanque.ca"&gt;Banque&lt;/a&gt;. Here is our schedule for the evening:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;18h00: Opening&lt;/li&gt;
+&lt;li&gt;18h45: Announcements and flash presentations&lt;/li&gt;
+&lt;li&gt;19h15: Break&lt;/li&gt;
+&lt;li&gt;19h45: Main presentation: Alexandre Vassalotti on Porting your Code
+    to Python 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+Flash presenters will be:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Marc-Antoine Desroches: VLAM Compyle, a just-in-time compiler for
+    Python; pitch for an upcoming talk at the Montreal Scheme/Lisp User
+    Group meetings.   &lt;/li&gt;
+&lt;li&gt;Francis Piéraut: Machine Learning enpowered by Python; pitch for
+    Montreal Python 6.   &lt;/li&gt;
+&lt;li&gt;Hugo Boyer: FAB online: a web interface for the machinist; follow up
+    on his presentation at Montreal Python 4.   &lt;/li&gt;
+&lt;li&gt;Philippe Chretien: Python and Bluetooth.   &lt;/li&gt;
+&lt;li&gt;Tristan Matthews: Video4linux, osc, and chuck.   &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;update:&lt;/strong&gt; we also had a last minute presenter:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Joseph Turian: Machine Learning using Theano, An optimizing compiler
+    in Python   &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+– &lt;a href="http://ygingras.net"&gt;Yannick Gingras&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Montreal Python 5</title><link href="http://localhost:8888/en/2009/02/12/montreal-python-5/" rel="alternate"></link><updated>2009-02-12T08:01:00-05:00</updated><author><name>Yannick Gingras (ygingras@ygingras.net)</name></author><id>tag:localhost:8888,2009-02-12:en/2009/02/12/montreal-python-5/</id><summary type="html">&lt;p&gt;We have the pleasure to announce that Montreal Python 5 will be on
+2009-02-26 at &lt;a href="http://labanque.ca"&gt;La Banque&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The main presentation will be Alexandre Vassalotti on Porting your Code
+to Python 3: &lt;em&gt;Python 3, also colloquially known as Python 3000, is now
+out for general use. Unfortunately, its usage is limited since only a
+few libraries are currently compatible with Python 3. In this
+presentation, you will learn a straightforward process for migrating
+Python code and the common difficulties related to the transition. In
+addition, an overview of the new features brought by Python 3 will be
+described with practical examples. Finally, upcoming changes and
+features in Python 2.7 and 3.1 will be presented.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Alexandre Vassalotti is a contributing Python core developer and a
+computer science student at McGill University. He was a successful
+participant of Google Summer of Code 2007, for which he worked on the
+different aspects of Python 3.0.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The main presentation should be from 45 to 60 minutes. Before the main
+presentation, there will be a few flash (5 mins) presentation. We still
+have open spots for the flash presentation so don't hesitate to send us
+your idea for a flash presentation.&lt;/p&gt;
+&lt;p&gt;La Banque is located at 175 Roy. See you there.&lt;/p&gt;
+&lt;p&gt;-- &lt;a href="http://ygingras.net"&gt;Yannick Gingras&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>MontrealPython4 - Thursday September 25 @18h30</title><link href="http://localhost:8888/en/2008/09/14/montrealpython4-thursday-september-25-18h30/" rel="alternate"></link><updated>2008-09-14T21:53:00-04:00</updated><author><name>Arach Tchoupani (atchoupani@yahoo.com)</name></author><id>tag:localhost:8888,2008-09-14:en/2008/09/14/montrealpython4-thursday-september-25-18h30/</id><summary type="html">&lt;p&gt;We are back, with a new location and a cool presentation in store for
+you. Thursday September 25th @ 18h30
+at &lt;span style="border-collapse: collapse; font-family: arial; font-size: 13px; line-height: normal" class="Apple-style-span"&gt;&lt;strong&gt;&lt;a href="http://labanque.ca/"&gt;http://labanque.ca/&lt;/a&gt;&lt;/strong&gt;&lt;span style="border-collapse: separate; font-family: Georgia; font-size: 16px; line-height: 20px" class="Apple-style-span"&gt; - &lt;span style="border-collapse: collapse; font-family: arial; font-size: 13px; line-height: normal" class="Apple-style-span"&gt;175
+Roy &lt;span style="border-collapse: separate; font-family: Georgia; font-size: 16px; line-height: 20px" class="Apple-style-span"&gt;&lt;a href="http://maps.google.com/maps?f=q&amp;amp;hl=en&amp;amp;geocode=&amp;amp;q=175+Roy&amp;amp;sll=45.517349,-73.562963&amp;amp;sspn=0.012509,0.019312&amp;amp;ie=UTF8&amp;amp;ll=45.517354,-73.567994&amp;amp;spn=0.012509,0.019312&amp;amp;t=h&amp;amp;z=16&amp;amp;iwloc=addr" title="Map to labanque."&gt;Map&lt;/a&gt;.
+ Our presentation will be from Hugo. Here is the
+intro.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span style="border-collapse: collapse; font-family: arial; font-size: 13px; line-height: normal" class="Apple-style-span"&gt;Python
+for the machinist&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="border-collapse: collapse; font-family: arial; font-size: 13px; line-height: normal" class="Apple-style-span"&gt;In
+this presentation, I will show you how I use Python to create physical
+objects, circuits and machine elements. This presentation will walk
+you through simple python programs that generate instructions for CNC
+(Computer Numerical Control) equipment, and  include a live demo where
+a 'useful' object will be created  on a personal milling machine.
+There should be ample time left for an interesting technical
+discussion to follow.&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We will have refreshments available (beer, soda) as well as some food.
+Also, there will be time for lightning talks, announcements before the
+presentation. The registration is back on the wiki... 
+&lt;a href="http://www.barcampmontreal.org/wiki/MontrealPython4" title="MontrealPython4"&gt;http://www.barcampmontreal.org/wiki/MontrealPython4&lt;/a&gt;&lt;/p&gt;</summary><category term="meetup"></category><category term="Montreal Python"></category></entry><entry><title>MontrealPython4 - postponed to end of August / beginning September</title><link href="http://localhost:8888/en/2008/07/29/montrealpython4-postponed-to-end-of-august-beginning-september/" rel="alternate"></link><updated>2008-07-29T10:17:00-04:00</updated><author><name>Arach Tchoupani (atchoupani@yahoo.com)</name></author><id>tag:localhost:8888,2008-07-29:en/2008/07/29/montrealpython4-postponed-to-end-of-august-beginning-september/</id><summary type="html">&lt;p&gt;MontrealPython4 - we will not be meeting this Thursday which was the
+tentative date for our next meetup. We're working on the next event and
+it'll be late in August / beginning of September. The next meetup is
+likely to be fun : new location, more people, python code that leads to
+objects. We just need more time to organize it properly.&lt;/p&gt;
+&lt;p&gt;-- Arach&lt;/p&gt;</summary><category term="meetup"></category><category term="Montreal Python"></category></entry><entry><title>MontrealPython3 - thanks, link</title><link href="http://localhost:8888/en/2008/06/27/montrealpython3-thanks-link/" rel="alternate"></link><updated>2008-06-27T14:21:00-04:00</updated><author><name>Arach Tchoupani (atchoupani@yahoo.com)</name></author><id>tag:localhost:8888,2008-06-27:en/2008/06/27/montrealpython3-thanks-link/</id><summary type="html">&lt;p&gt;MontrealPython3 was a lot of fun. Martin Blais gave us 2 very
+interesting presentations. In case you missed it or want to follow up,
+you can find snakefood, beancount and more at
+&lt;a href="http://furius.ca/home/software.html" title="Furius.ca - Martin Blais"&gt;http://furius.ca/home/software.html&lt;/a&gt;. Thanks again to StandoutJobs
+for lending us their space and Akoha for the refreshments.
+MontrealPython4 will be July 31st. We'll have more details in the weeks
+to come.&lt;/p&gt;
+&lt;p&gt;--Arach&lt;/p&gt;</summary><category term="meetup"></category><category term="Montreal Python"></category><category term="Presentations"></category><category term="python"></category></entry><entry><title>MontrealPython3 - June 26 2008 @ 6:30PM</title><link href="http://localhost:8888/en/2008/06/16/montrealpython3-june-26-2008-630pm/" rel="alternate"></link><updated>2008-06-16T08:33:00-04:00</updated><author><name>Arach Tchoupani (atchoupani@yahoo.com)</name></author><id>tag:localhost:8888,2008-06-16:en/2008/06/16/montrealpython3-june-26-2008-630pm/</id><summary type="html">&lt;p&gt;&lt;small class="date"&gt;&lt;span class="date_year"&gt;&lt;/span&gt;&lt;/small&gt;
+MontrealPython3 will be held June 26 2008 @ 6:30PM. We’ll be meeting at
+Standout Jobs : 3981 boul. St. Laurent, Suite 615, Montreal. Going
+forward, we will do one presentation per meetup. This will be more
+convenient for lots of people, who have to leave before the end and feel
+bad about it... Our presenter will be Martin Blais, who will give one of
+his proposed presentations &lt;strong&gt;(Snakefood / Beancount)&lt;/strong&gt;. &lt;!--more--&gt;PS.
+There will not be another huge gap between events... To make sure this
+is credible, we have set the next date already : July 31st. Hopefully,
+Hugo Boyer will be the presenter for MP4 and talk to us about "Using
+python to make real objects".&lt;/p&gt;</summary><category term="meetup"></category><category term="Montreal Python"></category><category term="montrealpython3"></category></entry><entry><title>MontrealPython3 - choosing the next presentation(s)</title><link href="http://localhost:8888/en/2008/05/14/montrealpython3-choosing-the-next-presentations/" rel="alternate"></link><updated>2008-05-14T00:42:00-04:00</updated><author><name>Arach Tchoupani (atchoupani@yahoo.com)</name></author><id>tag:localhost:8888,2008-05-14:en/2008/05/14/montrealpython3-choosing-the-next-presentations/</id><summary type="html">&lt;p&gt;I really like the use of the mailing list as a way to pitch presentation
+ideas, it's efficient and open. The downside is that a mailing list is
+not great for individual feedback because nobody wants to disturb more
+than 30 people with their preference. So here is a little experiment to
+help us organize in a more simple and open way: a polling widget. For
+more information on the presentations listed below, look &lt;a href="http://groups.google.com/group/montrealpython/browse_thread/thread/c565d056ad6d71c4" title="montrealpython on google groups"&gt;here for Hugo
+Boyer's&lt;/a&gt; and &lt;a href="http://groups.google.com/group/montrealpython/browse_thread/thread/22222477931ef4a0" title="Martin Blais : presentation on groups.google.com"&gt;here for Martin Blais' presentation ideas&lt;/a&gt; . There are
+other people who have suggested presentation topics they would like to
+present, I invite them (you) to write to the list, it's the way to get a
+talk on MontrealPython. If you're not on the mailing list, please join
+&lt;a href="http://groups.google.com/group/montrealpython" title="MontrealPython group mailing list"&gt;http://groups.google.com/group/montrealpython&lt;/a&gt; MontrealPython3 date
+coming soon ...
+&lt;!-- Altering or removing this link is a breach of the Vizu Terms and Conditions --&gt;&lt;/p&gt;
+&lt;p&gt;[&lt;span style="color: #999999; text-decoration: underline; font-size: 10px"&gt;Opinion
+Polls&lt;/span&gt;][]&lt;span style="color: #999999"&gt; &amp;amp;
+&lt;/span&gt;[&lt;span style="color: #999999; text-decoration: underline; font-size: 10px"&gt;Market
+Research&lt;/span&gt;][]&lt;/p&gt;
+&lt;p&gt;&lt;embed src="http://wp.vizu.com/vizu_poll.swf" quality="high" scale="noscale" wmode="transparent" bgcolor="#ffffff" name="vizu_poll" allowscriptaccess="always" type="application/x-shockwave-flash" flashvars="js=false&amp;amp;pid=93833&amp;amp;ad=false&amp;amp;vizu=true&amp;amp;links=true&amp;amp;mainBG=000000&amp;amp;questionText=FFFFFF&amp;amp;answerZoneBG=cccccc&amp;amp;answerItemBG=eeeeee&amp;amp;answerText=000000&amp;amp;voteBG=C8C8C8&amp;amp;voteText=000000" align="middle" height="286" width="250"&gt;&lt;/embed&gt;&lt;/p&gt;
+&lt;p&gt;-- Arach&lt;/p&gt;
+&lt;p&gt;[&lt;span style="color: #999999; text-decoration: underline; font-size: 10px"&gt;Opinion
+  Polls&lt;/span&gt;]: http://www.vizu.com
+  [&lt;span style="color: #999999; text-decoration: underline; font-size: 10px"&gt;Market
+  Research&lt;/span&gt;]: http://answers.vizu.com/market-research.htm&lt;/p&gt;</summary><category term="montrealpython3"></category><category term="Presentations"></category></entry><entry><title>Montreal Python #2 - videos online</title><link href="http://localhost:8888/en/2008/05/12/montreal-python-2-videos-online/" rel="alternate"></link><updated>2008-05-12T22:23:00-04:00</updated><author><name>Yannick Gingras (ygingras@ygingras.net)</name></author><id>tag:localhost:8888,2008-05-12:en/2008/05/12/montreal-python-2-videos-online/</id><summary type="html">&lt;p&gt;We are pleased to announce the immediate availability of the videos of
+Montreal Python #2.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://video.google.com/videoplay?docid=-2134430227299882771"&gt;Cyril Robert: Asterisk and Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://video.google.com/videoplay?docid=1831337244910918313"&gt;Yannick Gingras: Practical intro to PyQt and PyOpenGL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thanks to Pior Bastida for his hard work behind the camera and for the
+edition.&lt;/p&gt;
+&lt;p&gt;-- &lt;a href="http://ygingras.net"&gt;Yannick Gingras&lt;/a&gt;&lt;/p&gt;</summary><category term="montreal"></category><category term="Montreal Python"></category><category term="python"></category><category term="videos"></category></entry><entry><title>Montreal Python - tonight @ 18h30</title><link href="http://localhost:8888/en/2008/04/10/montreal-python-tonight-18h30/" rel="alternate"></link><updated>2008-04-10T09:49:00-04:00</updated><author><name>Arach Tchoupani (atchoupani@yahoo.com)</name></author><id>tag:localhost:8888,2008-04-10:en/2008/04/10/montreal-python-tonight-18h30/</id><summary type="html">&lt;p&gt;&lt;strong&gt;Location: StandoutJobs, 3981 boul. St. Laurent, Suite 615, Montreal&lt;/strong&gt;
+A friend of mine jokes: "You should do the next one the day of the
+Stanley Cup final" ... we will track the game close to live as we can :)
+Here are the presentations for tonight. Asterisk and Python by Cyril
+Robert Asterisk, allows the average user to do pretty much anything he
+wants with his telephony system. It is open source and billed as the
+"future of telephony". The first step in using asterisk is understanding
+it correctly, which will be the first part of Cyril's lecture. The
+second part will focus on how to take advantage of Python to make
+asterisk a whole lot easier. PyQT and PyOpenGL: Live hacking a toy app
+by Yannick Gingras. For the first 35 mins, Yannick will hack a toy app
+from scratch using PyQt and PyOpenGL. After that, he will answer
+questions for 10 minutes. -- Michael Deutsch also proposed we take a
+look at the introduction by Guido Van Rossum of Google App Engine - if
+we have time and if you guys want to :) See you all tonight.&lt;/p&gt;</summary><category term="meetup"></category><category term="Montreal Python"></category></entry><entry><title>MontrealPython2 - second presentation about graphical programming with Python</title><link href="http://localhost:8888/en/2008/03/19/montrealpython2-second-presentation-about-graphical-programming-with-python/" rel="alternate"></link><updated>2008-03-19T23:38:00-04:00</updated><author><name>Arach Tchoupani (atchoupani@yahoo.com)</name></author><id>tag:localhost:8888,2008-03-19:en/2008/03/19/montrealpython2-second-presentation-about-graphical-programming-with-python/</id><summary type="html">&lt;p&gt;Yannick Gingras will be doing a presentation about graphical programming
+with Python.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;For the first 35 mins, I can hack a toy app from scratch using PyQt
+and PyOpenGL.  After that, I will answer questions for 10 minutes.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I'm looking forward to that ! Arach&lt;/p&gt;</summary><category term="MontrealPython2"></category><category term="PyOpenGL"></category><category term="PyQT"></category><category term="Yannick Gingras"></category></entry><entry><title>A great first presenter, David Goodger - MontrealPython1 - Feb 7th 2008</title><link href="http://localhost:8888/en/2008/01/31/a-great-first-presenter-david-goodger-montrealpython1-feb-7th-2008/" rel="alternate"></link><updated>2008-01-31T22:39:00-05:00</updated><author><name>Arach Tchoupani (atchoupani@yahoo.com)</name></author><id>tag:localhost:8888,2008-01-31:en/2008/01/31/a-great-first-presenter-david-goodger-montrealpython1-feb-7th-2008/</id><summary type="html">&lt;p&gt;We have the pleasure of hosting a talk by David Goodger at
+MontrealPython1. This is a talk that will be presented at PyCon later
+this year, and it's an honour for us to have a member of the Python
+Software Foundation with us on Feb. 7th 2008. I invite everyone who's
+planning to attend MP1 to take a look at the topic of the talk&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;David Goodger (goodger [at] python [dot] org) regarding Polyform
+Puzzler (&lt;a href="http://puzzler.sourceforge.net/" title="http://puzzler.sourceforge.net/"&gt;http://puzzler.sourceforge.net/&lt;/a&gt;) and Donald Knuth's
+"Dancing Links Algorithm X" (DLX), anywhere from 10 minutes to an
+hour. Also, PyCon :-)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If you haven't signed up yet, please edit the wiki page
+at&lt;a href="http://www.barcampmontreal.org/wiki/MontrealPython1%20" title="Montreal Python 1"&gt;http://www.barcampmontreal.org/wiki/MontrealPython1&lt;/a&gt;. Thanks to
+all, looking forward to next Thursday Arach --- Nous avons le plaisir
+d'offrir une présentation de David Goodger à MontréalPython1. Cette
+présentation sera aussi présentée à PyCon en mars, et c'est un honneur
+pour nous d'avoir un membre de la Python Software Foundation avec nous
+le 7 février 2008. J'invite tous ceux qui comptent être présent à MP1 à
+jeter un coup d'oeil au sujet de sa présentation.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;David Goodger (goodger [at] python [dot] org) regarding Polyform
+Puzzler (&lt;a href="http://puzzler.sourceforge.net/" title="http://puzzler.sourceforge.net/"&gt;http://puzzler.sourceforge.net/&lt;/a&gt;) and Donald Knuth's
+"Dancing Links Algorithm X" (DLX), anywhere from 10 minutes to an
+hour. Also, PyCon :-)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Si vous ne vous êtes pas encore inscrits, veuillez modifier le wiki
+à &lt;a href="http://www.barcampmontreal.org/wiki/MontrealPython1%20" title="Montreal Python 1"&gt;http://www.barcampmontreal.org/wiki/MontrealPython1&lt;/a&gt;. Merci à tous
+et à la semaine prochaine, Arach&lt;/p&gt;</summary><category term="meetup"></category><category term="MontrealPython1"></category><category term="presentation"></category><category term="PSF"></category><category term="python"></category><category term="StandoutJobs"></category></entry><entry><title>Call for presenters - first meetup coming soon!</title><link href="http://localhost:8888/en/2007/11/14/call-for-presenters/" rel="alternate"></link><updated>2007-11-14T23:24:00-05:00</updated><author><name>Arach Tchoupani (atchoupani@yahoo.com)</name></author><id>tag:localhost:8888,2007-11-14:en/2007/11/14/call-for-presenters/</id><summary type="html">&lt;p&gt;Montreal Python is alive and snaking (ref: &lt;a href="http://www.afroginthevalley.com/2007/11/13/python-in-montreal-is-alive-and-snaking.html" title="Sylvain Carle's blog"&gt;A Frog In The Valley&lt;/a&gt; ).
+We are planning to have our a first meetup very soon (the date and venue
+are going to be announced in the coming weeks). To make sure our first
+event is interesting, we would like to know what you would like to see.
+As the post says, we are also looking for presenters, so if you want to
+talk about any topic, business, project or python related activity,
+please let us know. You can drop us a line at contact@montrealpython.org
+or just post a comment here. Arach "we" Tchoupani = Montreal Python est
+vivant et ... serpente ! Nous allons organiser notre première rencontre
+d'ici peu. Nous annoncerons le lieu et la date dans les semaines à
+venir. Comme c'est une première rencontre, nous sommes intéressés à
+savoir ce dont vous aimeriez discuter. Nous cherchons des présentateurs,
+alors si vous avez un sujet, un projet ou une entreprise à présenter,
+faites-nous signe. Vous pouvez envoyer un courriel à
+contact@montrealpython.org ou simplement écrire un commentaire ici.
+Merci, Arach "nous" Tchoupani&lt;/p&gt;</summary><category term="meetup"></category><category term="montreal"></category><category term="presentation"></category><category term="presenter"></category><category term="python"></category><category term="rencontre"></category></entry></feed>

@@ -44,7 +44,6 @@ nosetests.xml
 
 
 # Build output
-output
 pelican.pid
 srv.pid
 html

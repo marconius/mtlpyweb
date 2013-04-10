@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Montréal-Python</title><link href="http://localhost:8888/" rel="alternate"></link><link href="http://montrealpython.org/feeds/Django,%20Montr%C3%A9al%20Python,%20Packaging,%20Sprints.atom.xml" rel="self"></link><id>http://localhost:8888/</id><updated>2010-09-09T16:58:00-04:00</updated><entry><title>Sprints: New Location</title><link href="http://localhost:8888/en/2010/09/09/sprints-new-location/" rel="alternate"></link><updated>2010-09-09T16:58:00-04:00</updated><author><name>Mathieu Leduc-Hamel (marrakis@gmail.com)</name></author><id>tag:localhost:8888,2010-09-09:en/2010/09/09/sprints-new-location/</id><summary type="html">&lt;!--:en--&gt;
+
+&lt;p&gt;One of the great thing with a booming city like Montréal is
+that we get dynamic companies such as Google improving the synergy of
+our community by hosting our sprints in bigger rooms and providing food
+and refreshments. Our next sprint will be on &lt;strong&gt;Django translation&lt;/strong&gt; on
+September 22nd, 2010, starting at 18h30. Come and allow us to offer
+Django to a broader community of developers. Only one week after that,
+we'll host a sprint on the &lt;strong&gt;Python packaging system&lt;/strong&gt;. Come and
+frantically hack with us to empower Python with the best packaging
+system out there. Both sprints will be a Google, 1253 McGill College
+ave. suite #250. &lt;strong&gt;Attendance is limited to 20 sprinters so don't
+forget to&lt;/strong&gt;&lt;a href="http://wiki.montrealpython.org/index.php/Sprints"&gt;&lt;strong&gt;RSVP on the wiki&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;</summary></entry></feed>
