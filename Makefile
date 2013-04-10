@@ -11,10 +11,10 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=localhost
+SSH_HOST=mtlpy.org
 SSH_PORT=22
-SSH_USER=root
-SSH_TARGET_DIR=/var/www
+SSH_USER=mp
+SSH_TARGET_DIR=/home/mp/mtlpyweb/output
 
 DROPBOX_DIR=~/Dropbox/Public/
 
