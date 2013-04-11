@@ -23,8 +23,7 @@ LINKS =  (('Python.org', 'http://python.org'), )
 SOCIAL = (('twitter', 'https://twitter.com/mtlpy'),
           ('github', 'https://github.com/mtlpy'))
 
-DEFAULT_PAGINATION = 10
-
+SUMMARY_MAX_LENGTH = 25
 THEME = 'themes/mtlpy'
 
 DISPLAY_PAGES_ON_MENU = False

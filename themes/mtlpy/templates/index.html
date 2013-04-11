@@ -56,39 +56,21 @@
 
         <ul class="thumbnails">
 
-            <li class="span4">
-                <div class="thumbnail">
-                    <img src="//placehold.it/279x156" alt="" />
-
-                    <div class="caption">
-                        <p class="muted">In hac habitasse platea dictumst. Nam pulvinar, odio sed rho.</p>
-                        <p><a href="#">En savoir plus</a></p>
-                    </div>
-                </div>
-            </li>
+          {% for article in dates_page.object_list %}
+            {% if loop.index <= 3 %}
 
             <li class="span4">
                 <div class="thumbnail">
                     <img src="//placehold.it/279x156" alt="" />
 
                     <div class="caption">
-                        <p class="muted">In hac habitasse platea dictumst. Nam pulvinar, odio sed rho.</p>
-                        <p><a href="#">En savoir plus</a></p>
+                        <p class="muted">{{ article.summary }}</p>
+                        <p><a href="{{ article.url }}" rel="bookmark" title="{{ article.title }}">En savoir plus</a></p>
                     </div>
                 </div>
             </li>
-
-            <li class="span4">
-                <div class="thumbnail">
-                    <img src="//placehold.it/279x156" alt="" />
-
-                    <div class="caption">
-                        <p class="muted">In hac habitasse platea dictumst. Nam pulvinar, odio sed rho.</p>
-                        <p><a href="#">En savoir plus</a></p>
-                    </div>
-                </div>
-            </li>
-
+              {% endif %}
+            {% endfor %}
         </ul>
 
         <div class="separator"></div>
