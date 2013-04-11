@@ -1,0 +1,108 @@
+{% extends 'base.html' %}
+
+{% block body_class %}homepage{% endblock %}
+
+{% block content %}
+<div>
+
+    <div class="homepage-snakes">
+        <div class="container">
+            <h1>MONTRÉAL<br />PYTHON</h1>
+            <img src="{{ STATIC_URL }}/img/home/snakes.png" alt="Snakes" class="full-width">
+        </div>
+    </div>
+
+
+    <div class="container">
+
+        <div class="row homepage-menu">
+
+            <div class="hexagon-wrapper span4 text-center">
+                <a href="#" class="hexagon blue">
+                    <span class="hexagon-bar"></span>
+                    <img src="{{ STATIC_URL }}/img/home/icon_events.png" alt="Events" width="40" height="25" />
+                </a>
+
+                <h4>Événements</h4>
+
+                <p>Toutes les activités</p>
+            </div>
+
+            <div class="hexagon-wrapper span4 text-center">
+                <a href="#" class="hexagon yellow">
+                    <span class="hexagon-bar"></span>
+                    <img src="{{ STATIC_URL }}/img/home/icon_community.png" alt="Community" width="40" height="35" />
+                </a>
+
+                <h4>Communauté</h4>
+
+                <p>Partager votre passion</p>
+            </div>
+
+            <div class="hexagon-wrapper span4 text-center">
+                <a href="#" class="hexagon red">
+                    <span class="hexagon-bar"></span>
+                    <img src="{{ STATIC_URL }}/img/home/icon_blog.png" alt="Blogue" width="29" height="21" />
+                </a>
+
+                <h4>Blogue</h4>
+
+                <p>Des articles, des vidéos...</p>
+            </div>
+        </div>
+
+        <div class="separator"></div>
+
+
+        <ul class="thumbnails">
+
+          {% for article in articles.object_list %}
+            {% if loop.index <= 3 %}
+
+            <li class="span4">
+                <div class="thumbnail">
+                    <img src="//placehold.it/279x156" alt="" />
+
+                    <div class="caption">
+                        <p class="muted">{{ article.summary }}</p>
+                        <p><a href="{{ article.url }}" rel="bookmark" title="{{ article.title }}">En savoir plus</a></p>
+                    </div>
+                </div>
+            </li>
+              {% endif %}
+            {% endfor %}
+        </ul>
+
+        <div class="separator"></div>
+
+        <div class="row">
+            <div class="span12 text-center muted">
+                <i>- Nos commanditaires -</i>
+            </div>
+
+            <div class="spacer"></div>
+
+            <div class="span12 text-center">
+                <img src="//placehold.it/200x100" alt="" />
+
+                <img src="//placehold.it/200x100" alt="" />
+
+                <img src="//placehold.it/200x100" alt="" />
+            </div>
+
+            <div class="spacer"></div>
+
+            <div class="span12 text-center">
+                <img src="//placehold.it/200x100" alt="" />
+
+                <img src="//placehold.it/200x100" alt="" />
+            </div>
+        </div>
+
+
+        <div class="spacer"></div>
+
+    </div>
+
+</div>
+{% endblock %}

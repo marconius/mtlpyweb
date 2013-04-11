@@ -1,6 +1,6 @@
 Title: Montreal Python
 Slug: home
-Lang: em
+Lang: en
 
 
 Hello world

@@ -30,6 +30,8 @@ DISPLAY_PAGES_ON_MENU = False
 DELETE_OUTPUT_DIRECTORY = True
 RELATIVE_URLS = True
 
+DIRECT_TEMPLATES = ('index', 'index_fr', 'archives', 'categories')
+
 ARTICLE_URL = ARTICLE_LANG_URL = '{lang}/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = '{lang}/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 ARTICLE_LANG_SAVE_AS = ARTICLE_SAVE_AS
@@ -37,5 +39,9 @@ ARTICLE_LANG_SAVE_AS = ARTICLE_SAVE_AS
 PAGE_URL = PAGE_LANG_URL = '{lang}/{slug}/'
 PAGE_SAVE_AS = PAGE_LANG_SAVE_AS = '{lang}/{slug}/index.html'
 
-# TEMPLATE_PAGES = {'pages/styleguide.html': 'styleguide.html',}
-# TEMPLATE_PAGES = {'pages/en/about.html': 'en/about.html',}
+INDEX_URL = 'en/'
+INDEX_FR_URL = 'fr/'
+INDEX_SAVE_AS = 'en/index.html'
+INDEX_FR_SAVE_AS = 'fr/index.html'
+
+TAG_SAVE_AS = False
