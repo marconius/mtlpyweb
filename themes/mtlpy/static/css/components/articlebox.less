@@ -1,13 +1,30 @@
+@articlebox-height: 320px;
+@articlebox-border: solid 1px lightgray;
 // Article box
 // ===================
 .articlebox {
-
-    border: solid 1px lightgray;
-    box-shadow: 1px 1px 1px lightgray;
-
-    padding: 50px 63px;
+    border: @articlebox-border;
+    .box-shadow(1px 1px 1px gray);
 
     position: relative;
+    min-height: @articlebox-height;
+
+    h1, h2, h3 {
+        margin: 0;
+    }
+
+    p {
+        margin-top: 15px;
+    }
+}
+
+// Article box body
+// ===================
+.articlebox-body {
+    padding: 50px 63px;
+
+    .box-sizing(border-box);
+    width: 60%;
 }
 
 // Date of an article
@@ -17,6 +34,7 @@
     top: 50px;
     left: -31px;
 
+    .box-sizing(border-box);
     display: table;
     width: 62px;
     height: 72px;
@@ -38,4 +56,44 @@
         font-weight: normal;
         display: block;
     }
+}
+
+// Object of the article box
+// ==================
+.articlebox-object {
+    width: 40%;
+    display: block;
+
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+
+    border-left: @articlebox-border;
+}
+
+// The avatar of the author
+// =======================
+.articlebox-object-avatar {
+    @articlebox-object-avatar-size: 81px;
+    width: @articlebox-object-avatar-size;
+    height: @articlebox-object-avatar-size;
+
+    background-color: #dddbd9;
+    border: solid 3px white;
+    border-radius: 50%;
+    display: block;
+
+    position: relative;
+    text-align: center;
+    margin: auto;
+    margin-top: @articlebox-object-avatar-size / -2;
+}
+
+// The author name
+// =====================
+.articlebox-object-author {
+    font-weight: 500;
+    text-align: center;
+    margin-top: 35px;
 }
