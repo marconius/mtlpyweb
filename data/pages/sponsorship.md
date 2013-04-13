@@ -1,4 +1,4 @@
-Title: Sponsorships
+Title: Sponsorship
 Slug: sponsorship
 Lang: en
 
