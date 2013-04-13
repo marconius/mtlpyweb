@@ -32,7 +32,7 @@ RELATIVE_URLS = True
 
 DIRECT_TEMPLATES = ('index', 'index_fr',
                     'archives', 'archives_fr',
-                    'category', 'category_fr')
+                    'categories', 'categories_fr')
 
 ARTICLE_URL = ARTICLE_LANG_URL = '{lang}/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = '{lang}/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
@@ -45,5 +45,15 @@ INDEX_URL = 'en/'
 INDEX_FR_URL = 'fr/'
 INDEX_SAVE_AS = 'en/index.html'
 INDEX_FR_SAVE_AS = 'fr/index.html'
+
+ARCHIVES_URL = 'en/blog/'
+ARCHIVES_FR_URL = 'fr/blog/'
+ARCHIVES_SAVE_AS = 'en/blog/index.html'
+ARCHIVES_FR_SAVE_AS = 'fr/blog/index.html'
+
+CATEGORIES_URL = 'en/categories/'
+CATEGORIES_FR_URL = 'fr/categories/'
+CATEGORIES_SAVE_AS = 'en/categories/index.html'
+CATEGORIES_FR_SAVE_AS = 'fr/categories/index.html'
 
 TAG_SAVE_AS = False
