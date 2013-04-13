@@ -1,6 +1,6 @@
 <dl>
   <ol>
-    {% for article in articles_page.object_list %}
+    {% for article in dates.object_list %}
     <li>
       <h1 class="title">
 	<a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title }}">{{ article.title }}</a>
@@ -12,4 +12,3 @@
   </ol>
 </dl>
 
-{% include 'inc/pagination.html' %}
