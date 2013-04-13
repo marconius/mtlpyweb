@@ -36,6 +36,8 @@ DIRECT_TEMPLATES = ('index', 'index_fr',
                     'archives', 'archives_fr',
                     'categories', 'categories_fr')
 
+TEMPLATE_PAGES = {'styleguide.html': 'styleguide.html'}
+
 ARTICLE_URL = ARTICLE_LANG_URL = '{lang}/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = '{lang}/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 ARTICLE_LANG_SAVE_AS = ARTICLE_SAVE_AS
