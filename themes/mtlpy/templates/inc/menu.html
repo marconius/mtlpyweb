@@ -17,13 +17,15 @@
 
           <span><a href="/en/archive/">Blog</a></span>
           {% set is_en = LANG == DEFAULT_LANG %}
+          {{ is_en }}
+          {{ LANG }}
+          {{ DEFAULT_LANG }}
           {% for page in pages %}
             {% if is_en %}
               <span><a href="/{{ page.url }}">{{ page.title }}</a></span>
             {% else %}
               {% set fr_p =  page.translations|first %}
               <span><a href="/{{ fr_p.url }}">{{ fr_p.title }}</a></span>
-
             {% endif %}
           {% endfor %}
 

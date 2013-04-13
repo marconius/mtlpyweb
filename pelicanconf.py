@@ -8,6 +8,8 @@ SITEURL = 'http://localhost:8888'
 
 TIMEZONE = 'America/Montreal'
 DEFAULT_LANG = 'en'
+DEFAULT_DATE_FORMAT = '%d %b %Y'
+
 LANGUAGES = ['en', 'fr']
 
 MARKUP = ('rst', 'md', 'html')
@@ -40,6 +42,11 @@ ARTICLE_LANG_SAVE_AS = ARTICLE_SAVE_AS
 
 PAGE_URL = PAGE_LANG_URL = '{lang}/{slug}/'
 PAGE_SAVE_AS = PAGE_LANG_SAVE_AS = '{lang}/{slug}/index.html'
+
+CATEGORY_URL = 'en/category/{slug}/'
+CATEGORY_LANG_URL = 'fr/category/{slug}/'
+CATEGORY_SAVE_AS = 'en/category/{slug}/index.html'
+CATEGORY_LANG_SAVE_AS = 'fr/category/{slug}/index.html'
 
 INDEX_URL = 'en/'
 INDEX_FR_URL = 'fr/'
