@@ -30,7 +30,9 @@ DISPLAY_PAGES_ON_MENU = False
 DELETE_OUTPUT_DIRECTORY = True
 RELATIVE_URLS = True
 
-DIRECT_TEMPLATES = ('index', 'index_fr', 'archives', 'categories')
+DIRECT_TEMPLATES = ('index', 'index_fr',
+                    'archives', 'archives_fr',
+                    'category', 'category_fr')
 
 ARTICLE_URL = ARTICLE_LANG_URL = '{lang}/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = '{lang}/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'

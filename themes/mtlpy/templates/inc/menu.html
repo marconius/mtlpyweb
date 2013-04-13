@@ -1,30 +1,34 @@
 
 <div id="mainmenu">
+  <nav class="container" aria-role="navigation">
+    <div class="row">
+      <div class="span3">
+        <a id="logo" href="{{ SITEURL }}" class="pull-left">
+          <img src="{{ STATIC_URL }}/img/header/logo.png" />
+        </a>
+      </div>
+      
+      <div class="mainmenu-search">
+        <a href="#" id="mainmenu-settings-link"></a>
+        <a href="#" id="mainmenu-search-link"></a>
+      </div>
+      <div class="span7">
+        <div class="mainmenu-nav">
 
-    <nav class="container" aria-role="navigation">
-        <div class="row">
-            <div class="span3">
-                <a id="logo" href="{{ SITEURL }}" class="pull-left">
-                    <img src="{{ STATIC_URL }}/img/header/logo.png" />
-                </a>
-            </div>
+          <span><a href="/en/archive/">Blog</a></span>
+          {% set is_en = LANG == DEFAULT_LANG %}
+          {% for page in pages %}
+            {% if is_en %}
+              <span><a href="/{{ page.url }}">{{ page.title }}</a></span>
+            {% else %}
+              {% set fr_p =  page.translations|first %}
+              <span><a href="/{{ fr_p.url }}">{{ fr_p.title }}</a></span>
 
-            <div class="mainmenu-search">
-                <a href="#" id="mainmenu-settings-link"></a>
-                <a href="#" id="mainmenu-search-link"></a>
-            </div>
-
-            <div class="span7">
-                <div class="mainmenu-nav">
-                  <span><a href="#">Blog</a></span>
-                  <span><a href="#">Calendrier</a></span>
-                  <span><a href="#">À Propos</a></span>
-                  <span><a href="#">Commandite</a></span>
-                </div>
-            </div>
+            {% endif %}
+          {% endfor %}
 
         </div>
-
-    </nav>
-
+      </div>
+    </div>
+  </nav>
 </div>
