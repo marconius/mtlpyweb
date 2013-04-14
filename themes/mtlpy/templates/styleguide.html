@@ -195,12 +195,12 @@
             <h2>Article box</h2>
 
             <article class="articlebox">
-                <div class="articlebox-date">
-                    <span>18<small>janv.</small></span>
-                </div>
-
                 <div class="articlebox-body">
-                    <h2>Introduction à la programmation en Python</h2>
+                    <div class="articlebox-date">
+                        <span>18<small>janv.</small></span>
+                    </div>
+
+                    <h2 class="articlebox-body-title">Introduction à la programmation en Python</h2>
 
                     <p>In hac habitasse platea dictumst. Nam pulvinar, odio sed rhoncus suscipit, sem diam ultrices mauris, eu consequat purus metus eu velit. Proin metus odio, aliquam eget molestie nec, gravida ut sapien. Phasellus quis est sed turpis sollicitudin venenatis sed eu odio. Praesent eget. (45 mots)</p>
 
@@ -210,10 +210,14 @@
                 </div>
 
                 <div class="articlebox-object">
-                    <img src="//placehold.it/348x217" class="full-width" alt="" />
-                    <img src="http://www.gravatar.com/avatar/c30d52fc203baebc552922bb9997a9fd?s=128&amp;d=identicon&amp;r=PG" alt="Author" class="articlebox-object-avatar" />
+                    <div class="articlebox-object-img">
+                        <img src="{{ STATIC_URL }}/img/components/articlebox/avatar_background_placeholder.png" alt="" />
+                    </div>
 
-                    <div class="articlebox-object-author">George Peristerakis</div>
+                    <div class="articlebox-object-author">
+                        <img src="http://www.gravatar.com/avatar/c30d52fc203baebc552922bb9997a9fd?s=128&amp;d=identicon&amp;r=PG" alt="Author" class="articlebox-object-avatar" />
+                        <span>George Peristerakis</span>
+                    </div>
                 </div>
             </article>
         </div>
