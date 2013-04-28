@@ -1,6 +1,7 @@
 Django
 
 # blog
+django-tagging
 git+git://github.com/marconius/django-blog.git
 
 # dev
