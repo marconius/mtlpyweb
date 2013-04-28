@@ -1,0 +1,7 @@
+Django
+
+# blog
+git+git://github.com/marconius/django-blog.git
+
+# dev
+South
